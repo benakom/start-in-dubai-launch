@@ -72,11 +72,19 @@ Ouvrez ensuite http://localhost:8765.
 
 ## Nom de domaine
 
-Pour servir la page sur `startindubai.com` ou un sous-domaine :
+La page est servie sur **www.startindubai.com** : le fichier `CNAME` contient ce domaine, et `startindubai.com` redirige vers `www`.
 
-1. Ajoutez un fichier `CNAME` qui contient le domaine.
-2. Chez le registrar, faites pointer le DNS vers `benakom.github.io`.
-3. Mettez à jour l'URL de `og:image` dans `index.html`.
+DNS chez GoDaddy (avec les serveurs de noms GoDaddy) :
+
+| Type | Nom | Valeur |
+|---|---|---|
+| A | @ | 185.199.108.153 |
+| A | @ | 185.199.109.153 |
+| A | @ | 185.199.110.153 |
+| A | @ | 185.199.111.153 |
+| CNAME | www | benakom.github.io |
+
+Quand le site complet (projet `startindubai`) sera prêt, il prendra le domaine. Il faudra alors retirer `CNAME` de ce dépôt.
 
 ## À vérifier
 
