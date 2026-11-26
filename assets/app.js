@@ -1,0 +1,387 @@
+/* START IN DUBAI : compte à rebours + formulaire une question à la fois. Réglages dans config.js. */
+(() => {
+  "use strict";
+  const C = window.SID_CONFIG || {};
+  const LAUNCH_ISO = C.launchDate || "2026-12-15T00:00:00+04:00";
+  const LAUNCH = new Date(LAUNCH_ISO).getTime();
+  const $ = (s, r = document) => r.querySelector(s);
+  const $$ = (s, r = document) => [...r.querySelectorAll(s)];
+  const reduce = matchMedia("(prefers-reduced-motion: reduce)").matches;
+  const store = {
+    get(k) { try { return JSON.parse(localStorage.getItem(k) || "null"); } catch { return null; } },
+    set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch { /* navigation privée */ } },
+  };
+
+  /* ---------------------------------------------------------------- compte à rebours */
+  const pad = (n) => String(n).padStart(2, "0");
+  function tick() {
+    const left = Math.max(0, LAUNCH - Date.now());
+    const s = Math.floor(left / 1000);
+    const v = { d: pad(Math.floor(s / 86400)), h: pad(Math.floor((s % 86400) / 3600)), m: pad(Math.floor((s % 3600) / 60)), s: pad(s % 60) };
+    $$("[data-cd] [data-u]").forEach((el) => {
+      const nv = v[el.dataset.u];
+      if (el.textContent === nv) return;
+      el.textContent = nv;
+      if (!reduce) { el.classList.remove("tick"); void el.offsetWidth; el.classList.add("tick"); }
+    });
+    document.documentElement.classList.toggle("launched", left === 0);
+  }
+  tick();
+  setTimeout(() => { tick(); setInterval(tick, 1000); }, 1000 - (Date.now() % 1000));
+
+  /* ---------------------------------------------------------------- accroche + images */
+  const ROT = [
+    { html: "Vous êtes <b>investisseur</b> ?", tag: "Investisseur" },
+    { html: "Vous êtes <b>entrepreneur</b> ?", tag: "Entrepreneur" },
+    { html: "Une <b>famille</b> qui veut s'installer ?", tag: "Famille" },
+  ];
+  const rotEl = $("[data-rot]"), tagEl = $("[data-tag]"), slides = $$(".slide");
+  let rot = 0;
+  setInterval(() => {
+    if (document.hidden) return;
+    rot = (rot + 1) % ROT.length;
+    slides.forEach((im, i) => im.classList.toggle("is-on", i === rot));
+    rotEl.classList.add("out"); tagEl.style.opacity = 0;
+    setTimeout(() => {
+      rotEl.innerHTML = ROT[rot].html; tagEl.textContent = ROT[rot].tag; tagEl.style.opacity = 1;
+      rotEl.classList.remove("out"); rotEl.classList.add("in"); void rotEl.offsetWidth; rotEl.classList.remove("in");
+    }, reduce ? 0 : 450);
+  }, 3800);
+
+  /* ---------------------------------------------------------------- questions */
+  const COUNTRIES = ["Maroc", "France", "Belgique", "Suisse", "Canada", "Tunisie", "Algérie", "Sénégal",
+    "Côte d'Ivoire", "Luxembourg", "Émirats arabes unis", "Autre pays"];
+  const DIAL = { "Maroc": "+212", "France": "+33", "Belgique": "+32", "Suisse": "+41", "Canada": "+1", "Tunisie": "+216",
+    "Algérie": "+213", "Sénégal": "+221", "Côte d'Ivoire": "+225", "Luxembourg": "+352", "Émirats arabes unis": "+971" };
+  const STEPS = [
+    { id: "profile", type: "single", q: "Vous êtes…", options: [
+      { v: "investir", l: "Investisseur", s: "Immobilier, Golden Visa, résidence" },
+      { v: "societe", l: "Entrepreneur", s: "Créer ou développer ma société" },
+      { v: "famille", l: "Une famille qui veut s'installer", s: "Visas, logement, écoles" },
+      { v: "plusieurs", l: "Un peu de tout", s: "Je ne sais pas encore par où commencer" } ] },
+    { id: "needs", type: "multi", q: "Qu'est-ce que vous voulez faire à Dubaï ?", help: "Plusieurs réponses possibles.", options: [
+      { v: "business", l: "Créer ou développer mon business" },
+      { v: "immobilier", l: "Investir dans l'immobilier" },
+      { v: "portefeuille", l: "Gérer mon portefeuille immobilier" },
+      { v: "residence", l: "Visa, résidence, Golden Visa" },
+      { v: "famille", l: "Logement et écoles pour la famille" },
+      { v: "banque", l: "Ouvrir un compte bancaire" } ] },
+    { id: "country", type: "single", compact: true, q: "Vous vivez actuellement…", options: COUNTRIES.map((c) => ({ v: c, l: c })) },
+    { id: "horizon", type: "single", q: "Quand pensez-vous vous lancer ?", options: [
+      "Dans les 3 prochains mois", "Dans 3 à 6 mois", "Dans 6 à 12 mois", "Je me renseigne pour plus tard"].map((h) => ({ v: h, l: h })) },
+    { id: "firstName", type: "text", q: "Votre prénom ?", ph: "Tapez votre prénom…", ac: "given-name", max: 60 },
+    { id: "phone", type: "tel", q: ["Enchanté, {firstName}. Votre numéro WhatsApp ?", "Votre numéro WhatsApp ?"],
+      help: "Nous vous écrirons ici avant l'ouverture.", ph: "+212 6 12 34 56 78", ac: "tel", max: 30 },
+    { id: "email", type: "email", q: "Et votre e-mail ?", help: "Pour recevoir l'invitation au lancement.", ph: "nom@exemple.com", ac: "email", max: 120 },
+    { id: "message", type: "textarea", optional: true, q: "Un mot sur votre projet ?",
+      help: "Facultatif. Ex. : nous sommes 4, je veux ouvrir une société de conseil et inscrire les enfants à la rentrée.", ph: "Écrivez ici…", max: 1500 },
+    { id: "consent", type: "consent", q: ["Tout est bon, {firstName} ?", "Tout est bon ?"], help: "Vérifiez vos réponses, puis envoyez." },
+  ];
+  const LABEL = {}; STEPS.forEach((s) => (s.options || []).forEach((o) => (LABEL[s.id + ":" + o.v] = o.l)));
+
+  const data = { profile: "", needs: [], country: "", horizon: "", firstName: "", phone: "", email: "", message: "", consent: false };
+  const tf = $("#tf"), stage = $(".tf-stage", tf), bar = $(".tf-progress span", tf);
+  const btnPrev = $("[data-prev]", tf), btnNext = $("[data-next]", tf);
+  let els = [], idx = 0, built = false, done = false, opener = null, honeypot;
+
+  const ARROW = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>';
+  const CHECK = '<svg class="check" viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12.5l4.5 4.5L19 7.5" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>';
+  const el = (tag, cls, txt) => { const e = document.createElement(tag); if (cls) e.className = cls; if (txt != null) e.textContent = txt; return e; };
+  const qText = (s) => {
+    const [withName, without] = Array.isArray(s.q) ? s.q : [s.q, s.q];
+    const n = data.firstName.trim().split(/\s+/)[0];
+    return n ? withName.replace("{firstName}", n) : without;
+  };
+
+  function build() {
+    STEPS.forEach((s, i) => {
+      const sec = el("section", "step"); sec.dataset.i = i;
+      const inner = el("div", "step-in"); sec.append(inner);
+      const num = el("div", "q-num"); num.innerHTML = `<span>${i + 1}</span>${ARROW}`;
+      const h = el("h2", "q"); h.id = "q-" + s.id;
+      inner.append(num, h, el("p", "q-help", s.help || ""));
+
+      if (s.type === "single" || s.type === "multi") {
+        const box = el("div", "choices" + (s.compact ? " is-compact" : ""));
+        box.setAttribute("role", s.type === "single" ? "radiogroup" : "group");
+        box.setAttribute("aria-labelledby", h.id);
+        s.options.forEach((o, k) => {
+          const b = el("button", "choice"); b.type = "button"; b.dataset.v = o.v;
+          b.setAttribute("role", s.type === "single" ? "radio" : "checkbox"); b.setAttribute("aria-checked", "false");
+          const key = el("span", "key", String.fromCharCode(65 + k));
+          const lbl = el("span", "lbl", o.l); if (o.s) lbl.append(el("small", "", o.s));
+          b.append(key, lbl); b.insertAdjacentHTML("beforeend", CHECK);
+          b.addEventListener("click", () => pick(s, b));
+          box.append(b);
+        });
+        inner.append(box);
+      } else if (s.type === "consent") {
+        inner.append(el("ul", "recap"));
+        const lab = el("label", "consent");
+        const cb = el("input"); cb.type = "checkbox"; cb.name = "consent";
+        cb.addEventListener("change", () => { data.consent = cb.checked; hideErr(); });
+        lab.append(cb, el("span", "", "J'accepte d'être recontacté(e) par START IN DUBAI au sujet de mon projet, par WhatsApp, téléphone ou e-mail."));
+        inner.append(lab);
+        honeypot = el("input"); honeypot.type = "text"; honeypot.name = "website"; honeypot.tabIndex = -1; honeypot.autocomplete = "off";
+        honeypot.setAttribute("aria-hidden", "true"); honeypot.style.cssText = "position:absolute;left:-9999px;width:1px;height:1px;opacity:0";
+        inner.append(honeypot);
+      } else {
+        const f = el("div", "field");
+        const inp = s.type === "textarea" ? el("textarea") : el("input");
+        if (s.type !== "textarea") inp.type = s.type === "text" ? "text" : s.type;
+        inp.name = s.id; inp.placeholder = s.ph || ""; inp.maxLength = s.max || 200;
+        if (s.ac) inp.autocomplete = s.ac;
+        if (s.type === "tel") inp.inputMode = "tel";
+        if (s.type === "email") { inp.inputMode = "email"; inp.autocapitalize = "off"; inp.spellcheck = false; }
+        if (s.type === "text") inp.autocapitalize = "words";
+        if (s.type === "textarea") inp.rows = 1;
+        inp.setAttribute("aria-labelledby", h.id);
+        inp.addEventListener("input", () => {
+          data[s.id] = inp.value; hideErr();
+          if (s.type === "textarea") { inp.style.height = "auto"; inp.style.height = inp.scrollHeight + "px"; }
+        });
+        f.append(inp); inner.append(f);
+      }
+
+      const act = el("div", "actions");
+      const ok = el("button", "ok", s.type === "consent" ? "Envoyer" : "OK"); ok.type = "button";
+      if (s.type !== "consent") ok.insertAdjacentHTML("beforeend", CHECK.replace('class="check" ', 'width="18" height="18" '));
+      ok.addEventListener("click", () => (s.type === "consent" ? submit() : next()));
+      const hint = el("span", "hint"); hint.innerHTML = s.type === "textarea" ? "<b>Maj + Entrée</b> pour aller à la ligne" : "appuyez sur <b>Entrée ↵</b>";
+      act.append(ok, hint);
+      inner.append(act, el("p", "err"));
+      inner.lastChild.setAttribute("role", "alert");
+      stage.append(sec); els.push(sec);
+    });
+    els.push(buildThanks());
+    built = true;
+  }
+
+  function buildThanks() {
+    const sec = el("section", "step thanks");
+    const inner = el("div", "step-in"); sec.append(inner);
+    inner.innerHTML = `
+      <h2 class="q">Merci<span data-thanks-name></span>. <em>Vous êtes sur la liste.</em></h2>
+      <p class="q-help">Nous vous écrirons sur WhatsApp avant l'ouverture du 15 décembre, pour vous présenter l'accompagnement et répondre à vos questions.</p>
+      <div class="countdown" data-cd aria-hidden="true">
+        <div class="cd-cell"><span class="cd-num" data-u="d">00</span><span class="cd-unit">jours</span></div><span class="cd-sep"></span>
+        <div class="cd-cell"><span class="cd-num" data-u="h">00</span><span class="cd-unit">heures</span></div><span class="cd-sep"></span>
+        <div class="cd-cell"><span class="cd-num" data-u="m">00</span><span class="cd-unit">minutes</span></div><span class="cd-sep"></span>
+        <div class="cd-cell"><span class="cd-num" data-u="s">00</span><span class="cd-unit">secondes</span></div>
+      </div>
+      <p class="ar" lang="ar" dir="rtl">شكرا! غادي نتواصلو معاكم قبل الافتتاح.</p>
+      <div class="actions">
+        <button type="button" class="ok" data-share>Partager avec un proche</button>
+        <button type="button" class="ok ghost" data-close-form>Fermer</button>
+      </div>`;
+    $("[data-share]", inner).addEventListener("click", share);
+    $("[data-close-form]", inner).addEventListener("click", close);
+    stage.append(sec);
+    tick();
+    return sec;
+  }
+
+  /* ---------------------------------------------------------------- navigation */
+  function show(n, instant) {
+    const old = els[idx], nw = els[n], fwd = n >= idx;
+    if (old && old !== nw) { old.classList.remove("is-on"); old.classList.toggle("is-up", fwd); }
+    nw.style.transition = "none"; nw.classList.toggle("is-up", !fwd && !instant); void nw.offsetWidth; nw.style.transition = "";
+    nw.classList.remove("is-up"); nw.classList.add("is-on");
+    idx = n;
+    const s = STEPS[n];
+    if (s) {
+      $(".q", nw).textContent = qText(s);
+      if (s.type === "tel") { const i = $("input", nw); if (!data.phone && DIAL[data.country]) { i.value = data.phone = DIAL[data.country] + " "; } }
+      if (s.type === "consent") renderRecap(nw);
+    }
+    bar.style.width = (done ? 100 : (n / STEPS.length) * 100) + "%";
+    btnPrev.disabled = n === 0; btnNext.disabled = n >= STEPS.length - 1;
+    tf.classList.toggle("is-done", n >= STEPS.length);
+    hideErr();
+    setTimeout(() => focusStep(nw, s), instant ? 30 : 380);
+  }
+  function focusStep(nw, s) {
+    if (!nw.classList.contains("is-on")) return;
+    const target = s && (s.type === "single" || s.type === "multi")
+      ? ($('.choice[aria-checked="true"]', nw) || $(".choice", nw))
+      : $("input:not([name=website]), textarea, .ok", nw);
+    if (!target) return;
+    // sur mobile, ne pas ouvrir le clavier sur une liste de choix
+    if (s && (s.type === "single" || s.type === "multi") && matchMedia("(hover: none)").matches) return;
+    target.focus({ preventScroll: true });
+    if (target.setSelectionRange && target.type !== "email") { const L = target.value.length; try { target.setSelectionRange(L, L); } catch { /* */ } }
+  }
+  function next() { if (!validate()) return; if (idx < STEPS.length - 1) show(idx + 1); }
+  function prev() { if (idx > 0 && idx < STEPS.length) show(idx - 1); }
+
+  function pick(s, b) {
+    hideErr();
+    if (s.type === "multi") {
+      const on = b.getAttribute("aria-checked") !== "true";
+      b.setAttribute("aria-checked", String(on));
+      data.needs = $$(".choice", b.parentNode).filter((x) => x.getAttribute("aria-checked") === "true").map((x) => x.dataset.v);
+      return;
+    }
+    $$(".choice", b.parentNode).forEach((x) => x.setAttribute("aria-checked", String(x === b)));
+    data[s.id] = b.dataset.v;
+    if (s.id === "country" && data.phone.trim() && /^\+\d{1,3}\s?$/.test(data.phone)) data.phone = ""; // indicatif seul : on le remplace
+    b.classList.remove("blink"); void b.offsetWidth; b.classList.add("blink");
+    const at = idx;
+    setTimeout(() => { if (idx === at) next(); }, reduce ? 150 : 420);
+  }
+
+  /* ---------------------------------------------------------------- validation */
+  function err(msg) { const e = $(".err", els[idx]); e.textContent = msg; e.classList.add("show"); }
+  function hideErr() { const e = els[idx] && $(".err", els[idx]); if (e) e.classList.remove("show"); }
+  function validate() {
+    const s = STEPS[idx]; if (!s) return true;
+    const v = typeof data[s.id] === "string" ? data[s.id].trim() : data[s.id];
+    switch (s.type) {
+      case "single": if (!v) return err("Choisissez une réponse."), false; break;
+      case "multi": if (!data.needs.length) return err("Choisissez au moins une réponse."), false; break;
+      case "text": if (v.length < 2) return err("Indiquez votre prénom."), false; break;
+      case "tel": { const d = v.replace(/\D/g, ""); if (d.length < 8 || d.length > 15) return err("Ce numéro semble incomplet. Ajoutez l'indicatif, par exemple +212 6 12 34 56 78."), false; break; }
+      case "email": if (!/^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(v)) return err("Cette adresse e-mail ne semble pas correcte."), false; break;
+      case "consent": if (!data.consent) return err("Cochez la case pour que nous puissions vous recontacter."), false; break;
+    }
+    return true;
+  }
+
+  function renderRecap(sec) {
+    const ul = $(".recap", sec); ul.textContent = "";
+    const rows = [
+      ["Profil", LABEL["profile:" + data.profile]],
+      ["Projet", data.needs.map((n) => LABEL["needs:" + n]).join(", ")],
+      ["Pays", data.country], ["Horizon", data.horizon],
+      ["Prénom", data.firstName.trim()], ["WhatsApp", data.phone.trim()], ["E-mail", data.email.trim()],
+    ];
+    rows.forEach(([k, v]) => { const li = el("li"); li.append(el("span", "", k), el("span", "", v || "—")); ul.append(li); });
+  }
+
+  /* ---------------------------------------------------------------- envoi */
+  async function send(payload) {
+    const url = (C.leadWebhookUrl || "").trim();
+    if (!url) { console.warn("[START IN DUBAI] leadWebhookUrl est vide dans config.js : cette inscription n'est envoyée nulle part.", payload); return; }
+    const body = JSON.stringify(payload);
+    let r;
+    try {
+      r = await fetch(url, { method: "POST", headers: { "Content-Type": "application/json" }, body, keepalive: true });
+    } catch (e) {
+      // le webhook n'accepte pas les requêtes d'un autre site (CORS) : on renvoie en requête simple, sans lire la réponse
+      await fetch(url, { method: "POST", mode: "no-cors", headers: { "Content-Type": "text/plain;charset=UTF-8" }, body, keepalive: true });
+      return;
+    }
+    if (!r.ok) throw new Error("HTTP " + r.status);
+  }
+
+  async function submit() {
+    if (!validate()) return;
+    const ok = $(".ok", els[idx]);
+    if (honeypot && honeypot.value) { finish(); return; }
+    const q = new URLSearchParams(location.search);
+    const payload = {
+      firstName: data.firstName.trim(), phone: data.phone.trim(), email: data.email.trim().toLowerCase(),
+      profile: data.profile, profileLabel: LABEL["profile:" + data.profile],
+      needs: data.needs, needsLabels: data.needs.map((n) => LABEL["needs:" + n]),
+      country: data.country, horizon: data.horizon, message: data.message.trim(), consent: true,
+      source: "countdown-lancement", page: location.href.split("#")[0], referrer: document.referrer || "",
+      utm: Object.fromEntries([...q.entries()].filter(([k]) => k.startsWith("utm_"))),
+      language: navigator.language || "", launchDate: LAUNCH_ISO, submittedAt: new Date().toISOString(),
+    };
+    ok.disabled = true; ok.textContent = "Envoi…";
+    try {
+      await send(payload);
+      window.gtag?.("event", "generate_lead", { lead_source: "countdown", profile: data.profile });
+      window.fbq?.("track", "Lead");
+      store.set("sid_lead_v1", { firstName: payload.firstName, at: payload.submittedAt });
+      finish();
+    } catch (e) {
+      err("L'envoi n'a pas abouti. Vérifiez votre connexion, puis réessayez.");
+    } finally { ok.disabled = false; ok.textContent = "Envoyer"; }
+  }
+
+  function finish() {
+    done = true;
+    const n = data.firstName.trim().split(/\s+/)[0];
+    $("[data-thanks-name]").textContent = n ? ", " + n : "";
+    show(STEPS.length);
+    markDone();
+  }
+  function markDone() {
+    $$("[data-open-form]").forEach((b) => { b.classList.add("is-done"); $(".btn-txt", b).textContent = "Vous êtes sur la liste ✓"; });
+  }
+
+  async function share() {
+    const url = location.href.split(/[?#]/)[0];
+    const text = "START IN DUBAI ouvre le 15 décembre : investir, entreprendre, s'installer à Dubaï, de A à Z.";
+    const btn = $("[data-share]");
+    if (navigator.share) { try { await navigator.share({ title: "START IN DUBAI", text, url }); } catch { /* annulé */ } return; }
+    try { await navigator.clipboard.writeText(url); btn.textContent = "Lien copié ✓"; } catch { prompt("Copiez le lien :", url); }
+  }
+
+  /* ---------------------------------------------------------------- ouverture / fermeture */
+  function open(e) {
+    opener = e && e.currentTarget;
+    if (!built) build();
+    tf.hidden = false; document.body.style.overflow = "hidden";
+    show(done ? STEPS.length : idx, true);
+  }
+  function close() {
+    tf.hidden = true; document.body.style.overflow = "";
+    if (opener) opener.focus({ preventScroll: true });
+  }
+  $$("[data-open-form]").forEach((b) => b.addEventListener("click", open));
+  $$("[data-close-form]").forEach((b) => b.addEventListener("click", close));
+  btnPrev.addEventListener("click", prev);
+  btnNext.addEventListener("click", next);
+  stage.addEventListener("submit", (e) => e.preventDefault());
+  // le focus d'un champ hors écran ne doit jamais décaler le formulaire
+  [tf, stage].forEach((n) => n.addEventListener("scroll", () => { n.scrollTop = 0; n.scrollLeft = 0; }));
+
+  document.addEventListener("keydown", (e) => {
+    if (tf.hidden) return;
+    const t = e.target, s = STEPS[idx];
+    if (e.key === "Escape") { e.preventDefault(); close(); return; }
+    if (e.key === "Enter") {
+      if (t.tagName === "TEXTAREA" && e.shiftKey) return;
+      if (t.classList && (t.classList.contains("ok") || t.classList.contains("tf-close") || t.closest(".tf-nav") || t.dataset.share != null)) return; // le bouton gère lui-même
+      e.preventDefault();
+      // Entrée sur un choix : on le sélectionne s'il s'agit d'un choix unique pas encore coché, sinon on passe à la suite
+      if (t.classList && t.classList.contains("choice") && s && s.type === "single" && t.getAttribute("aria-checked") !== "true") { t.click(); return; }
+      if (!s) return;
+      if (t.type === "checkbox" && !t.checked) { t.click(); return; }   // 1re Entrée : coche ; 2e Entrée : envoie
+      s.type === "consent" ? submit() : next();
+      return;
+    }
+    if (!s || e.metaKey || e.ctrlKey || e.altKey) return;
+    if ((s.type === "single" || s.type === "multi") && /^[a-z]$/i.test(e.key) && !/INPUT|TEXTAREA/.test(t.tagName)) {
+      const b = $$(".choice", els[idx])[e.key.toUpperCase().charCodeAt(0) - 65];
+      if (b) { e.preventDefault(); b.click(); b.focus({ preventScroll: true }); }
+    }
+  });
+
+  // retour sur la page après inscription
+  const saved = store.get("sid_lead_v1");
+  if (saved) { done = true; data.firstName = saved.firstName || ""; markDone(); }
+  // ouvre directement le formulaire avec #inscription (lien en bio, story…)
+  if (location.hash === "#inscription") open();
+  // finit de remplir le nom dans l'écran de remerciement quand on rouvre après une visite précédente
+  document.addEventListener("click", (e) => {
+    if (e.target.closest("[data-open-form]") && done) { const n = data.firstName.trim().split(/\s+/)[0]; const t = $("[data-thanks-name]"); if (t) t.textContent = n ? ", " + n : ""; }
+  });
+
+  $("[data-open-privacy]").addEventListener("click", () => $("#privacy").showModal());
+
+  /* ---------------------------------------------------------------- suivi facultatif */
+  if (C.ga4Id) {
+    const sc = document.createElement("script"); sc.async = true; sc.src = "https://www.googletagmanager.com/gtag/js?id=" + encodeURIComponent(C.ga4Id); document.head.append(sc);
+    window.dataLayer = window.dataLayer || []; window.gtag = function () { dataLayer.push(arguments); };
+    gtag("js", new Date()); gtag("config", C.ga4Id);
+  }
+  if (C.metaPixelId) {
+    !function (f, b, e, v, n, t, s) { if (f.fbq) return; n = f.fbq = function () { n.callMethod ? n.callMethod.apply(n, arguments) : n.queue.push(arguments); };
+      if (!f._fbq) f._fbq = n; n.push = n; n.loaded = !0; n.version = "2.0"; n.queue = []; t = b.createElement(e); t.async = !0; t.src = v;
+      s = b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t, s); }(window, document, "script", "https://connect.facebook.net/en_US/fbevents.js");
+    fbq("init", C.metaPixelId); fbq("track", "PageView");
+  }
+})();
