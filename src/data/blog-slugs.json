@@ -1,0 +1,13 @@
+{
+  "_doc": "Adresse de chaque article de blog dans chaque langue. Clé = slug français. URL : /blog/<slug>/ (fr) ou /<langue>/blog/<slug>/.",
+  "mainland-ou-free-zone-dubai": { "en": "mainland-vs-free-zone-dubai", "es": "mainland-o-zona-franca-dubai", "nl": "mainland-of-vrije-zone-dubai", "it": "mainland-o-zona-franca-dubai", "ar": "البر-الرئيسي-أم-المنطقة-الحرة-في-دبي" },
+  "cout-creation-societe-dubai": { "en": "company-setup-cost-dubai", "es": "coste-crear-empresa-dubai", "nl": "kosten-bedrijf-oprichten-dubai", "it": "costo-aprire-societa-dubai", "ar": "تكلفة-تأسيس-شركة-في-دبي" },
+  "convention-fiscale-france-emirats": { "en": "france-uae-tax-treaty", "es": "convenio-fiscal-francia-emiratos", "nl": "belastingverdrag-frankrijk-vae", "it": "convenzione-fiscale-francia-emirati", "ar": "الاتفاقية-الضريبية-بين-فرنسا-والإمارات" },
+  "dubai-ou-abu-dhabi": { "en": "dubai-or-abu-dhabi", "es": "dubai-o-abu-dhabi", "nl": "dubai-of-abu-dhabi", "it": "dubai-o-abu-dhabi", "ar": "دبي-أم-أبوظبي" },
+  "retraite-a-dubai": { "en": "retire-in-dubai", "es": "jubilarse-en-dubai", "nl": "met-pensioen-in-dubai", "it": "pensione-a-dubai", "ar": "التقاعد-في-دبي" },
+  "emirates-id": { "en": "emirates-id", "es": "emirates-id", "nl": "emirates-id", "it": "emirates-id", "ar": "الهوية-الإماراتية" },
+  "visa-teletravail-dubai": { "en": "remote-work-visa-dubai", "es": "visado-teletrabajo-dubai", "nl": "remote-work-visum-dubai", "it": "visto-lavoro-da-remoto-dubai", "ar": "تأشيرة-العمل-عن-بعد-في-دبي" },
+  "salaire-a-dubai": { "en": "salary-in-dubai", "es": "salario-en-dubai", "nl": "salaris-in-dubai", "it": "stipendio-a-dubai", "ar": "الرواتب-في-دبي" },
+  "assurance-sante-dubai": { "en": "health-insurance-dubai", "es": "seguro-medico-dubai", "nl": "zorgverzekering-dubai", "it": "assicurazione-sanitaria-dubai", "ar": "التأمين-الصحي-في-دبي" },
+  "permis-de-conduire-dubai": { "en": "driving-licence-dubai", "es": "carnet-de-conducir-dubai", "nl": "rijbewijs-dubai", "it": "patente-di-guida-dubai", "ar": "رخصة-القيادة-في-دبي" }
+}
