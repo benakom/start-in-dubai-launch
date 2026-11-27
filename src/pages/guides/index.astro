@@ -1,26 +1,4 @@
 ---
-import { getCollection } from "astro:content";
-import Base from "../../layouts/Base.astro";
-import { CLUSTERS } from "../../content.config";
-import { SITE } from "../../data/site";
-
-const all = (await getCollection("guides", (g) => !g.data.draft)).sort((a, b) => a.data.order - b.data.order);
-const groups = Object.entries(CLUSTERS).map(([k, label]) => ({ k, label, items: all.filter((g) => g.data.cluster === k) })).filter((g) => g.items.length);
-const jsonld = [{
-  "@context": "https://schema.org", "@type": "CollectionPage", name: "Guides pour s'installer à Dubaï", url: SITE.url + "/guides/", inLanguage: "fr",
-  hasPart: all.map((g) => ({ "@type": "Article", headline: g.data.h1, url: `${SITE.url}/${g.id}/` })),
-}];
+import GuidesHub from "../../components/GuidesHub.astro";
 ---
-<Base title="Guides pour s'installer, investir et vivre à Dubaï" description="Tous les guides START IN DUBAI : s'installer à Dubaï, créer sa société, visas et Golden Visa, études, famille, banque, fiscalité, avec les règles selon votre pays." path="/guides/" jsonld={jsonld} ogType="website">
-  <div class="g-wrap g-article">
-    <nav class="g-crumbs" aria-label="Fil d'Ariane"><a href="/">Accueil</a> › <span>Guides</span></nav>
-    <h1>Guides pour s'installer, investir et vivre à Dubaï</h1>
-    <p class="g-intro">Tout ce qu'il faut savoir avant de s'installer à Dubaï et aux Émirats, en français : société, visas, banque, écoles, études, fiscalité, et les règles propres à votre pays.</p>
-    {groups.map((g) => (
-      <section class="g-group">
-        <h2>{g.label}</h2>
-        <ul class="g-cards">{g.items.map((x) => <li><a href={`/${x.id}/`}><b>{x.data.h1}</b><span>{x.data.description}</span></a></li>)}</ul>
-      </section>
-    ))}
-  </div>
-</Base>
+<GuidesHub lang="fr" />

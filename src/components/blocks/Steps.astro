@@ -1,0 +1,13 @@
+---
+import type { Lang } from "../../content.config";
+import { LANDING } from "../../lib/site";
+interface Props { lang: Lang }
+const t = LANDING[Astro.props.lang];
+---
+<section class="sec" aria-labelledby="st-t">
+  <div class="wrap">
+    <p class="eyebrow center">{t.t086}</p>
+    <h2 id="st-t" class="center">{t.t087}</h2>
+    <ol class="steps">{["t088", "t089", "t090", "t091"].map((k) => <li class="rv" set:html={t[k]} />)}</ol>
+  </div>
+</section>

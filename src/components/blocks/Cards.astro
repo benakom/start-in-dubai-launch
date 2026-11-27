@@ -1,0 +1,19 @@
+---
+// Grille de cartes de guides avec illustration.
+import type { Lang } from "../../content.config";
+import { UI, CLUSTER_IMG } from "../../data/ui";
+import { guidePath, type Guide } from "../../lib/site";
+interface Props { lang: Lang; items: Guide[]; tag?: boolean }
+const { lang, items, tag = true } = Astro.props;
+const u = UI[lang];
+---
+<ul class="cards">
+  {items.map((g) => (
+    <li class="rv">
+      <a class="card" href={guidePath(g)}>
+        <span class="card-img"><img src={g.data.image || CLUSTER_IMG[g.data.cluster]} alt="" width="640" height="360" loading="lazy" />{tag && <span class="card-tag">{u.clusters[g.data.cluster]}</span>}</span>
+        <span class="card-body"><span class="card-t">{g.data.h1}</span><span class="card-d">{g.data.description}</span><span class="card-go">{u.readGuide} →</span></span>
+      </a>
+    </li>
+  ))}
+</ul>

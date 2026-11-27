@@ -1,0 +1,13 @@
+---
+// Compte à rebours de la page de lancement (animé par app.js). Libellés repris de i18n/<langue>.json.
+import type { Lang } from "../content.config";
+import { LANDING } from "../lib/site";
+interface Props { lang: Lang; variant?: "big" | "light" }
+const { lang, variant = "big" } = Astro.props;
+const t = LANDING[lang];
+---
+<div class={`countdown cd-big${variant === "light" ? " cd-light" : ""}`} data-cd aria-hidden="true">
+  {(["d", "h", "m", "s"] as const).map((u, i) => (
+    <div class="cd-cell"><span class="cd-num" data-u={u}>00</span><span class="cd-unit">{t[`t0${13 + i}`]}</span></div>
+  ))}
+</div>

@@ -1,0 +1,53 @@
+---
+// Bibliothèque des guides d'une langue (page /guides/ ou /<langue>/guides/).
+import type { Lang } from "../content.config";
+import { CLUSTER_KEYS } from "../content.config";
+import Base from "../layouts/Base.astro";
+import Hero from "./blocks/Hero.astro";
+import Stats from "./blocks/Stats.astro";
+import Cards from "./blocks/Cards.astro";
+import MidCta from "./blocks/MidCta.astro";
+import Profiles from "./blocks/Profiles.astro";
+import Steps from "./blocks/Steps.astro";
+import Founder from "./blocks/Founder.astro";
+import FinalCta from "./blocks/FinalCta.astro";
+import { UI } from "../data/ui";
+import { LANGS } from "../content.config";
+import { allGuides, langOf, guidePath, guidesPath, homePath, abs } from "../lib/site";
+interface Props { lang: Lang }
+const { lang } = Astro.props;
+const u = UI[lang];
+const all = (await allGuides()).filter((g) => langOf(g) === lang);
+const groups = CLUSTER_KEYS.map((k) => ({ k, label: u.clusters[k], items: all.filter((g) => g.data.cluster === k) })).filter((g) => g.items.length);
+const path = guidesPath(lang);
+const alts = LANGS.map((l) => ({ lang: l, href: guidesPath(l), exists: true }));
+const jsonld = [{
+  "@context": "https://schema.org", "@type": "CollectionPage", name: u.guidesTitle, description: u.guidesDesc, url: abs(path), inLanguage: lang,
+  isPartOf: { "@type": "WebSite", name: "START IN DUBAI", url: "https://www.startindubai.com/" },
+  mainEntity: { "@type": "ItemList", itemListElement: all.map((g, i) => ({ "@type": "ListItem", position: i + 1, url: abs(guidePath(g)), name: g.data.h1 })) },
+}];
+---
+<Base lang={lang} title={u.guidesTitle} description={u.guidesDesc} path={path} alternates={alts} jsonld={jsonld} ogType="website" nav="guides">
+  <Hero lang={lang} title={u.guidesTitle} intro={u.guidesIntro} pill={`${u.guidesEyebrow} · ${all.length} ${u.guidesCount}`} image="/assets/img/og.jpg"
+    crumbs={[{ href: homePath(lang), label: u.home }, { label: u.guides }]} />
+  <Stats lang={lang} />
+  <div class="wrap">
+    <nav class="lib-nav" style="margin-top:34px" aria-label={u.guides}>
+      {groups.map((g) => <a href={`#${g.k}`} style="background:var(--ink)">{g.label} · {g.items.length}</a>)}
+    </nav>
+    {groups.map((g, i) => (
+      <>
+        <section class="lib-group" id={g.k} aria-labelledby={`h-${g.k}`}>
+          <h2 id={`h-${g.k}`}>{g.label} <small>{g.items.length} {u.guidesCount}</small></h2>
+          <Cards lang={lang} items={g.items} tag={false} />
+        </section>
+        {i === 1 && <MidCta lang={lang} floating={false} />}
+      </>
+    ))}
+  </div>
+  <div style="height:64px"></div>
+  <Profiles lang={lang} />
+  <Steps lang={lang} />
+  <Founder lang={lang} />
+  <FinalCta lang={lang} />
+</Base>

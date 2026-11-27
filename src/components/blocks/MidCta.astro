@@ -1,0 +1,15 @@
+---
+// Appel à l'action rouge, placé par site.js au milieu du guide (avant le 3e intertitre).
+import type { Lang } from "../../content.config";
+import { UI } from "../../data/ui";
+import Arrow from "../Arrow.astro";
+interface Props { lang: Lang; floating?: boolean }
+const { lang, floating = true } = Astro.props;
+const u = UI[lang];
+---
+<aside class="mid" data-mid={floating ? "" : undefined} hidden={floating}>
+  <p class="eyebrow">{u.midEyebrow}</p>
+  <p class="mid-t">{u.midTitle}</p>
+  <p>{u.midText}</p>
+  <button class="btn btn-white" type="button" data-open-form><span class="btn-txt">{u.midBtn}</span><Arrow /></button>
+</aside>

@@ -1,0 +1,19 @@
+---
+import type { Lang } from "../../content.config";
+import { LANDING } from "../../lib/site";
+import Countdown from "../Countdown.astro";
+import Arrow from "../Arrow.astro";
+interface Props { lang: Lang }
+const { lang } = Astro.props;
+const t = LANDING[lang];
+---
+<section class="sec sec-dark final" aria-labelledby="fn-t">
+  <div class="wrap narrow center">
+    <h2 id="fn-t" set:html={t.t121} />
+    <Countdown lang={lang} />
+    <div class="cta center">
+      <button class="btn btn-pulse" type="button" data-open-form><span class="btn-txt">{t.t122}</span><Arrow /></button>
+      <p class="cta-note">{t.t018}</p>
+    </div>
+  </div>
+</section>

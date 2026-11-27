@@ -1,0 +1,16 @@
+---
+import type { Lang } from "../../content.config";
+import { UI } from "../../data/ui";
+interface Props { lang: Lang; items: { q: string; a: string }[] }
+const { lang, items } = Astro.props;
+const u = UI[lang];
+---
+{items.length > 0 && (
+  <section class="sec" aria-labelledby="faq">
+    <div class="wrap narrow">
+      <p class="eyebrow center">{u.faqEyebrow}</p>
+      <h2 id="faq" class="center">{u.faq}</h2>
+      <div class="faq">{items.map((f, i) => <details open={i === 0}><summary>{f.q}</summary><p>{f.a}</p></details>)}</div>
+    </div>
+  </section>
+)}

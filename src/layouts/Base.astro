@@ -1,29 +1,48 @@
 ---
-import { SITE } from "../data/site";
-interface Props { title: string; description: string; path: string; jsonld?: object[]; noindex?: boolean; ogType?: string }
-const { title, description, path, jsonld = [], noindex = false, ogType = "article" } = Astro.props;
-const url = new URL(path, SITE.url).href;
-const fullTitle = `${title} | ${SITE.name}`;
+// Mise en page commune des pages du site : même barre du haut, même formulaire et même pied de page que la page de lancement.
+import type { Lang } from "../content.config";
+import { LANGS } from "../content.config";
+import { UI, OG_LOCALE, LANG_NAMES } from "../data/ui";
+import { LANDING, FORM, PREVIEW, SITE_URL, abs, homePath, guidesPath } from "../lib/site";
+
+interface Alt { lang: Lang; href: string; exists: boolean }
+interface Props { lang: Lang; title: string; description: string; path: string; alternates: Alt[]; jsonld?: object[]; ogType?: string; image?: string; nav?: string }
+const { lang, title, description, path, alternates, jsonld = [], ogType = "article", image = "/assets/img/og.jpg", nav = "" } = Astro.props;
+const u = UI[lang], t = LANDING[lang];
+const rtl = lang === "ar";
+const url = abs(path);
+const fullTitle = `${title} | START IN DUBAI`;
+const xdef = alternates.find((a) => a.lang === "fr" && a.exists)?.href || path;
+const CD = { fr: "jhms", ar: ["ي", "س", "د", "ث"], en: "dhms", es: "dhms", nl: "dums", it: "ghms" }[lang];
+const navItems = [
+  { href: guidesPath(lang), label: u.guides, key: "guides" },
+  { href: guidesPath(lang) + "#societe", label: u.clusters.societe, key: "societe" },
+  { href: guidesPath(lang) + "#visas", label: u.clusters.visas, key: "visas" },
+  { href: guidesPath(lang) + "#etudes", label: u.clusters.etudes, key: "etudes" },
+  { href: guidesPath(lang) + "#famille", label: u.clusters.famille, key: "famille" },
+  { href: guidesPath(lang) + "#pays", label: u.clusters.pays, key: "pays" },
+];
+const fonts = "https://fonts.googleapis.com/css2?" + (rtl ? "family=Noto+Kufi+Arabic:wght@500;700;800&" : "") + "family=Montserrat:wght@700;800;900&family=Inter:wght@400;500;600;700&display=swap";
 ---
 <!doctype html>
-<html lang="fr">
+<html lang={lang} dir={rtl ? "rtl" : undefined}>
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
   <title>{fullTitle}</title>
   <meta name="description" content={description} />
+  {PREVIEW && <meta name="robots" content="noindex, nofollow" />}
   <link rel="canonical" href={url} />
-  <link rel="alternate" hreflang="fr" href={url} />
-  <link rel="alternate" hreflang="x-default" href={url} />
-  {noindex && <meta name="robots" content="noindex, follow" />}
+  {alternates.filter((a) => a.exists).map((a) => <link rel="alternate" hreflang={a.lang} href={abs(a.href)} />)}
+  <link rel="alternate" hreflang="x-default" href={abs(xdef)} />
   <meta name="theme-color" content="#0B0B0B" />
   <meta property="og:type" content={ogType} />
-  <meta property="og:site_name" content={SITE.name} />
+  <meta property="og:site_name" content="START IN DUBAI" />
   <meta property="og:title" content={title} />
   <meta property="og:description" content={description} />
   <meta property="og:url" content={url} />
-  <meta property="og:image" content={`${SITE.url}/assets/img/og.jpg`} />
-  <meta property="og:locale" content="fr_FR" />
+  <meta property="og:image" content={SITE_URL + image} />
+  <meta property="og:locale" content={OG_LOCALE[lang]} />
   <meta name="twitter:card" content="summary_large_image" />
   <link rel="icon" href="/favicon.ico" sizes="48x48" />
   <link rel="icon" type="image/png" sizes="32x32" href="/assets/img/favicon-32.png" />
@@ -31,28 +50,79 @@ const fullTitle = `${title} | ${SITE.name}`;
   <link rel="manifest" href="/site.webmanifest" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@800;900&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
-  <link rel="stylesheet" href="/assets/guide.css" />
+  <link href={fonts} rel="stylesheet" />
+  <link rel="stylesheet" href="/assets/style.css" />
+  <link rel="stylesheet" href="/assets/site.css" />
+  <script src="/config.js" is:inline></script>
   {jsonld.map((d) => <script type="application/ld+json" set:html={JSON.stringify(d)} />)}
 </head>
 <body>
-  <header class="g-top">
-    <div class="g-wrap g-top-in">
-      <a href="/" class="g-logo" aria-label="START IN DUBAI, accueil"><img src="/assets/img/logo.webp" alt="START IN DUBAI" width="900" height="576" /></a>
-      <nav class="g-nav" aria-label="Navigation">
-        <a href="/guides/">Guides</a>
-        <a class="g-btn-sm" href={SITE.signup}>Je m'inscris</a>
-      </nav>
+  <div class="hdr">
+    {PREVIEW && <p class="preview-note">{u.previewNote}</p>}
+    <div class="topbar">
+      <div class="wrap topbar-in">
+        <p class="topbar-txt" set:html={t.t006} />
+        <div class="countdown cd-mini" data-cd aria-hidden="true">
+          {(["d", "h", "m", "s"] as const).map((k, i) => <span><b data-u={k}>00</b>{CD[i]}</span>)}
+        </div>
+        <label class="lang-sw"><span class="sr">{u.language}</span><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9" fill="none" stroke="currentColor" stroke-width="1.8" /><path d="M3 12h18M12 3c3 3.2 3 14.8 0 18M12 3c-3 3.2-3 14.8 0 18" fill="none" stroke="currentColor" stroke-width="1.8" /></svg>
+          <select data-lang-nav aria-label="Langue / Language">
+            {alternates.map((a) => <option value={a.href} data-l={a.lang} selected={a.lang === lang}>{LANG_NAMES[a.lang]}</option>)}
+          </select>
+        </label>
+        <button class="topbar-btn" type="button" data-open-form><span class="btn-txt">{t.t007}</span></button>
+      </div>
     </div>
-  </header>
+    <nav class="nav" aria-label={u.menu} data-nav>
+      <div class="wrap nav-in">
+        <a class="nav-logo" href={homePath(lang)} aria-label={`START IN DUBAI, ${u.home}`}><img src="/assets/img/logo.webp?v=2" alt="START IN DUBAI" width="900" height="579" /></a>
+        <ul class="nav-links" id="nav-links">
+          {navItems.map((n) => <li><a href={n.href} aria-current={n.key === nav ? "page" : undefined}>{n.label}</a></li>)}
+        </ul>
+        <button class="btn btn-sm nav-cta" type="button" data-open-form><span class="btn-txt">{u.signup}</span></button>
+        <button class="nav-burger" type="button" aria-expanded="false" aria-controls="nav-links" data-burger><span></span><b class="sr">{u.menu}</b></button>
+      </div>
+    </nav>
+  </div>
+
   <main><slot /></main>
-  <footer class="g-foot">
-    <div class="g-wrap">
-      <img src="/assets/img/logo.webp" alt="START IN DUBAI" width="120" height="77" loading="lazy" />
-      <p>START IN DUBAI accompagne les Marocains du monde et les francophones du monde entier dans leur installation à Dubaï et aux Émirats.</p>
-      <p><a href="/guides/">Tous les guides</a> · <a href={SITE.signup}>Inscription en avant-première</a> · Immobilier : <a href="https://www.cevitas.ae">Cevitas Real Estate</a>, agence agréée RERA (ORN 49294)</p>
-      <p class="g-small">Informations générales, à jour à la date indiquée. Les règles (visas, fiscalité, licences) évoluent : elles sont vérifiées avec vous avant toute démarche et ne remplacent pas un conseil juridique ou fiscal personnalisé.</p>
+
+  <footer class="foot">
+    <div class="wrap foot-in">
+      <img src="/assets/img/logo.webp?v=2" alt="START IN DUBAI" width="120" height="77" loading="lazy" />
+      <p><a href={guidesPath(lang)}>{u.allGuides}</a>{Object.entries(u.clusters).map(([k, v]) => <> · <a href={`${guidesPath(lang)}#${k}`}>{v}</a></>)}</p>
+      <p set:html={t.t123} />
+      <p class="langs">{LANGS.map((l, i) => <>{i > 0 && " · "}<a href={alternates.find((a) => a.lang === l)?.href || homePath(l)} hreflang={l} lang={l} data-lang-link={l} aria-current={l === lang ? "page" : undefined}>{LANG_NAMES[l]}</a></>)}</p>
+      <p class="small">{u.disclaimer}</p>
     </div>
   </footer>
+
+  <div class="sticky" data-sticky>
+    <button class="btn" type="button" data-open-form><span class="btn-txt">{t.t122}</span></button>
+  </div>
+
+  <div class="tf" id="tf" role="dialog" aria-modal="true" aria-label={t.t125} hidden>
+    <div class="tf-progress"><span></span></div>
+    <header class="tf-head">
+      <img src="/assets/img/logo.webp?v=2" alt="START IN DUBAI" width="90" height="58" />
+      <button type="button" class="tf-close" data-close-form aria-label={t.t126}><svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" /></svg></button>
+    </header>
+    <form class="tf-stage" novalidate autocomplete="on"></form>
+    <nav class="tf-nav" aria-label={t.t127}>
+      <button type="button" data-prev aria-label={t.t128}><svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path d="M6 15l6-6 6 6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" /></svg></button>
+      <button type="button" data-next aria-label={t.t129}><svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path d="M6 9l6 6 6-6" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" /></svg></button>
+    </nav>
+  </div>
+
+  <dialog class="privacy" id="privacy">
+    <h2>{t.t130}</h2>
+    <p>{t.t131}</p>
+    <p>{t.t132}</p>
+    <form method="dialog"><button class="btn btn-sm">{t.t126}</button></form>
+  </dialog>
+
+  <script is:inline set:html={`window.SID_I18N=${JSON.stringify(FORM[lang])};`} />
+  <script src="/assets/app.js" is:inline></script>
+  <script src="/assets/site.js" is:inline></script>
 </body>
 </html>

@@ -1,0 +1,9 @@
+---
+import GuidesHub from "../../../components/GuidesHub.astro";
+import type { Lang } from "../../../content.config";
+export function getStaticPaths() {
+  return ["ar", "en", "es", "nl", "it"].map((lang) => ({ params: { lang } }));
+}
+const { lang } = Astro.params as { lang: Lang };
+---
+<GuidesHub lang={lang} />

@@ -1,0 +1,29 @@
+---
+// « Vous êtes… » : les 4 profils de la page de lancement (le formulaire saute la question du projet).
+import type { Lang } from "../../content.config";
+import { UI } from "../../data/ui";
+import { LANDING } from "../../lib/site";
+interface Props { lang: Lang; dark?: boolean }
+const { lang, dark = false } = Astro.props;
+const u = UI[lang], t = LANDING[lang];
+const P = [
+  { p: "investir", img: "investisseur", a: "t076", b: "t077", c: "t078" },
+  { p: "societe", img: "entrepreneur", a: "t079", b: "t080", c: "t078" },
+  { p: "famille", img: "famille", a: "t081", b: "t082", c: "t083" },
+  { p: "etudes", img: "etudiant", a: "t084", b: "t085", c: "t083" },
+];
+---
+<section class={`sec ${dark ? "sec-dark" : "sec-gray"}`} aria-labelledby="pf-t">
+  <div class="wrap">
+    <p class="eyebrow center">{u.profilesEyebrow}</p>
+    <h2 id="pf-t" class="center">{u.profilesTitle}</h2>
+    <div class="profiles">
+      {P.map((x) => (
+        <button class="profile rv" type="button" data-open-form data-profile={x.p}>
+          <img src={`/assets/img/${x.img}.webp`} alt="" width="800" height="1000" loading="lazy" />
+          <span class="p-body"><span class="p-t">{t[x.a]}</span><span class="p-d">{t[x.b]}</span><span class="p-go">{t[x.c]}</span></span>
+        </button>
+      ))}
+    </div>
+  </div>
+</section>

@@ -1,0 +1,67 @@
+// Contrôle des guides sans lancer Astro : node scripts/check-content.mjs [langue] [fichier…]
+// Vérifie le YAML, les longueurs (title ≤ 65, description 110–165), les champs obligatoires,
+// la clé `key` des traductions, le nom du fichier (= slug prévu dans src/data/slugs.json)
+// et les liens internes du texte (ils doivent pointer vers un guide existant de la même langue).
+import fs from "node:fs";
+import path from "node:path";
+import yaml from "js-yaml";
+
+const ROOT = path.resolve(path.dirname(new URL(import.meta.url).pathname), "..");
+const DIR = path.join(ROOT, "src/content/guides");
+const SLUGS = JSON.parse(fs.readFileSync(path.join(ROOT, "src/data/slugs.json"), "utf8"));
+delete SLUGS._doc;
+const LANGS = ["fr", "ar", "en", "es", "nl", "it"];
+const CLUSTERS = ["installer", "societe", "visas", "famille", "etudes", "travail", "vie", "argent", "investir", "pays"];
+
+// URL prévue de chaque guide, par langue (y compris les guides français ajoutés hors de slugs.json)
+const urls = new Set(["/", "/guides/", ...LANGS.filter((l) => l !== "fr").flatMap((l) => [`/${l}/`, `/${l}/guides/`])]);
+for (const [fr, tr] of Object.entries(SLUGS)) {
+  urls.add(`/${fr}/`);
+  for (const [l, s] of Object.entries(tr)) urls.add(`/${l}/${s}/`);
+}
+for (const l of LANGS) {
+  const d = path.join(DIR, l);
+  if (!fs.existsSync(d)) continue;
+  for (const f of fs.readdirSync(d)) if (f.endsWith(".md")) urls.add(l === "fr" ? `/${f.slice(0, -3)}/` : `/${l}/${f.slice(0, -3)}/`);
+}
+
+const [onlyLang, ...onlyFiles] = process.argv.slice(2);
+let errors = 0, files = 0;
+const err = (f, m) => { errors++; console.log(`✗ ${f} : ${m}`); };
+
+for (const l of onlyLang ? [onlyLang] : LANGS) {
+  const d = path.join(DIR, l);
+  if (!fs.existsSync(d)) continue;
+  for (const f of fs.readdirSync(d).filter((x) => x.endsWith(".md"))) {
+    if (onlyFiles.length && !onlyFiles.some((o) => f.includes(o))) continue;
+    files++;
+    const rel = `${l}/${f}`;
+    const src = fs.readFileSync(path.join(d, f), "utf8");
+    const m = src.match(/^---\n([\s\S]*?)\n---\n([\s\S]*)$/);
+    if (!m) { err(rel, "frontmatter absent ou mal fermé"); continue; }
+    let fm;
+    try { fm = yaml.load(m[1]); } catch (e) { err(rel, "YAML invalide : " + e.message.split("\n")[0]); continue; }
+    const body = m[2];
+    for (const k of ["title", "description", "h1", "keyword", "cluster", "updated", "intro"]) if (!fm[k]) err(rel, `champ manquant : ${k}`);
+    if (fm.title && [...fm.title].length > 65) err(rel, `title trop long (${[...fm.title].length} > 65)`);
+    const dl = fm.description ? [...fm.description].length : 0;
+    if (fm.description && (dl < 110 || dl > 165)) err(rel, `description : ${dl} caractères (110 à 165)`);
+    if (fm.cluster && !CLUSTERS.includes(fm.cluster)) err(rel, `cluster inconnu : ${fm.cluster}`);
+    if (!Array.isArray(fm.essentials) || fm.essentials.length < 3) err(rel, "essentials : 3 à 6 faits attendus");
+    if (!Array.isArray(fm.faq) || fm.faq.length < 3) err(rel, "faq : au moins 3 questions");
+    for (const r of fm.related || []) if (!SLUGS[r] && !fs.existsSync(path.join(DIR, "fr", r + ".md"))) err(rel, `related inconnu (doit être un slug français) : ${r}`);
+    if (l !== "fr") {
+      if (!fm.key) err(rel, "key manquant (slug du guide français)");
+      else if (SLUGS[fm.key] && SLUGS[fm.key][l] && SLUGS[fm.key][l] !== f.slice(0, -3)) err(rel, `nom de fichier attendu : ${SLUGS[fm.key][l]}.md`);
+    }
+    if (/^#\s/m.test(body)) err(rel, "un H1 (# ) dans le texte : utiliser ## et ###");
+    for (const [, href] of body.matchAll(/\]\((\/[^)\s#]*)(?:#[^)]*)?\)/g)) {
+      const u = decodeURI(href.endsWith("/") ? href : href + "/");
+      if (!urls.has(u)) err(rel, `lien interne vers une page inconnue : ${href}`);
+      else if (l === "fr" ? /^\/(ar|en|es|nl|it)\//.test(u) : !u.startsWith(`/${l}/`)) err(rel, `lien vers une autre langue : ${href}`);
+    }
+    if (/—/.test(src)) err(rel, "tiret cadratin (—) : le remplacer par deux-points, virgule ou parenthèses");
+  }
+}
+console.log(errors ? `\n${errors} problème(s) sur ${files} fichier(s)` : `OK : ${files} fichier(s) sans problème`);
+process.exit(errors ? 1 : 0);

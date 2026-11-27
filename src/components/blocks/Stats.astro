@@ -1,0 +1,9 @@
+---
+import type { Lang } from "../../content.config";
+import { UI } from "../../data/ui";
+interface Props { lang: Lang }
+const u = UI[Astro.props.lang];
+---
+<section class="stats" aria-label="START IN DUBAI">
+  <div class="wrap"><div class="stats-in">{u.stats.map(([n, l]) => <div class="stat"><b>{n}</b><span>{l}</span></div>)}</div></div>
+</section>

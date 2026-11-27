@@ -1,0 +1,12 @@
+---
+import type { Lang } from "../../content.config";
+import { UI } from "../../data/ui";
+interface Props { lang: Lang; items: string[] }
+const { lang, items } = Astro.props;
+---
+{items.length > 0 && (
+  <aside class="ess" aria-label={UI[lang].essentials}>
+    <p class="ess-t"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M13 2L4 14h7l-1 8 9-12h-7l1-8z" fill="currentColor" /></svg>{UI[lang].essentials}</p>
+    <ul>{items.map((x) => <li>{x}</li>)}</ul>
+  </aside>
+)}
