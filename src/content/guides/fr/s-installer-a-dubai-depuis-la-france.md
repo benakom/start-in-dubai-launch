@@ -154,3 +154,7 @@ Une fois installé, inscrivez-vous au registre des Français établis hors de Fr
 6. Banque française informée de votre changement de résidence, et ouverture d’un compte bancaire à Dubaï préparée.
 7. Permis de conduire original dans vos bagages pour l’échange.
 8. Après l’arrivée : visa de résidence, Emirates ID, assurance santé, puis inscription au registre consulaire.
+
+## Pour aller plus loin
+
+- [Visa Dubaï pour les Marocains : quel visa, à quel prix et comment le demander](/visa-dubai-marocains/)

@@ -158,3 +158,8 @@ Veel mensen aarzelen tussen werk zoeken en voor zichzelf beginnen. Loondienst br
 ### Van freelancer naar bedrijf
 
 Veel freelancers richten na een of twee jaar een bedrijf op, wanneer de activiteit zich bevestigt. De overstap bereidt u voor: nieuwe licentie, nieuw visum gesponsord door het bedrijf, nieuwe zakelijke bankrekening en vaak nieuwe contracten met uw klanten. Reken op enkele weken overlap om niet zonder visum te vallen tussen beide.
+
+## Verder lezen
+
+- [Een bedrijf oprichten in Dubai als Nederlander: wat anders is dan voor andere nationaliteiten](/nl/bedrijf-oprichten-dubai-als-nederlander/)
+- [Een BV verplaatsen naar Dubai: wat de Belastingdienst zegt over vestigingsplaats en emigratieheffing](/nl/bv-verplaatsen-naar-dubai/)

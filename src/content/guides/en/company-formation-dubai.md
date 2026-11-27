@@ -214,3 +214,10 @@ START IN DUBAI supports this journey from A to Z (company, bank account, visas, 
 5. Prepare passports, supporting documents and a presentation of the activity.
 6. Plan a stay in Dubai for the visa and the bank.
 7. Note the deadline for corporate tax registration.
+
+## Go further
+
+- [Qualifying free zone person: when a Dubai free zone company really pays 0% tax](/en/blog/free-zone-corporate-tax-qfzp/)
+- [Business setup in Dubai for Algerians: what to check in 2026](/en/business-setup-dubai-for-algerians/)
+- [Company setup in Dubai for French citizens: the French side of the file](/en/business-setup-dubai-for-french-citizens/)
+- [Business setup in Dubai for Moroccans: what is different for you](/en/business-setup-dubai-for-moroccans/)

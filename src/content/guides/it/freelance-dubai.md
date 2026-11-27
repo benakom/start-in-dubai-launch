@@ -158,3 +158,8 @@ Molti esitano tra cercare un impiego e mettersi in proprio. Il lavoro dipendente
 ### Passare da freelance a società
 
 Molti freelance creano una società dopo uno o due anni, quando l'attività si conferma. Il passaggio si prepara: nuova licenza, nuovo visto sponsorizzato dalla società, nuovo conto bancario professionale e, spesso, nuovi contratti con i tuoi clienti. Prevedi qualche settimana di sovrapposizione per non ritrovarti senza visto tra le due fasi.
+
+## Per approfondire
+
+- [Esterovestizione e società a Dubai: quando una società emiratina è residente in Italia](/it/esterovestizione-societa-dubai/)
+- [Partita IVA a Dubai: cosa diventa quella italiana e come lavorare per clienti italiani](/it/partita-iva-dubai/)

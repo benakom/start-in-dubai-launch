@@ -153,3 +153,10 @@ Compare written quotes from two approved agents before deciding.
 5. Choose the registry (JAFZA Offshore or RAK ICC) and an approved registered agent.
 6. Prepare the bank file: activity, contracts, origin of funds.
 7. Note the deadline for corporate tax registration in the UAE.
+
+## Go further
+
+- [Qualifying free zone person: when a Dubai free zone company really pays 0% tax](/en/blog/free-zone-corporate-tax-qfzp/)
+- [Business setup in Dubai for Algerians: what to check in 2026](/en/business-setup-dubai-for-algerians/)
+- [Company setup in Dubai for French citizens: the French side of the file](/en/business-setup-dubai-for-french-citizens/)
+- [Business setup in Dubai for Moroccans: what is different for you](/en/business-setup-dubai-for-moroccans/)

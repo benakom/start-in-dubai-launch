@@ -157,3 +157,7 @@ Esa red ayuda mucho los primeros meses, pero mantén una mirada crítica ante lo
 7. ¿He pasado unos días allí, idealmente en verano, para ver si ese ritmo me conviene?
 
 Si respondes que sí a la mayoría, tu proyecto está maduro. START IN DUBAI te acompaña después de la A a la Z, con un único interlocutor y en tu idioma (árabe, francés, inglés, español, neerlandés, italiano). El servicio está abierto: [pide un primer intercambio gratuito](/es/#inscription).
+
+## Para ir más lejos
+
+- [Vivir en Dubái siendo latino: lo que necesitas saber antes de irte](/es/vivir-en-dubai-siendo-latino/)

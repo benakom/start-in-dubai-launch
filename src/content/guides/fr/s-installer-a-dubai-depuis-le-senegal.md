@@ -182,3 +182,7 @@ La diaspora sénégalaise aux Émirats est active, notamment dans les échanges 
 7. Coordonnées de l’ambassade du Sénégal à Abou Dhabi.
 
 Pour la suite du parcours (logement, Emirates ID, écoles), lisez notre guide pour [s’installer à Dubaï](/s-installer-a-dubai/).
+
+## Pour aller plus loin
+
+- [Visa Dubaï pour les Marocains : quel visa, à quel prix et comment le demander](/visa-dubai-marocains/)

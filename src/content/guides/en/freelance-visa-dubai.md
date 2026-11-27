@@ -158,3 +158,10 @@ Many people hesitate between looking for a job and going freelance. Employment b
 ### Moving from freelance to company
 
 Many freelancers set up a company after a year or two, once the activity is confirmed. The switch needs preparing: new licence, new visa sponsored by the company, new business bank account and, often, new contracts with your customers. Allow a few weeks of overlap so you do not end up without a visa between the two.
+
+## Go further
+
+- [Qualifying free zone person: when a Dubai free zone company really pays 0% tax](/en/blog/free-zone-corporate-tax-qfzp/)
+- [Business setup in Dubai for Algerians: what to check in 2026](/en/business-setup-dubai-for-algerians/)
+- [Company setup in Dubai for French citizens: the French side of the file](/en/business-setup-dubai-for-french-citizens/)
+- [Business setup in Dubai for Moroccans: what is different for you](/en/business-setup-dubai-for-moroccans/)

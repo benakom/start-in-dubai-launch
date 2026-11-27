@@ -139,3 +139,10 @@ Cada cantón solo legaliza sus propios documentos: un acta emitida en otro cant�
 - **Legalizar un documento en el cantón equivocado.** Cada cancillería solo trata sus propios actos.
 - **Llegar sin seguro médico.** La LAMal termina con la salida, y el seguro se exige para el visado de residencia.
 - **Olvidar la cuenta bancaria en Dubái.** A menudo hace falta la Emirates ID para abrirla: prevé cómo aguantar las primeras semanas con tu cuenta suiza.
+
+## Para ir más lejos
+
+- [Mudarse a Dubái desde Argentina: visado, impuestos y dinero](/es/mudarse-a-dubai-desde-argentina/)
+- [Mudarse a Dubái desde Colombia: lo que tienes que saber](/es/mudarse-a-dubai-desde-colombia/)
+- [Mudarse a Dubái desde España: guía de trámites y de fiscalidad](/es/mudarse-a-dubai-desde-espana/)
+- [Mudarse a Dubái desde México: lo que tienes que saber](/es/mudarse-a-dubai-desde-mexico/)

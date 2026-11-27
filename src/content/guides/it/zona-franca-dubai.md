@@ -159,3 +159,8 @@ In parole povere: una società di consulenza in zona franca che fattura soprattu
 4. **Confronta il costo totale**, primo anno e rinnovo: licenza, flexi-desk o ufficio, scheda di stabilimento, visti, assicurazione sanitaria, contabilità.
 5. **Pensa alla banca.** Una zona riconosciuta e un'attività chiara facilitano l'apertura del conto, senza garantirla.
 6. **Leggi le condizioni di rinnovo**, di modifica dell'attività e di chiusura: è lì che si nascondono le brutte sorprese.
+
+## Per approfondire
+
+- [Esterovestizione e società a Dubai: quando una società emiratina è residente in Italia](/it/esterovestizione-societa-dubai/)
+- [Partita IVA a Dubai: cosa diventa quella italiana e come lavorare per clienti italiani](/it/partita-iva-dubai/)

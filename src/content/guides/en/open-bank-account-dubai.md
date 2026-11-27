@@ -180,3 +180,9 @@ A refusal is not final: another bank may accept a better-presented file. But mul
 7. In case of dispute, first make a complaint to the bank. If it does not succeed, Sanadak, the independent ombudsman created by the Central Bank, handles complaints against licensed banks and insurers free of charge.
 
 Opening an account goes hand in hand with the tax side of your move: also read our guide to [taxes in Dubai](/en/tax-in-dubai/) and our complete guide to [moving to Dubai](/en/moving-to-dubai/). START IN DUBAI supports you from A to Z (company, bank account, visas, housing, schools), with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian).
+
+## Go further
+
+- [Why a UAE bank rejects a company account: the real reasons and what to do next](/en/blog/uae-bank-account-rejected-reasons/)
+- [Business bank account in Dubai as a non-resident: what is possible and what is not](/en/business-bank-account-dubai-non-resident/)
+- [UAE tax residency certificate: who qualifies, what it costs and how to apply](/en/uae-tax-residency-certificate/)

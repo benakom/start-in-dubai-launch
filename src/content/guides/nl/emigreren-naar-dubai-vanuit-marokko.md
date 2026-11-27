@@ -188,3 +188,7 @@ Overweegt u ook een woning te kopen? Deze gids behandelt vastgoed niet: onze par
 8. Ziektekostenverzekering voor de periode vóór de verblijfsvergunning.
 
 START IN DUBAI begeleidt Marokkanen van A tot Z (bedrijf, bankrekening, visa, woning, scholen), met één aanspreekpunt, in uw eigen taal (Arabisch, Frans, Engels, Spaans, Nederlands, Italiaans). Voor de rest van het traject leest u onze algemene gids over [emigreren naar Dubai](/nl/emigreren-naar-dubai/). Lees ook de gids voor [Tunesiërs die naar Dubai willen](/nl/emigreren-naar-dubai-vanuit-tunesie/) als u de buurlanden vergelijkt.
+
+## Verder lezen
+
+- [Emigreren naar Dubai vanuit Nederland: wat u in Nederland en in Dubai moet regelen](/nl/emigreren-naar-dubai-vanuit-nederland/)

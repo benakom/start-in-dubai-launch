@@ -158,3 +158,8 @@ Au-delà du budget mensuel, l’installation elle-même coûte cher. Prévoyez u
 7. trois à six mois de dépenses courantes d’avance, pour faire face à un imprévu.
 
 Pour toutes les autres étapes de l’installation, suivez notre guide pour [s’installer à Dubaï](/s-installer-a-dubai/). START IN DUBAI peut ensuite tout coordonner avec vous, dans votre langue (arabe, français, anglais, espagnol, néerlandais, italien) : [Demandez un premier échange gratuit](/#inscription).
+
+## Pour aller plus loin
+
+- [Français à Dubaï : la communauté, le consulat et la vie sur place](/francais-a-dubai/)
+- [Lois à Dubaï : ce qui est interdit, ce qui est encadré et les règles à respecter](/lois-et-regles-a-dubai/)

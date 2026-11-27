@@ -192,3 +192,10 @@ Elk land heeft zijn eigen criteria (gezin, verblijfsduur, centrum van belangen, 
 7. **Open een lokale rekening** om uw geldstromen duidelijk te scheiden: zie onze gids om [een bankrekening te openen in Dubai](/nl/bankrekening-openen-dubai/).
 
 Voordat u begint, geeft onze gids om [naar Dubai te emigreren](/nl/emigreren-naar-dubai/) u de volgorde van de stappen, en die over het [Golden Visa](/nl/golden-visa-dubai/) helpt u uw verblijf te kiezen. START IN DUBAI begeleidt u van A tot Z (bedrijf, bankrekening, visa, woning, scholen), met één aanspreekpunt, in uw eigen taal (Arabisch, Frans, Engels, Spaans, Nederlands, Italiaans). Voor fiscale vragen die eigen zijn aan uw land van herkomst laat u uw situatie altijd valideren door een belastingadviseur uit dat land.
+
+## Verder lezen
+
+- [AOW als u naar Dubai emigreert: wat er gebeurt met uw opbouw en uitkering](/nl/aow-dubai/)
+- [Het belastingverdrag tussen Nederland en de VAE: wat staat erin?](/nl/belastingverdrag-nederland-vae/)
+- [Box 3 en Dubai: blijft u box 3 betalen als u naar Dubai emigreert?](/nl/box-3-dubai/)
+- [Uitschrijven uit Nederland als u naar Dubai emigreert: wanneer, hoe en wat er daarna verandert](/nl/uitschrijven-nederland-dubai/)

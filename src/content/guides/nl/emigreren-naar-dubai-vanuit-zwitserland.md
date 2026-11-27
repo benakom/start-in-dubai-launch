@@ -140,3 +140,7 @@ Elk kanton legaliseert alleen zijn eigen documenten: een akte die in een ander k
 - **Een document in het verkeerde kanton laten legaliseren.** Elke kanselarij behandelt alleen haar eigen akten.
 - **Zonder ziektekostenverzekering aankomen.** De KVG stopt bij vertrek en de verzekering is vereist voor het verblijfsvisum.
 - **De bankrekening in Dubai vergeten.** Vaak is de Emirates ID nodig om hem te openen: zorg dat u de eerste weken met uw Zwitserse rekening kunt rondkomen.
+
+## Verder lezen
+
+- [Emigreren naar Dubai vanuit Nederland: wat u in Nederland en in Dubai moet regelen](/nl/emigreren-naar-dubai-vanuit-nederland/)

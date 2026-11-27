@@ -155,3 +155,10 @@ Una vez instalado, inscríbete en el registro de franceses establecidos fuera de
 6. Banco francés informado de tu cambio de residencia, y apertura de una cuenta bancaria en Dubái preparada.
 7. Carnet de conducir original en el equipaje para el canje.
 8. Tras la llegada: visado de residencia, Emirates ID, seguro médico y después inscripción en el registro consular.
+
+## Para ir más lejos
+
+- [Mudarse a Dubái desde Argentina: visado, impuestos y dinero](/es/mudarse-a-dubai-desde-argentina/)
+- [Mudarse a Dubái desde Colombia: lo que tienes que saber](/es/mudarse-a-dubai-desde-colombia/)
+- [Mudarse a Dubái desde España: guía de trámites y de fiscalidad](/es/mudarse-a-dubai-desde-espana/)
+- [Mudarse a Dubái desde México: lo que tienes que saber](/es/mudarse-a-dubai-desde-mexico/)

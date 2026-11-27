@@ -139,3 +139,7 @@ Ogni cantone legalizza solo i propri documenti: un atto emesso in un altro canto
 - **Far legalizzare un documento nel cantone sbagliato.** Ogni cancelleria tratta solo i propri atti.
 - **Arrivare senza assicurazione sanitaria.** La LAMal si ferma alla partenza, e l’assicurazione è richiesta per il visto di residenza.
 - **Dimenticare il conto bancario a Dubai.** Spesso serve l’Emirates ID per aprirlo: prevedi di che reggere le prime settimane con il tuo conto svizzero.
+
+## Per approfondire
+
+- [Trasferirsi a Dubai dall'Italia: la guida per chi parte con il passaporto italiano](/it/trasferirsi-a-dubai-dall-italia/)

@@ -218,3 +218,7 @@ Votre société peut être enregistrée dans un émirat et vous pouvez vivre dan
 - Obligations fiscales réglées dans votre pays de départ
 
 START IN DUBAI réunit toutes ces étapes dans un seul parcours, avec un seul interlocuteur, dans votre langue (arabe, français, anglais, espagnol, néerlandais, italien) : société, compte bancaire, visas, logement et écoles. [Demandez un premier échange gratuit](/#inscription).
+
+## Pour aller plus loin
+
+- [Déménagement à Dubaï : envoyer ses affaires, passer la douane et venir avec ses animaux](/demenagement-dubai/)

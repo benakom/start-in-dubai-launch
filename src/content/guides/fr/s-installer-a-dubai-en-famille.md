@@ -61,6 +61,8 @@ Si vous partez de zéro, commencez par notre guide général pour [s'installer �
 
 ### Qui peut être parrainé
 
+Cette section résume l'essentiel. Les conditions membre par membre (conjoint, enfants, nouveau-né, parents), les frais et les délais sont détaillés dans notre guide du [visa famille à Dubaï](/visa-famille-dubai/).
+
 Selon le portail officiel u.ae, un résident étranger peut faire venir :
 
 - son conjoint ;

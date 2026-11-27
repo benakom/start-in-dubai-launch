@@ -180,3 +180,9 @@ Un rifiuto non è definitivo: un'altra banca può accettare un dossier presentat
 7. In caso di controversia, presenta prima un reclamo alla banca. Se non porta a nulla, Sanadak, il mediatore indipendente creato dalla Banca centrale, tratta gratuitamente i reclami contro le banche e le assicurazioni autorizzate.
 
 Aprire un conto va di pari passo con la fiscalità del tuo trasferimento: leggi anche la nostra guida sulle [tasse a Dubai](/it/tasse-dubai/) e la nostra guida completa per [trasferirsi a Dubai](/it/trasferirsi-a-dubai/). START IN DUBAI ti accompagna dall'inizio alla fine (società, conto bancario, visti, casa, scuole), con un solo interlocutore, nella tua lingua (arabo, francese, inglese, spagnolo, olandese, italiano).
+
+## Per approfondire
+
+- [Convenzione Italia-Emirati contro le doppie imposizioni: cosa dice il testo ufficiale](/it/convenzione-italia-emirati/)
+- [Pensione INPS all'estero a Dubai: pagamento, esistenza in vita e tasse](/it/pensione-inps-estero-dubai/)
+- [Residenza fiscale tra Italia ed Emirati: quando sei ancora residente in Italia](/it/residenza-fiscale-italia-emirati/)

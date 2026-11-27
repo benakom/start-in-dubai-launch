@@ -159,3 +159,8 @@ Kortom: een adviesbedrijf in een vrije zone dat vooral klanten op het mainland f
 4. **Vergelijk de totale kosten**, eerste jaar en verlenging: licentie, flexi-desk of kantoor, vestigingskaart, visa, zorgverzekering, boekhouding.
 5. **Denk aan de bank.** Een erkende zone en een heldere activiteit vergemakkelijken het openen van de rekening, zonder dat te garanderen.
 6. **Lees de voorwaarden voor verlenging**, wijziging van de activiteit en sluiting: daar zitten de slechte verrassingen.
+
+## Verder lezen
+
+- [Een bedrijf oprichten in Dubai als Nederlander: wat anders is dan voor andere nationaliteiten](/nl/bedrijf-oprichten-dubai-als-nederlander/)
+- [Een BV verplaatsen naar Dubai: wat de Belastingdienst zegt over vestigingsplaats en emigratieheffing](/nl/bv-verplaatsen-naar-dubai/)

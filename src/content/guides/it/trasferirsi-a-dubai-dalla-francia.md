@@ -155,3 +155,7 @@ Una volta stabilito, iscriviti al registro dei francesi residenti fuori dalla Fr
 6. Banca francese informata del cambio di residenza, e apertura di un conto bancario a Dubai preparata.
 7. Patente originale nel bagaglio per la conversione.
 8. Dopo l’arrivo: visto di residenza, Emirates ID, assicurazione sanitaria, poi iscrizione al registro consolare.
+
+## Per approfondire
+
+- [Trasferirsi a Dubai dall'Italia: la guida per chi parte con il passaporto italiano](/it/trasferirsi-a-dubai-dall-italia/)

@@ -155,3 +155,7 @@ After the baccalauréat, pupils from Dubai's French lycées can continue in Fran
 - [ ] Budget for the application fee and the confirmation deposit
 - [ ] Choose housing according to the chosen school (see [moving to Dubai](/en/moving-to-dubai/))
 - [ ] Finalise KHDA registration as soon as the child's Emirates ID is available
+
+## Go further
+
+- [Sponsor your parents in Dubai: which visa routes exist and what is confirmed](/en/sponsor-parents-dubai-visa/)

@@ -183,3 +183,10 @@ La diáspora senegalesa en los Emiratos es activa, sobre todo en los intercambio
 7. Datos de contacto de la embajada de Senegal en Abu Dabi.
 
 Para el resto del recorrido (vivienda, Emirates ID, colegios), lee nuestra guía para [mudarte a Dubái](/es/mudarse-a-dubai/).
+
+## Para ir más lejos
+
+- [Mudarse a Dubái desde Argentina: visado, impuestos y dinero](/es/mudarse-a-dubai-desde-argentina/)
+- [Mudarse a Dubái desde Colombia: lo que tienes que saber](/es/mudarse-a-dubai-desde-colombia/)
+- [Mudarse a Dubái desde España: guía de trámites y de fiscalidad](/es/mudarse-a-dubai-desde-espana/)
+- [Mudarse a Dubái desde México: lo que tienes que saber](/es/mudarse-a-dubai-desde-mexico/)

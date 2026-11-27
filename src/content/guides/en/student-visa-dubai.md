@@ -202,3 +202,8 @@ According to u.ae, the family members of a foreign student enrolled at a univers
 - [ ] Medical test, fingerprints, Emirates ID on arrival
 - [ ] Health insurance valid all year
 - [ ] Reminder a month before expiry for the renewal
+
+## Go further
+
+- [Cheapest universities in Dubai: how to compare real costs, not marketing prices](/en/cheapest-universities-dubai/)
+- [Studying in Dubai from Africa: what to prepare, what it costs and what to check](/en/study-in-dubai-from-africa/)

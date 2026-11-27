@@ -157,3 +157,9 @@ Beaucoup de francophones hésitent entre chercher un emploi et se lancer à leur
 ### Passer de freelance à société
 
 Beaucoup de freelances créent une société après un ou deux ans, quand l’activité se confirme. Le passage se prépare : nouvelle licence, nouveau visa parrainé par la société, nouveau compte bancaire professionnel et, souvent, nouveaux contrats avec vos clients. Prévoyez quelques semaines de chevauchement pour ne pas vous retrouver sans visa entre les deux.
+
+## Pour aller plus loin
+
+- [Licence commerciale à Dubaï : choisir, obtenir et renouveler sa trade license](/licence-commerciale-dubai/)
+- [Quelle est la meilleure free zone de Dubaï pour votre activité ?](/meilleures-free-zones-dubai/)
+- [Société mainland à Dubaï : comment créer une LLC en droit local](/societe-mainland-dubai/)

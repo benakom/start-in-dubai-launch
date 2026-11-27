@@ -87,7 +87,7 @@ The ICP provides three routes, to choose from:
 - a project approved by an accredited incubator, the Ministry of Economy or a competent local authority;
 - having founded one or more companies that were sold for at least **7 million dirhams** in total.
 
-In Dubai, the GDRFA also requires a nomination by the Dubai Future Foundation. If your project involves setting up a company, read our guide to [company formation in Dubai](/en/company-formation-dubai/) first.
+In Dubai, the GDRFA also requires a nomination by the Dubai Future Foundation. If your project involves setting up a company, read our guide to [company formation in Dubai](/en/company-formation-dubai/) first. The three routes, the nomination and the fees are detailed in our page on the [Golden Visa for entrepreneurs](/en/golden-visa-dubai-entrepreneurs/).
 
 ### Skilled employees: the salary condition
 
@@ -99,7 +99,7 @@ An employee can obtain the Golden Visa without investing, if they meet all of th
 - a monthly salary of at least **30,000 AED** (a condition also stated on the official Abu Dhabi portal);
 - full health insurance.
 
-The point that causes the most refusals is the nature of the salary counted. The official pages speak of a monthly salary of at least 30,000 AED without specifying whether it means the basic salary; since 2024, the Emirati press has reported that only the basic salary, excluding allowances, is taken into account. Have it confirmed by the ICP or the GDRFA before applying.
+The point that causes the most refusals is the nature of the salary counted. The official pages speak of a monthly salary of at least 30,000 AED without specifying whether it means the basic salary; since 2024, the Emirati press has reported that only the basic salary, excluding allowances, is taken into account. Have it confirmed by the ICP or the GDRFA before applying. Documents, MOHRE levels and the Green Visa alternative are covered in our page on the [Golden Visa for professionals and employees](/en/golden-visa-dubai-employees/).
 
 ### Talents, scientists, creatives and athletes
 
@@ -131,7 +131,7 @@ Humanitarian pioneers (at least five years in an international, regional or non-
 | Death of the holder | The family can stay until their permits expire |
 | Application from abroad | 6-month multiple-entry visa, renewable once |
 
-The family benefit is often decisive. With a standard visa, sons can in principle only be sponsored up to age 25; with the Golden Visa, the ICP states that children can be sponsored regardless of age. To organise life on the ground (schools, housing, insurance), see our guide to [moving to Dubai with your family](/en/moving-to-dubai-with-family/).
+The family benefit is often decisive. With a standard visa, sons can in principle only be sponsored up to age 25; with the Golden Visa, the ICP states that children can be sponsored regardless of age. To organise life on the ground (schools, housing, insurance), see our guide to [moving to Dubai with your family](/en/moving-to-dubai-with-family/), and [sponsoring parents in Dubai](/en/sponsor-parents-dubai-visa/) for what is confirmed about parents.
 
 ## Golden Visa Dubai: official prices and fees
 
@@ -168,7 +168,7 @@ Once your Golden Visa is issued, you can sponsor your spouse, children and paren
 ## Common misconceptions about the Golden Visa
 
 - **"The Golden Visa is citizenship."** No, it is a residence permit. It does not give an Emirati passport.
-- **"You have to buy a property."** No. Highly skilled employees, entrepreneurs, talents and outstanding students have access to it without property.
+- **"You have to buy a property."** No. Highly skilled employees, entrepreneurs, talents and outstanding students have access to it without property: see [Golden Visa Dubai without property](/en/golden-visa-dubai-without-property/) for every route.
 - **"It is for life."** No. It lasts 5 or 10 years depending on the category and is renewed if the conditions are still met. If you resell the property that justified it, you lose the basis of your visa.
 - **"With the Golden Visa, I no longer pay tax in my home country."** No. The visa settles the right to reside, not tax residence. Your home country may continue to treat you as a tax resident. Read our guide to [taxes in Dubai](/en/tax-in-dubai/).
 - **"A 2-year property owner visa is the same thing."** No. The property owner residence visa (2 years) has different conditions and benefits, without the family advantages and the flexibility of the Golden Visa.

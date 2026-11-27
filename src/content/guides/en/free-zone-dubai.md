@@ -159,3 +159,10 @@ In plain terms: a consulting company in a free zone that mainly invoices mainlan
 4. **Compare the total cost**, first year and renewal: licence, flexi-desk or office, establishment card, visas, health insurance, accounting.
 5. **Think about the bank.** A recognised zone and a clear activity make opening the account easier, without guaranteeing it.
 6. **Read the conditions for renewal**, change of activity and closure: this is where bad surprises hide.
+
+## Go further
+
+- [Qualifying free zone person: when a Dubai free zone company really pays 0% tax](/en/blog/free-zone-corporate-tax-qfzp/)
+- [Business setup in Dubai for Algerians: what to check in 2026](/en/business-setup-dubai-for-algerians/)
+- [Company setup in Dubai for French citizens: the French side of the file](/en/business-setup-dubai-for-french-citizens/)
+- [Business setup in Dubai for Moroccans: what is different for you](/en/business-setup-dubai-for-moroccans/)

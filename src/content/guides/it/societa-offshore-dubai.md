@@ -153,3 +153,8 @@ Confronta preventivi scritti di due agenti autorizzati prima di decidere.
 5. Scegliere il registro (JAFZA Offshore o RAK ICC) e un agente registrato autorizzato.
 6. Preparare il dossier bancario: attività, contratti, origine dei fondi.
 7. Annotare la scadenza per la registrazione all'imposta sulle società negli Emirati.
+
+## Per approfondire
+
+- [Esterovestizione e società a Dubai: quando una società emiratina è residente in Italia](/it/esterovestizione-societa-dubai/)
+- [Partita IVA a Dubai: cosa diventa quella italiana e come lavorare per clienti italiani](/it/partita-iva-dubai/)

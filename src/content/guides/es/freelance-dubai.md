@@ -158,3 +158,9 @@ Muchas personas dudan entre buscar un empleo y lanzarse por su cuenta. El empleo
 ### Pasar de freelance a empresa
 
 Muchos freelances crean una empresa tras uno o dos años, cuando la actividad se confirma. El paso se prepara: nueva licencia, nuevo visado patrocinado por la empresa, nueva cuenta bancaria profesional y, a menudo, nuevos contratos con tus clientes. Prevé unas semanas de solapamiento para no quedarte sin visado entre una etapa y otra.
+
+## Para ir más lejos
+
+- [Crear una empresa en Dubái desde Latinoamérica: lo que cambia para ti](/es/crear-empresa-en-dubai-desde-latinoamerica/)
+- [Crear una empresa en Dubái siendo español: guía paso a paso](/es/crear-empresa-en-dubai-siendo-espanol/)
+- [Tener una empresa en Dubái siendo residente en España: lo que dice la ley](/es/empresa-en-dubai-residente-en-espana/)

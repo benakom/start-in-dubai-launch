@@ -179,3 +179,7 @@ Gli algerini residenti negli Emirati frequentano le comunità marocchina, tunisi
 8. Registrazione presso la rappresentanza algerina designata per gli Emirati.
 
 Per il percorso completo, dalla ricerca dell’alloggio all’Emirates ID, leggi la nostra guida per [trasferirsi a Dubai](/it/trasferirsi-a-dubai/).
+
+## Per approfondire
+
+- [Trasferirsi a Dubai dall'Italia: la guida per chi parte con il passaporto italiano](/it/trasferirsi-a-dubai-dall-italia/)

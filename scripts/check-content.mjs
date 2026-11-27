@@ -81,6 +81,7 @@ for (const l of onlyLang ? [onlyLang] : LANGS) {
       else if (l === "fr" ? /^\/(ar|en|es|nl|it)\//.test(u) : !u.startsWith(`/${l}/`)) err(rel, `lien vers une autre langue : ${href}`);
     }
     if (/—/.test(src)) err(rel, "tiret cadratin (—) : le remplacer par deux-points, virgule ou parenthèses");
+    for (const [a] of body.matchAll(/#inscri[a-z]*/g)) if (a !== "#inscription") err(rel, `ancre du formulaire incorrecte : ${a} (attendu #inscription)`);
   }
 }
 console.log(errors ? `\n${errors} problème(s) sur ${files} fichier(s)` : `OK : ${files} fichier(s) sans problème`);

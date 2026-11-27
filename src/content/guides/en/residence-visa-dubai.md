@@ -165,3 +165,9 @@ If your visa was cancelled this way, a procedure lets you apply for a return per
 - **Confusing residence and tax residence:** having a visa is not enough to stop being taxed in your country. Read our guide to [taxes in Dubai](/en/tax-in-dubai/).
 
 START IN DUBAI supports you from A to Z (company, bank account, visas, housing, schools), with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian).
+
+## Go further
+
+- [Golden Visa Dubai for professionals and employees: salary, MOHRE level and documents](/en/golden-visa-dubai-employees/)
+- [Golden Visa Dubai for entrepreneurs: the three routes, the nomination and the steps](/en/golden-visa-dubai-entrepreneurs/)
+- [Golden Visa Dubai without property: the routes that do not require buying real estate](/en/golden-visa-dubai-without-property/)

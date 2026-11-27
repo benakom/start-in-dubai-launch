@@ -157,3 +157,8 @@ Ce réseau aide beaucoup les premiers mois, mais gardez un œil critique sur les
 7. Ai-je passé quelques jours sur place, idéalement en été, pour voir si ce rythme me convient ?
 
 Si vous répondez oui à la plupart de ces questions, votre projet est mûr. START IN DUBAI vous accompagne ensuite de A à Z, avec un seul interlocuteur, dans votre langue (arabe, français, anglais, espagnol, néerlandais, italien). [Demandez un premier échange gratuit](/#inscription).
+
+## Pour aller plus loin
+
+- [Français à Dubaï : la communauté, le consulat et la vie sur place](/francais-a-dubai/)
+- [Lois à Dubaï : ce qui est interdit, ce qui est encadré et les règles à respecter](/lois-et-regles-a-dubai/)

@@ -213,3 +213,9 @@ START IN DUBAI accompagne ce parcours de A à Z (société, compte bancaire, vis
 5. Préparer passeports, justificatifs et présentation de l’activité.
 6. Planifier un séjour à Dubaï pour le visa et la banque.
 7. Noter la date limite d’enregistrement à l’impôt sur les sociétés.
+
+## Pour aller plus loin
+
+- [Licence commerciale à Dubaï : choisir, obtenir et renouveler sa trade license](/licence-commerciale-dubai/)
+- [Quelle est la meilleure free zone de Dubaï pour votre activité ?](/meilleures-free-zones-dubai/)
+- [Société mainland à Dubaï : comment créer une LLC en droit local](/societe-mainland-dubai/)

@@ -129,3 +129,10 @@ La SSOM no sustituye el seguro médico local exigido para el visado de residenci
 5. Decisión sobre la SSOM e información a tu mutualidad.
 6. Declaración de salida en el municipio como máximo el día anterior a la salida, y modelo 8 en el bolsillo.
 7. Tras la llegada: visado de residencia, Emirates ID, seguro médico, cuenta bancaria en Dubái, inscripción eConsul en la embajada de Abu Dabi y después canje del carnet de conducir.
+
+## Para ir más lejos
+
+- [Mudarse a Dubái desde Argentina: visado, impuestos y dinero](/es/mudarse-a-dubai-desde-argentina/)
+- [Mudarse a Dubái desde Colombia: lo que tienes que saber](/es/mudarse-a-dubai-desde-colombia/)
+- [Mudarse a Dubái desde España: guía de trámites y de fiscalidad](/es/mudarse-a-dubai-desde-espana/)
+- [Mudarse a Dubái desde México: lo que tienes que saber](/es/mudarse-a-dubai-desde-mexico/)

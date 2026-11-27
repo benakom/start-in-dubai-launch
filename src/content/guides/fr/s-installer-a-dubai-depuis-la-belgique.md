@@ -128,3 +128,7 @@ La SSOM ne remplace pas l’assurance santé locale exigée pour le visa de rés
 5. Décision sur la SSOM et information de votre mutualité.
 6. Déclaration de départ à la commune au plus tard la veille du départ, et modèle 8 en poche.
 7. Après l’arrivée : visa de résidence, Emirates ID, assurance santé, compte bancaire à Dubaï, inscription eConsul à l’ambassade d’Abu Dhabi, puis échange du permis.
+
+## Pour aller plus loin
+
+- [Visa Dubaï pour les Marocains : quel visa, à quel prix et comment le demander](/visa-dubai-marocains/)

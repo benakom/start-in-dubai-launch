@@ -3,7 +3,7 @@ title: "Accompagnement création société Dubaï : licence, visa, banque"
 description: "Accompagnement création société Dubaï : choix mainland, zone franche, offshore ou freelance, licence, visas, compte bancaire et impôts. Un seul interlocuteur."
 h1: "Accompagnement à la création de société à Dubaï, de la licence au compte bancaire"
 keyword: "accompagnement création société dubai"
-secondary: ["cabinet création société dubai", "aide création entreprise dubai", "créer sa société à dubai avec accompagnement", "domiciliation société dubai", "licence commerciale dubai"]
+secondary: ["cabinet création société dubai", "aide création entreprise dubai", "créer sa société à dubai avec accompagnement", "domiciliation société dubai"]
 intro: "Nous vous accompagnons dans la création de votre société à Dubaï, du choix de la structure jusqu’au compte bancaire et au visa de résidence. Vous avez un seul interlocuteur, qui parle votre langue et coordonne chaque étape dans le bon ordre. Vous évitez ainsi les mauvais choix de juridiction et les dossiers bancaires refusés, les deux erreurs qui coûtent le plus de temps."
 essentials:
   - "Analyse de votre activité et choix de la structure : mainland, zone franche, offshore ou licence freelance."
@@ -72,7 +72,7 @@ Le choix entre mainland, zone franche, offshore et licence freelance conditionne
 
 ### La licence, de la demande à l’obtention
 
-Nous préparons votre dossier (activités, nom commercial, associés, gérant), le déposons auprès de l’autorité compétente et suivons chaque échange jusqu’à la délivrance de la licence. Si votre licence demande un local, nous vous guidons vers la bonne solution : flexi-desk en zone franche ou bail enregistré Ejari sur le mainland.
+Nous préparons votre dossier (activités, nom commercial, associés, gérant), le déposons auprès de l’autorité compétente et suivons chaque échange jusqu’à la délivrance de la licence. Si votre licence demande un local, nous vous guidons vers la bonne solution : flexi-desk en zone franche ou bail enregistré Ejari sur le mainland. Pour comprendre les types de licences, leur coût et leur renouvellement, lisez notre guide de la [licence commerciale à Dubaï](/licence-commerciale-dubai/).
 
 ### Les visas et la suite
 

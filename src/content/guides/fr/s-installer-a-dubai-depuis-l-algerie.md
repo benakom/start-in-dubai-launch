@@ -178,3 +178,7 @@ Les Algériens installés aux Émirats côtoient les communautés marocaine, tun
 8. Inscription auprès de la représentation algérienne désignée pour les Émirats.
 
 Pour le parcours complet, de la recherche de logement à l’Emirates ID, lisez notre guide pour [s’installer à Dubaï](/s-installer-a-dubai/).
+
+## Pour aller plus loin
+
+- [Visa Dubaï pour les Marocains : quel visa, à quel prix et comment le demander](/visa-dubai-marocains/)

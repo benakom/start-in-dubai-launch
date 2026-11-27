@@ -159,3 +159,7 @@ Más allá del presupuesto mensual, la propia instalación sale cara. Reserva di
 7. de tres a seis meses de gastos corrientes por adelantado, para afrontar cualquier imprevisto.
 
 Para el resto de pasos de la instalación, sigue nuestra guía para [mudarse a Dubái](/es/mudarse-a-dubai/). START IN DUBAI puede coordinarlo todo contigo en tu idioma (árabe, francés, inglés, español, neerlandés, italiano). [Pide un primer intercambio gratuito](/es/#inscription).
+
+## Para ir más lejos
+
+- [Vivir en Dubái siendo latino: lo que necesitas saber antes de irte](/es/vivir-en-dubai-siendo-latino/)

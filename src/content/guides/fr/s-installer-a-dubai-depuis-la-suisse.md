@@ -138,3 +138,7 @@ Chaque canton ne légalise que ses propres documents : un acte émis dans un aut
 - **Faire légaliser un document dans le mauvais canton.** Chaque chancellerie ne traite que ses propres actes.
 - **Arriver sans assurance santé.** La LAMal s’arrête au départ, et l’assurance est exigée pour le visa de résidence.
 - **Oublier le compte bancaire à Dubaï.** Il faut souvent l’Emirates ID pour l’ouvrir : prévoyez de quoi tenir les premières semaines avec votre compte suisse.
+
+## Pour aller plus loin
+
+- [Visa Dubaï pour les Marocains : quel visa, à quel prix et comment le demander](/visa-dubai-marocains/)

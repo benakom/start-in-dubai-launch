@@ -188,3 +188,7 @@ Se pensi anche di acquistare casa, questa guida non tratta di immobiliare: se ne
 8. Assicurazione sanitaria per il periodo prima della residenza.
 
 START IN DUBAI accompagna i marocchini dalla A alla Z (società, conto bancario, visti, alloggio, scuole), con un unico interlocutore, nella tua lingua (arabo, francese, inglese, spagnolo, olandese, italiano). Per il resto del percorso, leggi la nostra guida generale per [trasferirsi a Dubai](/it/trasferirsi-a-dubai/).
+
+## Per approfondire
+
+- [Trasferirsi a Dubai dall'Italia: la guida per chi parte con il passaporto italiano](/it/trasferirsi-a-dubai-dall-italia/)

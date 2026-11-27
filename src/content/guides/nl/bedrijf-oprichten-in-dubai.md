@@ -214,3 +214,8 @@ START IN DUBAI begeleidt dit traject van A tot Z (bedrijf, bankrekening, visa, w
 5. Bereid paspoorten, bewijsstukken en de presentatie van de activiteit voor.
 6. Plan een verblijf in Dubai voor het visum en de bank.
 7. Noteer de uiterste datum voor registratie voor de vennootschapsbelasting.
+
+## Verder lezen
+
+- [Een bedrijf oprichten in Dubai als Nederlander: wat anders is dan voor andere nationaliteiten](/nl/bedrijf-oprichten-dubai-als-nederlander/)
+- [Een BV verplaatsen naar Dubai: wat de Belastingdienst zegt over vestigingsplaats en emigratieheffing](/nl/bv-verplaatsen-naar-dubai/)

@@ -130,3 +130,7 @@ De OSZ vervangt de lokale ziektekostenverzekering niet die voor het verblijfsvis
 5. Beslissing over de OSZ en uw ziekenfonds op de hoogte brengen.
 6. Vertrekaangifte bij de gemeente uiterlijk de dag vóór vertrek, en model 8 op zak.
 7. Na aankomst: verblijfsvisum, Emirates ID, ziektekostenverzekering, bankrekening in Dubai, inschrijving via eConsul bij de ambassade in Abu Dhabi en daarna inwisseling van het rijbewijs.
+
+## Verder lezen
+
+- [Emigreren naar Dubai vanuit Nederland: wat u in Nederland en in Dubai moet regelen](/nl/emigreren-naar-dubai-vanuit-nederland/)

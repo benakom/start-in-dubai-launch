@@ -189,3 +189,7 @@ La comunità tunisina è presente a Dubai come ad Abu Dhabi, e il consolato gene
 7. Registrazione al consolato generale di Tunisia a Dubai subito dopo l’arrivo.
 
 Per il seguito (alloggio, Emirates ID, scuole), leggi la nostra guida per [trasferirsi a Dubai](/it/trasferirsi-a-dubai/).
+
+## Per approfondire
+
+- [Trasferirsi a Dubai dall'Italia: la guida per chi parte con il passaporto italiano](/it/trasferirsi-a-dubai-dall-italia/)

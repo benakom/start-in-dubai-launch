@@ -3,7 +3,7 @@ title: "Tasse a Dubai: reddito, società al 9%, IVA e residenza fiscale"
 description: "Tasse a Dubai: nessuna imposta sul reddito delle persone, imposta sulle società al 9%, IVA al 5%, residenza fiscale e regole del tuo paese d'origine."
 h1: "Tasse a Dubai: cosa pagano davvero i privati e le società"
 keyword: "tasse dubai"
-secondary: ["imposte dubai", "tassazione dubai", "iva dubai", "imposta sulle società dubai", "residenza fiscale dubai"]
+secondary: ["imposte dubai", "tassazione dubai", "iva dubai", "imposta sulle società dubai"]
 cluster: argent
 updated: 2026-11-27
 intro: "A Dubai i privati non pagano imposta sul reddito: né sullo stipendio, né sulle plusvalenze dei loro investimenti personali. Le società pagano un'imposta del 9% sulla quota di utile oltre 375.000 AED, con un regime allo 0% per certe società di zona franca, e l'IVA è del 5%. Ma il tuo paese d'origine può continuare a tassarti finché ne resti residente fiscale: è il punto da sistemare prima di partire."
@@ -179,7 +179,7 @@ Questi criteri si valutano per ogni membro del nucleo. Se il tuo coniuge e i tuo
 
 ### Gli altri paesi
 
-Ogni paese ha i propri criteri (famiglia, durata di soggiorno, centro degli interessi, cittadinanza). Alcuni tassano anche le plusvalenze al momento della partenza, come il Canada con la sua « cessione presunta ». Che tu parta dall'Italia, dal Marocco, dal Belgio, dalla Svizzera, dal Canada o da altrove, informati presso l'amministrazione fiscale del tuo paese prima della partenza, e dichiara il tuo cambio di indirizzo.
+Ogni paese ha i propri criteri (famiglia, durata di soggiorno, centro degli interessi, cittadinanza). Alcuni tassano anche le plusvalenze al momento della partenza, come il Canada con la sua « cessione presunta ». Che tu parta dall'Italia, dal Marocco, dal Belgio, dalla Svizzera, dal Canada o da altrove, informati presso l'amministrazione fiscale del tuo paese prima della partenza, e dichiara il tuo cambio di indirizzo. Se parti dall'Italia, i criteri dell'Agenzia delle Entrate (articolo 2 del TUIR, AIRE, elenco del decreto del 1999) sono spiegati nella guida sulla [residenza fiscale Italia-Emirati](/it/residenza-fiscale-italia-emirati/), e il testo della convenzione nella guida alla [convenzione Italia-Emirati](/it/convenzione-italia-emirati/).
 
 ## Checklist fiscale prima di trasferirti a Dubai
 
@@ -192,3 +192,7 @@ Ogni paese ha i propri criteri (famiglia, durata di soggiorno, centro degli inte
 7. **Apri un conto locale** per separare chiaramente i tuoi flussi: vedi la nostra guida per [aprire un conto bancario a Dubai](/it/aprire-conto-bancario-dubai/).
 
 Prima di lanciarti, la nostra guida per [trasferirsi a Dubai](/it/trasferirsi-a-dubai/) ti dà l'ordine dei passaggi, e quella sul [Golden Visa](/it/golden-visa-dubai/) ti aiuta a scegliere la tua residenza. START IN DUBAI ti accompagna dall'inizio alla fine (società, conto bancario, visti, casa, scuole), con un solo interlocutore, nella tua lingua (arabo, francese, inglese, spagnolo, olandese, italiano). Per le questioni fiscali proprie del tuo paese d'origine, fai sempre validare la tua situazione da un consulente fiscale di quel paese.
+
+## Per approfondire
+
+- [Pensione INPS all'estero a Dubai: pagamento, esistenza in vita e tasse](/it/pensione-inps-estero-dubai/)

@@ -159,3 +159,9 @@ En claro: una empresa de consultoría en zona franca que factura sobre todo a cl
 4. **Compara el coste total**, primer año y renovación: licencia, flexi-desk u oficina, tarjeta de establecimiento, visados, seguro médico, contabilidad.
 5. **Piensa en el banco.** Una zona reconocida y una actividad clara facilitan la apertura de la cuenta, sin garantizarla.
 6. **Lee las condiciones de renovación**, de modificación de actividad y de cierre: ahí es donde se esconden las malas sorpresas.
+
+## Para ir más lejos
+
+- [Crear una empresa en Dubái desde Latinoamérica: lo que cambia para ti](/es/crear-empresa-en-dubai-desde-latinoamerica/)
+- [Crear una empresa en Dubái siendo español: guía paso a paso](/es/crear-empresa-en-dubai-siendo-espanol/)
+- [Tener una empresa en Dubái siendo residente en España: lo que dice la ley](/es/empresa-en-dubai-residente-en-espana/)

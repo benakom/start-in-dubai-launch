@@ -214,3 +214,8 @@ START IN DUBAI accompagna questo percorso dall'inizio alla fine (società, conto
 5. Preparare passaporti, giustificativi e presentazione dell'attività.
 6. Pianificare un soggiorno a Dubai per il visto e la banca.
 7. Annotare la scadenza per la registrazione all'imposta sulle società.
+
+## Per approfondire
+
+- [Esterovestizione e società a Dubai: quando una società emiratina è residente in Italia](/it/esterovestizione-societa-dubai/)
+- [Partita IVA a Dubai: cosa diventa quella italiana e come lavorare per clienti italiani](/it/partita-iva-dubai/)

@@ -158,3 +158,9 @@ En clair : une société de conseil en zone franche qui facture surtout des clie
 4. **Comparez le coût total**, première année et renouvellement : licence, flexi-desk ou bureau, carte d’établissement, visas, assurance santé, comptabilité.
 5. **Pensez à la banque.** Une zone reconnue et une activité claire facilitent l’ouverture du compte, sans la garantir.
 6. **Lisez les conditions de renouvellement**, de modification d’activité et de fermeture : c’est là que les mauvaises surprises se cachent.
+
+## Pour aller plus loin
+
+- [Licence commerciale à Dubaï : choisir, obtenir et renouveler sa trade license](/licence-commerciale-dubai/)
+- [Quelle est la meilleure free zone de Dubaï pour votre activité ?](/meilleures-free-zones-dubai/)
+- [Société mainland à Dubaï : comment créer une LLC en droit local](/societe-mainland-dubai/)

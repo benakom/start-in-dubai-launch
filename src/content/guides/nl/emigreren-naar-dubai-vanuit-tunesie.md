@@ -189,3 +189,7 @@ De Tunesische gemeenschap is aanwezig in Dubai en in Abu Dhabi, en het consulaat
 7. Inschrijving bij het Tunesische consulaat-generaal in Dubai bij aankomst.
 
 Voor het vervolg (woning, Emirates ID, scholen) leest u onze gids over [emigreren naar Dubai](/nl/emigreren-naar-dubai/).
+
+## Verder lezen
+
+- [Emigreren naar Dubai vanuit Nederland: wat u in Nederland en in Dubai moet regelen](/nl/emigreren-naar-dubai-vanuit-nederland/)

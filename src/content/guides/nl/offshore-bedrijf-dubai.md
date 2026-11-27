@@ -153,3 +153,8 @@ Vergelijk schriftelijke offertes van twee erkende agenten voordat u beslist.
 5. Kies het register (JAFZA Offshore of RAK ICC) en een erkende geregistreerde agent.
 6. Bereid het bankdossier voor: activiteit, contracten, herkomst van de gelden.
 7. Noteer de uiterste datum voor registratie voor de vennootschapsbelasting in de Emiraten.
+
+## Verder lezen
+
+- [Een bedrijf oprichten in Dubai als Nederlander: wat anders is dan voor andere nationaliteiten](/nl/bedrijf-oprichten-dubai-als-nederlander/)
+- [Een BV verplaatsen naar Dubai: wat de Belastingdienst zegt over vestigingsplaats en emigratieheffing](/nl/bv-verplaatsen-naar-dubai/)

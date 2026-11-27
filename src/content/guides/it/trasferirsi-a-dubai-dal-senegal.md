@@ -183,3 +183,7 @@ La diaspora senegalese negli Emirati è attiva, in particolare negli scambi comm
 7. Recapiti dell’ambasciata del Senegal ad Abu Dhabi.
 
 Per il seguito del percorso (alloggio, Emirates ID, scuole), leggi la nostra guida per [trasferirsi a Dubai](/it/trasferirsi-a-dubai/).
+
+## Per approfondire
+
+- [Trasferirsi a Dubai dall'Italia: la guida per chi parte con il passaporto italiano](/it/trasferirsi-a-dubai-dall-italia/)

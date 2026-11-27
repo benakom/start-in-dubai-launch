@@ -72,7 +72,7 @@ C'est la voie la plus simple si vous avez une offre d'emploi. L'employeur obtien
 
 ### Visa investisseur ou associé via une société
 
-C'est ce qu'on appelle couramment le **visa investisseur Dubaï**. Vous créez une société (sur le continent ou en zone franche), vous en êtes associé, et la société vous délivre votre visa. Le nombre de visas possibles dépend de la licence et souvent de la surface de bureau louée. C'est la voie la plus utilisée par les entrepreneurs francophones. Tout est expliqué dans notre guide pour [créer sa société à Dubaï](/creer-sa-societe-a-dubai/) et le choix entre continent et zone franche y est détaillé.
+C'est ce qu'on appelle couramment le **visa investisseur Dubaï**. Vous créez une société (sur le continent ou en zone franche), vous en êtes associé, et la société vous délivre votre visa. Le nombre de visas possibles dépend de la licence et souvent de la surface de bureau louée. C'est la voie la plus utilisée par les entrepreneurs francophones. Tout est expliqué dans notre guide pour [créer sa société à Dubaï](/creer-sa-societe-a-dubai/) et le choix entre continent et zone franche y est détaillé. Les conditions, les frais et la différence avec le Green Visa et le Golden Visa sont détaillés dans notre guide du [visa investisseur à Dubaï](/visa-investisseur-dubai/).
 
 ### Green Visa (5 ans, sans parrain)
 
@@ -164,3 +164,7 @@ Si votre visa a été annulé de cette façon, une procédure permet de demander
 - **Confondre résidence et résidence fiscale** : avoir un visa ne suffit pas à ne plus être imposé dans votre pays. Lisez notre guide sur les [impôts à Dubaï](/impots-dubai/).
 
 START IN DUBAI vous accompagne de A à Z (société, compte bancaire, visas, logement, écoles), avec un seul interlocuteur, dans votre langue (arabe, français, anglais, espagnol, néerlandais, italien).
+
+## Pour aller plus loin
+
+- [Visa famille à Dubaï : parrainer son conjoint, ses enfants et ses parents](/visa-famille-dubai/)

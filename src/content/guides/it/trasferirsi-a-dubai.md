@@ -218,3 +218,7 @@ La tua società può essere registrata in un emirato e tu puoi vivere in un altr
 - Obblighi fiscali regolati nel tuo paese di partenza
 
 START IN DUBAI riunisce tutti questi passaggi in un unico percorso, con un solo interlocutore, nella tua lingua (arabo, francese, inglese, spagnolo, olandese, italiano): società, conto bancario, visti, casa e scuole. Puoi [richiedere un primo colloquio gratuito](/it/#inscription).
+
+## Per approfondire
+
+- [AIRE a Dubai: come iscriversi all'anagrafe degli italiani residenti all'estero](/it/aire-dubai/)

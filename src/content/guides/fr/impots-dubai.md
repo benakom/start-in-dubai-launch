@@ -3,7 +3,7 @@ title: "Impôts à Dubaï : revenu, société 9 %, TVA et résidence fiscale"
 description: "Impôts à Dubaï : pas d'impôt sur le revenu des particuliers, impôt sur les sociétés à 9 %, TVA à 5 %, résidence fiscale et règles de votre pays d'origine."
 h1: "Impôts à Dubaï : ce que paient vraiment les particuliers et les sociétés"
 keyword: "impot dubai"
-secondary: ["impot societe dubai", "tva dubai", "fiscalité dubai", "imposition dubai", "impôts dubaï expatriés"]
+secondary: ["fiscalité dubai", "imposition dubai", "impôts dubaï expatriés"]
 cluster: argent
 updated: 2026-11-27
 intro: "À Dubaï, les particuliers ne paient pas d'impôt sur le revenu : ni sur le salaire, ni sur les plus-values de leurs placements personnels. Les sociétés paient un impôt de 9 % sur la part de leur bénéfice au-delà de 375 000 AED, avec un régime à 0 % pour certaines sociétés de zone franche, et la TVA est de 5 %. Mais votre pays d'origine peut continuer à vous imposer tant que vous y restez résident fiscal : c'est le point qu'il faut régler avant de partir."
@@ -99,7 +99,7 @@ Même sans impôt à payer, une société doit en général :
 - tenir une **comptabilité** et conserver ses justificatifs ;
 - déposer une **déclaration** annuelle.
 
-Les retards d'enregistrement ou de déclaration sont sanctionnés par des amendes. C'est l'erreur la plus fréquente des créateurs d'entreprise.
+Les retards d'enregistrement ou de déclaration sont sanctionnés par des amendes. C'est l'erreur la plus fréquente des créateurs d'entreprise. Le calcul, les conditions du régime de zone franche, l'allègement pour petites entreprises et le calendrier sont détaillés dans notre guide de l'[impôt sur les sociétés à Dubaï](/impot-sur-les-societes-dubai/).
 
 ## La TVA à Dubaï : 5 %
 
@@ -110,7 +110,7 @@ Les seuils d'enregistrement publiés par la FTA :
 - **Obligatoire** : quand vos fournitures taxables et vos importations dépassent **375 000 AED** sur les 12 derniers mois, ou devraient les dépasser dans les 30 jours à venir ;
 - **Volontaire** : possible à partir de **187 500 AED**.
 
-Une fois enregistrée, la société facture la TVA, la déclare et la reverse, en général chaque trimestre.
+Une fois enregistrée, la société facture la TVA, la déclare et la reverse, en général chaque trimestre. Taux zéro, exonérations, zones désignées et facture électronique : tout est expliqué dans notre guide de la [TVA à Dubaï](/tva-dubai/).
 
 ## Pas d'impôt sur les plus-values pour les particuliers
 
@@ -191,3 +191,7 @@ Chaque pays a ses propres critères (foyer, durée de séjour, centre des intér
 7. **Ouvrez un compte local** pour séparer clairement vos flux : voyez notre guide pour [ouvrir un compte bancaire à Dubaï](/ouvrir-un-compte-bancaire-a-dubai/).
 
 Avant de vous lancer, notre guide pour [s'installer à Dubaï](/s-installer-a-dubai/) vous donne l'ordre des étapes, et celui sur le [Golden Visa](/golden-visa-dubai/) vous aide à choisir votre résidence. START IN DUBAI vous accompagne de A à Z (société, compte bancaire, visas, logement, écoles), avec un seul interlocuteur, dans votre langue (arabe, français, anglais, espagnol, néerlandais, italien). Pour les questions fiscales propres à votre pays d'origine, faites toujours valider votre situation par un conseiller fiscal de ce pays.
+
+## Pour aller plus loin
+
+- [Résidence fiscale à Dubaï : devenir résident et obtenir son certificat](/residence-fiscale-dubai/)

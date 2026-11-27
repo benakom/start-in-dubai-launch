@@ -139,3 +139,7 @@ La differenza più visibile è l’assenza di imposta sul reddito delle persone 
 6. Banca e investimenti informati del cambio di residenza.
 7. Patente originale nel bagaglio per la conversione.
 8. Dopo l’arrivo: visto di residenza, Emirates ID, conto bancario locale, poi conversione della patente.
+
+## Per approfondire
+
+- [Trasferirsi a Dubai dall'Italia: la guida per chi parte con il passaporto italiano](/it/trasferirsi-a-dubai-dall-italia/)

@@ -140,3 +140,7 @@ Het meest zichtbare verschil is het ontbreken van inkomstenbelasting voor person
 6. Bank en beleggingen op de hoogte van uw verandering van woonplaats.
 7. Origineel rijbewijs in uw bagage voor de omzetting.
 8. Na aankomst: verblijfsvisum, Emirates ID, lokale bankrekening en daarna omzetting van het rijbewijs.
+
+## Verder lezen
+
+- [Emigreren naar Dubai vanuit Nederland: wat u in Nederland en in Dubai moet regelen](/nl/emigreren-naar-dubai-vanuit-nederland/)

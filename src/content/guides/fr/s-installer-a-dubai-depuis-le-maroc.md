@@ -3,7 +3,7 @@ title: "S’installer à Dubaï depuis le Maroc : visa, documents, argent"
 description: "S’installer à Dubaï depuis le Maroc : visa à obtenir avant le départ, légalisation des documents, Office des Changes, travail et études. Guide vérifié en 2026."
 h1: "S’installer à Dubaï depuis le Maroc : le guide pratique pour les Marocains"
 keyword: "s'installer à dubai depuis le maroc"
-secondary: ["visa dubai pour les marocains", "travailler à dubai pour les marocains", "contrat de travail dubai marocains"]
+secondary: ["travailler à dubai pour les marocains", "contrat de travail dubai marocains"]
 cluster: pays
 country: "Maroc"
 updated: 2026-11-28
@@ -47,7 +47,7 @@ Ce guide s’adresse aux Marocains qui partent du Maroc et aux Marocains du mond
 
 ## Visa Dubaï pour les Marocains : à obtenir avant le départ
 
-Le passeport marocain ne fait partie ni des pays exemptés de visa, ni des pays qui obtiennent un visa à l’arrivée. Il faut donc un visa **avant** de prendre l’avion. Le passeport doit être valable au moins six mois à la date d’entrée.
+Le passeport marocain ne fait partie ni des pays exemptés de visa, ni des pays qui obtiennent un visa à l’arrivée. Il faut donc un visa **avant** de prendre l’avion. Le passeport doit être valable au moins six mois à la date d’entrée. Cette section résume l’essentiel : les frais officiels de chaque visa, le visa de 5 ans et le cas des Marocains résidant en Europe sont détaillés dans notre guide du [visa Dubaï pour les Marocains](/visa-dubai-marocains/).
 
 Où le demander ? Le portail officiel u.ae indique plusieurs canaux :
 

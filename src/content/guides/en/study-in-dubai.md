@@ -176,3 +176,8 @@ Working without a permit is prohibited and can cost you your visa. For what come
 - [ ] Compare the full costs: tuition, visa, insurance, housing
 - [ ] Ask for merit scholarships when you apply
 - [ ] Start the student visa with the university (or through resident parents)
+
+## Go further
+
+- [Cheapest universities in Dubai: how to compare real costs, not marketing prices](/en/cheapest-universities-dubai/)
+- [Studying in Dubai from Africa: what to prepare, what it costs and what to check](/en/study-in-dubai-from-africa/)

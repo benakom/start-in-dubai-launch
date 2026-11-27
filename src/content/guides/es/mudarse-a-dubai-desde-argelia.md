@@ -179,3 +179,10 @@ Los argelinos instalados en los Emiratos conviven con las comunidades marroquí,
 8. Inscripción en la representación argelina designada para los Emiratos.
 
 Para el recorrido completo, desde la búsqueda de vivienda hasta la Emirates ID, lee nuestra guía para [mudarte a Dubái](/es/mudarse-a-dubai/).
+
+## Para ir más lejos
+
+- [Mudarse a Dubái desde Argentina: visado, impuestos y dinero](/es/mudarse-a-dubai-desde-argentina/)
+- [Mudarse a Dubái desde Colombia: lo que tienes que saber](/es/mudarse-a-dubai-desde-colombia/)
+- [Mudarse a Dubái desde España: guía de trámites y de fiscalidad](/es/mudarse-a-dubai-desde-espana/)
+- [Mudarse a Dubái desde México: lo que tienes que saber](/es/mudarse-a-dubai-desde-mexico/)

@@ -180,3 +180,7 @@ Un rechazo no es definitivo: otro banco puede aceptar un expediente mejor presen
 7. En caso de litigio, presenta primero una reclamación al banco. Si no prospera, Sanadak, el defensor independiente creado por el Banco Central, tramita gratuitamente las reclamaciones contra los bancos y aseguradoras autorizados.
 
 Abrir una cuenta va de la mano de la fiscalidad de tu traslado: lee también nuestra guía sobre los [impuestos en Dubái](/es/impuestos-dubai/) y nuestra guía completa para [mudarse a Dubái](/es/mudarse-a-dubai/). START IN DUBAI te acompaña de la A a la Z (empresa, cuenta bancaria, visados, vivienda, colegios), con un solo interlocutor, en tu idioma (árabe, francés, inglés, español, neerlandés, italiano).
+
+## Para ir más lejos
+
+- [Convenio de doble imposición entre España y los Emiratos Árabes Unidos](/es/convenio-fiscal-espana-emiratos/)

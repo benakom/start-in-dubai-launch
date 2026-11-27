@@ -183,3 +183,7 @@ De Senegalese diaspora in de Emiraten is actief, met name in de handel met Seneg
 7. Contactgegevens van de ambassade van Senegal in Abu Dhabi.
 
 Voor het vervolg van het traject (woning, Emirates ID, scholen) leest u onze gids over [emigreren naar Dubai](/nl/emigreren-naar-dubai/). Ter vergelijking is er ook de gids voor [Marokkanen die naar Dubai verhuizen](/nl/emigreren-naar-dubai-vanuit-marokko/).
+
+## Verder lezen
+
+- [Emigreren naar Dubai vanuit Nederland: wat u in Nederland en in Dubai moet regelen](/nl/emigreren-naar-dubai-vanuit-nederland/)

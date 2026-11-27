@@ -129,3 +129,7 @@ La SSOM non sostituisce l’assicurazione sanitaria locale richiesta per il vist
 5. Decisione sulla SSOM e informazione alla tua mutualità.
 6. Dichiarazione di partenza al comune al più tardi il giorno prima della partenza, e modello 8 in tasca.
 7. Dopo l’arrivo: visto di residenza, Emirates ID, assicurazione sanitaria, conto bancario a Dubai, iscrizione eConsul all’ambasciata di Abu Dhabi, poi conversione della patente.
+
+## Per approfondire
+
+- [Trasferirsi a Dubai dall'Italia: la guida per chi parte con il passaporto italiano](/it/trasferirsi-a-dubai-dall-italia/)

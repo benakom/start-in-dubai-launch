@@ -155,3 +155,7 @@ Eenmaal gevestigd, schrijft u zich in het register van Fransen die buiten Frankr
 6. Franse bank op de hoogte van uw verandering van woonplaats en opening van een bankrekening in Dubai voorbereid.
 7. Origineel rijbewijs in uw bagage voor het inwisselen.
 8. Na aankomst: verblijfsvisum, Emirates ID, ziektekostenverzekering en daarna inschrijving in het consulaire register.
+
+## Verder lezen
+
+- [Emigreren naar Dubai vanuit Nederland: wat u in Nederland en in Dubai moet regelen](/nl/emigreren-naar-dubai-vanuit-nederland/)

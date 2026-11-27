@@ -139,3 +139,10 @@ La diferencia más visible es la ausencia de impuesto sobre la renta de las pers
 6. Banco e inversiones informados de tu cambio de residencia.
 7. Carnet de conducir original en el equipaje para la conversión.
 8. Tras la llegada: visado de residencia, Emirates ID, cuenta bancaria local y después conversión del carnet de conducir.
+
+## Para ir más lejos
+
+- [Mudarse a Dubái desde Argentina: visado, impuestos y dinero](/es/mudarse-a-dubai-desde-argentina/)
+- [Mudarse a Dubái desde Colombia: lo que tienes que saber](/es/mudarse-a-dubai-desde-colombia/)
+- [Mudarse a Dubái desde España: guía de trámites y de fiscalidad](/es/mudarse-a-dubai-desde-espana/)
+- [Mudarse a Dubái desde México: lo que tienes que saber](/es/mudarse-a-dubai-desde-mexico/)

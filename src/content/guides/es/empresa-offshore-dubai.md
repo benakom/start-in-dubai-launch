@@ -153,3 +153,9 @@ Compara presupuestos escritos de dos agentes autorizados antes de decidir.
 5. Elegir el registro (JAFZA Offshore o RAK ICC) y un agente registrado autorizado.
 6. Preparar el expediente bancario: actividad, contratos, origen de los fondos.
 7. Anotar la fecha límite de registro en el impuesto de sociedades en los Emiratos.
+
+## Para ir más lejos
+
+- [Crear una empresa en Dubái desde Latinoamérica: lo que cambia para ti](/es/crear-empresa-en-dubai-desde-latinoamerica/)
+- [Crear una empresa en Dubái siendo español: guía paso a paso](/es/crear-empresa-en-dubai-siendo-espanol/)
+- [Tener una empresa en Dubái siendo residente en España: lo que dice la ley](/es/empresa-en-dubai-residente-en-espana/)
