@@ -11,9 +11,9 @@ faq:
   - q: "Est-ce que c’est bien de vivre à Dubaï ?"
     a: "Pour beaucoup de francophones, oui : sécurité, services rapides, opportunités professionnelles et fiscalité personnelle avantageuse. Mais la ville ne convient pas à tout le monde : le coût du logement et des écoles est élevé, l’été est éprouvant et la résidence dépend d’un visa. Le mieux est de faire un séjour de repérage avant de décider."
   - q: "Quel salaire pour vivre correctement à Dubaï ?"
-    a: "Il n’y a pas de chiffre officiel. À titre d’ordre de grandeur, une personne seule dépense souvent entre 8 000 et 15 000 AED par mois selon son logement, une famille avec enfants scolarisés dans le privé bien davantage. Notre guide du coût de la vie détaille chaque poste."
+    a: "Il n’y a pas de chiffre officiel. Selon nos estimations, une personne seule dépense de l’ordre de 8 000 à 15 000 AED par mois selon son logement, une famille avec enfants scolarisés dans le privé bien davantage. Notre guide du coût de la vie détaille chaque poste."
   - q: "Peut-on vivre en couple non marié à Dubaï ?"
-    a: "La réforme du code pénal fédéral de 2020 a dépénalisé la cohabitation des couples non mariés. En revanche, pour parrainer votre partenaire sur votre visa, il faut un acte de mariage légalisé : un couple non marié doit donc avoir deux visas distincts (emploi, société, freelance…)."
+    a: "Les réformes du droit pénal fédéral adoptées depuis 2020 ont assoupli les règles sur la vie commune des couples non mariés, mais certaines situations restent encadrées par la loi (une grossesse hors mariage, par exemple) : en cas de doute, demandez l’avis d’un avocat local. Pour parrainer votre partenaire sur votre visa, il faut en tout cas un acte de mariage légalisé : un couple non marié doit avoir deux visas distincts (emploi, société, freelance…)."
   - q: "Quelle est la langue parlée à Dubaï ?"
     a: "L’arabe est la langue officielle, mais l’anglais est la langue du travail, des commerces et de l’administration au quotidien. On entend aussi beaucoup le français, l’hindi, l’ourdou, le tagalog ou le russe. Un anglais de base suffit pour la vie courante."
   - q: "Quel est le week-end à Dubaï ?"
@@ -75,7 +75,7 @@ Votre droit de séjour dépend de votre employeur, de votre société ou de votr
 
 ### L’éloignement
 
-Le décalage horaire avec l’Europe et le Maghreb est de 2 à 3 heures selon la saison (Dubaï ne change pas d’heure). Il est plus fort avec le Canada. Les fêtes de famille, les naissances, les parents qui vieillissent : l’éloignement se ressent plus que prévu, surtout la deuxième année.
+Le décalage horaire avec l’Europe et le Maghreb est en général de 2 à 3 heures selon la saison (Dubaï ne change pas d’heure), un peu plus avec le Maroc pendant le ramadan et avec l’Afrique de l’Ouest. Il est bien plus fort avec le Canada. Les fêtes de famille, les naissances, les parents qui vieillissent : l’éloignement se ressent plus que prévu, surtout la deuxième année.
 
 ### Une ville qui va vite
 
@@ -100,7 +100,7 @@ Si vous êtes marié, le conjoint qui a le visa peut parrainer l’autre, à con
 
 ### Couple non marié
 
-La réforme du code pénal fédéral de 2020 a dépénalisé la cohabitation. En revanche, un partenaire non marié ne peut pas être parrainé : chacun doit avoir son propre visa (emploi, société, freelance, Golden Visa…). Pensez-y avant le départ, surtout si l’un de vous deux n’a pas encore de projet professionnel sur place.
+Les réformes du droit pénal fédéral adoptées depuis 2020 ont assoupli les règles sur la vie commune hors mariage, mais certaines situations restent encadrées (une grossesse hors mariage, par exemple) : faites le point avec un avocat local si votre situation l’exige. Dans tous les cas, un partenaire non marié ne peut pas être parrainé : chacun doit avoir son propre visa (emploi, société, freelance, Golden Visa…). Pensez-y avant le départ, surtout si l’un de vous deux n’a pas encore de projet professionnel sur place.
 
 ### Vivre à Dubaï en famille
 

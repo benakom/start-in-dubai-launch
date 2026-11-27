@@ -6,12 +6,12 @@ keyword: "étudier à dubai"
 secondary: ["études à dubai", "université dubai", "université dubaï française", "étudier à dubaï après le bac", "étudier à dubai en français", "étudier à dubai prix"]
 cluster: etudes
 updated: 2026-11-27
-intro: "Étudier à Dubaï, c’est choisir entre des universités accréditées par la Commission for Academic Accreditation (CAA) et des campus de grandes universités étrangères (britanniques, australiennes, américaines, françaises), presque tous en anglais. D’après l’annuaire du KHDA, une licence y coûte en général de 40 000 à 160 000 AED par an selon l’établissement. En français, l’offre la plus complète aux Émirats se trouve à Sorbonne Université Abu Dhabi."
+intro: "Étudier à Dubaï, c’est choisir entre des universités accréditées par la Commission for Academic Accreditation (CAA) et des campus de grandes universités étrangères (britanniques, australiennes, américaines, françaises), presque tous en anglais. À titre indicatif, les frais de licence déclarés au KHDA vont d’environ 40 000 à plus de 150 000 AED par an selon l’établissement (fiches datées de janvier 2024, à revérifier auprès de chaque université). En français, l’offre la plus complète aux Émirats se trouve à Sorbonne Université Abu Dhabi."
 faq:
   - q: "Peut-on étudier à Dubaï en français ?"
     a: "Très peu de cursus sont enseignés en français à Dubaï même : les écoles françaises présentes (SKEMA, EM Normandie, ESCP, Paris-Panthéon-Assas) enseignent surtout en anglais. Aux Émirats, Sorbonne Université Abu Dhabi propose plusieurs licences en français, dont le droit, l’économie-gestion, l’histoire et la géographie, avec une année préparatoire de français intensif."
   - q: "Combien coûte une année d’études à Dubaï ?"
-    a: "Les frais de scolarité d’une licence publiés par le KHDA vont d’environ 40 000 AED par an à plus de 150 000 AED selon l’université. Il faut ajouter le visa étudiant, l’assurance santé, le logement, le transport et la vie courante. Demandez toujours la grille à jour à l’université : les montants changent chaque année."
+    a: "À titre indicatif, les frais de licence publiés par le KHDA (fiches datées de janvier 2024) vont d’environ 40 000 AED par an à plus de 150 000 AED selon l’université. Il faut ajouter le visa étudiant, l’assurance santé, le logement, le transport et la vie courante. Demandez toujours la grille à jour à l’université : les montants changent chaque année."
   - q: "Les diplômes obtenus à Dubaï sont-ils reconnus ?"
     a: "Cela dépend de l’établissement. Les universités accréditées par la CAA délivrent des diplômes reconnus par le ministère émirien de l’Enseignement supérieur. Les campus internationaux des zones franches délivrent le diplôme de leur université d’origine, certifié par le KHDA à Dubaï. Si vous voulez travailler ensuite dans votre pays, vérifiez la reconnaissance auprès de son ministère avant de vous inscrire."
   - q: "Peut-on travailler en étudiant à Dubaï ?"
@@ -48,7 +48,7 @@ Dans les deux cas, vérifiez que l'établissement figure dans l'**annuaire de l'
 
 ## Les universités à Dubaï : quelques repères
 
-Le KHDA publie pour chaque établissement la liste des programmes et les frais annuels déclarés. Voici quelques exemples de frais annuels de licence (bachelor), tels qu'ils figurent dans cet annuaire. Ces fiches indiquent une mise à jour en janvier 2024 : demandez toujours la grille actuelle à l'université.
+Le KHDA publie pour chaque établissement la liste des programmes et les frais annuels déclarés. Voici quelques exemples de frais annuels de licence (bachelor), tels qu'ils figurent dans cet annuaire. Ces fiches indiquent une mise à jour en janvier 2024 : les montants ci-dessous sont **indicatifs** et ont pu augmenter depuis. Demandez toujours la grille actuelle à l'université, ou consultez sa fiche à jour dans l'annuaire du KHDA.
 
 | Université | Type d'assurance qualité (KHDA) | Frais annuels de licence |
 |---|---|---|
@@ -74,7 +74,7 @@ D'après l'annuaire du KHDA :
 - **ESCP Business School** (DIFC) : un executive master, pour des profils expérimentés.
 - **Université Paris-Panthéon-Assas** (DIFC) : LL.B. (licence de droit) et LL.M. Selon l'université, le LL.B. de Dubaï est **enseigné en anglais**.
 - **ESMOD** (Academic City) : formation de styliste designer mode.
-- **Université Saint-Joseph de Dubaï**, antenne de l'université francophone de Beyrouth (Academic City) : Bachelor of Law, master de traduction, LL.M. en droit des affaires. Renseignez-vous sur la langue d'enseignement de chaque cursus.
+- **Université Saint-Joseph de Dubaï**, antenne de l'université francophone de Beyrouth (Academic City) : Bachelor of Law, master de traduction, LL.M. en droit des affaires, Bachelor of Data Science. D'après la [fiche du programme sur le site de l'USJ](https://usj.edu.lb/dubai/bachelor-law), le Bachelor of Law est enseigné à 75 % en arabe et à 25 % en anglais : ce n'est pas un cursus en français. Pour les autres programmes, demandez la langue d'enseignement à l'université.
 
 ### Sorbonne Université Abu Dhabi : la vraie option en français
 
@@ -119,7 +119,7 @@ Le budget annuel d'un étudiant se compose de :
 
 | Poste | Ordre de grandeur |
 |---|---|
-| Frais de scolarité (licence) | De 40 000 à plus de 150 000 AED par an selon l'université (annuaire KHDA) |
+| Frais de scolarité (licence) | De 40 000 à plus de 150 000 AED par an selon l'université (annuaire KHDA, fiches de janvier 2024, indicatif) |
 | Visa étudiant, assurance, dépôt | Plusieurs milliers d'AED la première année, dont un dépôt souvent remboursable (voir notre guide du [visa étudiant à Dubaï](/visa-etudiant-dubai/)) |
 | Logement | Très variable selon la formule (résidence, colocation, famille) |
 | Transport, téléphone, vie courante | Voir notre guide du [coût de la vie à Dubaï](/cout-de-la-vie-dubai/) |
@@ -128,7 +128,7 @@ Le budget annuel d'un étudiant se compose de :
 
 Soyons prudents : ne construisez pas votre budget sur une bourse. Les aides les plus accessibles viennent **des universités elles-mêmes**, le plus souvent sous forme de réductions au mérite. Leurs montants et leurs conditions changent chaque année et sont publiés sur la page « fees and scholarships » de chaque établissement : demandez-les dès la candidature, car certaines se décident au moment de l'admission.
 
-Pour les très bons élèves, le levier le plus intéressant est souvent le **Golden Visa pour étudiants brillants**, qui donne une résidence longue. Les conditions sont détaillées dans notre guide du [visa étudiant à Dubaï](/visa-etudiant-dubai/).
+Pour les très bons élèves, le levier le plus intéressant est souvent le **Golden Visa pour étudiants brillants**, qui donne une résidence longue (5 ou 10 ans selon les sources officielles : la durée est confirmée par l'autorité qui délivre le visa). Les conditions sont détaillées dans notre guide du [visa étudiant à Dubaï](/visa-etudiant-dubai/).
 
 ## Reconnaissance des diplômes : CAA, KHDA et votre pays
 
@@ -154,7 +154,7 @@ Les règles officielles publiées sur u.ae :
 
 - une entreprise peut **employer un étudiant de 15 ans et plus pendant les vacances universitaires**, pour **trois mois consécutifs au maximum à chaque fois**, avec un contrat qui précise le travail, la durée, le salaire et les horaires ;
 - elle peut aussi **former un étudiant** (stage) avec un contrat écrit ;
-- l'étudiant fournit notamment une copie de son Emirates ID, un certificat médical l'accord écrit d'un parent ou tuteur et une **attestation de non-objection de son établissement**.
+- l'étudiant fournit notamment une copie de son Emirates ID, un certificat médical, l'accord écrit d'un parent ou tuteur et une **attestation de non-objection de son établissement**.
 
 Travailler sans permis est interdit et peut coûter le visa. Pour la suite, une fois diplômé, voir notre guide pour [travailler à Dubaï](/travailler-a-dubai/).
 

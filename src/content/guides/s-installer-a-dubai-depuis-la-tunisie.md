@@ -20,16 +20,16 @@ faq:
   - q: "Existe-t-il une convention fiscale entre la Tunisie et les Émirats ?"
     a: "Oui, une convention tendant à éviter la double imposition a été signée le 10 avril 1996. Elle sert surtout si vous gardez des revenus en Tunisie. Faites vérifier votre résidence fiscale par un fiscaliste avant le départ."
 sources:
-  - label: "u.ae : faut-il un visa pour entrer aux Émirats ?"
-    url: "https://u.ae/en/information-and-services/visa-and-emirates-id/Visa-information/do-you-need-an-entry-permit-or-a-visa-to-enter-the-UAE"
+  - label: "Ministère émirien des Affaires étrangères : visa à l’arrivée étendu à six nationalités (25 juin 2026)"
+    url: "https://www.mofa.gov.ae/en/MediaHub/News/2026/6/25/uae-grants-visa-on-arrival"
   - label: "u.ae : visa touristique et visa 5 ans à entrées multiples"
     url: "https://u.ae/en/information-and-services/visa-and-emirates-id/Types-of-visas/tourist-visa"
   - label: "Ambassade des Émirats à Tunis : attestation numérique"
     url: "https://www.mofa.gov.ae/en/Missions/Tunis/Services/Services-for-Individuals/Attestation-Information"
   - label: "u.ae : visa de visite pour chercher un emploi"
     url: "https://u.ae/en/information-and-services/visa-and-emirates-id/Types-of-visas/Visit-visa/jobseeker-visit-visa"
-  - label: "u.ae : droits des salariés du secteur privé"
-    url: "https://u.ae/en/information-and-services/jobs/Sector-of-employment/employment-in-the-private-sector/labour-rights"
+  - label: "RTA : permis étrangers échangeables à Dubaï (janvier 2026)"
+    url: "https://www.rta.ae/wps/portal/rta/ae/home/news-and-media/all-news/NewsDetails/replacing-over-58000-driving-licences-from-57+countries-with-uae-ones"
   - label: "Ministère émirien de l’Éducation : équivalence du diplôme de fin d’études obtenu à l’étranger"
     url: "https://moe.gov.ae/en/eservices/servicecard/pages/certequivalent-out.aspx"
 related: ["s-installer-a-dubai", "visa-residence-dubai", "travailler-a-dubai", "freelance-dubai", "s-installer-a-dubai-depuis-l-algerie"]
@@ -63,7 +63,7 @@ Chaque jour de dépassement de séjour coûte 50 AED, selon l’ICP.
 
 ### Binationaux et Tunisiens résidant en Europe
 
-Avec un passeport français, allemand, italien ou canadien, vous entrez sans visa préalable. Choisissez un passeport et gardez-le pour l’entrée, la sortie et le dossier de résidence. Un titre de séjour européen associé à un passeport tunisien ne donne pas droit au visa à l’arrivée : ce dispositif ne vise qu’une liste de nationalités dont la Tunisie ne fait pas partie.
+Avec un passeport français, allemand, italien ou canadien, vous entrez sans visa préalable. Choisissez un passeport et gardez-le pour l’entrée, la sortie et le dossier de résidence. Un titre de séjour européen associé à un passeport tunisien ne donne pas droit au visa à l’arrivée : ce dispositif ne vise qu’une liste de nationalités (élargie le 25 juin 2026 à l’Indonésie, au Vietnam, à la Thaïlande, aux Philippines, au Kenya et à l’Afrique du Sud, selon le ministère émirien des Affaires étrangères) dont la Tunisie ne fait pas partie.
 
 ## Les visas de résidence pour vivre à Dubaï
 
@@ -111,7 +111,7 @@ Contact consulaire indiqué par l’ambassade : constunis@mofa.gov.ae, +216 71 7
 
 ## Les représentations tunisiennes aux Émirats
 
-La Tunisie a une ambassade à Abou Dhabi et un consulat général à Dubaï, compétent pour Dubaï et les émirats du Nord. Le consulat a invité les Tunisiens non inscrits à s’immatriculer, et a déjà dû suspendre temporairement la production de passeports en 2026, en traitant les cas urgents. Deux conseils simples :
+La Tunisie a une ambassade à Abou Dhabi et un consulat général à Dubaï, compétent pour Dubaï et les émirats du Nord. Le consulat invite les Tunisiens installés dans sa circonscription à s’immatriculer. Deux conseils simples :
 
 - renouvelez votre passeport et votre carte d’identité en Tunisie avant le départ s’ils expirent bientôt ;
 - inscrivez-vous au consulat dès votre arrivée.
@@ -120,7 +120,7 @@ La Tunisie a une ambassade à Abou Dhabi et un consulat général à Dubaï, com
 
 Le dinar tunisien n’est pas librement convertible, et les transferts des résidents vers l’étranger sont encadrés par la réglementation des changes de la Banque centrale de Tunisie (BCT). En pratique :
 
-- l’**allocation touristique** annuelle, dont le plafond est fixé par la BCT, sert aux voyages, pas à financer une installation ;
+- l’**allocation touristique** annuelle, dont le plafond est fixé par la BCT et peut évoluer (demandez le montant en vigueur à votre banque), sert aux voyages, pas à financer une installation ;
 - pour transférer une épargne ou le produit d’une vente, demandez à votre banque ce qui est permis selon votre statut, avant de partir ;
 - une fois installé à l’étranger, renseignez-vous sur les comptes en devises ou en dinars convertibles que les banques tunisiennes ouvrent aux non-résidents : ils simplifient les allers-retours ;
 - à l’entrée aux Émirats, toute somme en espèces supérieure à 60 000 AED (ou l’équivalent) se déclare via le système Afseh de l’ICP.
@@ -133,7 +133,7 @@ La Tunisie et les Émirats ont signé le 10 avril 1996 une convention tendant à
 
 ## Vols entre la Tunisie et Dubaï
 
-Emirates relie Tunis à Dubaï. En mai 2026, après les perturbations liées au conflit régional, la compagnie annonçait six vols par semaine sur cette ligne. Les horaires peuvent encore changer : vérifiez-les sur le site de la compagnie avant de réserver. Depuis Monastir, Djerba ou Sfax, il faut en général passer par Tunis ou par un autre hub.
+Emirates relie Tunis à Dubaï en vol direct. Après les perturbations régionales du printemps 2026, la presse tunisienne faisait état de six vols par semaine en mai 2026, et la fréquence varie selon les saisons (jusqu’à un vol par jour). Vérifiez les jours et horaires sur le site de la compagnie avant de réserver. Depuis Monastir, Djerba ou Sfax, il faut en général passer par Tunis ou par un autre hub.
 
 ## Contrat de travail à Dubaï pour les Tunisiens
 
@@ -168,7 +168,7 @@ L’université qui vous admet parraine votre visa étudiant. Préparez :
 
 ## La communauté tunisienne aux Émirats
 
-La communauté tunisienne est présente à Dubaï comme à Abou Dhabi, et le consulat général soutient des initiatives culturelles et sportives : en 2026, il a organisé le « Dubai Mallathon » avec le Dubai Sports Council. Côté pratique, le permis de conduire tunisien ne s’échange pas directement à Dubaï (début 2026, l’Afrique du Sud était le seul pays africain sur la liste de la RTA) : prévoyez une école de conduite.
+La communauté tunisienne est présente à Dubaï comme à Abou Dhabi, et le consulat général soutient des initiatives culturelles et sportives : en 2026, il a organisé le « Dubai Mallathon » avec le Dubai Sports Council. Côté pratique, le permis de conduire tunisien ne s’échange pas directement à Dubaï (début 2026, la RTA ne comptait qu’un seul pays africain sur sa liste, l’Afrique du Sud selon la presse émiratie) : prévoyez en général une école de conduite, et vérifiez la liste à jour sur rta.ae.
 
 ## Checklist avant de quitter la Tunisie
 

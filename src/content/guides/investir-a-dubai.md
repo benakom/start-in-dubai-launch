@@ -93,7 +93,7 @@ Le Green Visa est une résidence de 5 ans qui ne dépend pas d’un employeur. I
 
 ### Le Golden Visa
 
-Le Golden Visa est une résidence longue, de 5 ou 10 ans selon la catégorie, renouvelable, qui permet de parrainer conjoint et enfants. Il concerne entre autres les investisseurs (capital d’au moins 2 millions AED, notamment dans l’immobilier), les entrepreneurs dont le projet est validé par un incubateur ou une autorité compétente, et les talents. Les conditions détaillées sont dans notre guide du [Golden Visa à Dubaï](/golden-visa-dubai/).
+Le Golden Visa est une résidence longue, de 5 ou 10 ans selon la catégorie, renouvelable, qui permet de parrainer conjoint et enfants. Il concerne entre autres les investisseurs (capital d’au moins 2 millions AED, notamment dans l’immobilier), les entrepreneurs dont le projet est validé par un incubateur ou une autorité compétente, et les talents. Sur la durée, les sources officielles divergent : pour l’investissement immobilier, le portail fédéral u.ae indique 5 ans (10 ans pour les investissements publics), alors que l’ICP et la GDRFA communiquent sur 10 ans. Fiez-vous à l’autorité qui délivre le visa : la GDRFA à Dubaï, l’ICP dans les autres émirats. Les conditions détaillées sont dans notre guide du [Golden Visa à Dubaï](/golden-visa-dubai/).
 
 ## Et l’immobilier ?
 

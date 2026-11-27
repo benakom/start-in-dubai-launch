@@ -6,7 +6,7 @@ keyword: "s'installer à dubai en famille"
 secondary: ["vivre à dubai avec sa famille", "expatriation dubai famille", "vivre à dubaï avec des enfants"]
 cluster: famille
 updated: 2026-11-27
-intro: "Pour s’installer à Dubaï en famille, un parent obtient d’abord sa propre résidence (travail, société, investissement ou Golden Visa), puis parraine son conjoint et ses enfants. Il doit gagner au moins 4 000 AED par mois, ou 3 000 AED avec un logement fourni, et présenter des actes de mariage et de naissance légalisés. L’inscription à l’école se prépare en parallèle, souvent un an à l’avance."
+intro: "Pour s’installer à Dubaï en famille, un parent obtient d’abord sa propre résidence (travail, société, investissement ou Golden Visa), puis parraine son conjoint et ses enfants. Il doit gagner au moins 4 000 AED par mois, ou 3 000 AED avec un logement fourni, et présenter des actes de mariage et de naissance légalisés (les Émirats n’acceptent pas l’apostille). L’inscription à l’école se prépare en parallèle, souvent un an à l’avance."
 faq:
   - q: "Quel salaire faut-il pour faire venir sa famille à Dubaï ?"
     a: "Le portail officiel des Émirats (u.ae) fixe le minimum à 4 000 AED par mois, ou 3 000 AED si le logement est fourni par l’employeur. Le métier exercé n’est plus un critère. Ces conditions peuvent évoluer : vérifiez-les auprès de la GDRFA de Dubaï avant de déposer le dossier."
@@ -29,6 +29,8 @@ sources:
     url: "https://aefe.gouv.fr/fr/etablissements?pays=%C3%89mirats%20arabes%20unis"
   - label: "KHDA : annuaire des écoles privées de Dubaï"
     url: "https://web.khda.gov.ae/en/Education-Directory/Schools"
+  - label: "Ministère des Affaires étrangères des EAU : légalisation des documents (FAQ)"
+    url: "https://www.mofa.gov.ae/en/faqs"
 related: ["ecoles-francaises-dubai", "visa-residence-dubai", "s-installer-a-dubai", "cout-de-la-vie-dubai", "vivre-a-dubai"]
 order: 1
 ---
@@ -71,12 +73,18 @@ Si vous êtes entrepreneur ou investisseur, votre revenu se prouve autrement (do
 
 ### Les documents à préparer avant le départ
 
-C'est le point qui fait perdre le plus de temps. Les actes établis hors des Émirats doivent en général être **légalisés** (par les autorités de votre pays, puis par l'ambassade ou le consulat des Émirats dans ce pays, puis par le ministère des Affaires étrangères émirien une fois sur place) et **traduits en arabe**.
+C'est le point qui fait perdre le plus de temps. Les Émirats ne sont pas parties à la Convention de La Haye sur l'apostille : une apostille ne suffit donc pas. Selon le ministère des Affaires étrangères émirien (MoFA), un acte établi à l'étranger suit trois étapes de **légalisation** :
+
+1. le ministère des Affaires étrangères du pays qui a délivré l'acte (certains pays exigent une étape préalable, auprès d'un tribunal ou d'une mairie par exemple) ;
+2. l'ambassade ou le consulat des Émirats dans ce pays ;
+3. le MoFA, une fois aux Émirats, en ligne ou dans un centre agréé.
+
+Le MoFA demande un document en arabe ou en anglais, ou accompagné d'une **traduction officielle**. Pour des actes en français, prévoyez une traduction juridique, le plus souvent en arabe : la GDRFA et l'ambassade des Émirats de votre pays vous confirmeront la langue et le format exigés. Les étapes et les tarifs varient d'un pays à l'autre.
 
 | Document | Pour qui | Point d'attention |
 |---|---|---|
-| Acte de mariage | Conjoint | Légalisé et traduit en arabe |
-| Actes de naissance | Chaque enfant | Légalisés et traduits, avec les noms des deux parents |
+| Acte de mariage | Conjoint | Légalisé, avec traduction officielle |
+| Actes de naissance | Chaque enfant | Légalisés et traduits officiellement, avec les noms des deux parents |
 | Passeports | Toute la famille | Validité confortable (plus de 6 mois conseillés) |
 | Photos fond blanc | Toute la famille | Format demandé par la GDRFA |
 | Bail enregistré (Ejari) | Le parent qui parraine | Logement adapté à la taille de la famille |
@@ -92,7 +100,7 @@ Les membres de la famille âgés de 18 ans et plus doivent passer une **visite m
 
 Côté administration, la GDRFA affiche un **traitement en 48 heures** une fois le dossier complet. Le frais de base du permis de résidence est de 200 AED, auquel s'ajoutent des frais annexes (frais de service, frais de changement de statut si la personne est déjà aux Émirats, livraison), puis la visite médicale, l'Emirates ID et l'assurance. Le total réel par personne est donc nettement supérieur aux 200 AED de base : demandez un récapitulatif au centre de services (Amer) avant de payer.
 
-Dernier point : les visas de la famille sont **liés à celui du parent qui parraine**. Si son visa est annulé, ceux de la famille doivent l'être aussi. Un délai de grâce existe pour régulariser, mais il est court : vérifiez sa durée exacte auprès de la GDRFA si vous changez d'emploi ou de statut.
+Dernier point : les visas de la famille sont **liés à celui du parent qui parraine**. Si son visa est annulé, ceux de la famille doivent l'être aussi. Un délai de grâce existe ensuite pour quitter le pays ou changer de statut, mais les sources officielles ne donnent pas la même durée : le portail u.ae indique 6 mois pour les personnes à charge, la fiche de service de la GDRFA de Dubaï 60 jours. Fiez-vous à ce que la GDRFA vous confirme pour votre dossier, et anticipez tout changement d'emploi ou de statut.
 
 ## Calendrier mois par mois
 
@@ -167,7 +175,7 @@ Le budget d'une famille à Dubaï se joue surtout sur trois postes : **le logeme
 ## Erreurs à éviter
 
 - **Chercher le logement avant l'école.** Vous risquez de vous retrouver à une heure de trajet de la seule école qui a une place.
-- **Partir sans actes légalisés.** Sans acte de mariage et actes de naissance légalisés et traduits, pas de visa pour la famille.
+- **Partir sans actes légalisés.** Sans acte de mariage et actes de naissance légalisés (et traduits officiellement), pas de visa pour la famille.
 - **Sous-estimer les délais d'inscription.** Certaines écoles ouvrent leurs inscriptions près d'un an avant la rentrée.
 - **Oublier le certificat de radiation.** L'école de Dubaï et le KHDA demandent un certificat de l'établissement précédent, avec des règles de tampon qui dépendent du pays d'origine.
 - **Choisir l'assurance la moins chère sans lire le réseau.** Un contrat sans clinique pédiatrique près de chez vous ne sert pas à grand-chose.
@@ -177,7 +185,7 @@ Le budget d'une famille à Dubaï se joue surtout sur trois postes : **le logeme
 
 - [ ] Visa du parent principal obtenu ou en cours (travail, société, investissement, [Golden Visa](/golden-visa-dubai/))
 - [ ] Revenu d'au moins 4 000 AED par mois, ou 3 000 AED avec logement fourni
-- [ ] Acte de mariage et actes de naissance légalisés et traduits en arabe
+- [ ] Acte de mariage et actes de naissance légalisés (pays d'origine, ambassade des Émirats, MoFA) et traduits officiellement
 - [ ] Passeports valides pour toute la famille, photos fond blanc
 - [ ] Demandes d'inscription déposées dans deux écoles au moins
 - [ ] Bulletins, certificats de scolarité et certificat de radiation demandés

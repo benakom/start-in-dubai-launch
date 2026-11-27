@@ -25,6 +25,8 @@ sources:
     url: "https://www.centralbank.ae/media/jufbkxml/sanadak-uae-s-first-financial-insurance-ombudsman-en.pdf"
   - label: "Zand : obtention de la licence bancaire de la Banque centrale (juillet 2022)"
     url: "https://www.zand.ae/en/news/zand-gets-cbuae-licence-and-onboards-its-first-customers"
+  - label: "Wio Bank : Key Fact Statement (banque agréée et contrôlée par la Banque centrale des Émirats)"
+    url: "https://wio.io/key-fact-statement"
 related: ["creer-sa-societe-a-dubai", "impots-dubai", "visa-residence-dubai", "zone-franche-dubai", "s-installer-a-dubai"]
 order: 1
 ---
@@ -124,7 +126,7 @@ Chaque banque fixe son propre solde minimum mensuel, avec des frais si vous pass
 
 Ordres de grandeur prudents :
 
-- **Compte personnel classique** : souvent quelques milliers de dirhams. En 2025, plusieurs banques ont annoncé une hausse du minimum, que la Banque centrale a demandé de suspendre le temps d'un examen.
+- **Compte personnel classique** : souvent quelques milliers de dirhams. En mai 2025, selon la presse émiratie, plusieurs banques ont annoncé une hausse du minimum, que la Banque centrale leur a demandé de suspendre le temps d'en étudier l'effet sur les clients.
 - **Compte avec virement de salaire** : certaines banques suppriment ou réduisent le minimum si votre salaire y est versé.
 - **Compte professionnel** : le minimum est en général plus élevé dans les banques traditionnelles, et certaines banques numériques n'en exigent pas.
 
@@ -138,9 +140,9 @@ Les grandes banques locales (par exemple Emirates NBD, Mashreq, First Abu Dhabi 
 
 ### Les banques numériques locales
 
-Plusieurs banques 100 % en ligne détiennent une licence bancaire de la Banque centrale, comme **Wio Bank** et **Zand**. Les banques traditionnelles ont aussi leurs offres numériques. Les avantages souvent mis en avant : ouverture dans l'application, frais réduits, pas ou peu de solde minimum sur certaines offres. Les limites possibles : services plus restreints (chéquiers, crédits), activités acceptées plus limitées.
+Plusieurs banques 100 % en ligne détiennent une licence bancaire de la Banque centrale, comme **Wio Bank** et **Zand** (chacune l'indique dans ses documents officiels). Les banques traditionnelles ont aussi leurs offres numériques. Les avantages souvent mis en avant : ouverture dans l'application, frais réduits, pas ou peu de solde minimum sur certaines offres. Les limites possibles : services plus restreints (chéquiers, crédits), activités acceptées plus limitées.
 
-Les offres changent vite. Vérifiez toujours qu'un établissement figure bien parmi les banques agréées par la Banque centrale, et comparez les fiches d'information clé.
+Les offres changent vite. Vérifiez toujours qu'un établissement figure bien au registre des établissements agréés publié sur le site de la Banque centrale (centralbank.ae), et comparez les fiches d'information clé.
 
 ### Et les applications de paiement étrangères ?
 

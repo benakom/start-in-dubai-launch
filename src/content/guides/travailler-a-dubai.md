@@ -11,7 +11,7 @@ faq:
   - q: "Comment trouver un travail à Dubaï depuis l’étranger ?"
     a: "La plupart des recrutements passent par LinkedIn, les sites des entreprises, les grands portails d’emploi du Golfe et des cabinets de recrutement agréés. Préparez un CV en anglais adapté au marché local et ciblez les secteurs où le français est un atout. Méfiez-vous de toute offre qui demande des frais ou promet un salaire très élevé sans entretien sérieux."
   - q: "Quel est le salaire minimum à Dubaï ?"
-    a: "Il n’existe pas de salaire minimum général pour les expatriés dans le secteur privé : le salaire est fixé par le contrat. Un salaire minimum de 6 000 AED par mois s’applique depuis le 1er janvier 2026 aux salariés émiriens du privé. Pour les expatriés, certains seuils officiels servent de repères, par exemple 4 000 AED pour parrainer sa famille ou 15 000 AED pour le Green Visa de salarié qualifié."
+    a: "Il n’existe pas de salaire minimum général pour les expatriés dans le secteur privé : le salaire est fixé par le contrat. Pour les salariés émiriens du privé, le MOHRE a fixé un minimum de 6 000 AED par mois, appliqué aux permis délivrés ou renouvelés depuis le 1er janvier 2026 (les salaires existants devaient être mis à niveau avant le 30 juin 2026). Pour les expatriés, certains seuils officiels servent de repères, par exemple 4 000 AED pour parrainer sa famille ou 15 000 AED pour le Green Visa de salarié qualifié."
   - q: "Paie-t-on des impôts sur son salaire à Dubaï ?"
     a: "Non, les Émirats ne prélèvent pas d’impôt sur le revenu des salaires. En revanche, votre pays d’origine peut continuer à vous imposer si vous y restez fiscalement résident : vérifiez votre situation avant le départ."
   - q: "Peut-on travailler à Dubaï avec un visa touristique ?"
@@ -27,6 +27,10 @@ sources:
     url: "https://u.ae/en/information-and-services/health-and-fitness/Healthcare-access-and-insurance/getting-a-health-insurance"
   - label: "u.ae : visa de résidence pour la famille"
     url: "https://u.ae/en/information-and-services/visa-and-emirates-id/types-of-visas/residence-visa/residence-visa-for-family-members"
+  - label: "MOHRE : salaire minimum de 6 000 AED pour les Émiriens du secteur privé (31/12/2025)"
+    url: "https://mohre.gov.ae/en/media-center/news/31/12/2025/mohre-raises-minimum-wage-for-emiratis-in-the-private-sector-to-aed-6000-per-month-effective-1"
+  - label: "Dubai.ae : calcul de l’indemnité de fin de service"
+    url: "https://www.dubai.ae/living/jobs-employment/end-of-service-gratuity"
 related: ["s-installer-a-dubai", "visa-residence-dubai", "freelance-dubai", "cout-de-la-vie-dubai", "s-installer-a-dubai-depuis-le-maroc"]
 order: 1
 ---
@@ -98,10 +102,10 @@ Le MOHRE délivre plusieurs types de permis : temps plein, temps partiel, tempor
 
 Points clés de la loi sur le travail (décret-loi n° 33 de 2021) :
 
-- **Contrat à durée déterminée** : les contrats du secteur privé sont conclus pour une durée fixe, renouvelable.
+- **Contrat à durée déterminée** : les contrats du secteur privé sont conclus pour une durée fixe, renouvelable. La limite de trois ans prévue à l’origine a été supprimée par une modification de la loi en 2022 : la durée est fixée par le contrat.
 - **Période d’essai** : 6 mois maximum à partir du premier jour de travail.
 - **Préavis** : prévu au contrat, entre 30 et 90 jours.
-- **Indemnité de fin de service** (« gratuity ») : due après au moins un an de service continu, calculée sur le salaire de base, avec un plafond de deux ans de salaire.
+- **Indemnité de fin de service** (« gratuity ») : due après au moins un an de service continu, calculée sur le dernier salaire de base, à raison de 21 jours de salaire par année pour les cinq premières années, puis 30 jours par année au-delà, dans la limite de deux ans de salaire.
 - **Paiement du salaire** : par le système de protection des salaires (WPS) pour les entreprises enregistrées au MOHRE, ce qui permet de contrôler qu’il est bien versé.
 - **Repos** : au moins un jour de repos par semaine. Le week-end du secteur public est le samedi et le dimanche ; la plupart des entreprises privées ont suivi, mais vérifiez votre contrat.
 
@@ -115,7 +119,7 @@ Les Émirats ne prélèvent pas d’impôt sur le revenu des salaires. Votre sal
 
 ### Pas de salaire minimum général pour les expatriés
 
-Il n’existe pas de salaire minimum général pour les expatriés du secteur privé : le salaire est négocié et fixé par le contrat. Seuls les salariés émiriens du privé bénéficient d’un minimum, fixé à 6 000 AED par mois depuis le 1er janvier 2026.
+Il n’existe pas de salaire minimum général pour les expatriés du secteur privé : le salaire est négocié et fixé par le contrat. Seuls les salariés émiriens du privé bénéficient d’un minimum, porté par le MOHRE à 6 000 AED par mois pour les permis délivrés ou renouvelés depuis le 1er janvier 2026.
 
 ### Quelques repères officiels
 
@@ -125,7 +129,7 @@ Il n’y a pas de grille officielle des salaires par métier. Les salaires varie
 |---|---|---|
 | Parrainage de la famille | 4 000 AED, ou 3 000 AED avec logement fourni | Faire venir conjoint et enfants |
 | Green Visa de salarié qualifié | 15 000 AED | Résidence de 5 ans sans dépendre de l’employeur |
-| Golden Visa de profil qualifié | 30 000 AED (conditions à vérifier sur icp.gov.ae) | Résidence de 10 ans |
+| Golden Visa de profil qualifié | 30 000 AED selon l’ICP (salaire de base ou total : à confirmer auprès de l’ICP ou de la GDRFA) | Résidence longue, sans dépendre de l’employeur |
 
 Pour savoir si une offre est correcte, comparez-la avec votre budget réel : loyer, écoles, assurance de la famille, voiture. Notre guide du [coût de la vie à Dubaï](/cout-de-la-vie-dubai/) donne les ordres de grandeur.
 
@@ -143,7 +147,7 @@ Le MOHRE et la police de Dubaï alertent régulièrement contre les fausses offr
 - **Le contact passe uniquement par WhatsApp ou une adresse e-mail gratuite**, sans site d’entreprise vérifiable.
 - **On vous propose de venir avec un visa touristique** et de « régulariser plus tard ».
 
-Pour vérifier une offre d’une entreprise du mainland, une offre approuvée par le MOHRE porte un numéro de transaction que l’on peut contrôler sur les services du ministère. En cas de doute, ne payez rien et ne transmettez aucun document original.
+Pour une entreprise du mainland, l’offre d’emploi passe en principe par le MOHRE et porte un numéro de transaction. Le ministère propose des services de consultation en ligne, mais leur intitulé change souvent : en cas de doute, demandez ce numéro à l’employeur et faites vérifier l’offre directement auprès du MOHRE (site, application ou centre d’appel). Ne payez rien et ne transmettez aucun document original tant que l’offre n’est pas vérifiée.
 
 ## Votre plan d’action pour travailler à Dubaï
 

@@ -15,7 +15,7 @@ faq:
   - q: "À partir de quel chiffre d'affaires faut-il s'enregistrer à la TVA ?"
     a: "L'enregistrement est obligatoire quand vos ventes taxables et importations dépassent 375 000 AED sur les 12 derniers mois, ou devraient les dépasser dans les 30 prochains jours. Il est possible de s'enregistrer volontairement à partir de 187 500 AED. Le taux standard de la TVA est de 5 %."
   - q: "Comment obtenir un certificat de résidence fiscale aux Émirats ?"
-    a: "La demande se fait en ligne sur EmaraTax, le portail de l'Autorité fédérale des impôts (FTA). Il faut remplir les critères de résidence fiscale émiriens (par exemple 183 jours de présence sur 12 mois consécutifs) et fournir des justificatifs. Des frais s'appliquent selon votre situation."
+    a: "La demande se fait en ligne sur la plateforme des certificats de résidence fiscale de l'Autorité fédérale des impôts (FTA). Il faut remplir les critères de résidence fiscale émiriens (par exemple 183 jours de présence sur 12 mois consécutifs) et fournir des justificatifs. Pour un particulier non enregistré à l'impôt sur les sociétés, la FTA indique 50 AED de frais de dépôt et 1 000 AED pour l'examen du dossier, non remboursés en cas de refus."
   - q: "Un Français installé à Dubaï paie-t-il encore des impôts en France ?"
     a: "Cela dépend de son domicile fiscal. Selon impots.gouv.fr, vous restez résident fiscal français si un seul de ces critères est rempli : foyer ou lieu de séjour principal en France, activité professionnelle principale en France, ou centre de vos intérêts économiques en France. Les revenus de source française, comme des loyers, restent en général imposables en France. Faites valider votre situation par un conseiller fiscal."
 sources:
@@ -28,7 +28,7 @@ sources:
   - label: "Federal Tax Authority : certificats de résidence fiscale"
     url: "https://tax.gov.ae/en/services/issuance.of.tax.certificates.aspx"
   - label: "Ministère des Finances des Émirats : conventions de non-double imposition"
-    url: "https://mof.gov.ae/en/public-finance/international-relations/double-taxation-agreements/"
+    url: "https://mof.gov.ae/en/public-finance/international-relations/double-taxation-agreements-dtas/"
   - label: "impots.gouv.fr : Suis-je non-résident fiscal ?"
     url: "https://www.impots.gouv.fr/particulier/suis-je-bien-non-resident"
 related: ["creer-sa-societe-a-dubai", "zone-franche-dubai", "ouvrir-un-compte-bancaire-a-dubai", "s-installer-a-dubai", "golden-visa-dubai"]
@@ -76,7 +76,7 @@ Les très grands groupes multinationaux relèvent d'un régime particulier (règ
 
 ### Le régime de zone franche à 0 %
 
-Une société installée en zone franche peut bénéficier d'un taux de **0 % sur ses revenus qualifiants** si elle remplit toutes les conditions de « personne qualifiante de zone franche » (*Qualifying Free Zone Person*). Ces conditions portent notamment sur la substance réelle dans la zone franche, la nature des activités et des clients, et la tenue de comptes audités. Les revenus non qualifiants sont imposés à 9 %, **sans** la tranche à 0 % jusqu'à 375 000 AED.
+Une société installée en zone franche peut bénéficier d'un taux de **0 % sur ses revenus qualifiants** si elle remplit toutes les conditions de « personne qualifiante de zone franche » (*Qualifying Free Zone Person*). Ces conditions portent notamment sur la substance réelle dans la zone franche, la nature des activités et des clients, et la tenue de comptes audités. Les revenus non qualifiants sont imposés à 9 %, et la tranche à 0 % jusqu'à 375 000 AED ne s'applique pas à une société qui relève de ce régime (l'article 3 du décret-loi fédéral n° 47 de 2022 fixe des taux distincts pour elle). Faites valider votre calcul par un conseiller fiscal.
 
 Attention : être immatriculé en zone franche ne suffit pas. Beaucoup d'entrepreneurs découvrent trop tard que leurs ventes à des clients du continent ne sont pas des revenus qualifiants. Notre guide sur la [zone franche à Dubaï](/zone-franche-dubai/) détaille ce choix.
 
@@ -126,13 +126,27 @@ Depuis le 1er mars 2023, une décision du Conseil des ministres fixe quand une p
 
 ### Le certificat de résidence fiscale
 
-Le **certificat de résidence fiscale** (*Tax Residency Certificate*) prouve votre résidence fiscale émirienne, notamment pour bénéficier d'une convention fiscale. Il se demande en ligne sur **EmaraTax**, le portail de la FTA. On vous demandera en général une preuve de résidence (visa, Emirates ID, bail enregistré ou titre de propriété), un justificatif de revenus et le détail de vos jours de présence. La FTA publie une grille de frais qui varie selon votre statut.
+Le **certificat de résidence fiscale** (*Tax Residency Certificate*) prouve votre résidence fiscale émirienne, notamment pour bénéficier d'une convention fiscale. Il se demande en ligne sur la **plateforme des certificats de résidence fiscale** de la FTA (accessible depuis tax.gov.ae). On vous demandera en général une preuve de résidence (visa, Emirates ID, bail enregistré ou titre de propriété), un justificatif de revenus et le détail de vos jours de présence. Selon la grille publiée par la FTA (page mise à jour en octobre 2026) :
+
+- 50 AED de frais de dépôt pour chaque demande ;
+- 1 000 AED pour un particulier non enregistré à l'impôt sur les sociétés, 500 AED pour une personne enregistrée, 1 750 AED pour une société non enregistrée ;
+- 250 AED par exemplaire papier demandé.
+
+Ces frais ne sont pas remboursés en cas de refus.
 
 Attention : ce certificat prouve votre résidence **aux Émirats**. Il ne suffit pas, à lui seul, à prouver que vous n'êtes plus résident fiscal dans votre pays d'origine.
 
 ## Les conventions fiscales : utiles, mais pas magiques
 
-Selon le ministère des Finances, les Émirats ont conclu **plus de 130 conventions de non-double imposition**. Parmi les pays francophones, des conventions existent notamment avec la **France** (convention de 1989), le **Maroc**, l'**Algérie**, la **Belgique**, la **Suisse** et le **Canada**. Pour votre pays (Tunisie, Sénégal, Côte d'Ivoire, Luxembourg…), vérifiez la liste à jour et l'état de chaque convention (signée ou en vigueur) sur le tableau de bord du ministère des Finances.
+Selon le ministère des Finances, les Émirats ont conclu **plus de 130 conventions de non-double imposition** (137 à ce jour d'après sa page dédiée). Parmi les pays francophones, des conventions existent notamment avec :
+
+- la **France** : signée le 19 juillet 1989, en vigueur depuis 1990 (impots.gouv.fr) ;
+- la **Belgique** : signée en 1996, en vigueur depuis 2004 (loi d'assentiment publiée au Moniteur belge) ;
+- la **Suisse** : signée en 2011, en vigueur depuis 2012, modifiée par un protocole entré en vigueur en 2025 (Secrétariat d'État aux questions financières internationales) ;
+- le **Canada** : signée en 2002, en vigueur depuis 2004 (ministère de la Justice du Canada) ;
+- le **Maroc** et l'**Algérie** : des conventions existent, mais vérifiez le texte applicable et son état auprès de l'administration fiscale de votre pays.
+
+Pour votre pays (Tunisie, Sénégal, Côte d'Ivoire, Luxembourg…), vérifiez la liste à jour et l'état de chaque convention (signée ou en vigueur) sur le tableau de bord du ministère des Finances.
 
 Ce qu'une convention fait :
 
@@ -153,7 +167,7 @@ Selon impots.gouv.fr, vous êtes **domicilié fiscalement en France** si vous re
 2. vous exercez en France votre **activité professionnelle principale**, salariée ou non, sauf si elle y est accessoire ;
 3. le **centre de vos intérêts économiques** est en France (principaux investissements, siège de vos affaires, source principale de vos revenus).
 
-Ces critères s'apprécient pour chaque membre du foyer. Si votre conjoint et vos enfants restent en France, vous risquez d'y rester résident fiscal même en vivant à Dubaï. Une convention fiscale peut trancher en cas de double résidence. Par ailleurs, les revenus de source française (loyers d'un bien en France, par exemple) restent en général imposables en France, et un départ peut déclencher une imposition de certaines plus-values latentes sur titres (« exit tax »), au-delà de certains seuils de participations.
+Ces critères s'apprécient pour chaque membre du foyer. Si votre conjoint et vos enfants restent en France, vous risquez d'y rester résident fiscal même en vivant à Dubaï. Une convention fiscale peut trancher en cas de double résidence. Par ailleurs, les revenus de source française (loyers d'un bien en France, par exemple) restent en général imposables en France, et un départ peut déclencher une imposition de certaines plus-values latentes sur titres (« exit tax »). Selon impots.gouv.fr, elle vise notamment les personnes domiciliées en France au moins six ans sur les dix dernières années qui détiennent plus de 800 000 euros de titres ou au moins 50 % des bénéfices d'une société ; ces règles sont souvent modifiées par les lois de finances, vérifiez-les l'année de votre départ.
 
 ### Les autres pays
 
@@ -164,7 +178,7 @@ Chaque pays a ses propres critères (foyer, durée de séjour, centre des intér
 1. **Vérifiez votre domicile fiscal** dans votre pays d'origine avec ses propres critères, pour vous et pour chaque membre de votre famille.
 2. **Lisez la convention fiscale** entre votre pays et les Émirats, ou faites-la lire par un conseiller.
 3. **Gardez des preuves** de votre installation réelle : visa, Emirates ID, bail enregistré, factures, scolarité des enfants, jours de présence.
-4. **Demandez un certificat de résidence fiscale** sur EmaraTax quand vous remplissez les critères.
+4. **Demandez un certificat de résidence fiscale** auprès de la FTA quand vous remplissez les critères.
 5. **Pour votre société** : enregistrez-la à l'impôt sur les sociétés dans les délais, tenez une comptabilité, et surveillez le seuil de TVA de 375 000 AED.
 6. **En zone franche** : ne comptez pas sur le 0 % sans avoir vérifié chaque condition du régime qualifiant.
 7. **Ouvrez un compte local** pour séparer clairement vos flux : voyez notre guide pour [ouvrir un compte bancaire à Dubaï](/ouvrir-un-compte-bancaire-a-dubai/).

@@ -11,7 +11,7 @@ faq:
   - q: "Un étranger peut-il créer une société à Dubaï sans associé émirien ?"
     a: "Oui, dans la grande majorité des cas. En zone franche, la propriété étrangère à 100 % est la règle. Sur le mainland, elle est possible depuis 2021 pour la plupart des activités, à l’exception d’une liste limitée d’activités dites stratégiques."
   - q: "Combien coûte la création d’une société à Dubaï ?"
-    a: "Il n’existe pas de prix unique : il dépend de la zone, de l’activité, du bureau et du nombre de visas. Dans les zones franches les plus accessibles, une licence sans visa commence autour de quelques milliers à une quinzaine de milliers de dirhams par an. Avec un ou deux visas et un bureau, le budget de la première année est souvent plusieurs fois plus élevé. Demandez toujours un devis écrit et détaillé."
+    a: "Il n’existe pas de prix unique : il dépend de la zone, de l’activité, du bureau et du nombre de visas. Dans les zones franches de Dubaï les plus accessibles, une licence sans visa commence en général autour d’une dizaine de milliers de dirhams par an, selon les tarifs affichés par les zones elles-mêmes. Avec un ou deux visas et un bureau, le budget de la première année est souvent plusieurs fois plus élevé. Demandez toujours un devis écrit et détaillé."
   - q: "Faut-il vivre à Dubaï pour y ouvrir une société ?"
     a: "Non. Vous pouvez lancer la création depuis l’étranger, la plupart des démarches se font en ligne. En revanche, il faudra venir sur place pour le visa de résidence (examen médical, données biométriques de l’Emirates ID) et, très souvent, pour le rendez-vous à la banque."
   - q: "Une société à Dubaï paie-t-elle des impôts ?"
@@ -23,8 +23,8 @@ faq:
 sources:
   - label: "u.ae : étapes pour créer une entreprise sur le mainland"
     url: "https://u.ae/en/information-and-services/business/Doing-business/doing-business-on-the-mainland/steps-to-start-a-business-on-the-mainland"
-  - label: "u.ae : créer une entreprise en zone franche"
-    url: "https://u.ae/en/information-and-services/business/Doing-business/doing-business-in-free-zones/starting-a-business-in-a-free-zone"
+  - label: "Ministère des Finances : prolongation du Small Business Relief jusqu’au 31 décembre 2029"
+    url: "https://mof.gov.ae/en/news/ministry-of-finance-announces-extension-of-small-business-relief-for-corporate-tax-purposes-until-31-december-2029/"
   - label: "Ministère de l’Économie (moet.gov.ae) : propriété des sociétés à 100 %"
     url: "https://www.moet.gov.ae/en/w/100-company-ownership"
   - label: "u.ae : impôt sur les sociétés"
@@ -125,7 +125,7 @@ La banque est le vrai goulot d’étranglement. Commencez à constituer le dossi
 
 Méfiez-vous des prix d’appel. Le coût réel dépend de quatre postes : la licence, le bureau, les visas et les services annexes (carte d’établissement, assurance santé, comptable).
 
-- **Zone franche, licence sans visa :** dans les zones les plus accessibles, les offres commencent autour de quelques milliers à une quinzaine de milliers de dirhams par an.
+- **Zone franche, licence sans visa :** dans les zones de Dubaï les plus accessibles, les offres affichées commencent en général autour d’une dizaine de milliers de dirhams par an, visa non compris (exemples sourcés dans notre guide de la zone franche). Les tarifs changent souvent et varient selon l’activité.
 - **Zone franche avec un ou deux visas :** le budget de la première année est souvent de plusieurs dizaines de milliers de dirhams. À titre d’exemple, DMCC indique des forfaits d’un an allant d’environ 35 000 à 50 000 AED.
 - **Mainland :** le coût dépend surtout du loyer du local, car le bail conditionne la licence et le nombre de visas.
 - **Chaque visa :** comptez en général quelques milliers de dirhams (frais d’immigration, examen médical, Emirates ID), plus l’assurance santé obligatoire.
@@ -136,7 +136,7 @@ Demandez un devis écrit qui distingue la première année et le renouvellement,
 
 Pendant longtemps, une société de mainland devait avoir un associé émirien à 51 %. Ce n’est plus le cas pour la plupart des activités. Le ministère de l’Économie indique que les investisseurs de toutes nationalités peuvent créer et détenir entièrement une société aux Émirats, en application de la loi fédérale n° 26 de 2020 sur les sociétés commerciales. Seul un nombre limité d’activités, dites stratégiques, reste soumis à des règles particulières.
 
-Dans les zones franches, la propriété étrangère à 100 % existe depuis toujours. Pour certaines licences professionnelles, un agent de service local peut encore être demandé : vérifiez ce point pour votre activité avant de signer.
+Dans les zones franches, la propriété étrangère à 100 % existe depuis toujours. Sur le mainland, certaines licences professionnelles détenues par des étrangers peuvent encore demander un agent de service local (un ressortissant émirien qui ne détient aucune part de la société), selon l’activité et la forme juridique : faites confirmer ce point par le DET pour votre activité avant de signer.
 
 ## Les visas liés à votre société
 
@@ -148,7 +148,7 @@ Une société de mainland ou de zone franche peut parrainer :
 
 Le quota dépend surtout de la surface du bureau ou du forfait choisi en zone franche. Un flexi-desk donne en général droit à peu de visas, un bureau privé à davantage. Si vous prévoyez d’embaucher, dites-le dès le devis.
 
-Le visa ouvre la voie à l’Emirates ID, à un compte bancaire personnel et à un bail à votre nom. Tout est détaillé dans notre guide du [visa de résidence à Dubaï](/visa-residence-dubai/). Les entrepreneurs qui remplissent certaines conditions peuvent aussi viser un visa de 10 ans : voir notre guide du Golden Visa à Dubaï.
+Le visa ouvre la voie à l’Emirates ID, à un compte bancaire personnel et à un bail à votre nom. Tout est détaillé dans notre guide du [visa de résidence à Dubaï](/visa-residence-dubai/). Les entrepreneurs qui remplissent certaines conditions peuvent aussi viser un visa de longue durée, dont la durée (5 ou 10 ans) dépend de la catégorie et de l’autorité qui le délivre : voir notre guide du Golden Visa à Dubaï.
 
 ## Ouvrir le compte bancaire de la société
 
@@ -177,7 +177,7 @@ N’oubliez pas votre propre situation : votre pays d’origine peut continuer �
 
 ## Monter une société à Dubaï depuis l’étranger
 
-Vous pouvez lancer la création depuis Casablanca, Paris, Bruxelles, Montréal ou Dakar : la plupart des zones franches acceptent un dossier entièrement en ligne, avec signature électronique. Prévoyez toutefois un séjour à Dubaï pour :
+Vous pouvez lancer la création depuis Casablanca, Paris, Bruxelles, Montréal ou Dakar : de nombreuses zones franches acceptent un dossier entièrement en ligne, avec signature électronique. Prévoyez toutefois un séjour à Dubaï pour :
 
 - l’examen médical et les empreintes de l’Emirates ID ;
 - le rendez-vous à la banque, que la plupart des banques demandent en personne ;

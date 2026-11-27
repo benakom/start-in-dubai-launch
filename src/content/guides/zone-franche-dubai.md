@@ -29,6 +29,8 @@ sources:
     url: "https://dmcc.ae/blog/company-registration-in-dubai-mainland-vs-free-zone-vs-offshore?hsLang=en"
   - label: "Federal Tax Authority : guide de l’impôt sur les sociétés pour les Free Zone Persons"
     url: "https://tax.gov.ae/Datafolder/Files/Guides/CT/Free%20Zone%20Persons%20-%2020%2005%202024%20final%20for%20GCD.pdf"
+  - label: "Meydan Free Zone : création en ligne et licence à partir de 12 500 AED par an"
+    url: "https://www.meydanfz.ae/dubai-trade-license-aed-12500"
 related: ["creer-sa-societe-a-dubai", "societe-offshore-dubai", "freelance-dubai", "impots-dubai", "visa-residence-dubai"]
 order: 2
 ---
@@ -58,15 +60,15 @@ Située à Jumeirah Lakes Towers, DMCC est l’une des plus grandes zones franch
 
 ### IFZA
 
-IFZA opère au sein de Dubai Silicon Oasis, une zone rattachée à l’autorité des zones économiques intégrées de Dubaï (DIEZ). Elle est très utilisée pour les activités de conseil, de services et de commerce, grâce à des forfaits accessibles et à un réseau de partenaires agréés.
+IFZA (International Free Zone Authority) est installée à Dubai Silicon Oasis, en vertu d’un accord signé en 2020 avec l’autorité de cette zone, aujourd’hui regroupée au sein de l’autorité des zones économiques intégrées de Dubaï (DIEZ). Elle est souvent choisie pour les activités de conseil, de services et de commerce, et passe par un réseau de partenaires agréés. Ses tarifs se demandent par devis : comparez-les avec ceux des autres zones.
 
 ### Meydan Free Zone
 
-Basée dans le quartier de Meydan, elle est souvent choisie pour les petites structures de services, de conseil ou d’e-commerce, avec des démarches entièrement en ligne.
+Basée dans le quartier de Meydan, elle est souvent choisie pour les petites structures de services, de conseil ou d’e-commerce. La zone indique que la création se fait entièrement en ligne et affiche une licence à partir de 12 500 AED par an, visa non compris (tarif à vérifier sur son site au moment de votre demande).
 
 ### Dubai South
 
-Construite autour de l’aéroport Al Maktoum, Dubai South vise la logistique, l’aviation, l’e-commerce et les entreprises qui ont besoin d’entrepôts.
+Construite autour de l’aéroport international Al Maktoum, Dubai South vise la logistique, l’aviation, l’e-commerce (avec sa zone dédiée EZDubai) et les entreprises qui ont besoin d’entrepôts.
 
 ### DIFC (Dubai International Financial Centre)
 
@@ -102,7 +104,7 @@ Pour voir l’ensemble des étapes de création, quelle que soit la juridiction,
 
 C’est le point le plus mal compris. Une société de zone franche peut travailler librement avec des clients à l’étranger et avec d’autres sociétés de zones franches. Pour vendre sur le mainland, u.ae indique qu’elle doit passer par un distributeur agréé du mainland ou créer une succursale ou une société sur le mainland.
 
-Depuis 2025, Dubaï a ajouté une troisième voie. La résolution n° 11 de 2025 du Conseil exécutif de Dubaï encadre l’activité des sociétés de zones franches hors de leur zone, et le DET a lancé en octobre 2025 le **Free Zone Mainland Operating Permit** :
+Depuis 2025, Dubaï a ajouté une troisième voie. La décision n° 11 de 2025 du Conseil exécutif de Dubaï encadre l’activité des sociétés de zones franches hors de leur zone, et le DET a lancé en octobre 2025 le **Free Zone Mainland Operating Permit** :
 
 - coût annoncé de 5 000 AED, pour une durée de 6 mois, renouvelable au même prix ;
 - réservé aux sociétés de zone franche titulaires d’une Dubai Unified Licence ;

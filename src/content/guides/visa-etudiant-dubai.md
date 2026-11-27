@@ -6,7 +6,7 @@ keyword: "visa étudiant dubai"
 secondary: ["visa étudiant uae", "visa étudiant dubai prix", "student visa dubai"]
 cluster: etudes
 updated: 2026-11-27
-intro: "Le visa étudiant de Dubaï est un permis de résidence accordé à un étudiant inscrit dans un établissement agréé. Il est parrainé soit par l’université, soit par un parent résident aux Émirats. Les frais officiels de la GDRFA démarrent à 200 AED, mais les universités facturent en pratique un forfait de plusieurs milliers de dirhams avec l’assurance et un dépôt. Le visa se renouvelle en général chaque année, jusqu’à la fin des études."
+intro: "Le visa étudiant de Dubaï est un permis de résidence accordé à un étudiant inscrit dans un établissement agréé. Il est parrainé soit par l’université, soit par un parent résident aux Émirats. Les frais officiels de la GDRFA démarrent à 200 AED, mais les universités facturent en pratique un forfait de plusieurs milliers de dirhams avec l’assurance et un dépôt. Les universités le font en général délivrer pour un an, puis renouveler chaque année jusqu’à la fin des études."
 faq:
   - q: "Combien coûte un visa étudiant à Dubaï ?"
     a: "Le frais officiel de la GDRFA pour le permis de résidence étudiant est de 200 AED, plus des frais annexes (20 AED de taxes, 500 AED si l’étudiant est déjà aux Émirats, livraison). Les universités ajoutent leurs propres frais : à l’University of Birmingham Dubai, par exemple, le forfait total allait d’environ 7 100 à 10 100 AED, dont un dépôt remboursable de 3 000 AED et l’assurance santé."
@@ -43,7 +43,7 @@ Vous avez votre admission dans une université de Dubaï ? Il reste le visa. La 
 |---|---|
 | Qui parraine ? | L'université (le cas le plus courant) ou un parent résident aux Émirats |
 | Qui délivre ? | La GDRFA (direction de la résidence de Dubaï) |
-| Durée | En général un an, renouvelable pendant toute la durée des études |
+| Durée | Pas de durée unique dans les textes ; en pratique souvent un an, renouvelé jusqu'à la fin des études (selon l'université) |
 | Frais officiels GDRFA | 200 AED, plus frais annexes |
 | Coût réel via l'université | Plusieurs milliers d'AED avec assurance et dépôt |
 | Travail | Encadré : vacances et stages, avec permis |
@@ -132,7 +132,7 @@ D'autres universités appliquent des montants différents : demandez la grille a
 
 ## Durée et renouvellement
 
-Le visa étudiant est en général délivré **pour un an** et renouvelé chaque année jusqu'à la fin du programme. Selon la GDRFA, le renouvellement se fait **dans les mêmes conditions que la première demande** : photo, passeport, visite médicale, et un établissement toujours agréé.
+Les pages officielles (u.ae, GDRFA) ne fixent pas de durée unique : u.ae demande un certificat de l'université indiquant la durée des études. En pratique, beaucoup d'universités font délivrer le visa **pour un an** et le renouvellent chaque année jusqu'à la fin du programme : l'University of Birmingham Dubai, par exemple, annonce un visa de 12 mois avec des renouvellements annuels. Demandez la règle à votre université. Selon la GDRFA, le renouvellement se fait **dans les mêmes conditions que la première demande** : photo, passeport, visite médicale, et un établissement toujours agréé.
 
 Conseils pratiques :
 
@@ -154,7 +154,7 @@ Travailler sans autorisation met le visa en danger. En cas de doute, demandez au
 
 ## Le Golden Visa pour étudiants brillants
 
-Le Golden Visa est une résidence longue, sans sponsor. Le portail u.ae indique **5 ans pour les meilleurs bacheliers et 10 ans pour les meilleurs étudiants universitaires** ; la fiche de la GDRFA de Dubaï parle de 10 ans. La durée exacte est confirmée lors de la demande. Les conditions publiées par la GDRFA :
+Le Golden Visa est une résidence longue, sans sponsor. Les sources officielles ne concordent pas sur sa durée : le portail fédéral u.ae (page mise à jour en juillet 2026) indique **5 ans pour les meilleurs bacheliers et 10 ans pour les meilleurs étudiants universitaires**, alors que la fiche de service de la GDRFA de Dubaï indique un permis de **10 ans** pour tous ces profils. C'est l'autorité qui délivre le visa (la GDRFA à Dubaï, l'ICP dans les autres émirats) qui fixe la durée de votre permis : faites-la confirmer au moment de la demande. Côté frais, la GDRFA affiche 1 100 AED pour le permis, plus les frais annexes. Les conditions publiées par la GDRFA :
 
 | Profil | Conditions principales |
 |---|---|

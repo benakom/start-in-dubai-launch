@@ -15,7 +15,7 @@ faq:
   - q: "Que se passe-t-il si je reste plus de 6 mois hors des Émirats ?"
     a: "Un visa de résidence classique est annulé automatiquement après plus de 180 jours consécutifs à l'étranger. Il existe des exceptions (étudiants à l'étranger, soins médicaux, investisseurs titulaires d'un visa valide, entre autres) et une procédure de retour avec amende. Les titulaires du Golden Visa et du Green Visa ne sont pas concernés."
   - q: "Comment obtenir un visa investisseur à Dubaï ?"
-    a: "La voie la plus courante est de créer une société et de devenir associé : la société vous parraine. Il existe aussi un Green Visa de 5 ans pour investisseurs et associés, et le Golden Visa de 10 ans à partir de 2 millions de dirhams investis."
+    a: "La voie la plus courante est de créer une société et de devenir associé : la société vous parraine. Il existe aussi un Green Visa de 5 ans pour investisseurs et associés, et le Golden Visa (5 ou 10 ans selon la catégorie et l'autorité qui le délivre) à partir de 2 millions de dirhams investis."
   - q: "Quel salaire faut-il pour parrainer sa famille à Dubaï ?"
     a: "Selon u.ae, le parrain doit gagner au moins 4 000 AED par mois, ou 3 000 AED avec un logement fourni. Il faut aussi un logement adapté et des documents d'état civil légalisés. Des conditions particulières peuvent s'appliquer selon l'émirat et la situation du parrain."
 sources:
@@ -25,6 +25,8 @@ sources:
     url: "https://u.ae/en/information-and-services/visa-and-emirates-id/types-of-visas/residence-visa/residence-visa-for-family-members"
   - label: "u.ae : Residence visa for the retired"
     url: "https://u.ae/en/information-and-services/visa-and-emirates-id/residence-visas/residence-visa/residence-visa-for-the-retired"
+  - label: "GDRFA Dubaï : Issuing a residence permit for the retired foreigner"
+    url: "https://gdrfad.gov.ae/en/node/13960"
   - label: "ICP : UAE Green Residency"
     url: "https://icp.gov.ae/en/uae-green-residency"
 related: ["golden-visa-dubai", "creer-sa-societe-a-dubai", "freelance-dubai", "travailler-a-dubai", "s-installer-a-dubai-en-famille"]
@@ -55,7 +57,7 @@ Le portail officiel u.ae indique que les visas parrainés durent **1, 2 ou 3 ans
 | Propriétaire | Votre bien immobilier | 2 ans | Propriétaires à Dubaï |
 | Retraite | Vous-même | 5 ans | 55 ans et plus |
 | Famille | Un proche résident | Celle du parrain au maximum | Conjoint, enfants, parents |
-| Golden Visa | Vous-même | 10 ans en général | Investisseurs, talents, entrepreneurs, étudiants brillants |
+| Golden Visa | Vous-même | 5 ou 10 ans selon la catégorie | Investisseurs, talents, entrepreneurs, étudiants brillants |
 
 ### Visa d'emploi
 
@@ -81,11 +83,16 @@ Pour exercer en indépendant, il faut un permis freelance (MOHRE) ou une licence
 
 ### Visa propriétaire
 
-Un propriétaire à Dubaï peut obtenir un visa de résidence de 2 ans, délivré via le Dubai Land Department. Les conditions de valeur du bien ont été modifiées récemment, vérifiez-les au moment de votre demande. Au-delà de 2 millions de dirhams, c'est le [Golden Visa à Dubaï](/golden-visa-dubai/) qui devient possible. Pour la partie achat, notre partenaire [Cevitas Real Estate](https://www.cevitas.ae) s'en occupe.
+Un propriétaire à Dubaï peut obtenir un visa de résidence de 2 ans, délivré via le Dubai Land Department. Selon la presse émiratie, le seuil minimal de valeur du bien a été supprimé en 2026 pour un propriétaire unique, avec un minimum par copropriétaire en cas d'achat à plusieurs ; ce changement n'a pas fait l'objet d'une annonce officielle détaillée. Vérifiez les conditions auprès du Dubai Land Department au moment de votre demande. Au-delà de 2 millions de dirhams, c'est le [Golden Visa à Dubaï](/golden-visa-dubai/) qui devient possible. Pour la partie achat, notre partenaire [Cevitas Real Estate](https://www.cevitas.ae) s'en occupe.
 
 ### Visa retraite
 
-Selon u.ae, les retraités d'au moins **55 ans**, avec au moins 15 ans d'expérience professionnelle (aux Émirats ou ailleurs), peuvent obtenir un visa de 5 ans. Il faut aussi remplir une condition financière : un patrimoine (biens immobiliers et épargne) d'au moins 1 million de dirhams, selon les modalités précisées par l'ICP ou la GDRFA, ou un revenu annuel d'au moins **180 000 AED**. Pour Dubaï, u.ae indique un revenu annuel minimum plus élevé, de **240 000 AED**.
+Selon u.ae, les retraités d'au moins **55 ans**, avec au moins 15 ans d'expérience professionnelle (aux Émirats ou ailleurs), peuvent obtenir un visa de 5 ans. Il faut aussi remplir l'une de deux conditions financières (u.ae, page mise à jour le 28 juillet 2026) :
+
+- posséder un ou plusieurs biens d'au moins **1 million de dirhams** et une épargne d'au moins **1 million de dirhams** ;
+- ou disposer d'un revenu annuel d'au moins **180 000 AED** (de source émirienne ou étrangère).
+
+Pour une demande à Dubaï, u.ae et la GDRFA indiquent un revenu annuel fixe minimum plus élevé, de **240 000 AED**. Le texte de la GDRFA relie le bien et le dépôt par « et », mais sa liste de justificatifs les présente comme des options séparées : faites confirmer la combinaison acceptée par la GDRFA avant de déposer.
 
 ### Visa famille (parrainage)
 

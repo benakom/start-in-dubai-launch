@@ -10,7 +10,7 @@ updated: 2026-11-27
 intro: "Pour s’installer à Dubaï depuis la Belgique, vous entrez sans visa préalable avec votre passeport belge pour un court séjour, puis vous obtenez un visa de résidence par un employeur, votre société, un investissement ou un proche. Avant de partir, déclarez votre départ à la commune (au plus tard la veille), faites légaliser vos documents au SPF Affaires étrangères puis à l’ambassade des Émirats à Bruxelles, et vérifiez votre statut fiscal et votre protection sociale (impôt des non-résidents, sécurité sociale d’outre-mer)."
 faq:
   - q: "Faut-il un visa pour aller à Dubaï avec un passeport belge ?"
-    a: "Pas de visa à demander à l’avance pour un court séjour : les ressortissants belges font partie des nationalités qui reçoivent un séjour à l’arrivée, en principe 90 jours sur une période de 180 jours. Le passeport doit être valide au moins 6 mois. La liste des nationalités et les durées peuvent changer : vérifiez auprès de l’ambassade des Émirats à Bruxelles avant le départ."
+    a: "Non pour un court séjour. Comme les autres citoyens de l’Union européenne, les Belges sont exemptés de visa par l’accord entre l’Union européenne et les Émirats, en vigueur depuis le 12 février 2016 : 90 jours au maximum sur une période de 180 jours. Le passeport doit être valide au moins 6 mois. Les conditions peuvent évoluer : vérifiez-les auprès de l’ambassade des Émirats à Bruxelles avant le départ."
   - q: "Dois-je me radier de ma commune en partant à Dubaï ?"
     a: "Oui si vous établissez votre résidence habituelle à l’étranger. Vous déclarez votre départ à votre administration communale au plus tard la veille du départ. La commune vous remet la preuve de radiation (modèle 8), qui sert ensuite à vous inscrire au registre consulaire de l’ambassade de Belgique."
   - q: "Vais-je encore payer des impôts en Belgique ?"
@@ -26,8 +26,8 @@ sources:
     url: "https://diplomatie.belgium.be/fr/pays/emirats-arabes-unis/voyager-aux-emirats-arabes-unis-conseils-aux-voyageurs/derniere-mise-jour-aux-emirats-arabes-unis"
   - label: "Ambassade de Belgique aux Émirats : légalisation des documents"
     url: "https://unitedarabemirates.diplomatie.belgium.be/en/consular-services/legalization-documents"
-  - label: "Ambassade de Belgique aux Émirats : inscription consulaire"
-    url: "https://unitedarabemirates.diplomatie.belgium.be/en/consular-services/consular-registration"
+  - label: "Parlement européen : accord UE–Émirats d’exemption de visa de court séjour (90 jours sur 180)"
+    url: "https://oeil.europarl.europa.eu/oeil/en/document-summary?id=1427130"
   - label: "ONSS : la sécurité sociale d’outre-mer"
     url: "https://www.socialsecurity.be/CMS/fr/leaving_belgium/convention/OnssRsz_General_01"
   - label: "SPF Finances : quitter la Belgique, déclaration d’impôt"
@@ -42,11 +42,11 @@ Les grandes étapes aux Émirats sont les mêmes pour tous (statut de résident,
 
 ## Visa Dubaï pour un Belge : l’entrée
 
-Avec un passeport belge, vous n’avez pas de visa à demander avant le voyage pour un court séjour. Les ressortissants belges figurent parmi les nationalités qui reçoivent un droit de séjour à l’arrivée, en principe de 90 jours sur une période de 180 jours. Le ministère émirien des Affaires étrangères rappelle deux conditions : un passeport valide au moins 6 mois à la date d’entrée, et une date de naissance complète (jour, mois, année) sur le passeport.
+Avec un passeport belge, vous n’avez pas de visa à demander pour un court séjour. L’accord d’exemption de visa de court séjour entre l’Union européenne et les Émirats, appliqué depuis mai 2015 et en vigueur depuis le 12 février 2016, permet aux citoyens de l’Union, dont les Belges, de séjourner 90 jours au maximum sur une période de 180 jours. L’entrée reste soumise aux conditions habituelles et peut être refusée par les autorités. Le ministère émirien des Affaires étrangères rappelle deux conditions : un passeport valide au moins 6 mois à la date d’entrée, et une date de naissance complète (jour, mois, année) sur le passeport.
 
 Ce séjour sert à visiter, à prospecter, à signer un contrat ou à préparer votre société. Il ne permet pas de travailler. Pour vivre à Dubaï, il faut un visa de résidence.
 
-**À lire avant de réserver** : à sa dernière mise à jour (5 août 2026), le SPF Affaires étrangères indique que les Émirats ont été visés pendant plusieurs semaines par des attaques de missiles et de drones liées à la situation régionale, et déconseille pour le moment les voyages non essentiels. Consultez la page à jour du SPF avant chaque déplacement et enregistrez votre voyage sur Travellers Online.
+**À lire avant de réserver** : à sa dernière mise à jour (5 août 2026, toujours affichée au 27 novembre 2026), le SPF Affaires étrangères indique que les Émirats ont été visés pendant plusieurs semaines par des attaques de missiles et de drones liées à la situation régionale, et déconseille pour le moment les voyages non essentiels. Consultez la page à jour du SPF avant chaque déplacement et enregistrez votre voyage sur Travellers Online.
 
 ### Binationaux belgo-marocains
 
@@ -93,7 +93,7 @@ Une fois non-résident, vous n’êtes imposé en Belgique que sur vos **revenus
 
 ### La convention Belgique–Émirats
 
-La Belgique et les Émirats ont signé une convention préventive de la double imposition (avec protocole) en 1996, approuvée par la loi belge du 2 août 2002. Elle répartit le droit d’imposer chaque type de revenu entre les deux pays. Pour un cas précis (dividendes d’une société belge, pension, bien immobilier conservé), faites vérifier l’article applicable par un conseiller fiscal. Le côté émirien (pas d’impôt sur le revenu des personnes, impôt sur les sociétés, TVA) est expliqué dans notre guide des [impôts à Dubaï](/impots-dubai/).
+La Belgique et les Émirats ont signé une convention préventive de la double imposition (avec protocole) le 30 septembre 1996, approuvée par la loi belge du 2 août 2002 et entrée en vigueur le 6 janvier 2004 (publication au Moniteur belge du 24 décembre 2003). Vérifiez la version applicable, éventuellement modifiée par l’instrument multilatéral de l’OCDE, dans la base Fisconetplus du SPF Finances. Elle répartit le droit d’imposer chaque type de revenu entre les deux pays. Pour un cas précis (dividendes d’une société belge, pension, bien immobilier conservé), faites vérifier l’article applicable par un conseiller fiscal. Le côté émirien (pas d’impôt sur le revenu des personnes, impôt sur les sociétés, TVA) est expliqué dans notre guide des [impôts à Dubaï](/impots-dubai/).
 
 ## Sécurité sociale : la SSOM
 
@@ -106,7 +106,7 @@ La SSOM ne remplace pas l’assurance santé locale exigée pour le visa de rés
 
 ## Vivre à Dubaï en Belge : repères pratiques
 
-- **Permis de conduire** : en visite, un permis local ou international est requis. Une fois résident, vous pouvez échanger votre permis belge contre un permis émirien (la Belgique figure parmi les pays éligibles à l’échange auprès de la RTA ; vérifiez la liste et les pièces à jour).
+- **Permis de conduire** : en visite, un permis local ou international est requis. Une fois résident, vous pouvez échanger votre permis belge contre un permis émirien, selon le SPF Affaires étrangères. Vérifiez les pièces demandées (test de vue notamment) sur le site de la RTA.
 - **Vols** : Emirates relie Bruxelles et Dubaï en vol direct. Vérifiez les fréquences de la saison sur le site de la compagnie.
 - **Réseau belge** : à Dubaï, le **Belgian Business Council** (événements professionnels) et le **Belgian Club Dubai** (club social, sous-comité du Business Council) ; à Abu Dhabi, le **Benelux Business Council**. Ces associations sont référencées par l’ambassade.
 - **Écoles en français** : les familles belges francophones se tournent souvent vers les établissements qui suivent le programme français, présentés dans notre guide des [écoles françaises à Dubaï](/ecoles-francaises-dubai/).

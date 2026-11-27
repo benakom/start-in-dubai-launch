@@ -6,18 +6,18 @@ keyword: "coût de la vie dubai"
 secondary: ["coût de la vie dubai par mois", "coût de la vie dubai vs france", "coût de la vie dubai en euros"]
 cluster: vie
 updated: 2026-11-27
-intro: "À Dubaï, une personne seule dépense en général entre 8 000 et 15 000 AED par mois (environ 1 900 à 3 500 €), un couple entre 12 000 et 22 000 AED (2 800 à 5 100 €) et une famille avec deux enfants dans une école privée entre 25 000 et 45 000 AED (5 800 à 10 500 €), voire plus. Ce sont des ordres de grandeur : le loyer et les frais de scolarité font presque toute la différence."
+intro: "Selon nos estimations, une personne seule dépense à Dubaï de l’ordre de 8 000 à 15 000 AED par mois (environ 1 900 à 3 500 €), un couple de 12 000 à 22 000 AED (2 800 à 5 100 €) et une famille avec deux enfants dans une école privée de 25 000 à 45 000 AED (5 800 à 10 500 €), voire plus. Il n’existe pas de statistique officielle par profil : ce sont des ordres de grandeur, et le loyer comme les frais de scolarité font presque toute la différence."
 faq:
   - q: "Quel salaire pour vivre à Dubaï ?"
-    a: "Il n’existe pas de seuil officiel pour vivre confortablement. Les ordres de grandeur de ce guide donnent une idée : comptez au moins 8 000 AED par mois pour une personne seule hors colocation, et beaucoup plus pour une famille avec des enfants dans le privé. Pour parrainer votre famille, la loi exige un salaire d’au moins 4 000 AED, ou 3 000 AED avec un logement fourni, mais ce minimum légal ne suffit pas à couvrir un budget familial réaliste."
+    a: "Il n’existe pas de seuil officiel pour vivre confortablement. Les estimations de ce guide donnent une idée : comptez de l’ordre de 8 000 AED par mois au minimum pour une personne seule hors colocation, et beaucoup plus pour une famille avec des enfants dans le privé. Pour parrainer votre famille, la loi exige un salaire d’au moins 4 000 AED, ou 3 000 AED avec un logement fourni, mais ce minimum légal ne suffit pas à couvrir un budget familial réaliste."
   - q: "La vie est-elle plus chère à Dubaï qu’en France ?"
     a: "Le logement, les écoles privées et l’assurance santé sont en général plus chers qu’en France, alors que le carburant est nettement moins cher et qu’il n’y a pas d’impôt sur le revenu des salaires. Le bilan dépend donc surtout de votre salaire, de votre logement et du nombre d’enfants à scolariser."
   - q: "Combien coûte un loyer à Dubaï ?"
-    a: "Selon le quartier, un studio se loue souvent entre 2 500 et 5 000 AED par mois et un appartement d’une chambre entre 4 000 et 8 000 AED. Les loyers sont fixés à l’année et se paient fréquemment en plusieurs chèques. Les écarts entre quartiers centraux et excentrés sont très importants."
+    a: "À titre indicatif, selon nos estimations, un studio se loue de l’ordre de 2 500 à 5 000 AED par mois et un appartement d’une chambre de 4 000 à 8 000 AED, avec de très gros écarts entre quartiers centraux et excentrés. Les loyers sont fixés à l’année et se paient fréquemment en plusieurs chèques. Pour un bien précis, comparez avec l’indice des loyers du Dubai Land Department."
   - q: "Combien coûte l’école à Dubaï ?"
-    a: "Les écoles privées sont payantes et leurs frais sont approuvés par la KHDA. Dans les établissements français, ils vont à peu près de 30 000 à 85 000 AED par an et par enfant selon l’école et le niveau, hors frais annexes. Pour l’année 2026-2027, la KHDA a annoncé l’absence de hausse des frais de scolarité."
+    a: "Les écoles privées sont payantes et leurs frais sont approuvés par la KHDA. Dans les établissements français, ils partent d’environ 30 000 AED par an en maternelle et dépassent souvent 60 000 AED au lycée, selon l’école et le niveau, hors frais annexes. Vérifiez la grille de l’école choisie. Pour l’année 2026-2027, la KHDA a annoncé l’absence de hausse des frais de scolarité."
   - q: "Quel est le taux de change entre l’euro et le dirham ?"
-    a: "Le dirham est arrimé au dollar américain (1 USD = 3,6725 AED), donc son cours face à l’euro suit celui du dollar. Dans ce guide, nous convertissons sur la base indicative de 1 € pour environ 4,3 AED : vérifiez le taux du jour avant de faire vos calculs."
+    a: "Le dirham est arrimé au dollar américain (1 USD = 3,6725 AED), donc son cours face à l’euro suit celui du dollar. Dans ce guide, nous convertissons sur la base indicative de 1 € pour environ 4,3 AED (ordre de grandeur observé en 2026) : vérifiez le taux du jour avant de faire vos calculs."
 sources:
   - label: "KHDA : gel des frais de scolarité des écoles privées de Dubaï pour 2026-2027"
     url: "https://mediaoffice.ae/en/news/2026/may/22-05/under-hamdan-bin-mohammeds-directives-khda-confirms-no-fee-increase"
@@ -29,13 +29,15 @@ sources:
     url: "https://www.isahd.ae/Home/FAQ"
   - label: "u.ae : visa de résidence pour la famille (salaire minimum du parrain)"
     url: "https://u.ae/en/information-and-services/visa-and-emirates-id/types-of-visas/residence-visa/residence-visa-for-family-members"
+  - label: "u.ae : louer un logement aux Émirats (taxe de logement de 5 % du loyer à Dubaï)"
+    url: "https://u.ae/en/information-and-services/moving-to-the-uae/leasing-a-property-in-the-uae"
 related: ["vivre-a-dubai", "s-installer-a-dubai", "s-installer-a-dubai-en-famille", "ecoles-francaises-dubai", "travailler-a-dubai"]
 order: 2
 ---
 
 ## Avant de lire les chiffres
 
-Les montants de ce guide sont des **ordres de grandeur prudents**, pas des tarifs officiels. Ils servent à préparer un budget, pas à le remplacer. Trois éléments les font varier fortement :
+Les montants de ce guide sont des **estimations de notre rédaction**, établies à partir d’annonces, de moyennes d’agences et de tarifs publics. Ce ne sont ni des tarifs officiels ni une statistique : ils servent à préparer un budget, pas à le remplacer. Trois éléments les font varier fortement :
 
 - **le quartier et le type de logement**, de loin le premier poste ;
 - **la scolarité des enfants**, quand ils vont dans une école privée ;
@@ -45,7 +47,7 @@ Conversion indicative : **1 € ≈ 4,3 AED**. Le dirham est arrimé au dollar a
 
 ## Le coût de la vie à Dubaï par mois, selon votre profil
 
-| Profil | Budget mensuel en AED | Équivalent approximatif en euros |
+| Profil | Budget mensuel estimé en AED | Équivalent approximatif en euros |
 |---|---|---|
 | Personne seule, studio ou une chambre | 8 000 à 15 000 | 1 900 à 3 500 € |
 | Couple sans enfant, une ou deux chambres | 12 000 à 22 000 | 2 800 à 5 100 € |
@@ -69,7 +71,7 @@ Avec des enfants, la scolarité devient le deuxième poste, parfois le premier. 
 
 ### Le loyer selon le type de logement
 
-Les baux sont annuels. Les loyers sont exprimés à l’année et se paient souvent en 1 à 4 chèques. Voici des fourchettes mensuelles indicatives, qui varient beaucoup d’un quartier à l’autre :
+Les baux sont annuels. Les loyers sont exprimés à l’année et se paient souvent en 1 à 4 chèques. Voici nos estimations de fourchettes mensuelles, qui varient beaucoup d’un quartier à l’autre. Pour un logement précis, comparez avec l’indice des loyers publié par le Dubai Land Department :
 
 | Logement | Loyer mensuel indicatif | En euros |
 |---|---|---|
@@ -84,16 +86,16 @@ Si vous pensez acheter plutôt que louer, c’est un autre calcul : pour l’imm
 
 ### Les écoles
 
-Les écoles privées de Dubaï sont payantes et leurs frais sont approuvés par l’autorité de l’éducation (KHDA). Dans les établissements français, les frais de scolarité vont à peu près de **30 000 à 85 000 AED par an et par enfant** (environ 7 000 à 19 800 €), selon l’école et le niveau. S’y ajoutent souvent les frais d’inscription, l’uniforme, le transport scolaire, les sorties et les activités. Pour l’année 2026-2027, la KHDA a annoncé que les frais des écoles privées de Dubaï n’augmenteraient pas. Comparatif dans notre guide des [écoles françaises à Dubaï](/ecoles-francaises-dubai/).
+Les écoles privées de Dubaï sont payantes et leurs frais sont approuvés par l’autorité de l’éducation (KHDA). Dans les établissements français, les frais de scolarité partent d’**environ 30 000 AED par an** en maternelle (près de 7 000 €) et **dépassent souvent 60 000 AED au lycée** (plus de 14 000 €), selon l’école et le niveau ; l’établissement le plus cher dépasse 100 000 AED par an au lycée (annuaire de la KHDA, novembre 2026). Chaque école publie sa grille approuvée par la KHDA : c’est elle qui fait foi. S’y ajoutent souvent les frais d’inscription, l’uniforme, le transport scolaire, les sorties et les activités. Pour l’année 2026-2027, la KHDA a annoncé que les frais des écoles privées de Dubaï n’augmenteraient pas. Comparatif dans notre guide des [écoles françaises à Dubaï](/ecoles-francaises-dubai/).
 
 ### Le transport
 
 - **Transports publics :** métro, tramway et bus fonctionnent avec la carte Nol. Avec la carte Silver, un trajet coûte 3 AED dans une zone, 5 AED sur deux zones et 7,50 AED au-delà (tarifs RTA). Sans voiture, comptez quelques centaines de dirhams par mois, plus les taxis.
-- **Voiture :** location longue durée ou crédit, assurance, carburant, entretien, péages Salik et stationnement. Selon le véhicule, le budget mensuel se situe souvent entre 2 000 et 3 500 AED. Le carburant est nettement moins cher qu’en Europe.
+- **Voiture :** location longue durée ou crédit, assurance, carburant, entretien, péages Salik et stationnement. Selon le véhicule, nous estimons le budget mensuel de l’ordre de 2 000 à 3 500 AED. Le carburant est nettement moins cher qu’en Europe.
 
 ### Les courses
 
-Les produits locaux et régionaux restent abordables ; les produits importés (fromages, charcuterie, marques européennes) coûtent nettement plus cher qu’en France. En ordre de grandeur :
+Les produits locaux et régionaux restent abordables ; les produits importés (fromages, charcuterie, marques européennes) coûtent nettement plus cher qu’en France. Nos estimations, qui dépendent beaucoup des habitudes :
 
 - personne seule : 1 200 à 2 000 AED par mois ;
 - couple : 2 000 à 3 500 AED ;
@@ -101,7 +103,7 @@ Les produits locaux et régionaux restent abordables ; les produits importés (f
 
 ### Électricité, eau, internet et téléphone
 
-La facture DEWA (électricité et eau) dépend de la taille du logement et surtout de la saison : la climatisation la fait grimper de juin à septembre. À Dubaï, cette facture inclut aussi une taxe municipale de logement calculée sur le loyer annuel. Ajoutez internet et les forfaits mobiles. Au total, comptez de quelques centaines de dirhams par mois pour un studio à 1 500 ou 2 500 AED pour une grande villa en été.
+La facture DEWA (électricité et eau) dépend de la taille du logement et surtout de la saison : la climatisation la fait grimper de juin à septembre. À Dubaï, cette facture inclut aussi la taxe de logement de la municipalité : 5 % du loyer annuel pour un locataire, répartis sur les factures mensuelles (u.ae). Ajoutez internet et les forfaits mobiles. Selon nos estimations, l’ensemble va de quelques centaines de dirhams par mois pour un studio à 1 500 ou 2 500 AED pour une grande villa en été.
 
 ### L’assurance santé
 

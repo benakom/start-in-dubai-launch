@@ -9,7 +9,7 @@ updated: 2026-11-27
 intro: "Pour s’installer à Dubaï, il faut d’abord un visa de résidence, obtenu par l’une de ces 4 voies : un emploi, votre propre société, un investissement (dont le Golden Visa) ou des études. Ensuite viennent, dans l’ordre : la visite médicale, l’Emirates ID, le bail enregistré (Ejari), le compte bancaire, l’assurance santé et l’école des enfants. Comptez en général 3 à 6 mois de préparation si vous vous y prenez dans le bon ordre."
 faq:
   - q: "Quel budget faut-il pour s’installer à Dubaï ?"
-    a: "Il n’existe pas de montant officiel. Prévoyez au minimum les frais de visa et de visite médicale, la caution et les premiers mois de loyer, l’assurance santé et quelques mois de dépenses courantes d’avance. Pour une personne seule, le budget mensuel se situe souvent entre 8 000 et 15 000 AED selon le logement ; notre guide du coût de la vie détaille chaque poste."
+    a: "Il n’existe pas de montant officiel. Prévoyez au minimum les frais de visa et de visite médicale, la caution et les premiers mois de loyer, l’assurance santé et quelques mois de dépenses courantes d’avance. Pour une personne seule, nous estimons le budget mensuel de l’ordre de 8 000 à 15 000 AED selon le logement ; notre guide du coût de la vie détaille chaque poste."
   - q: "Peut-on s’installer à Dubaï sans travail ?"
     a: "Oui, à condition d’avoir une autre base de résidence : votre propre société, le statut freelance, un investissement immobilier ou d’entreprise (Golden Visa ou Green Visa), des études, le visa de télétravail si vous travaillez pour un employeur étranger, ou le parrainage par un membre de votre famille résident. Sans l’une de ces voies, un visa touristique ne permet ni de résider ni de travailler."
   - q: "Combien de temps faut-il pour obtenir la résidence à Dubaï ?"
@@ -69,7 +69,7 @@ Attention : une [société offshore à Dubaï](/societe-offshore-dubai/) ne donn
 
 ### 3. Par un investissement : Golden Visa et Green Visa
 
-Le **Golden Visa** est une résidence longue de 5 ou 10 ans selon la catégorie, renouvelable, qui ne dépend d’aucun employeur et permet de parrainer conjoint et enfants. Il est ouvert notamment aux investisseurs (dont l’immobilier à partir de 2 millions AED), aux entrepreneurs, aux talents et profils qualifiés et aux meilleurs étudiants. Les conditions précises, catégorie par catégorie, sont dans notre guide du [Golden Visa à Dubaï](/golden-visa-dubai/).
+Le **Golden Visa** est une résidence longue de 5 ou 10 ans selon la catégorie, renouvelable, qui ne dépend d’aucun employeur et permet de parrainer conjoint et enfants. Il est ouvert notamment aux investisseurs (dont l’immobilier à partir de 2 millions AED), aux entrepreneurs, aux talents et profils qualifiés et aux meilleurs étudiants. Pour l’immobilier, les sources officielles ne disent pas toutes la même chose : le portail fédéral u.ae indique 5 ans, alors que l’ICP et la GDRFA communiquent sur 10 ans. Fiez-vous à l’autorité qui délivre le visa (la GDRFA à Dubaï, l’ICP dans les autres émirats). Les conditions précises, catégorie par catégorie, sont dans notre guide du [Golden Visa à Dubaï](/golden-visa-dubai/).
 
 Le **Green Visa** (5 ans) vise les salariés qualifiés (salaire d’au moins 15 000 AED par mois selon le portail officiel), les indépendants et les investisseurs ou associés d’une entreprise. Pour une vue d’ensemble de tous les titres de séjour, voyez notre guide du [visa de résidence à Dubaï](/visa-residence-dubai/). Et si vous pensez investir plus largement, notre guide pour [investir à Dubaï](/investir-a-dubai/) fait le point sur les options.
 
@@ -80,8 +80,8 @@ Un étudiant inscrit dans une université agréée peut être parrainé par l’
 ### Les autres cas : famille, télétravail, retraite
 
 - **Famille :** un résident peut parrainer son conjoint et ses enfants s’il gagne au moins 4 000 AED par mois, ou 3 000 AED avec un logement fourni (u.ae). Les fils peuvent être parrainés jusqu’à 25 ans, les filles tant qu’elles ne sont pas mariées.
-- **Télétravail :** si vous êtes salarié d’une entreprise étrangère, un visa de travail à distance existe, avec un revenu minimum fixé par les autorités de Dubaï (3 500 dollars par mois à ce jour, à vérifier sur gdrfad.gov.ae).
-- **Retraite :** un visa retraite existe à partir de 55 ans, sous conditions de revenus ou de patrimoine.
+- **Télétravail :** si vous travaillez à distance pour une entreprise située hors des Émirats, un visa de travail à distance d’un an existe, avec un revenu mensuel minimum de 3 500 dollars selon la [GDRFA de Dubaï](https://www.gdrfad.gov.ae/en/node/13898).
+- **Retraite :** un visa retraite de 5 ans existe à partir de 55 ans, après au moins 15 ans de carrière et sous conditions de revenus ou de patrimoine ([u.ae](https://u.ae/en/information-and-services/visa-and-emirates-id/Types-of-visas/Residence-visa/residence-visa-for-the-retired)). Les seuils sont détaillés dans notre guide du [visa de résidence à Dubaï](/visa-residence-dubai/).
 
 ## Comment s’installer à Dubaï : les étapes dans l’ordre
 
@@ -121,7 +121,7 @@ Les mêmes étapes reviennent dans presque tous les dossiers. L’ordre compte :
 
 ## Les documents à légaliser avant de partir
 
-Les Émirats n’acceptent un document étranger (diplôme, acte de mariage, acte de naissance) que s’il a été légalisé. La procédure habituelle, décrite par le ministère des Affaires étrangères émirien (MOFA), passe par plusieurs tampons :
+Les Émirats n’acceptent un document étranger (diplôme, acte de mariage, acte de naissance) que s’il a été légalisé. Ils ne sont pas parties à la convention de La Haye sur l’apostille ([table officielle de la HCCH](https://www.hcch.net/en/instruments/conventions/status-table/?cid=41)) : une apostille seule ne suffit donc pas. La procédure habituelle, décrite par le ministère des Affaires étrangères émirien (MOFA), passe par plusieurs tampons :
 
 1. Certification par les autorités de votre pays (souvent le ministère des Affaires étrangères ou l’autorité qui a délivré le document).
 2. Légalisation par l’ambassade ou le consulat des Émirats dans le pays d’émission du document.
@@ -136,7 +136,7 @@ Les Émirats n’acceptent un document étranger (diplôme, acte de mariage, act
 | Certificats de scolarité, bulletins | Inscription et équivalences scolaires |
 | Relevés bancaires, justificatifs de revenus | Selon le visa (télétravail, Golden Visa, parrainage familial) |
 
-Les exigences varient selon le pays d’émission et selon le visa. Les démarches propres à chaque nationalité sont dans nos guides pays : [depuis le Maroc](/s-installer-a-dubai-depuis-le-maroc/), [depuis l’Algérie](/s-installer-a-dubai-depuis-l-algerie/), [depuis la Tunisie](/s-installer-a-dubai-depuis-la-tunisie/), [depuis le Sénégal](/s-installer-a-dubai-depuis-le-senegal/), [depuis la France](/s-installer-a-dubai-depuis-la-france/), [depuis la Belgique](/s-installer-a-dubai-depuis-la-belgique/), [depuis la Suisse](/s-installer-a-dubai-depuis-la-suisse/) et [depuis le Canada](/s-installer-a-dubai-depuis-le-canada/).
+Les exigences et l’ordre exact des tampons varient selon le pays d’émission et selon le visa : renseignez-vous auprès de l’ambassade ou du consulat des Émirats dans votre pays avant de lancer la procédure. Les démarches propres à chaque nationalité sont dans nos guides pays : [depuis le Maroc](/s-installer-a-dubai-depuis-le-maroc/), [depuis l’Algérie](/s-installer-a-dubai-depuis-l-algerie/), [depuis la Tunisie](/s-installer-a-dubai-depuis-la-tunisie/), [depuis le Sénégal](/s-installer-a-dubai-depuis-le-senegal/), [depuis la France](/s-installer-a-dubai-depuis-la-france/), [depuis la Belgique](/s-installer-a-dubai-depuis-la-belgique/), [depuis la Suisse](/s-installer-a-dubai-depuis-la-suisse/) et [depuis le Canada](/s-installer-a-dubai-depuis-le-canada/).
 
 ## Se loger à Dubaï : location, Ejari et achat
 
@@ -164,13 +164,13 @@ Le système de soins combine hôpitaux publics et un large réseau de cliniques 
 
 ## Écoles : s’y prendre tôt
 
-Les écoles privées sont payantes et leurs frais sont encadrés par l’autorité de l’éducation de Dubaï (KHDA). Les établissements français homologués sont très demandés : listes d’attente, tests d’entrée, dossiers à constituer des mois à l’avance. Dans les écoles françaises, les frais de scolarité vont à peu près de 30 000 à 85 000 AED par an et par enfant selon l’établissement et le niveau, hors frais d’inscription, uniforme et transport. Pour l’année 2026-2027, la KHDA a annoncé que les frais des écoles privées de Dubaï n’augmenteraient pas.
+Les écoles privées sont payantes et leurs frais sont encadrés par l’autorité de l’éducation de Dubaï (KHDA). Les établissements français homologués sont très demandés : listes d’attente, tests d’entrée, dossiers à constituer des mois à l’avance. Dans les écoles françaises, les frais de scolarité partent d’environ 30 000 AED par an en maternelle et dépassent souvent 60 000 AED au lycée, selon l’établissement et le niveau, hors frais d’inscription, uniforme et transport (chaque école publie sa grille approuvée par la KHDA). Pour l’année 2026-2027, la KHDA a annoncé que les frais des écoles privées de Dubaï n’augmenteraient pas.
 
 Avant de signer un bail, vérifiez le temps de trajet entre le logement et l’école aux heures de pointe : c’est souvent l’école qui décide du quartier, et non l’inverse. Pensez aussi aux pièces demandées à l’inscription (bulletins, certificat de radiation de l’ancienne école, carnet de vaccination), à faire préparer avant le départ. Tout est détaillé dans nos guides pour [s’installer à Dubaï en famille](/s-installer-a-dubai-en-famille/) et sur les [écoles françaises à Dubaï](/ecoles-francaises-dubai/).
 
 ## Coût de la vie : les ordres de grandeur
 
-Le logement et les écoles font la différence entre un budget confortable et un budget serré. À titre d’ordre de grandeur, une personne seule dépense souvent entre 8 000 et 15 000 AED par mois, un couple entre 12 000 et 22 000 AED, une famille avec deux enfants scolarisés dans le privé entre 25 000 et 45 000 AED, voire davantage. Ces fourchettes dépendent surtout du quartier et du type de logement. En euros, sur la base indicative de 1 € pour environ 4,3 AED, cela représente à peu près 1 900 à 3 500 € pour une personne seule, 2 800 à 5 100 € pour un couple et 5 800 à 10 500 € pour une famille. Le dirham est arrimé au dollar américain : son cours face à l’euro varie, recalculez au taux du jour.
+Le logement et les écoles font la différence entre un budget confortable et un budget serré. Il n’existe pas de statistique officielle par profil, mais selon nos estimations, une personne seule dépense de l’ordre de 8 000 à 15 000 AED par mois, un couple entre 12 000 et 22 000 AED, une famille avec deux enfants scolarisés dans le privé entre 25 000 et 45 000 AED, voire davantage. Ces fourchettes dépendent surtout du quartier et du type de logement. En euros, sur la base indicative de 1 € pour environ 4,3 AED, cela représente à peu près 1 900 à 3 500 € pour une personne seule, 2 800 à 5 100 € pour un couple et 5 800 à 10 500 € pour une famille. Le dirham est arrimé au dollar américain : son cours face à l’euro varie, recalculez au taux du jour.
 
 Ce que votre employeur prend en charge change tout : une indemnité de logement, l’assurance santé de la famille ou une participation aux frais de scolarité peuvent représenter plusieurs milliers de dirhams par mois. Le détail poste par poste se trouve dans notre guide du [coût de la vie à Dubaï](/cout-de-la-vie-dubai/).
 

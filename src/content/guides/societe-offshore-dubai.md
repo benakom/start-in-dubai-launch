@@ -105,7 +105,7 @@ La notion de substance n’a pas disparu pour autant. Elle compte toujours pour 
 
 ### L’impôt sur les sociétés
 
-Une société immatriculée aux Émirats, offshore comprise, est en principe une personne résidente au sens de l’impôt sur les sociétés. Elle doit s’enregistrer auprès de la Federal Tax Authority, et pour une société créée depuis le 1er mars 2024, le délai est de 3 mois après la création, sous peine d’une amende de 10 000 AED. Le taux est de 0 % jusqu’à 375 000 AED de bénéfice imposable et de 9 % au-delà, sauf exonérations prévues par la loi (certains dividendes et plus-values de participations, par exemple). Pour le panorama complet, lisez notre guide des [impôts à Dubaï](/impots-dubai/).
+Une société immatriculée aux Émirats, offshore comprise, est en principe une personne résidente au sens de l’impôt sur les sociétés : l’article 11 du décret-loi fédéral n° 47 de 2022 vise toute personne morale constituée ou reconnue selon la législation applicable aux Émirats. Elle doit s’enregistrer auprès de la Federal Tax Authority, et pour une société créée depuis le 1er mars 2024, le délai est de 3 mois après la création, sous peine d’une amende de 10 000 AED. Le taux est de 0 % jusqu’à 375 000 AED de bénéfice imposable et de 9 % au-delà, sauf exonérations prévues par la loi (certains dividendes et plus-values de participations, par exemple). Pour le panorama complet, lisez notre guide des [impôts à Dubaï](/impots-dubai/).
 
 ## Comptes offshore et transparence fiscale (CRS)
 
@@ -114,7 +114,7 @@ Le temps des « comptes offshore » secrets est terminé, y compris à Dubaï.
 - **Échange automatique d’informations :** les Émirats appliquent la norme commune de déclaration de l’OCDE (CRS). Selon le ministère des Finances, le dispositif est en vigueur aux Émirats depuis le 1er janvier 2017. Les banques déclarent chaque année les comptes détenus par des non-résidents, et ces informations sont transmises au pays de résidence fiscale du titulaire.
 - **CRS 2.0 :** le ministère des Finances a annoncé fin 2025 l’application de la version mise à jour de la norme à partir du 1er janvier 2027, avec un premier échange en 2028.
 - **Les sociétés sont concernées aussi :** pour un compte ouvert au nom d’une société sans activité réelle, la banque identifie les personnes qui la contrôlent, et ce sont elles qui sont déclarées.
-- **Votre pays a ses propres obligations :** en France, par exemple, les comptes détenus à l’étranger doivent être déclarés chaque année. Au Maroc, la réglementation des changes encadre strictement la détention d’avoirs et de sociétés à l’étranger par les résidents. Renseignez-vous auprès de l’administration de votre pays.
+- **Votre pays a ses propres obligations :** en France, par exemple, les comptes ouverts, détenus ou clos à l’étranger doivent être déclarés chaque année avec la déclaration de revenus (formulaire 3916, selon impots.gouv.fr). Au Maroc, les résidents restent soumis à la réglementation des changes de l’Office des Changes pour leurs avoirs et investissements à l’étranger : vérifiez sur oc.gov.ma ce qui est permis et ce qui doit être déclaré ou autorisé. Renseignez-vous auprès de l’administration de votre pays.
 
 ## Les mises en garde à garder en tête
 

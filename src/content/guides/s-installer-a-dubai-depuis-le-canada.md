@@ -18,7 +18,7 @@ faq:
   - q: "Mon permis de conduire canadien est-il accepté à Dubaï ?"
     a: "Selon Voyage.gc.ca, un permis canadien permet de conduire ou de louer une voiture à Dubaï lors d’un séjour, alors qu’un permis international est requis ailleurs aux Émirats. Une fois résident, vous pouvez convertir votre permis canadien en permis émirien auprès de l’autorité des transports de votre émirat."
   - q: "Y a-t-il des vols directs entre Montréal et Dubaï ?"
-    a: "Oui : Emirates exploite un vol quotidien Montréal–Dubaï et un vol quotidien Toronto–Dubaï. Air Canada propose aussi des vols sans escale au départ de Toronto. Vérifiez les horaires de la saison auprès des compagnies."
+    a: "Oui : Emirates relie Montréal et Toronto à Dubaï en vol direct, et Air Canada propose aussi des vols sans escale au départ de Toronto. Les fréquences peuvent changer selon la saison et la situation régionale : vérifiez les horaires auprès des compagnies."
 sources:
   - label: "Voyage.gc.ca : conseils aux voyageurs, Émirats arabes unis"
     url: "https://voyage.gc.ca/destinations/emirats-arabes-unis"
@@ -59,7 +59,7 @@ Selon Voyage.gc.ca, les Canadiens obtiennent **à l’arrivée et gratuitement**
 
 Ce visa de touriste ne permet pas de travailler. Pour vivre aux Émirats, il faut un visa de résidence.
 
-**Niveau de risque** : à sa mise à jour du 14 octobre 2026, Voyage.gc.ca recommande de faire preuve d’une grande prudence aux Émirats en raison de l’instabilité de la situation sécuritaire dans la région. Relisez la page avant votre départ et inscrivez-vous au service d’Inscription des Canadiens à l’étranger.
+**Niveau de risque** : à sa mise à jour du 14 octobre 2026 (toujours affichée au 27 novembre 2026), Voyage.gc.ca recommande de faire preuve d’une grande prudence aux Émirats en raison de l’instabilité de la situation sécuritaire dans la région, et d’éviter tout voyage non essentiel à la base aérienne d’Al Minhad et dans ses environs. Relisez la page avant votre départ et inscrivez-vous au service d’Inscription des Canadiens à l’étranger.
 
 ### Binationaux canado-marocains
 
@@ -73,11 +73,11 @@ Les différentes voies sont comparées dans notre guide du [visa de résidence �
 
 ## Faire reconnaître vos documents québécois
 
-Le Canada a adhéré à la convention de La Haye sur l’apostille en 2024, mais **les Émirats n’en font pas partie**. Une apostille seule ne suffit donc pas : après l’authentification canadienne, le document doit être légalisé par l’ambassade des Émirats.
+La convention de La Haye sur l’apostille est en vigueur au Canada depuis le 11 janvier 2024, mais **les Émirats n’en font pas partie** (table officielle de la Conférence de La Haye). Une apostille seule ne suffit donc pas : après l’apostille ou l’authentification canadienne, le document doit être légalisé par l’ambassade des Émirats.
 
-1. **Documents émis au Québec** (actes de l’état civil, documents d’organismes publics québécois) : authentification par le **gouvernement du Québec** (service d’apostille et d’authentification du ministère de la Justice). Un document émis par un organisme privé ou un particulier, comme certains relevés d’établissements, doit d’abord être certifié par un avocat ou un notaire.
-2. **Documents fédéraux ou d’autres provinces** : ils ne passent pas par le Québec. Les documents fédéraux vont à **Affaires mondiales Canada** ; ceux d’une autre province suivent la procédure de cette province.
-3. **Légalisation par l’ambassade des Émirats arabes unis à Ottawa**, qui exige que les documents canadiens soient d’abord authentifiés.
+1. **Documents émis au Québec** (actes de l’état civil, diplômes et documents d’organismes publics québécois, actes notariés) : apostille du **ministère de la Justice du Québec**, qui la délivre aussi pour un pays non signataire, en précisant que ce pays peut alors exiger une légalisation. Un document d’un organisme privé ou d’un particulier (procuration, déclaration sous serment) doit d’abord être certifié par un avocat ou un notaire.
+2. **Documents fédéraux ou d’autres provinces** : ils ne passent pas par le Québec. Les documents fédéraux, et ceux de plusieurs provinces et territoires, vont à **Affaires mondiales Canada** ; l’Alberta, la Colombie-Britannique, l’Ontario et la Saskatchewan ont leur propre autorité.
+3. **Légalisation par l’ambassade des Émirats arabes unis à Ottawa**, après cette étape canadienne. Affaires mondiales Canada indique que les exigences varient selon le pays : confirmez auprès de l’ambassade les pièces, les frais et les délais avant d’envoyer vos documents.
 4. **Attestation par le ministère des Affaires étrangères émirien** une fois aux Émirats, et traduction en arabe si on vous la demande.
 
 Les documents à prévoir : diplômes et relevés de notes, certificat de mariage, actes de naissance des enfants. Ils servent pour certains visas de travail, pour parrainer votre famille et pour inscrire les enfants à l’école.
@@ -98,7 +98,7 @@ Après le départ, certains revenus de source canadienne restent imposables au C
 
 ### La convention fiscale Canada–Émirats
 
-Le Canada et les Émirats ont signé une convention fiscale le 9 juin 2002, mise en œuvre au Canada par une loi de 2002 et entrée en vigueur en 2004. Elle prévoit des règles pour départager une personne qui serait résidente des deux pays (foyer permanent, centre des intérêts vitaux, séjour habituel, nationalité). Pour votre cas précis, faites-la lire par un fiscaliste. Les règles fiscales émiriennes sont expliquées dans notre guide des [impôts à Dubaï](/impots-dubai/).
+Le Canada et les Émirats ont signé une convention fiscale le 9 juin 2002, mise en œuvre au Canada par une loi de 2002 et entrée en vigueur le 25 mai 2004 (selon la loi de mise en œuvre publiée par Justice Canada). Elle prévoit des règles pour départager une personne qui serait résidente des deux pays (foyer permanent, centre des intérêts vitaux, séjour habituel, nationalité). Pour votre cas précis, faites-la lire par un fiscaliste. Les règles fiscales émiriennes sont expliquées dans notre guide des [impôts à Dubaï](/impots-dubai/).
 
 ## RAMQ et assurance maladie
 
@@ -113,7 +113,7 @@ La différence la plus visible est l’absence d’impôt sur le revenu des pers
 ## Vivre à Dubaï en Canadien : repères pratiques
 
 - **Permis de conduire** : en séjour, un permis canadien suffit à Dubaï (un permis international est requis dans les autres émirats). Une fois résident, vous pouvez le convertir en permis émirien auprès de l’autorité des transports de votre émirat.
-- **Vols** : Emirates relie Montréal et Toronto à Dubaï chaque jour, et Air Canada propose des vols sans escale au départ de Toronto.
+- **Vols** : Emirates relie Montréal et Toronto à Dubaï en vol direct, et Air Canada propose des vols sans escale au départ de Toronto (fréquences à vérifier selon la saison).
 - **Représentations** : l’ambassade du Canada à Abu Dhabi et le consulat général du Canada à Dubaï.
 - **Réseau** : le **Canadian Business Council Dubai & Northern Emirates**, association d’affaires à but non lucratif fondée en 1993.
 - **Écoles en français** : plusieurs établissements suivent le programme français ; voir le guide des écoles françaises à Dubaï.

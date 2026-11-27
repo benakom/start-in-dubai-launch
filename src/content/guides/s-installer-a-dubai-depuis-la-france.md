@@ -16,7 +16,7 @@ faq:
   - q: "Qui légalise mes documents français pour les Émirats ?"
     a: "Depuis le 1er septembre 2025, la légalisation des actes publics français destinés à l’étranger est confiée aux notaires (par l’intermédiaire des chambres et conseils régionaux), et non plus au bureau des légalisations du ministère. Comme les Émirats n’appliquent pas l’apostille, le document passe ensuite par l’ambassade des Émirats à Paris, puis par le ministère des Affaires étrangères émirien."
   - q: "Mon permis de conduire français est-il valable à Dubaï ?"
-    a: "Une fois résident, vous pouvez en principe l’échanger contre un permis émirien sans repasser l’examen : la France figure parmi les pays dont les permis sont échangeables auprès de la RTA. Vérifiez la liste à jour et les pièces demandées (test de vue notamment) sur le site de la RTA avant de vous déplacer."
+    a: "Une fois résident, vous pouvez en principe l’échanger contre un permis émirien sans repasser l’examen : selon la presse émiratie, la France figure parmi les pays dont les permis sont échangeables auprès de la RTA. La liste officielle et les pièces demandées (test de vue notamment) sont sur le site de la RTA : vérifiez-les avant de vous déplacer."
   - q: "Dois-je adhérer à la Caisse des Français de l’étranger ?"
     a: "Ce n’est pas obligatoire. La CFE permet de garder une couverture de type sécurité sociale française et, si vous le souhaitez, de continuer à cotiser pour votre retraite de base. Elle s’ajoute à l’assurance santé locale, obligatoire à Dubaï pour le visa de résidence : elle ne la remplace pas."
 sources:
@@ -63,7 +63,7 @@ Quelques points à connaître avant d’acheter votre billet :
 - **Date de naissance complète** : depuis décembre 2023, un passeport sans date de naissance complète (jour, mois, année) peut être refusé, de même qu’un passeport où des « X » remplacent un nom ou une date.
 - **Refus d’entrée** : l’entrée reste à la discrétion des autorités. Le ministère signale des cas de Français refoulés à l’arrivée, notamment à Dubaï, sans recours possible.
 
-**Situation régionale** : à la dernière mise à jour de la fiche (29 octobre 2026), France Diplomatie appelle les Français présents aux Émirats à rester vigilants en raison de la situation régionale et recommande l’inscription sur Ariane pour les séjours courts. Relisez la fiche avant votre départ.
+**Situation régionale** : à la dernière mise à jour de la fiche (29 octobre 2026, toujours affichée au 27 novembre 2026), France Diplomatie appelle les Français présents aux Émirats à rester vigilants en raison de la situation régionale et recommande l’inscription sur Ariane pour les séjours courts. Relisez la fiche avant votre départ.
 
 ### Vous êtes binational franco-marocain ?
 
@@ -71,7 +71,7 @@ Beaucoup de Marocains du monde partent de France avec deux passeports. Pour entr
 
 ## Passer du séjour court au visa de résidence
 
-Le passeport français ne donne pas le droit de travailler ni de résider. Pour vivre à Dubaï, il vous faut un « sponsor » : un employeur, votre propre société, un bien immobilier ou un investissement (Golden Visa), ou un membre de votre famille déjà résident. France Diplomatie précise que les personnes qui viennent s’installer entrent sans visa et disposent ensuite d’un délai, via leur employeur, pour obtenir leur titre de séjour.
+Le passeport français ne donne pas le droit de travailler ni de résider. Pour vivre à Dubaï, il vous faut un « sponsor » : un employeur, votre propre société, un bien immobilier ou un investissement (Golden Visa), ou un membre de votre famille déjà résident. France Diplomatie précise que les personnes qui viennent s’installer entrent sans visa et disposent ensuite de 30 jours pour engager, via leur employeur, la démarche de titre de séjour.
 
 Les étapes sur place sont les mêmes pour tous : autorisation d’entrée ou changement de statut, visite médicale, relevé biométrique, Emirates ID, puis visa de résidence. L’assurance santé est obligatoire à Dubaï pour obtenir ou renouveler ce visa. Nous détaillons chaque voie dans le guide du [visa de résidence à Dubaï](/visa-residence-dubai/). Si vous prévoyez d’exercer en indépendant ou de monter votre structure, voyez aussi comment [créer sa société à Dubaï](/creer-sa-societe-a-dubai/).
 
@@ -103,7 +103,7 @@ L’année du départ, vous déclarez au printemps suivant vos revenus du 1er ja
 
 ### L’exit tax, pour certains départs seulement
 
-L’exit tax ne concerne pas la plupart des salariés. Selon impots.gouv.fr, elle peut s’appliquer si vous avez été résident fiscal français au moins 6 des 10 années précédant le départ **et** si vous détenez des titres (actions, parts de société) d’une valeur globale d’au moins 800 000 €, ou représentant au moins 50 % des bénéfices d’une société. Elle porte alors sur les plus-values latentes. Selon le pays de destination, le sursis de paiement est automatique ou doit être demandé, au moins 90 jours avant le départ dans ce cas. Si vous êtes chef d’entreprise ou investisseur, faites étudier votre situation par un conseil fiscal avant de fixer votre date de départ.
+L’exit tax ne concerne pas la plupart des salariés. Selon impots.gouv.fr, elle peut s’appliquer si vous avez été résident fiscal français au moins 6 des 10 années précédant le départ **et** si vous détenez des titres (actions, parts de société) d’une valeur globale d’au moins 800 000 €, ou représentant au moins 50 % des bénéfices d’une société. Elle porte alors sur les plus-values latentes. Le sursis de paiement est automatique ou doit être demandé selon le pays de destination : il doit être demandé (formulaire 2074-ETD, avec une proposition de garantie, au plus tard 90 jours avant le départ) quand le pays, hors Espace économique européen, est un État non coopératif ou n’a pas conclu avec la France de conventions d’assistance administrative contre la fraude et pour le recouvrement de l’impôt. Pour un départ vers les Émirats, faites confirmer le régime applicable par le service des impôts des non-résidents avant de fixer votre date. Si vous êtes chef d’entreprise ou investisseur, faites étudier votre situation par un conseil fiscal avant de fixer votre date de départ.
 
 ### La convention fiscale France–Émirats
 
@@ -128,8 +128,8 @@ Une fois installé, inscrivez-vous au registre des Français établis hors de Fr
 
 ## Vivre à Dubaï en Français : repères pratiques
 
-- **Permis de conduire** : la France figure parmi les pays dont le permis peut être échangé contre un permis émirien une fois résident, sans repasser l’examen (vérifiez la liste à jour de la RTA et apportez votre permis original).
-- **Vols** : Emirates relie Dubaï à Paris-Charles-de-Gaulle, Nice et Lyon, et d’autres compagnies desservent Paris. Le vol direct depuis Paris dure environ 7 heures.
+- **Permis de conduire** : selon la presse émiratie, la France figure parmi les pays dont le permis peut être échangé contre un permis émirien une fois résident, sans repasser l’examen. Vérifiez la liste officielle sur le site de la RTA et apportez votre permis original.
+- **Vols** : Emirates relie Dubaï à Paris-Charles-de-Gaulle, Nice et Lyon, et d’autres compagnies desservent Paris. Comptez un vol direct de l’ordre de 6 à 8 heures selon le sens ; vérifiez les horaires et les fréquences de la saison auprès des compagnies, qui peuvent changer avec la situation régionale.
 - **Communauté** : le consulat général de France à Dubaï, l’UFE Dubaï (Union des Français de l’étranger), l’Alliance française de Dubaï et le French Business Council (chambre de commerce française de Dubaï et des Émirats du Nord) sont de bons points d’entrée pour se créer un réseau.
 - **Écoles** : plusieurs établissements suivent le programme français. Voir notre guide des [écoles françaises à Dubaï](/ecoles-francaises-dubai/).
 - **Budget** : loyer, école et assurance pèsent lourd. Faites vos calculs avec notre guide du coût de la vie à Dubaï.

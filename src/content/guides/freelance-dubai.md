@@ -6,7 +6,7 @@ keyword: "freelance dubai"
 secondary: ["freelance visa dubai", "freelance permit", "licence freelance"]
 cluster: societe
 updated: 2026-11-27
-intro: "Pour travailler en freelance à Dubaï, il faut une licence ou un permis freelance délivré par une zone franche (par exemple GoFreelance, proposé par Dubai Internet City, Dubai Media City, Dubai Design District et Dubai Knowledge Park) ou par les autorités du mainland. Cette licence est à votre nom, sans société, et permet de demander un visa de résidence. Le budget de la première année se situe souvent entre 10 000 et 16 000 AED environ pour la licence et le visa, assurance santé en plus, selon l’offre choisie."
+intro: "Pour travailler en freelance à Dubaï, il faut une licence ou un permis freelance délivré par une zone franche (par exemple GoFreelance, proposé par Dubai Internet City, Dubai Media City, Dubai Design District et Dubai Knowledge Park) ou par les autorités du mainland. Cette licence est à votre nom, sans société, et permet de demander un visa de résidence. D’après les tarifs affichés par GoFreelance et par DMCC, la licence, la carte d’établissement et le visa d’un an coûtent ensemble environ 9 000 à 15 000 AED la première année, selon l’offre, avant l’assurance santé et les frais annexes."
 faq:
   - q: "Combien coûte une licence freelance à Dubaï ?"
     a: "Les prix dépendent de l’autorité. GoFreelance annonce 7 500 AED par an pour la licence, hors visa. FreelanceUAE, proposé par DMCC, annonce des formules à partir d’environ 4 000 AED par an sans visa et d’environ 9 100 AED avec visa et carte d’établissement. Vérifiez toujours les tarifs à jour sur le site officiel."
@@ -51,7 +51,7 @@ Elle convient aux métiers où l’on vend son savoir-faire : développeurs, des
 
 ### GoFreelance
 
-GoFreelance est l’offre freelance portée par quatre communautés de Dubaï : **Dubai Internet City** (tech), **Dubai Media City** (médias), **Dubai Design District** (design) et **Dubai Knowledge Park** (éducation et formation). Ces zones relèvent de la Dubai Development Authority.
+GoFreelance est l’offre freelance portée par quatre communautés de Dubaï : **Dubai Internet City** (tech), **Dubai Media City** (médias), **Dubai Design District** (design) et **Dubai Knowledge Park** (éducation et formation). Ces zones relèvent de la Dubai Development Authority (DDA), qui y délivre les licences par secteur.
 
 Ce que GoFreelance indique sur son site :
 
@@ -92,7 +92,7 @@ Ces frais sont présentés comme susceptibles de changer, et les frais de dossie
 - un **numéro de téléphone émirien** ;
 - l’**examen médical** et la prise d’empreintes pour l’Emirates ID, sur place à Dubaï.
 
-En additionnant ces postes, le budget de la première année se situe souvent entre 10 000 et 16 000 AED environ pour la licence et le visa, auxquels s’ajoute l’assurance santé. Les étapes de l’Emirates ID et de la carte de résident sont détaillées dans notre guide du [visa de résidence à Dubaï](/visa-residence-dubai/).
+En additionnant ces postes, le budget de la première année se situe autour de 14 000 AED chez GoFreelance (licence, carte d’établissement et visa d’un an) et d’environ 9 100 AED pour la formule avec visa de FreelanceUAE (DMCC), selon les tarifs affichés. S’y ajoutent l’assurance santé et, selon les offres, l’examen médical et l’Emirates ID. Les étapes de l’Emirates ID et de la carte de résident sont détaillées dans notre guide du [visa de résidence à Dubaï](/visa-residence-dubai/).
 
 ### Et le Green visa ?
 

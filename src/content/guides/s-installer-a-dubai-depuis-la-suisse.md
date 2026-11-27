@@ -28,8 +28,8 @@ sources:
     url: "https://faq.bsv.admin.ch/fr/assurance-vieillesse-et-survivants-avs/je-reside-letranger-puis-je-adherer-lassurance-facultative"
   - label: "Chancellerie fédérale : légalisations et apostilles"
     url: "https://www.bk.admin.ch/bk/en/home/service/legalisations.html"
-  - label: "DFAE : Consulat général de Suisse à Dubaï"
-    url: "https://www.eda.admin.ch/contacts/fr/EDAVis/D/78.html"
+  - label: "OFAS : le troisième pilier (cas de versement anticipé, dont le départ définitif)"
+    url: "https://www.bsv.admin.ch/fr/le-troisieme-pilier"
   - label: "Représentation suisse aux Émirats : clubs et associations"
     url: "https://www.schweiz-vereinigtearabischeemirate.eda.admin.ch/en/clubs"
 related: ["s-installer-a-dubai", "visa-residence-dubai", "impots-dubai", "creer-sa-societe-a-dubai", "s-installer-a-dubai-depuis-la-france"]
@@ -55,7 +55,7 @@ La Suisse et les Émirats ont conclu en 2017 un accord d’exemption de visa (RS
 
 Ce séjour sans visa permet de visiter, de chercher un logement ou de signer des contrats. Il ne permet pas de travailler.
 
-**Avant chaque voyage**, consultez les conseils aux voyageurs du DFAE pour les Émirats : en 2026, plusieurs pays européens ont relevé leur niveau d’alerte en raison de la situation régionale. Le DFAE propose aussi l’application Travel Admin pour enregistrer vos séjours.
+**Avant chaque voyage**, consultez les conseils pour les voyages du DFAE pour les Émirats, publiés par la représentation suisse et mis à jour en fonction de la situation régionale : en 2026, plusieurs pays européens, dont la Belgique, ont durci leurs recommandations. Le DFAE propose aussi l’application Travel Admin pour préparer et enregistrer vos voyages.
 
 ### Binationaux suisses et marocains
 
@@ -95,7 +95,7 @@ Retirer n’est pas une obligation. Vous pouvez laisser l’avoir sur un compte 
 
 ### Le 3e pilier A
 
-Le départ définitif de Suisse est aussi un cas de retrait anticipé du pilier 3a, en principe. Le versement est imposé comme un capital de prévoyance. Comparez avant de décider avec votre banque ou votre assurance.
+Selon l’Office fédéral des assurances sociales, le départ définitif de Suisse fait partie des cas de versement anticipé du pilier 3a. Le versement est imposé comme un capital de prévoyance, et votre banque ou votre assurance demandera en général l’attestation de départ. Comparez avant de décider avec votre banque ou votre assurance.
 
 ## Impôts : votre canton et la convention Suisse–Émirats
 
@@ -115,8 +115,8 @@ Chaque canton ne légalise que ses propres documents : un acte émis dans un aut
 
 ## Vivre à Dubaï en Suisse : repères pratiques
 
-- **Permis de conduire** : la Suisse figure parmi les pays dont le permis peut être échangé contre un permis émirien une fois résident (vérifiez la liste et les pièces à jour sur le site de la RTA).
-- **Vols** : Emirates relie Genève à Dubaï (deux vols par jour en 2026) ainsi que Zurich.
+- **Permis de conduire** : selon la presse émiratie, la Suisse figure parmi les pays dont le permis peut être échangé contre un permis émirien une fois résident. Vérifiez la liste officielle et les pièces demandées sur le site de la RTA avant de vous déplacer.
+- **Vols** : Emirates relie Genève et Zurich à Dubaï en vol direct. Vérifiez les fréquences de la saison auprès de la compagnie : elles peuvent changer avec la situation régionale.
 - **Réseau** : le **Swiss Business Council UAE**, association à but non lucratif fondée en 1996, travaille avec l’ambassade et le consulat général. C’est le point de contact référencé par la représentation suisse.
 - **Écoles** : les familles romandes trouvent des programmes en français, présentés dans notre guide des [écoles françaises à Dubaï](/ecoles-francaises-dubai/).
 - **Immobilier** : pour un achat, l’agence partenaire [Cevitas Real Estate](https://www.cevitas.ae) (agréée RERA, ORN 49294) vous accompagne.

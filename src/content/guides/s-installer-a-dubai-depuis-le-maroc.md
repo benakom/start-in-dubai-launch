@@ -14,14 +14,14 @@ faq:
   - q: "Peut-on aller chercher du travail à Dubaï avec un visa touristique ?"
     a: "Le visa touristique sert à faire du tourisme, pas à travailler. Il existe un visa de visite pour chercher un emploi (60, 90 ou 120 jours, sans parrain), réservé aux profils qualifiés : niveaux de compétence 1 à 3 du ministère des Ressources humaines (MOHRE) ou diplômés récents d’une des 500 meilleures universités du monde, avec une licence au minimum. Vous ne pourrez travailler qu’une fois le permis de travail et la résidence obtenus par l’employeur."
   - q: "Mon permis de conduire marocain est-il valable à Dubaï ?"
-    a: "Il ne s’échange pas directement. D’après la RTA de Dubaï, début 2026, un seul pays africain figurait sur la liste des permis échangeables, l’Afrique du Sud. Un résident titulaire d’un permis marocain passe donc par une école de conduite à Dubaï. Vérifiez la liste à jour sur rta.ae avant de vous inscrire."
+    a: "En principe, non. En janvier 2026, la RTA de Dubaï indiquait qu’un seul pays africain figurait sur la liste des permis échangeables (l’Afrique du Sud, selon la presse émiratie), et le Maroc n’en fait pas partie. Un résident titulaire d’un permis marocain passe donc en général par une école de conduite à Dubaï. Vérifiez la liste à jour sur rta.ae avant de vous inscrire."
   - q: "Combien d’argent peut-on transférer du Maroc vers Dubaï ?"
     a: "Les transferts des résidents marocains vers l’étranger sont encadrés par l’Instruction générale des opérations de change. L’Office des Changes précise qu’aucune « dotation émigration » n’y est prévue. Une fois installé à l’étranger, vous pouvez, en tant que Marocain résidant à l’étranger, ouvrir au Maroc un compte en devises ou en dirhams convertibles. Faites valider votre cas par votre banque avant tout transfert important."
   - q: "Existe-t-il une convention fiscale entre le Maroc et les Émirats ?"
-    a: "Oui, une convention de non double imposition signée en 1999 lie les deux pays. Elle aide à déterminer où vous êtes imposable si vous gardez des revenus au Maroc. Votre situation dépend de votre résidence fiscale : faites-la vérifier par un fiscaliste avant le départ."
+    a: "Oui, une convention de non double imposition lie les deux pays (signée en 1999 selon les tableaux publiés, texte à vérifier auprès de la Direction générale des impôts). Elle aide à déterminer où vous êtes imposable si vous gardez des revenus au Maroc. Votre situation dépend de votre résidence fiscale : faites-la vérifier par un fiscaliste avant le départ."
 sources:
-  - label: "u.ae : faut-il un visa pour entrer aux Émirats ?"
-    url: "https://u.ae/en/information-and-services/visa-and-emirates-id/Visa-information/do-you-need-an-entry-permit-or-a-visa-to-enter-the-UAE"
+  - label: "Ministère émirien des Affaires étrangères : visa à l’arrivée étendu à six nationalités (25 juin 2026)"
+    url: "https://www.mofa.gov.ae/en/MediaHub/News/2026/6/25/uae-grants-visa-on-arrival"
   - label: "u.ae : visa touristique (dont le visa 5 ans à entrées multiples)"
     url: "https://u.ae/en/information-and-services/visa-and-emirates-id/Types-of-visas/tourist-visa"
   - label: "u.ae : visa de visite pour chercher un emploi"
@@ -30,8 +30,8 @@ sources:
     url: "https://www.mofa.gov.ae/en/Missions/Rabat/Services/Services-for-Individuals/Attestation-Information"
   - label: "Office des Changes : questions fréquentes"
     url: "https://www.oc.gov.ma/fr/faq"
-  - label: "u.ae : droits des salariés du secteur privé"
-    url: "https://u.ae/en/information-and-services/jobs/Sector-of-employment/employment-in-the-private-sector/labour-rights"
+  - label: "RTA : permis étrangers échangeables à Dubaï (janvier 2026)"
+    url: "https://www.rta.ae/wps/portal/rta/ae/home/news-and-media/all-news/NewsDetails/replacing-over-58000-driving-licences-from-57+countries-with-uae-ones"
 related: ["s-installer-a-dubai", "visa-residence-dubai", "travailler-a-dubai", "ouvrir-un-compte-bancaire-a-dubai", "s-installer-a-dubai-depuis-la-tunisie"]
 order: 1
 ---
@@ -53,7 +53,7 @@ Où le demander ? Le portail officiel u.ae indique plusieurs canaux :
 ### Deux cas particuliers fréquents chez les Marocains du monde
 
 - **Double nationalité.** Si vous avez aussi un passeport français, belge, espagnol ou canadien, ces nationalités entrent aux Émirats sans visa préalable. Il est recommandé d’utiliser le même passeport pour entrer, sortir et constituer votre dossier de résidence.
-- **Titre de séjour européen ou américain.** Le visa à l’arrivée lié à un titre de séjour d’un pays approuvé concerne une liste précise de nationalités (Inde, Indonésie, Kenya, Philippines, Afrique du Sud, Thaïlande et Vietnam, selon les annonces de juin 2026). Le passeport marocain n’en fait pas partie : votre carte de séjour en France ne vous dispense pas de visa.
+- **Titre de séjour européen ou américain.** Le visa à l’arrivée lié à un titre de séjour d’un pays approuvé concerne une liste précise de nationalités : l’Inde, et depuis le 25 juin 2026 l’Indonésie, le Vietnam, la Thaïlande, les Philippines, le Kenya et l’Afrique du Sud, selon le ministère émirien des Affaires étrangères. Le passeport marocain n’en fait pas partie : votre carte de séjour en France ne vous dispense pas de visa.
 
 ### Les visas d’entrée possibles
 
@@ -120,14 +120,14 @@ Avant tout transfert important (vente d’un bien, épargne), faites valider l�
 
 ## Impôts : la convention fiscale Maroc–Émirats
 
-Le Maroc et les Émirats sont liés par une convention de non double imposition signée en 1999. Les Émirats ne prélèvent pas d’impôt sur le revenu des personnes physiques sur les salaires, mais cela ne règle pas tout : si vous gardez des revenus au Maroc (loyers, activité), ou si vous restez considéré comme résident fiscal marocain, vous pouvez y rester imposable.
+Le Maroc et les Émirats sont liés par une convention de non double imposition, signée en 1999 selon les tableaux de conventions publiés. Avant de vous en prévaloir, demandez le texte en vigueur à la Direction générale des impôts. Les Émirats ne prélèvent pas d’impôt sur le revenu des personnes physiques sur les salaires, mais cela ne règle pas tout : si vous gardez des revenus au Maroc (loyers, activité), ou si vous restez considéré comme résident fiscal marocain, vous pouvez y rester imposable.
 
 Pour faire valoir votre résidence aux Émirats, l’Autorité fédérale des impôts (FTA) délivre un certificat de résidence fiscale. Pour votre cas personnel, consultez un fiscaliste et la Direction générale des impôts marocaine.
 
 ## Vols directs entre le Maroc et les Émirats
 
-- **Emirates** relie Casablanca à Dubaï chaque jour en Airbus A380, et a annoncé un deuxième vol quotidien à partir du 1er février 2027.
-- **Etihad** relie Casablanca à Abou Dhabi (à environ une heure et demie de route de Dubaï) et a annoncé une réduction de ses fréquences à partir de février 2027.
+- **Emirates** relie Casablanca à Dubaï chaque jour en Airbus A380. Un deuxième vol quotidien à partir de février 2027 figure dans un programme préliminaire relayé par la presse en août 2026 : il n’était pas encore ouvert à la réservation, attendez sa confirmation sur emirates.com.
+- **Etihad** relie Casablanca à Abou Dhabi (à environ une heure et demie de route de Dubaï). Selon les programmes publiés en novembre 2026, la compagnie prévoit de réduire temporairement ses fréquences entre début février et début mars 2027.
 - Depuis Marrakech, Fès, Tanger, Agadir ou Rabat, comptez en général une escale.
 
 Les programmes ont été perturbés en 2026 par la situation régionale. Vérifiez vos vols directement auprès des compagnies.
