@@ -3,10 +3,24 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <script>/* langue : choix mémorisé, sinon langue du navigateur, sinon pays (fuseau horaire). Jamais pour les robots. */
+  (function(){try{var u=navigator.userAgent;if(/bot|crawl|spider|slurp|lighthouse|facebookexternalhit|whatsapp|preview|headless/i.test(u))return;
+  var q=new URLSearchParams(location.search);if(q.has('lang'))return;var L=['fr','ar','en','es','nl','it'],p=null;
+  try{p=localStorage.getItem('sid_lang')}catch(e){}
+  if(!p){var n=navigator.languages||[navigator.language||''];for(var i=0;i<n.length&&!p;i++){var c=(n[i]||'').slice(0,2).toLowerCase();if(L.indexOf(c)>=0)p=c}}
+  if(!p){var z='';try{z=Intl.DateTimeFormat().resolvedOptions().timeZone||''}catch(e){}
+  var Z={'Europe/Madrid':'es','Atlantic/Canary':'es','Europe/Rome':'it','Europe/Amsterdam':'nl','Asia/Dubai':'ar','Asia/Riyadh':'ar','Asia/Qatar':'ar','Asia/Kuwait':'ar','Asia/Bahrain':'ar','Asia/Muscat':'ar'};
+  p=Z[z]||(/^(Africa\/(Casablanca|Algiers|Tunis|Dakar|Abidjan)|Europe\/(Paris|Brussels|Luxembourg))/.test(z)?'fr':'en')}
+  if(p&&p!=='fr'&&L.indexOf(p)>0)location.replace('/'+p+'/'+location.search+location.hash)}catch(e){}})();</script>
   <title>START IN DUBAI · Votre installation à Dubaï de A à Z</title>
   <meta name="description" content="Marocains du monde et francophones : immobilier, société, visas, famille et études supérieures à Dubaï, de A à Z, avec un seul interlocuteur. Ouverture le 15/12.">
   <link rel="canonical" href="https://www.startindubai.com/">
   <link rel="alternate" hreflang="fr" href="https://www.startindubai.com/">
+  <link rel="alternate" hreflang="ar" href="https://www.startindubai.com/ar/">
+  <link rel="alternate" hreflang="en" href="https://www.startindubai.com/en/">
+  <link rel="alternate" hreflang="es" href="https://www.startindubai.com/es/">
+  <link rel="alternate" hreflang="nl" href="https://www.startindubai.com/nl/">
+  <link rel="alternate" hreflang="it" href="https://www.startindubai.com/it/">
   <link rel="alternate" hreflang="x-default" href="https://www.startindubai.com/">
   <meta property="og:url" content="https://www.startindubai.com/">
   <meta name="theme-color" content="#0B0B0B">
@@ -23,9 +37,9 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700;800;900&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="assets/style.css">
-  <script src="config.js"></script>
-  <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.startindubai.com/#organization","name":"START IN DUBAI","alternateName":"Start in Dubai","url":"https://www.startindubai.com/","logo":"https://www.startindubai.com/assets/img/logo.webp","description":"Accompagnement de A à Z des Marocains du monde et des francophones du monde entier à Dubaï et aux Émirats : achat et gestion immobilière, création de société, compte bancaire, visas, installation de la famille et études supérieures.","areaServed":[{"@type":"City","name":"Dubaï"},{"@type":"Country","name":"Émirats arabes unis"}],"knowsLanguage":["fr","ar"],"founder":{"@type":"Person","name":"Ahmed Benjas","url":"https://www.ahmedbenjas.com"}},{"@type":"WebSite","@id":"https://www.startindubai.com/#website","name":"START IN DUBAI","alternateName":["Start in Dubai","startindubai.com"],"url":"https://www.startindubai.com/","inLanguage":"fr","publisher":{"@id":"https://www.startindubai.com/#organization"}}]}</script>
+  <link rel="stylesheet" href="/assets/style.css">
+  <script src="/config.js"></script>
+  <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.startindubai.com/#organization","name":"START IN DUBAI","alternateName":"Start in Dubai","url":"https://www.startindubai.com/","logo":"https://www.startindubai.com/assets/img/logo.webp","description":"Accompagnement de A à Z des Marocains du monde et des francophones du monde entier à Dubaï et aux Émirats : achat et gestion immobilière, création de société, compte bancaire, visas, installation de la famille et études supérieures.","areaServed":[{"@type":"City","name":"Dubaï"},{"@type":"Country","name":"Émirats arabes unis"}],"knowsLanguage":["ar","fr","en","es","nl","it"],"founder":{"@type":"Person","name":"Ahmed Benjas","url":"https://www.ahmedbenjas.com"}},{"@type":"WebSite","@id":"https://www.startindubai.com/#website","name":"START IN DUBAI","alternateName":["Start in Dubai","startindubai.com"],"url":"https://www.startindubai.com/","inLanguage":"fr","publisher":{"@id":"https://www.startindubai.com/#organization"}}]}</script>
 </head>
 <body>
   <!-- Barre du haut : compte à rebours permanent -->
@@ -35,6 +49,7 @@
       <div class="countdown cd-mini" data-cd aria-hidden="true">
         <span><b data-u="d">00</b>j</span><span><b data-u="h">00</b>h</span><span><b data-u="m">00</b>m</span><span><b data-u="s">00</b>s</span>
       </div>
+      <label class="lang-sw"><span class="sr">Langue</span><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M3 12h18M12 3c3 3.2 3 14.8 0 18M12 3c-3 3.2-3 14.8 0 18" fill="none" stroke="currentColor" stroke-width="1.8"/></svg><select data-lang aria-label="Langue / Language"><option value="fr" selected>Français</option><option value="ar">العربية</option><option value="en">English</option><option value="es">Español</option><option value="nl">Nederlands</option><option value="it">Italiano</option></select></label>
       <button class="topbar-btn" type="button" data-open-form><span class="btn-txt">Je m'inscris</span></button>
     </div>
   </div>
@@ -43,7 +58,7 @@
     <!-- 1. HERO -->
     <header class="hero" id="top">
       <div class="wrap hero-in">
-        <img class="logo" src="assets/img/logo.webp" width="900" height="576" alt="START IN DUBAI" fetchpriority="high" decoding="async">
+        <img class="logo" src="/assets/img/logo.webp" width="900" height="576" alt="START IN DUBAI" fetchpriority="high" decoding="async">
         <p class="pill">Avant-première · Immobilier · Société · Famille · Études</p>
         <h1>Immobilier, société, famille, études : tout votre projet à Dubaï, <mark>avec un seul interlocuteur</mark>, de A à Z.</h1>
         <p class="sub">Acheter un bien et le faire gérer, créer votre société, ouvrir vos comptes, obtenir vos visas, installer votre famille, inscrire votre fils ou votre fille à l'université : START IN DUBAI s'occupe de tout, dans votre langue, pour les Marocains du monde et les francophones du monde entier. <b>Inscrivez-vous avant l'ouverture et soyez rappelé en priorité.</b></p>
@@ -144,19 +159,19 @@
         <h2 id="qui-t" class="center">Vous êtes…</h2>
         <div class="profiles">
           <button class="profile" type="button" data-open-form data-profile="investir">
-            <img src="assets/img/investisseur.webp" alt="" width="800" height="1000" loading="lazy">
+            <img src="/assets/img/investisseur.webp" alt="" width="800" height="1000" loading="lazy">
             <span class="p-body"><span class="p-t">Investisseur</span><span class="p-d">Achat immobilier, gestion de votre bien, Golden Visa, structure de votre investissement.</span><span class="p-go">C'est moi →</span></span>
           </button>
           <button class="profile" type="button" data-open-form data-profile="societe">
-            <img src="assets/img/entrepreneur.webp" alt="" width="800" height="1000" loading="lazy">
+            <img src="/assets/img/entrepreneur.webp" alt="" width="800" height="1000" loading="lazy">
             <span class="p-body"><span class="p-t">Entrepreneur</span><span class="p-d">Créer ou développer votre société, compte bancaire, visas.</span><span class="p-go">C'est moi →</span></span>
           </button>
           <button class="profile" type="button" data-open-form data-profile="famille">
-            <img src="assets/img/famille.webp" alt="" width="800" height="1000" loading="lazy">
+            <img src="/assets/img/famille.webp" alt="" width="800" height="1000" loading="lazy">
             <span class="p-body"><span class="p-t">Une famille</span><span class="p-d">Visas, logement, santé, premiers jours : tout ce qu'il faut régler avant de partir.</span><span class="p-go">C'est nous →</span></span>
           </button>
           <button class="profile" type="button" data-open-form data-profile="etudes">
-            <img src="assets/img/etudiant.webp" alt="" width="800" height="1000" loading="lazy">
+            <img src="/assets/img/etudiant.webp" alt="" width="800" height="1000" loading="lazy">
             <span class="p-body"><span class="p-t">Étudiant</span><span class="p-d">Pour l'étudiant et ses parents : université, inscription, visa étudiant, logement.</span><span class="p-go">C'est nous →</span></span>
           </button>
         </div>
@@ -205,7 +220,7 @@
     <!-- 8. QUI EST DERRIÈRE -->
     <section class="sec sec-gray" aria-labelledby="who-t">
       <div class="wrap founder">
-        <img src="assets/img/ahmed-benjas.jpg" alt="Ahmed Benjas" width="640" height="800" loading="lazy">
+        <img src="/assets/img/ahmed-benjas.jpg" alt="Ahmed Benjas" width="640" height="800" loading="lazy">
         <div>
           <p class="eyebrow">Qui est derrière START IN DUBAI ?</p>
           <h2 id="who-t">Une équipe qui vit à Dubaï et qui parle votre langue</h2>
@@ -254,9 +269,10 @@
 
   <footer class="foot">
     <div class="wrap foot-in">
-      <img src="assets/img/logo.webp" alt="START IN DUBAI" width="120" height="77" loading="lazy">
+      <img src="/assets/img/logo.webp" alt="START IN DUBAI" width="120" height="77" loading="lazy">
       <p>© 2026 START IN DUBAI · Immobilier : Cevitas Real Estate, agence agréée RERA, ORN 49294 · <button type="button" class="link" data-open-privacy>Confidentialité</button></p>
       <p class="small">Les visuels des profils sont générés par IA, à titre d'illustration.</p>
+      <p class="langs"><a href="/" hreflang="fr" lang="fr" data-lang-link="fr" aria-current="page">Français</a> · <a href="/ar/" hreflang="ar" lang="ar" data-lang-link="ar">العربية</a> · <a href="/en/" hreflang="en" lang="en" data-lang-link="en">English</a> · <a href="/es/" hreflang="es" lang="es" data-lang-link="es">Español</a> · <a href="/nl/" hreflang="nl" lang="nl" data-lang-link="nl">Nederlands</a> · <a href="/it/" hreflang="it" lang="it" data-lang-link="it">Italiano</a></p>
     </div>
   </footer>
 
@@ -269,7 +285,7 @@
   <div class="tf" id="tf" role="dialog" aria-modal="true" aria-label="Inscription à l'avant-première" hidden>
     <div class="tf-progress"><span></span></div>
     <header class="tf-head">
-      <img src="assets/img/logo.webp" alt="START IN DUBAI" width="90" height="58">
+      <img src="/assets/img/logo.webp" alt="START IN DUBAI" width="90" height="58">
       <button type="button" class="tf-close" data-close-form aria-label="Fermer">
         <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
       </button>
@@ -288,6 +304,7 @@
     <form method="dialog"><button class="btn btn-sm">Fermer</button></form>
   </dialog>
 
-  <script src="assets/app.js"></script>
+  <script>window.SID_I18N={"q_needs": "Votre projet à Dubaï ?", "h_needs": "Plusieurs réponses possibles.", "o_business": "Créer ou développer mon business", "o_immobilier": "Acheter un bien immobilier", "o_portefeuille": "Faire louer et gérer mon bien", "o_residence": "Visa, résidence, Golden Visa", "o_famille": "Installer ma famille (logement, santé, démarches)", "o_etudes": "Études supérieures de mon fils ou ma fille : université, visa, logement", "o_banque": "Ouvrir un compte bancaire", "q_horizon": "Quand voulez-vous vous lancer ?", "hz_1": "Dans les 3 prochains mois", "hz_2": "Dans 3 à 6 mois", "hz_3": "Dans 6 à 12 mois", "hz_4": "Je me renseigne pour plus tard", "q_first": "Votre prénom ?", "ph_first": "Tapez votre prénom…", "q_phone_name": "Enchanté, {firstName}. Votre WhatsApp ?", "q_phone": "Votre WhatsApp ?", "h_phone": "Nous vous écrirons ici avant l'ouverture. Choisissez votre pays, puis tapez votre numéro mobile.", "lbl_country": "Pays", "other_country": "Autre pays", "ph_other": "+44 7400 123456", "q_email_name": "Dernière étape, {firstName} : votre e-mail ?", "q_email": "Dernière étape : votre e-mail ?", "h_email": "Pour recevoir l'invitation au lancement.", "ph_email": "nom@exemple.com", "consent": "En envoyant, vous acceptez d'être recontacté(e) par START IN DUBAI et son partenaire Cevitas Real Estate au sujet de votre projet (WhatsApp, téléphone ou e-mail).", "privacy": "Confidentialité", "ok": "OK", "send": "Envoyer", "sending": "Envoi…", "hint_enter": "appuyez sur <b>Entrée ↵</b>", "err_choose": "Choisissez une réponse.", "err_multi": "Choisissez au moins une réponse.", "err_first": "Indiquez votre prénom.", "err_email": "Cette adresse e-mail ne semble pas correcte.", "err_phone_len": "Pour ce pays ({dial}), un numéro mobile compte {n} chiffres. Exemple : {ex}", "err_phone_start": "Ce numéro ne ressemble pas à un numéro mobile de ce pays. Exemple : {ex}", "err_phone_other": "Écrivez le numéro complet avec l'indicatif du pays, par exemple +44 7400 123456.", "err_send": "L'envoi n'a pas abouti. Vérifiez votre connexion, puis réessayez.", "noted": "{profile} : c'est noté ✓", "p_investir": "Investisseur", "p_societe": "Entrepreneur", "p_famille": "Famille", "p_etudes": "Étudiant / parents", "thanks_1": "Merci", "thanks_2": "Vous êtes sur la liste.", "thanks_text": "Vous serez rappelé(e) en priorité. Nous vous écrirons sur WhatsApp avant l'ouverture du 15 décembre, pour vous présenter l'accompagnement et répondre à vos questions.", "u_d": "jours", "u_h": "heures", "u_m": "minutes", "u_s": "secondes", "share": "Partager avec un proche", "close": "Fermer", "share_text": "START IN DUBAI ouvre le 15 décembre : investir, entreprendre, s'installer et étudier à Dubaï, de A à Z.", "copied": "Lien copié ✓", "copy_prompt": "Copiez le lien :", "done_top": "Inscrit ✓", "done_btn": "Vous êtes sur la liste ✓"};</script>
+  <script src="/assets/app.js"></script>
 </body>
 </html>

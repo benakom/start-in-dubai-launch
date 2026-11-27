@@ -406,3 +406,58 @@ h1 { margin: 0 0 16px; max-width: 980px; font-size: clamp(32px, min(4.6vw, 6.4vh
   *, *::before, *::after { animation: none !important; transition-duration: .01ms !important; }
   html { scroll-behavior: auto; }
 }
+
+/* ------------------------------------------------------------------ langues */
+.sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+.lang-sw { position: relative; display: inline-flex; align-items: center; gap: 6px; padding: 6px 10px; border: 1px solid rgba(255, 255, 255, .28); border-radius: 6px; color: #fff; font-size: 13px; font-weight: 700; cursor: pointer; }
+.lang-sw svg { width: 16px; height: 16px; flex: none; }
+.lang-sw select { appearance: none; -webkit-appearance: none; border: 0; background: transparent; color: inherit; font: inherit; padding: 0 2px; cursor: pointer; }
+.lang-sw select option { color: var(--ink); }
+.foot .langs a { color: var(--muted); }
+.foot .langs a[aria-current] { color: var(--ink); font-weight: 700; text-decoration: none; }
+@media (max-width: 640px) {
+  .lang-sw { padding: 4px 6px; font-size: 12px; }
+  .lang-sw select { max-width: 74px; }
+}
+
+/* numéro WhatsApp : pays (drapeau + indicatif) devant le numéro */
+.field.tel { display: flex; align-items: flex-end; gap: 12px; }
+.field.tel input { flex: 1; min-width: 0; }
+.cc { position: relative; flex: none; display: flex; align-items: center; padding: 8px 26px 10px 0; border-bottom: 3px solid rgba(11, 11, 11, .2); font-family: var(--head); font-weight: 700; font-size: clamp(20px, 2.6vw, 26px); line-height: 1.3; white-space: nowrap; }
+.cc::after { content: ""; position: absolute; right: 6px; top: 50%; width: 8px; height: 8px; border-right: 2.5px solid currentColor; border-bottom: 2.5px solid currentColor; transform: translateY(-70%) rotate(45deg); }
+.cc select { position: absolute; inset: 0; width: 100%; opacity: 0; cursor: pointer; font-size: 16px; }
+.cc:focus-within { border-color: var(--red); }
+
+/* ------------------------------------------------------------------ arabe : de droite à gauche */
+[dir="rtl"] { --head: "Noto Kufi Arabic", Montserrat, Arial, sans-serif; --sans: "Noto Kufi Arabic", Inter, Arial, sans-serif; }
+[dir="rtl"] body { line-height: 1.75; }
+[dir="rtl"] .xlist li { padding: 16px 56px 16px 18px; }
+[dir="rtl"] .xlist li::before { left: auto; right: 16px; }
+[dir="rtl"] .punch { border-left: 0; border-right: 5px solid var(--red); border-radius: 10px 0 0 10px; }
+[dir="rtl"] .cmp-row span { padding: 16px 50px 16px 20px; }
+[dir="rtl"] .cmp-row span::before { left: auto; right: 18px; }
+[dir="rtl"] .profile, [dir="rtl"] .choice { text-align: right; }
+[dir="rtl"] .steps li::before { left: auto; right: 20px; }
+[dir="rtl"] .vlist { text-align: right; }
+[dir="rtl"] .vlist li { padding-left: 0; padding-right: 42px; }
+[dir="rtl"] .vlist li::before { left: auto; right: 0; }
+[dir="rtl"] .faq summary::after { right: auto; left: 20px; }
+[dir="rtl"] .faq summary { padding-left: 60px; padding-right: 22px; }
+[dir="rtl"] .tf-nav { right: auto; left: clamp(16px, 4vw, 40px); }
+[dir="rtl"] .btn svg, [dir="rtl"] .q-num svg { transform: scaleX(-1); }
+[dir="rtl"] .cc { padding: 8px 0 10px 26px; }
+[dir="rtl"] .cc::after { right: auto; left: 6px; }
+[dir="rtl"] .field.tel { flex-direction: row-reverse; }      /* numéro écrit de gauche à droite : l'indicatif reste à gauche */
+[dir="rtl"] .field input[type="tel"], [dir="rtl"] .field input[type="email"] { direction: ltr; text-align: left; }
+@media (max-width: 640px) {
+  [dir="rtl"] .xlist li { padding-left: 18px; padding-right: 52px; }
+  [dir="rtl"] .cmp-row span { padding: 12px 34px 12px 12px; }
+  [dir="rtl"] .cmp-row span::before { left: auto; right: 12px; }
+  [dir="rtl"] .faq summary { padding: 16px 18px 16px 50px; }
+}
+[dir="rtl"] .cc { direction: ltr; }
+.cd-mini span, .lang-sw { white-space: nowrap; }
+@media (max-width: 420px) {
+  .topbar-txt .sm { display: none; }          /* sur petit écran : point rouge + compte à rebours + langue */
+  .topbar-in { gap: 8px; }
+}

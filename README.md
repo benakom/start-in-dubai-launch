@@ -101,3 +101,10 @@ Quand le site complet (projet `startindubai`) sera prêt, il prendra le domaine.
 - La note Google de Cevitas (5,0, 15 avis au 24/11/2026) est à mettre à jour si elle change.
 - Les visuels des profils sont générés par IA, à titre d'illustration (mentionné en pied de page).
 - L'image de partage `og.jpg` reprend encore l'ancien style (crème et or).
+
+## Langues (fr, ar, en, es, nl, it)
+La page existe en 6 langues : `/` (français), `/ar/`, `/en/`, `/es/`, `/nl/`, `/it/`, avec hreflang et sitemap.
+- Source unique : `i18n/template.html` (structure) + `i18n/<langue>.json` (textes de la page) + `i18n/form-<langue>.json` (textes du formulaire).
+- Après toute modification : `python3 tools/i18n.py build` régénère `index.html`, les 5 dossiers et `sitemap.xml`. Ne pas éditer les `index.html` à la main.
+- Langue affichée sur `/` : choix mémorisé du visiteur, sinon langue du navigateur, sinon pays (fuseau horaire). Les robots ne sont jamais redirigés.
+- Formulaire : le visiteur choisit son pays (indicatif) et le numéro mobile est vérifié (longueur et premier chiffre) ; Oleadoo reçoit toujours des libellés en français, avec la langue du site dans les notes.

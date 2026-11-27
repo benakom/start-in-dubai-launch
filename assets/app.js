@@ -35,62 +35,76 @@
     new IntersectionObserver(([e]) => sticky.classList.toggle("is-on", !e.isIntersecting && e.boundingClientRect.top < 0), { threshold: 0 }).observe(heroCta);
   }
 
-  /* ---------------------------------------------------------------- questions */
-  // Marocains du monde et francophones de partout : indicatifs des pays où vivent le plus de nos visiteurs.
-  const DIAL = { "Maroc": "+212", "France": "+33", "Espagne": "+34", "Italie": "+39", "Belgique": "+32", "Pays-Bas": "+31",
-    "Allemagne": "+49", "Royaume-Uni": "+44", "Suisse": "+41", "Canada": "+1", "États-Unis": "+1",
-    "Émirats arabes unis": "+971", "Arabie saoudite": "+966", "Qatar": "+974", "Tunisie": "+216", "Algérie": "+213",
-    "Sénégal": "+221", "Côte d'Ivoire": "+225", "Luxembourg": "+352" };
-  // Pays devinés depuis le fuseau horaire du téléphone : sert à pré-remplir l'indicatif WhatsApp (on ne pose plus la question du pays).
-  const TZ_COUNTRY = { "Africa/Casablanca": "Maroc", "Africa/El_Aaiun": "Maroc", "Europe/Paris": "France", "Europe/Madrid": "Espagne",
-    "Atlantic/Canary": "Espagne", "Africa/Ceuta": "Espagne", "Europe/Rome": "Italie", "Europe/Brussels": "Belgique", "Europe/Amsterdam": "Pays-Bas",
-    "Europe/Berlin": "Allemagne", "Europe/London": "Royaume-Uni", "Europe/Zurich": "Suisse", "Asia/Dubai": "Émirats arabes unis",
-    "Asia/Riyadh": "Arabie saoudite", "Asia/Qatar": "Qatar", "Africa/Tunis": "Tunisie", "Africa/Algiers": "Algérie", "Africa/Dakar": "Sénégal",
-    "Africa/Abidjan": "Côte d'Ivoire", "Europe/Luxembourg": "Luxembourg" };
-  const guessCountry = () => {
+  /* ---------------------------------------------------------------- langue */
+  // Textes du formulaire dans la langue de la page (window.SID_I18N, écrit par tools/i18n.py). Le CRM reçoit toujours le français.
+  const LANG = document.documentElement.lang || "fr";
+  const I18N = window.SID_I18N || {};
+  const tr = (k, vars) => { let x = I18N[k] != null ? I18N[k] : k; for (const [a, b] of Object.entries(vars || {})) x = x.split("{" + a + "}").join(b); return x; };
+
+  /* ---------------------------------------------------------------- pays et numéros mobiles */
+  // [indicatif, longueurs possibles du numéro mobile national (sans le 0 initial), début d'un numéro mobile, exemple]
+  const PHONE = {
+    MA: ["+212", [9], /^[67]/, "6 12 34 56 78"], FR: ["+33", [9], /^[67]/, "6 12 34 56 78"], BE: ["+32", [9], /^4/, "470 12 34 56"],
+    NL: ["+31", [9], /^6/, "6 12345678"], ES: ["+34", [9], /^[67]/, "612 34 56 78"], IT: ["+39", [9, 10], /^3/, "312 345 6789"],
+    DE: ["+49", [10, 11], /^1[5-7]/, "151 23456789"], GB: ["+44", [10], /^7/, "7400 123456"], CH: ["+41", [9], /^7/, "78 123 45 67"],
+    LU: ["+352", [9], /^6/, "621 123 456"], CA: ["+1", [10], /^[2-9]/, "514 555 0123"], US: ["+1", [10], /^[2-9]/, "212 555 0123"],
+    AE: ["+971", [9], /^5/, "50 123 4567"], SA: ["+966", [9], /^5/, "50 123 4567"], QA: ["+974", [8], /^[3567]/, "3312 3456"],
+    DZ: ["+213", [9], /^[567]/, "551 23 45 67"], TN: ["+216", [8], /^[2459]/, "20 123 456"], SN: ["+221", [9], /^7/, "77 123 45 67"],
+    CI: ["+225", [10], /^0[157]/, "07 12 34 56 78"],
+  };
+  const TZ_ISO = { "Africa/Casablanca": "MA", "Africa/El_Aaiun": "MA", "Europe/Paris": "FR", "Europe/Brussels": "BE", "Europe/Amsterdam": "NL",
+    "Europe/Madrid": "ES", "Atlantic/Canary": "ES", "Africa/Ceuta": "ES", "Europe/Rome": "IT", "Europe/Berlin": "DE", "Europe/London": "GB",
+    "Europe/Zurich": "CH", "Europe/Luxembourg": "LU", "Asia/Dubai": "AE", "Asia/Riyadh": "SA", "Asia/Qatar": "QA", "Africa/Algiers": "DZ",
+    "Africa/Tunis": "TN", "Africa/Dakar": "SN", "Africa/Abidjan": "CI" };
+  const guessIso = () => {
     let tz = ""; try { tz = Intl.DateTimeFormat().resolvedOptions().timeZone || ""; } catch { /* */ }
-    if (TZ_COUNTRY[tz]) return TZ_COUNTRY[tz];
-    if (/^America\/(Toronto|Montreal|Vancouver|Edmonton|Winnipeg|Halifax|Regina|St_Johns|Moncton)/.test(tz)) return "Canada";
-    if (/^America\/(New_York|Chicago|Denver|Los_Angeles|Phoenix|Detroit|Anchorage|Indiana)/.test(tz)) return "États-Unis";
-    return "";
+    if (TZ_ISO[tz]) return TZ_ISO[tz];
+    if (/^America\/(Toronto|Montreal|Vancouver|Edmonton|Winnipeg|Halifax|Regina|St_Johns|Moncton)/.test(tz)) return "CA";
+    if (/^America\//.test(tz)) return "US";
+    return { nl: "NL", es: "ES", it: "IT", ar: "AE", en: "GB" }[LANG] || "MA";
   };
-  // Pays de résidence déduit de l'indicatif saisi (le plus long qui correspond).
-  const countryFromPhone = (phone) => {
-    const d = phone.replace(/[^\d+]/g, "");
-    if (!d.startsWith("+")) return guessCountry() || "Non précisé";
-    for (const len of [3, 2, 1]) {
-      const code = d.slice(0, len + 1);
-      if (code === "+1") { const g = guessCountry(); return g === "Canada" || g === "États-Unis" ? g : "Canada / États-Unis"; }
-      const hit = Object.keys(DIAL).find((c) => DIAL[c] === code);
-      if (hit) return hit;
+  const regionName = (iso, lang) => { try { return new Intl.DisplayNames([lang], { type: "region" }).of(iso); } catch { return iso; } };
+  const flag = (iso) => iso.replace(/./g, (c) => String.fromCodePoint(127397 + c.charCodeAt(0)));
+  /** Vérifie le numéro pour le pays choisi. Renvoie { ok, phone, err }. */
+  function checkPhone(iso, raw) {
+    const v = (raw || "").trim();
+    if (iso === "OTHER") {
+      const d = v.replace(/\D/g, "");
+      return v.startsWith("+") && d.length >= 8 && d.length <= 15 ? { ok: true, phone: "+" + d } : { ok: false, err: tr("err_phone_other") };
     }
-    return "Autre pays (" + d.slice(0, 4) + ")";
-  };
+    const [dial, lens, start, ex] = PHONE[iso];
+    let d = v.replace(/\D/g, "");
+    if (v.startsWith("+") || v.startsWith("00")) {            // indicatif retapé dans le champ
+      d = d.replace(/^00/, "");
+      if (d.startsWith(dial.slice(1))) d = d.slice(dial.length - 1);
+    }
+    if (iso !== "CI" && d.startsWith("0")) d = d.slice(1);   // 06…, 07…, 015… : le 0 national ne s'écrit pas après l'indicatif
+    const n = lens.length > 1 ? lens[0] + "–" + lens[lens.length - 1] : String(lens[0]);
+    if (!lens.includes(d.length)) return { ok: false, err: tr("err_phone_len", { dial, n, ex: dial + " " + ex }) };
+    if (!start.test(d)) return { ok: false, err: tr("err_phone_start", { ex: dial + " " + ex }) };
+    return { ok: true, phone: dial + " " + d };
+  }
+
   // Profil déduit du projet, ou choisi sur une carte « Vous êtes… » de la page (on ne repose alors pas la question).
-  const PROFILE_LABEL = { investir: "Investisseur", societe: "Entrepreneur", famille: "Famille", etudes: "Étudiant / parents" };
+  const PROFILE_LABEL = { investir: "Investisseur", societe: "Entrepreneur", famille: "Famille", etudes: "Étudiant / parents" };   // CRM (français)
   const NEED_PROFILE = { business: "societe", immobilier: "investir", portefeuille: "investir", residence: "investir", famille: "famille", etudes: "etudes" };
   const PRESET_NEEDS = { investir: ["immobilier", "residence"], societe: ["business"], famille: ["famille"], etudes: ["etudes"] };
+  // libellés envoyés au CRM : toujours en français, quelle que soit la langue de la page
+  const FR = { business: "Créer ou développer mon business", immobilier: "Acheter un bien immobilier", portefeuille: "Faire louer et gérer mon bien",
+    residence: "Visa, résidence, Golden Visa", famille: "Installer ma famille (logement, santé, démarches)",
+    etudes: "Études supérieures de mon fils ou ma fille : université, visa, logement", banque: "Ouvrir un compte bancaire",
+    hz_1: "Dans les 3 prochains mois", hz_2: "Dans 3 à 6 mois", hz_3: "Dans 6 à 12 mois", hz_4: "Je me renseigne pour plus tard" };
   const STEPS = [
-    { id: "needs", type: "multi", q: "Votre projet à Dubaï ?", help: "Plusieurs réponses possibles.", options: [
-      { v: "business", l: "Créer ou développer mon business" },
-      { v: "immobilier", l: "Acheter un bien immobilier" },
-      { v: "portefeuille", l: "Faire louer et gérer mon bien" },
-      { v: "residence", l: "Visa, résidence, Golden Visa" },
-      { v: "famille", l: "Installer ma famille (logement, santé, démarches)" },
-      { v: "etudes", l: "Études supérieures de mon fils ou ma fille : université, visa, logement" },
-      { v: "banque", l: "Ouvrir un compte bancaire" } ] },
-    { id: "horizon", type: "single", q: "Quand voulez-vous vous lancer ?", options: [
-      "Dans les 3 prochains mois", "Dans 3 à 6 mois", "Dans 6 à 12 mois", "Je me renseigne pour plus tard"].map((h) => ({ v: h, l: h })) },
-    { id: "firstName", type: "text", q: "Votre prénom ?", ph: "Tapez votre prénom…", ac: "given-name", max: 60 },
-    { id: "phone", type: "tel", q: ["Enchanté, {firstName}. Votre WhatsApp ?", "Votre WhatsApp ?"],
-      help: "Nous vous écrirons ici avant l'ouverture. Vérifiez l'indicatif de votre pays.", ph: "+212 6 12 34 56 78", ac: "tel", max: 30 },
-    { id: "email", type: "email", final: true, q: ["Dernière étape, {firstName} : votre e-mail ?", "Dernière étape : votre e-mail ?"],
-      help: "Pour recevoir l'invitation au lancement.", ph: "nom@exemple.com", ac: "email", max: 120 },
+    { id: "needs", type: "multi", q: tr("q_needs"), help: tr("h_needs"),
+      options: ["business", "immobilier", "portefeuille", "residence", "famille", "etudes", "banque"].map((v) => ({ v, l: tr("o_" + v) })) },
+    { id: "horizon", type: "single", q: tr("q_horizon"), options: ["hz_1", "hz_2", "hz_3", "hz_4"].map((v) => ({ v, l: tr(v) })) },
+    { id: "firstName", type: "text", q: tr("q_first"), ph: tr("ph_first"), ac: "given-name", max: 60 },
+    { id: "phone", type: "tel", q: [tr("q_phone_name"), tr("q_phone")], help: tr("h_phone"), ac: "tel-national", max: 30 },
+    { id: "email", type: "email", final: true, q: [tr("q_email_name"), tr("q_email")], help: tr("h_email"), ph: tr("ph_email"), ac: "email", max: 120 },
   ];
-  const LABEL = {}; STEPS.forEach((s) => (s.options || []).forEach((o) => (LABEL[s.id + ":" + o.v] = o.l)));
   const NEEDS_I = STEPS.findIndex((s) => s.id === "needs");
 
-  const data = { needs: [], horizon: "", firstName: "", phone: "", email: "", message: "" };
+  const data = { needs: [], horizon: "", firstName: "", phone: "", email: "", message: "", iso: guessIso() };
   const tf = $("#tf"), stage = $(".tf-stage", tf), bar = $(".tf-progress span", tf);
   const btnPrev = $("[data-prev]", tf), btnNext = $("[data-next]", tf);
   let els = [], idx = 0, built = false, done = false, opener = null, honeypot, preset = "";
@@ -147,10 +161,26 @@
           data[s.id] = inp.value; hideErr();
           if (s.type === "textarea") { inp.style.height = "auto"; inp.style.height = inp.scrollHeight + "px"; }
         });
+        if (s.type === "tel") {   // pays (drapeau + indicatif) devant le numéro
+          f.classList.add("tel");
+          const cc = el("label", "cc"); const shown = el("span", "cc-show");
+          const sel = el("select"); sel.setAttribute("aria-label", tr("lbl_country"));
+          const isos = Object.keys(PHONE).sort((a, b) => (a === data.iso ? -1 : b === data.iso ? 1 : 0) || regionName(a, LANG).localeCompare(regionName(b, LANG), LANG));
+          isos.forEach((iso) => { const o = el("option", "", flag(iso) + " " + regionName(iso, LANG) + " (" + PHONE[iso][0] + ")"); o.value = iso; sel.append(o); });
+          const oo = el("option", "", "🌐 " + tr("other_country")); oo.value = "OTHER"; sel.append(oo);
+          const sync = () => {
+            const iso = sel.value; data.iso = iso;
+            shown.textContent = iso === "OTHER" ? "🌐 +" : flag(iso) + " " + PHONE[iso][0];
+            inp.placeholder = iso === "OTHER" ? tr("ph_other") : PHONE[iso][3];
+            hideErr();
+          };
+          sel.value = data.iso; sel.addEventListener("change", () => { sync(); inp.focus(); });
+          cc.append(shown, sel); f.append(cc); sync();
+        }
         f.append(inp); inner.append(f);
         if (s.final) { // dernière question : mention de recontact (envoyer = accepter) + piège à robots
-          const note = el("p", "consent-note", "En envoyant, vous acceptez d'être recontacté(e) par START IN DUBAI et son partenaire Cevitas Real Estate au sujet de votre projet (WhatsApp, téléphone ou e-mail). ");
-          const priv = el("button", "link", "Confidentialité"); priv.type = "button";
+          const note = el("p", "consent-note", tr("consent") + " ");
+          const priv = el("button", "link", tr("privacy")); priv.type = "button";
           priv.addEventListener("click", () => $("#privacy").showModal());
           note.append(priv); inner.append(note);
           honeypot = el("input"); honeypot.type = "text"; honeypot.name = "website"; honeypot.tabIndex = -1; honeypot.autocomplete = "off";
@@ -160,10 +190,10 @@
       }
 
       const act = el("div", "actions");
-      const ok = el("button", "ok", s.final ? "Envoyer" : "OK"); ok.type = "button";
+      const ok = el("button", "ok", s.final ? tr("send") : tr("ok")); ok.type = "button";
       if (!s.final) ok.insertAdjacentHTML("beforeend", CHECK.replace('class="check" ', 'width="18" height="18" '));
       ok.addEventListener("click", () => (s.final ? submit() : next()));
-      const hint = el("span", "hint"); hint.innerHTML = s.type === "textarea" ? "<b>Maj + Entrée</b> pour aller à la ligne" : "appuyez sur <b>Entrée ↵</b>";
+      const hint = el("span", "hint"); hint.innerHTML = tr("hint_enter");
       act.append(ok, hint);
       inner.append(act, el("p", "err"));
       inner.lastChild.setAttribute("role", "alert");
@@ -177,17 +207,17 @@
     const sec = el("section", "step thanks");
     const inner = el("div", "step-in"); sec.append(inner);
     inner.innerHTML = `
-      <h2 class="q">Merci<span data-thanks-name></span>. <em>Vous êtes sur la liste.</em></h2>
-      <p class="q-help">Vous serez rappelé(e) en priorité. Nous vous écrirons sur WhatsApp avant l'ouverture du 15 décembre, pour vous présenter l'accompagnement et répondre à vos questions.</p>
+      <h2 class="q">${tr("thanks_1")}<span data-thanks-name></span>. <em>${tr("thanks_2")}</em></h2>
+      <p class="q-help">${tr("thanks_text")}</p>
       <div class="countdown" data-cd aria-hidden="true">
-        <div class="cd-cell"><span class="cd-num" data-u="d">00</span><span class="cd-unit">jours</span></div>
-        <div class="cd-cell"><span class="cd-num" data-u="h">00</span><span class="cd-unit">heures</span></div>
-        <div class="cd-cell"><span class="cd-num" data-u="m">00</span><span class="cd-unit">minutes</span></div>
-        <div class="cd-cell"><span class="cd-num" data-u="s">00</span><span class="cd-unit">secondes</span></div>
+        <div class="cd-cell"><span class="cd-num" data-u="d">00</span><span class="cd-unit">${tr("u_d")}</span></div>
+        <div class="cd-cell"><span class="cd-num" data-u="h">00</span><span class="cd-unit">${tr("u_h")}</span></div>
+        <div class="cd-cell"><span class="cd-num" data-u="m">00</span><span class="cd-unit">${tr("u_m")}</span></div>
+        <div class="cd-cell"><span class="cd-num" data-u="s">00</span><span class="cd-unit">${tr("u_s")}</span></div>
       </div>
       <div class="actions">
-        <button type="button" class="ok" data-share>Partager avec un proche</button>
-        <button type="button" class="ok ghost" data-close-form>Fermer</button>
+        <button type="button" class="ok" data-share>${tr("share")}</button>
+        <button type="button" class="ok ghost" data-close-form>${tr("close")}</button>
       </div>`;
     $("[data-share]", inner).addEventListener("click", share);
     $("[data-close-form]", inner).addEventListener("click", close);
@@ -208,9 +238,8 @@
       $(".q", nw).textContent = qText(s);
       $(".q-num span", nw).textContent = pos + 1;
       // profil choisi sur la page : on le confirme au lieu de reposer la question
-      if (pos === 0 && preset) $(".q-help", nw).textContent = PROFILE_LABEL[preset] + " : c'est noté ✓";
+      if (pos === 0 && preset) $(".q-help", nw).textContent = tr("noted", { profile: tr("p_" + preset) });
       else $(".q-help", nw).textContent = s.help || "";
-      if (s.type === "tel") { const i = $("input", nw), c = guessCountry(); if (!data.phone && DIAL[c]) { i.value = data.phone = DIAL[c] + " "; } }
     }
     bar.style.width = (done ? 100 : (Math.max(pos, 0) / F.length) * 100) + "%";
     btnPrev.disabled = pos <= 0; btnNext.disabled = pos < 0 || pos >= F.length - 1;
@@ -254,11 +283,11 @@
     const s = STEPS[idx]; if (!s) return true;
     const v = typeof data[s.id] === "string" ? data[s.id].trim() : data[s.id];
     switch (s.type) {
-      case "single": if (!v) return err("Choisissez une réponse."), false; break;
-      case "multi": if (!data.needs.length) return err("Choisissez au moins une réponse."), false; break;
-      case "text": if (v.length < 2) return err("Indiquez votre prénom."), false; break;
-      case "tel": { const d = v.replace(/\D/g, ""); if (d.length < 8 || d.length > 15) return err("Ce numéro semble incomplet. Ajoutez l'indicatif, par exemple +212 6 12 34 56 78."), false; break; }
-      case "email": if (!/^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(v)) return err("Cette adresse e-mail ne semble pas correcte."), false; break;
+      case "single": if (!v) return err(tr("err_choose")), false; break;
+      case "multi": if (!data.needs.length) return err(tr("err_multi")), false; break;
+      case "text": if (v.length < 2) return err(tr("err_first")), false; break;
+      case "tel": { const r = checkPhone(data.iso, v); if (!r.ok) return err(r.err), false; data.phoneIntl = r.phone; break; }
+      case "email": if (!/^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(v)) return err(tr("err_email")), false; break;
     }
     return true;
   }
@@ -272,6 +301,7 @@
       `Tag : ${tag}`,
       "Avant-première (ouverture le 15/12/2026)",
       p.country ? `Pays : ${p.country}` : null,
+      p.siteLang && p.siteLang !== "fr" ? `Langue du site : ${p.siteLang}` : null,
       p.horizon ? `Horizon : ${p.horizon}` : null,
       p.message ? `Message : ${p.message}` : null,
     ].filter(Boolean).join(" · ");
@@ -280,7 +310,7 @@
       interest: [tag, p.profileLabel, p.needsLabels.join(", ")].filter(Boolean).join(" · ").slice(0, 500),
       notes: notes.slice(0, 2000),
       source: crm.source || "start-in-dubai",
-      language: "fr",
+      language: p.siteLang || "fr",
       country: p.country || null,
       utm_source: p.utm.utm_source || null, utm_medium: p.utm.utm_medium || null, utm_campaign: p.utm.utm_campaign || null,
       referrer: p.referrer || null, landing_page: p.page, page_path: location.pathname,
@@ -335,15 +365,16 @@
     const q = new URLSearchParams(location.search);
     const { profile, profileLabel } = profileOf();
     const payload = {
-      firstName: data.firstName.trim(), phone: data.phone.trim(), email: data.email.trim().toLowerCase(),
+      firstName: data.firstName.trim(), phone: data.phoneIntl || data.phone.trim(), email: data.email.trim().toLowerCase(),
       profile, profileLabel, profileFromPage: !!preset,
-      needs: data.needs, needsLabels: data.needs.map((n) => LABEL["needs:" + n]),
-      country: countryFromPhone(data.phone), horizon: data.horizon, message: data.message.trim(), consent: true,
+      needs: data.needs, needsLabels: data.needs.map((n) => FR[n]), siteLang: LANG,
+      country: data.iso === "OTHER" ? "Autre pays (" + (data.phoneIntl || "").slice(0, 4) + ")" : regionName(data.iso, "fr"),
+      horizon: FR[data.horizon] || data.horizon, message: data.message.trim(), consent: true,
       source: (C.crm && C.crm.source) || "start-in-dubai", tag: (C.crm && C.crm.tag) || "Start in Dubai", page: location.href.split("#")[0], referrer: document.referrer || "",
       utm: Object.fromEntries([...q.entries()].filter(([k]) => k.startsWith("utm_"))),
       language: navigator.language || "", launchDate: LAUNCH_ISO, submittedAt: new Date().toISOString(),
     };
-    ok.disabled = true; ok.textContent = "Envoi…";
+    ok.disabled = true; ok.textContent = tr("sending");
     try {
       await send(payload);
       window.gtag?.("event", "generate_lead", { lead_source: "countdown", profile });
@@ -351,14 +382,14 @@
       store.set("sid_lead_v1", { firstName: payload.firstName, at: payload.submittedAt });
       finish();
     } catch (e) {
-      err("L'envoi n'a pas abouti. Vérifiez votre connexion, puis réessayez.");
-    } finally { ok.disabled = false; ok.textContent = "Envoyer"; }
+      err(tr("err_send"));
+    } finally { ok.disabled = false; ok.textContent = tr("send"); }
   }
 
   function finish() {
     done = true;
     const n = data.firstName.trim().split(/\s+/)[0];
-    $("[data-thanks-name]").textContent = n ? ", " + n : "";
+    $("[data-thanks-name]").textContent = n ? (LANG === "ar" ? "، " : ", ") + n : "";
     show(STEPS.length);
     markDone();
   }
@@ -366,16 +397,16 @@
     $$("[data-open-form]").forEach((b) => {
       b.classList.add("is-done");
       const t = $(".btn-txt", b);
-      if (t) t.textContent = b.classList.contains("topbar-btn") ? "Inscrit ✓" : "Vous êtes sur la liste ✓";
+      if (t) t.textContent = b.classList.contains("topbar-btn") ? tr("done_top") : tr("done_btn");
     });
   }
 
   async function share() {
     const url = location.href.split(/[?#]/)[0];
-    const text = "START IN DUBAI ouvre le 15 décembre : investir, entreprendre, s'installer à Dubaï, de A à Z.";
+    const text = tr("share_text");
     const btn = $("[data-share]");
     if (navigator.share) { try { await navigator.share({ title: "START IN DUBAI", text, url }); } catch { /* annulé */ } return; }
-    try { await navigator.clipboard.writeText(url); btn.textContent = "Lien copié ✓"; } catch { prompt("Copiez le lien :", url); }
+    try { await navigator.clipboard.writeText(url); btn.textContent = tr("copied"); } catch { prompt(tr("copy_prompt"), url); }
   }
 
   /* ---------------------------------------------------------------- ouverture / fermeture */
@@ -433,10 +464,17 @@
   if (location.hash === "#inscription") open();
   // finit de remplir le nom dans l'écran de remerciement quand on rouvre après une visite précédente
   document.addEventListener("click", (e) => {
-    if (e.target.closest("[data-open-form]") && done) { const n = data.firstName.trim().split(/\s+/)[0]; const t = $("[data-thanks-name]"); if (t) t.textContent = n ? ", " + n : ""; }
+    if (e.target.closest("[data-open-form]") && done) { const n = data.firstName.trim().split(/\s+/)[0]; const t = $("[data-thanks-name]"); if (t) t.textContent = n ? (LANG === "ar" ? "، " : ", ") + n : ""; }
   });
 
   $("[data-open-privacy]").addEventListener("click", () => $("#privacy").showModal());
+
+  // choix de langue : mémorisé (la page française ne redirige plus ensuite)
+  const remember = (l) => { try { localStorage.setItem("sid_lang", l); } catch { /* */ } };
+  $$("[data-lang]").forEach((sel) => sel.addEventListener("change", () => {
+    remember(sel.value); location.href = (sel.value === "fr" ? "/" : "/" + sel.value + "/") + location.search + location.hash;
+  }));
+  $$("[data-lang-link]").forEach((a) => a.addEventListener("click", () => remember(a.dataset.langLink)));
 
   /* ---------------------------------------------------------------- suivi facultatif */
   if (C.ga4Id) {
