@@ -6,7 +6,7 @@ keyword: "moving to dubai from senegal"
 secondary: ["dubai visa senegal", "travel to dubai from senegal", "senegalese passport uae visa", "legalise documents senegal uae", "flights dakar dubai"]
 cluster: pays
 country: "Senegal"
-updated: 2026-11-27
+updated: 2026-11-28
 intro: "To move to Dubai from Senegal, you need a visa obtained before departure, then a residence visa through an employer, a company, family or a university. Before you go, have your diplomas and certificates legalised at the Senegalese Ministry of Foreign Affairs, then attested by the UAE Embassy in Dakar. Transfers outside the WAEMU zone go through an approved bank or intermediary, under the BCEAO exchange regulations."
 essentials:
   - "A Senegalese passport gives neither visa-free entry nor a visa on arrival in the UAE: the visa must be issued before departure."
@@ -39,6 +39,8 @@ sources:
     url: "https://www.mofa.gov.ae/en/Missions/Foreign-Missions-in-UAE?region=SEN"
   - label: "UAE Ministry of Education: equivalence of a secondary-school diploma obtained abroad"
     url: "https://moe.gov.ae/en/eservices/servicecard/pages/certequivalent-out.aspx"
+  - label: "RTA: exchanging a foreign licence (60 countries, updated 24/11/2026)"
+    url: "https://www.rta.ae/wps/portal/rta/ae/home/rta-services/service-details?serviceId=121"
 related: ["s-installer-a-dubai", "visa-residence-dubai", "creer-sa-societe-a-dubai", "etudier-a-dubai", "s-installer-a-dubai-depuis-le-maroc"]
 order: 4
 key: "s-installer-a-dubai-depuis-le-senegal"
@@ -168,7 +170,7 @@ More details in our guide to [studying in Dubai](/en/study-in-dubai/).
 
 ## Life on the ground
 
-The Senegalese diaspora in the UAE is active, notably in trade with Senegal. English is the working language, Arabic the official language, and French opens the door to Dubai's francophone networks. The Senegalese driving licence cannot in principle be exchanged directly: in January 2026, the RTA counted only one African country on its list, South Africa according to the Emirati press. Plan lessons at a driving school if you want to drive.
+The Senegalese diaspora in the UAE is active, notably in trade with Senegal. English is the working language, Arabic the official language, and French opens the door to Dubai's francophone networks. The Senegalese driving licence cannot be exchanged directly: according to the RTA (page updated on 24 November 2026), 60 countries are on the exchange list and South Africa is the only African country. Plan lessons at a driving school if you want to drive.
 
 ## Checklist before leaving Senegal
 

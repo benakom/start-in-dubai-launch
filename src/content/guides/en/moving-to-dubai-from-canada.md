@@ -6,7 +6,7 @@ keyword: "moving to dubai from canada"
 secondary: ["dubai visa for canadians", "cost of living dubai vs canada", "moving to dubai from quebec", "canadian expat dubai", "canada uae tax treaty"]
 cluster: pays
 country: "Canada"
-updated: 2026-11-27
+updated: 2026-11-28
 intro: "To move to Dubai from Canada, you enter with your Canadian passport on a tourist visa issued free of charge on arrival (90 days in any 180), then obtain a residence visa through an employer, your company, an investment or a relative. Before leaving, three files matter: your non-resident tax status (Canada Revenue Agency and, for Quebec, Revenu Québec, with the deemed disposition of your property), the end of your RAMQ coverage, and the authentication of your Quebec documents followed by their legalisation by the UAE Embassy in Ottawa."
 essentials:
   - "Canadians get a tourist visa on arrival, free of charge, allowing a stay of 90 days in any 180-day period."
@@ -23,7 +23,7 @@ faq:
   - q: "Will I pay tax in Canada while living in Dubai?"
     a: "If you become a non-resident of Canada, you are no longer taxed on your worldwide income, but some Canadian-source income remains taxable. In the year of departure, you report your income up to the departure date, and the deemed disposition of certain property can create a taxable capital gain, federally and in Quebec."
   - q: "Is my Canadian driving licence accepted in Dubai?"
-    a: "According to Travel.gc.ca, a Canadian licence lets you drive or rent a car in Dubai during a stay, whereas an international licence is required elsewhere in the UAE. Once you are a resident, you can convert your Canadian licence into a UAE licence with the transport authority of your emirate."
+    a: "Check before you leave: Canada is not among the 20 exception countries the RTA lists for visitors driving on their national licence. Ask the RTA, plan an international licence in addition to your Canadian one and check your car rental company's conditions. Once you are a resident, the RTA allows a Canadian licence to be exchanged without a test, for Canadian nationals only and excluding restricted G1 and G2 licences (page updated on 24 November 2026)."
   - q: "Are there direct flights between Montreal and Dubai?"
     a: "Yes: Emirates links Montreal and Toronto to Dubai with a direct flight, and Air Canada also offers non-stop flights from Toronto. Frequencies can change with the season and the regional situation: check schedules with the airlines."
 sources:
@@ -39,6 +39,8 @@ sources:
     url: "https://www.canada.ca/en/department-finance/programs/tax-policy/tax-treaties/country/united-arab-emirates-convention-2002.html"
   - label: "Global Affairs Canada: document authentication"
     url: "https://international.canada.ca/en/global-affairs/services/document-authentication/requirements"
+  - label: "RTA: exchanging a foreign licence (60 countries, updated 24/11/2026)"
+    url: "https://www.rta.ae/wps/portal/rta/ae/home/rta-services/service-details?serviceId=121"
 related: ["s-installer-a-dubai", "visa-residence-dubai", "cout-de-la-vie-dubai", "impots-dubai", "s-installer-a-dubai-depuis-la-france"]
 order: 8
 key: "s-installer-a-dubai-depuis-le-canada"
@@ -120,7 +122,7 @@ The most visible difference is the absence of personal income tax in the UAE: yo
 
 ## Living in Dubai as a Canadian: practical points
 
-- **Driving licence**: during a stay, a Canadian licence is enough in Dubai (an international licence is required in the other emirates). Once you are a resident, you can convert it to a UAE licence with the transport authority of your emirate.
+- **Driving licence**: during a stay, check with the RTA and plan an international licence in addition to your Canadian one (Canada is not among the RTA's exception countries for visitors). Once you are a resident, an exchange is possible under the RTA's conditions: Canadian nationals only, restricted G1 and G2 licences excluded.
 - **Flights**: Emirates links Montreal and Toronto to Dubai with a direct flight, and Air Canada offers non-stop flights from Toronto (frequencies to check by season).
 - **Representations**: the Embassy of Canada in Abu Dhabi and the Consulate General of Canada in Dubai.
 - **Network**: the **Canadian Business Council Dubai & Northern Emirates**, a non-profit business association founded in 1993.

@@ -6,7 +6,7 @@ keyword: "s'installer à dubai depuis la suisse"
 secondary: ["visa dubai suisse", "fiscalité dubai suisse", "expatriation dubai suisse"]
 cluster: pays
 country: "Suisse"
-updated: 2026-11-27
+updated: 2026-11-28
 intro: "Pour s’installer à Dubaï depuis la Suisse, vous entrez sans visa avec votre passeport suisse (90 jours sur 180, selon l’accord bilatéral d’exemption), puis vous obtenez un visa de résidence par un employeur, votre société, un investissement ou un proche. Côté suisse, l’essentiel se joue avant le départ : annonce à la commune, choix de l’AVS facultative (délai d’un an), sort de votre avoir LPP et de votre 3e pilier, règlement fiscal avec votre canton et légalisation de vos documents."
 essentials:
   - "La Suisse et les Émirats ont conclu en 2017 un accord d’exemption de visa : 90 jours au maximum sur une période de 180 jours, sans visa."
@@ -39,6 +39,8 @@ sources:
     url: "https://www.bsv.admin.ch/fr/le-troisieme-pilier"
   - label: "Représentation suisse aux Émirats : clubs et associations"
     url: "https://www.schweiz-vereinigtearabischeemirate.eda.admin.ch/en/clubs"
+  - label: "RTA : échanger un permis étranger (60 pays, mise à jour du 24/11/2026)"
+    url: "https://www.rta.ae/wps/portal/rta/ae/home/rta-services/service-details?serviceId=121"
 related: ["s-installer-a-dubai", "visa-residence-dubai", "impots-dubai", "creer-sa-societe-a-dubai", "s-installer-a-dubai-depuis-la-france"]
 order: 7
 ---
@@ -122,7 +124,7 @@ Chaque canton ne légalise que ses propres documents : un acte émis dans un aut
 
 ## Vivre à Dubaï en Suisse : repères pratiques
 
-- **Permis de conduire** : selon la presse émiratie, la Suisse figure parmi les pays dont le permis peut être échangé contre un permis émirien une fois résident. Vérifiez la liste officielle et les pièces demandées sur le site de la RTA avant de vous déplacer.
+- **Permis de conduire** : selon la RTA (page mise à jour le 24 novembre 2026), le permis suisse s’échange contre un permis émirien une fois résident, sans repasser l’examen, quelle que soit votre nationalité. Apportez votre permis original et vérifiez les conditions sur rta.ae. Détails : [guide du permis de conduire à Dubaï](/blog/permis-de-conduire-dubai/).
 - **Vols** : Emirates relie Genève et Zurich à Dubaï en vol direct. Vérifiez les fréquences de la saison auprès de la compagnie : elles peuvent changer avec la situation régionale.
 - **Réseau** : le **Swiss Business Council UAE**, association à but non lucratif fondée en 1996, travaille avec l’ambassade et le consulat général. C’est le point de contact référencé par la représentation suisse.
 - **Écoles** : les familles romandes trouvent des programmes en français, présentés dans notre guide des [écoles françaises à Dubaï](/ecoles-francaises-dubai/).

@@ -71,7 +71,7 @@ Dans ce cas, vous ne pouvez conduire que des **véhicules légers et des motos**
 
 Si votre permis ne vient pas de cette liste, prévoyez un **permis international**, demandé dans votre pays avant le départ, à présenter avec votre permis original. Les loueurs de voitures appliquent en plus leurs propres règles (âge minimum, ancienneté du permis, documents) : vérifiez-les avant de réserver.
 
-Cas particulier du **Canada** : son permis s’échange une fois résident (voir plus bas), mais le Canada ne figure pas parmi les 20 pays d’exception de la RTA. Le site du gouvernement canadien indique qu’un permis canadien suffit à Dubaï pour un séjour : en cas de doute, ayez un permis international.
+Cas particulier du **Canada** : son permis s’échange une fois résident (voir plus bas), mais le Canada ne figure pas parmi les 20 pays d’exception de la RTA. Pour un séjour, renseignez-vous auprès de la RTA et prévoyez un permis international, en vérifiant aussi les conditions du loueur de voitures.
 
 ### Les résidents et le permis international
 

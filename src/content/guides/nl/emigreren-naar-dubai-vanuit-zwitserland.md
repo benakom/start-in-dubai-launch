@@ -6,7 +6,7 @@ keyword: "emigreren naar dubai vanuit zwitserland"
 secondary: ["visum dubai zwitserland", "belasting dubai zwitserland", "verhuizen naar dubai vanuit zwitserland", "zwitser in dubai"]
 cluster: pays
 country: "Zwitserland"
-updated: 2026-11-27
+updated: 2026-11-28
 intro: "Wie vanuit Zwitserland naar Dubai verhuist, reist met een Zwitsers paspoort visumvrij binnen (90 dagen binnen 180, volgens de bilaterale vrijstellingsovereenkomst) en krijgt daarna een verblijfsvisum via een werkgever, een eigen bedrijf, een investering of een gezinslid. Aan Zwitserse kant speelt het belangrijkste zich vóór vertrek af: melding bij de gemeente, keuze voor de vrijwillige AHV (termijn van één jaar), lot van uw BVG-tegoed en uw derde pijler, belastingafwikkeling met uw kanton en legalisatie van uw documenten."
 essentials:
   - "Zwitserland en de Emiraten sloten in 2017 een visumvrijstellingsovereenkomst: maximaal 90 dagen binnen een periode van 180 dagen, zonder visum."
@@ -39,6 +39,8 @@ sources:
     url: "https://www.bsv.admin.ch/fr/le-troisieme-pilier"
   - label: "Zwitserse vertegenwoordiging in de Emiraten: clubs en verenigingen"
     url: "https://www.schweiz-vereinigtearabischeemirate.eda.admin.ch/en/clubs"
+  - label: "RTA: een buitenlands rijbewijs inwisselen (60 landen, bijgewerkt op 24/11/2026)"
+    url: "https://www.rta.ae/wps/portal/rta/ae/home/rta-services/service-details?serviceId=121"
 related: ["s-installer-a-dubai", "visa-residence-dubai", "impots-dubai", "creer-sa-societe-a-dubai", "s-installer-a-dubai-depuis-la-france"]
 order: 7
 key: "s-installer-a-dubai-depuis-la-suisse"
@@ -123,7 +125,7 @@ Elk kanton legaliseert alleen zijn eigen documenten: een akte die in een ander k
 
 ## Als Zwitser in Dubai wonen: praktische tips
 
-- **Rijbewijs**: volgens de Emiraatse pers staat Zwitserland op de lijst van landen waarvan het rijbewijs, zodra u inwoner bent, kan worden ingewisseld voor een Emiraats rijbewijs. Controleer de officiële lijst en de gevraagde stukken op de site van de RTA voordat u erheen gaat.
+- **Rijbewijs**: volgens de RTA (pagina bijgewerkt op 24 november 2026) kan een Zwitsers rijbewijs, zodra u inwoner bent, worden ingewisseld voor een Emiraats rijbewijs zonder opnieuw examen, ongeacht uw nationaliteit. Neem uw originele rijbewijs mee en controleer de voorwaarden op rta.ae.
 - **Vluchten**: Emirates verbindt Genève en Zürich rechtstreeks met Dubai. Controleer de frequenties van het seizoen bij de maatschappij: ze kunnen met de regionale situatie veranderen.
 - **Netwerk**: de **Swiss Business Council UAE**, een in 1996 opgerichte non-profitvereniging, werkt samen met de ambassade en het consulaat-generaal. Het is het contactpunt dat door de Zwitserse vertegenwoordiging wordt vermeld.
 - **Scholen**: Franstalige Zwitserse gezinnen vinden programma's in het Frans, beschreven in onze gids over [Franse scholen in Dubai](/nl/franse-scholen-dubai/).

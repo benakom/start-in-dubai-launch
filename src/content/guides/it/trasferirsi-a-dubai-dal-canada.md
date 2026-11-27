@@ -6,7 +6,7 @@ keyword: "trasferirsi a dubai dal quebec"
 secondary: ["visto dubai per canadesi", "costo della vita dubai canada", "trasferirsi a dubai dal canada", "espatrio dubai quebec"]
 cluster: pays
 country: "Canada"
-updated: 2026-11-27
+updated: 2026-11-28
 intro: "Per trasferirsi a Dubai dal Québec entri con il passaporto canadese grazie a un visto turistico rilasciato gratuitamente all’arrivo (90 giorni su 180), poi ottieni un visto di residenza tramite un datore di lavoro, la tua società, un investimento o un familiare. Prima di partire contano tre pratiche: il tuo status fiscale di non residente (Agenzia delle entrate del Canada e Revenu Québec, con l’alienazione presunta dei tuoi beni), la fine della copertura RAMQ e l’autenticazione dei documenti québécois, poi la loro legalizzazione da parte dell’ambasciata degli Emirati a Ottawa."
 essentials:
   - "I canadesi ottengono all’arrivo e gratuitamente un visto turistico che permette un soggiorno di 90 giorni su un periodo di 180 giorni."
@@ -23,7 +23,7 @@ faq:
   - q: "Pagherò imposte in Canada vivendo a Dubai?"
     a: "Se diventi non residente del Canada, non sei più tassato sul reddito mondiale, ma alcuni redditi di fonte canadese restano tassabili. Nell’anno della partenza dichiari i tuoi redditi fino alla data della partenza, e l’alienazione presunta di alcuni beni può creare una plusvalenza tassabile, sia a livello federale sia in Québec."
   - q: "La mia patente canadese è accettata a Dubai?"
-    a: "Secondo Voyage.gc.ca, una patente canadese permette di guidare o noleggiare un’auto a Dubai durante un soggiorno, mentre altrove negli Emirati serve una patente internazionale. Una volta residente, puoi convertire la patente canadese in una patente emiratina presso l’autorità dei trasporti del tuo emirato."
+    a: "Da verificare prima della partenza: il Canada non figura tra i 20 paesi di eccezione che la RTA cita per i visitatori che guidano con la patente nazionale. Informati presso la RTA, prevedi una patente internazionale oltre a quella canadese e verifica le condizioni della tua società di noleggio. Una volta residente, la RTA consente di convertire una patente canadese senza esame, solo per i cittadini canadesi e con esclusione delle patenti ristrette G1 e G2 (pagina aggiornata il 24 novembre 2026)."
   - q: "Ci sono voli diretti tra Montréal e Dubai?"
     a: "Sì: Emirates collega Montréal e Toronto a Dubai con volo diretto, e anche Air Canada propone voli senza scalo da Toronto. Le frequenze possono cambiare in base alla stagione e alla situazione regionale: verifica gli orari presso le compagnie."
 sources:
@@ -39,6 +39,8 @@ sources:
     url: "https://www.canada.ca/en/department-finance/programs/tax-policy/tax-treaties/country/united-arab-emirates-convention-2002.html"
   - label: "Affari globali Canada: autenticazione di documenti"
     url: "https://international.canada.ca/en/global-affairs/services/document-authentication/requirements"
+  - label: "RTA: conversione di una patente estera (60 paesi, aggiornamento del 24/11/2026)"
+    url: "https://www.rta.ae/wps/portal/rta/ae/home/rta-services/service-details?serviceId=121"
 related: ["s-installer-a-dubai", "visa-residence-dubai", "cout-de-la-vie-dubai", "impots-dubai", "s-installer-a-dubai-depuis-la-france"]
 order: 8
 key: "s-installer-a-dubai-depuis-le-canada"
@@ -120,7 +122,7 @@ La differenza più visibile è l’assenza di imposta sul reddito delle persone 
 
 ## Vivere a Dubai da canadese: punti di riferimento pratici
 
-- **Patente di guida**: in soggiorno, una patente canadese basta a Dubai (una patente internazionale è richiesta negli altri emirati). Una volta residente, puoi convertirla in una patente emiratina presso l’autorità dei trasporti del tuo emirato.
+- **Patente di guida**: in soggiorno, informati presso la RTA e prevedi una patente internazionale oltre a quella canadese (il Canada non figura tra i paesi di eccezione della RTA per i visitatori). Una volta residente, la conversione è possibile alle condizioni della RTA: solo cittadini canadesi, patenti ristrette G1 e G2 escluse.
 - **Voli**: Emirates collega Montréal e Toronto a Dubai con volo diretto, e Air Canada propone voli senza scalo da Toronto (frequenze da verificare in base alla stagione).
 - **Rappresentanze**: l’ambasciata del Canada ad Abu Dhabi e il consolato generale del Canada a Dubai.
 - **Rete**: il **Canadian Business Council Dubai & Northern Emirates**, associazione d’affari senza scopo di lucro fondata nel 1993.

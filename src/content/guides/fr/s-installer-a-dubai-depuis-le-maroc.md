@@ -6,7 +6,7 @@ keyword: "s'installer à dubai depuis le maroc"
 secondary: ["visa dubai pour les marocains", "travailler à dubai pour les marocains", "contrat de travail dubai marocains"]
 cluster: pays
 country: "Maroc"
-updated: 2026-11-27
+updated: 2026-11-28
 intro: "Pour s’installer à Dubaï depuis le Maroc, il faut d’abord un visa obtenu avant le départ : le passeport marocain ne donne ni exemption ni visa à l’arrivée. Sur place, la résidence passe par un employeur, une société, un statut de freelance, un membre de la famille ou le Golden Visa. Avant de partir, faites légaliser vos diplômes et actes d’état civil au ministère marocain des Affaires étrangères puis à l’ambassade des Émirats à Rabat, et renseignez-vous auprès de l’Office des Changes pour vos transferts."
 essentials:
   - "Le passeport marocain ne fait partie ni des pays exemptés de visa, ni des pays qui obtiennent un visa à l’arrivée : il faut un visa avant de prendre l’avion."
@@ -21,7 +21,7 @@ faq:
   - q: "Peut-on aller chercher du travail à Dubaï avec un visa touristique ?"
     a: "Le visa touristique sert à faire du tourisme, pas à travailler. Il existe un visa de visite pour chercher un emploi (60, 90 ou 120 jours, sans parrain), réservé aux profils qualifiés : niveaux de compétence 1 à 3 du ministère des Ressources humaines (MOHRE) ou diplômés récents d’une des 500 meilleures universités du monde, avec une licence au minimum. Vous ne pourrez travailler qu’une fois le permis de travail et la résidence obtenus par l’employeur."
   - q: "Mon permis de conduire marocain est-il valable à Dubaï ?"
-    a: "En principe, non. En janvier 2026, la RTA de Dubaï indiquait qu’un seul pays africain figurait sur la liste des permis échangeables (l’Afrique du Sud, selon la presse émiratie), et le Maroc n’en fait pas partie. Un résident titulaire d’un permis marocain passe donc en général par une école de conduite à Dubaï. Vérifiez la liste à jour sur rta.ae avant de vous inscrire."
+    a: "En principe, non. Selon la page de la RTA mise à jour le 24 novembre 2026, les permis de 60 pays s’échangent directement à Dubaï, et l’Afrique du Sud est le seul pays africain de la liste : le Maroc n’en fait pas partie. Un résident titulaire d’un permis marocain passe donc en général par une école de conduite à Dubaï. En revanche, un permis obtenu dans un pays listé (France, Belgique, Espagne, Italie…) s’échange quelle que soit la nationalité : c’est le pays du permis qui compte. Vérifiez la liste à jour sur rta.ae avant de vous inscrire."
   - q: "Combien d’argent peut-on transférer du Maroc vers Dubaï ?"
     a: "Les transferts des résidents marocains vers l’étranger sont encadrés par l’Instruction générale des opérations de change. L’Office des Changes précise qu’aucune « dotation émigration » n’y est prévue. Une fois installé à l’étranger, vous pouvez, en tant que Marocain résidant à l’étranger, ouvrir au Maroc un compte en devises ou en dirhams convertibles. Faites valider votre cas par votre banque avant tout transfert important."
   - q: "Existe-t-il une convention fiscale entre le Maroc et les Émirats ?"
@@ -37,8 +37,8 @@ sources:
     url: "https://www.mofa.gov.ae/en/Missions/Rabat/Services/Services-for-Individuals/Attestation-Information"
   - label: "Office des Changes : questions fréquentes"
     url: "https://www.oc.gov.ma/fr/faq"
-  - label: "RTA : permis étrangers échangeables à Dubaï (janvier 2026)"
-    url: "https://www.rta.ae/wps/portal/rta/ae/home/news-and-media/all-news/NewsDetails/replacing-over-58000-driving-licences-from-57+countries-with-uae-ones"
+  - label: "RTA : échanger un permis étranger (60 pays, mise à jour du 24/11/2026)"
+    url: "https://www.rta.ae/wps/portal/rta/ae/home/rta-services/service-details?serviceId=121"
 related: ["s-installer-a-dubai", "visa-residence-dubai", "travailler-a-dubai", "ouvrir-un-compte-bancaire-a-dubai", "s-installer-a-dubai-depuis-la-tunisie"]
 order: 1
 ---

@@ -6,7 +6,7 @@ keyword: "s'installer à dubai depuis la tunisie"
 secondary: ["visa dubai pour les tunisiens", "contrat de travail dubai tunisiens"]
 cluster: pays
 country: "Tunisie"
-updated: 2026-11-27
+updated: 2026-11-28
 intro: "Pour s’installer à Dubaï depuis la Tunisie, il faut un visa obtenu avant le départ, puis un visa de résidence par un employeur, une société, la famille ou une université. Avant de partir, faites légaliser vos diplômes et actes au ministère tunisien des Affaires étrangères, puis attester par l’ambassade des Émirats à Tunis, en ligne avec BLS International ou VFS Global. Les transferts d’argent restent encadrés par la Banque centrale de Tunisie : renseignez-vous auprès de votre banque avant de déplacer votre épargne."
 essentials:
   - "Avec un passeport tunisien, on n’entre pas aux Émirats sans visa, et il n’existe pas de visa à l’arrivée pour cette nationalité."
@@ -35,8 +35,8 @@ sources:
     url: "https://www.mofa.gov.ae/en/Missions/Tunis/Services/Services-for-Individuals/Attestation-Information"
   - label: "u.ae : visa de visite pour chercher un emploi"
     url: "https://u.ae/en/information-and-services/visa-and-emirates-id/Types-of-visas/Visit-visa/jobseeker-visit-visa"
-  - label: "RTA : permis étrangers échangeables à Dubaï (janvier 2026)"
-    url: "https://www.rta.ae/wps/portal/rta/ae/home/news-and-media/all-news/NewsDetails/replacing-over-58000-driving-licences-from-57+countries-with-uae-ones"
+  - label: "RTA : échanger un permis étranger (60 pays, mise à jour du 24/11/2026)"
+    url: "https://www.rta.ae/wps/portal/rta/ae/home/rta-services/service-details?serviceId=121"
   - label: "Ministère émirien de l’Éducation : équivalence du diplôme de fin d’études obtenu à l’étranger"
     url: "https://moe.gov.ae/en/eservices/servicecard/pages/certequivalent-out.aspx"
 related: ["s-installer-a-dubai", "visa-residence-dubai", "travailler-a-dubai", "freelance-dubai", "s-installer-a-dubai-depuis-l-algerie"]
@@ -175,7 +175,7 @@ L’université qui vous admet parraine votre visa étudiant. Préparez :
 
 ## La communauté tunisienne aux Émirats
 
-La communauté tunisienne est présente à Dubaï comme à Abou Dhabi, et le consulat général soutient des initiatives culturelles et sportives : en 2026, il a organisé le « Dubai Mallathon » avec le Dubai Sports Council. Côté pratique, le permis de conduire tunisien ne s’échange pas directement à Dubaï (début 2026, la RTA ne comptait qu’un seul pays africain sur sa liste, l’Afrique du Sud selon la presse émiratie) : prévoyez en général une école de conduite, et vérifiez la liste à jour sur rta.ae.
+La communauté tunisienne est présente à Dubaï comme à Abou Dhabi, et le consulat général soutient des initiatives culturelles et sportives : en 2026, il a organisé le « Dubai Mallathon » avec le Dubai Sports Council. Côté pratique, le permis de conduire tunisien ne s’échange pas directement à Dubaï (selon la RTA, page mise à jour le 24 novembre 2026, 60 pays figurent sur la liste et l’Afrique du Sud est le seul pays africain) : prévoyez en général une école de conduite, et vérifiez la liste à jour sur rta.ae (voir notre [guide du permis de conduire à Dubaï](/blog/permis-de-conduire-dubai/)).
 
 ## Checklist avant de quitter la Tunisie
 

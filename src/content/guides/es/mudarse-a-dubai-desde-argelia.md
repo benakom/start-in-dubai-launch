@@ -6,7 +6,7 @@ keyword: "mudarse a dubái desde argelia"
 secondary: ["visado dubái para argelinos", "trabajar en dubái siendo argelino", "estudiar en dubái siendo argelino", "vuelos argelia dubái"]
 cluster: pays
 country: "Argelia"
-updated: 2026-11-27
+updated: 2026-11-28
 intro: "Un argelino puede mudarse a Dubái, pero debe obtener el visado antes de viajar y después una residencia a través de un empleador, una empresa, su familia o una universidad. El año 2026 complica el recorrido: Argelia anunció la ruptura de sus relaciones diplomáticas con los Emiratos el 10 de septiembre de 2026 y cerró su espacio aéreo a las aeronaves matriculadas en los Emiratos, lo que afecta a los vuelos directos y a los servicios consulares. Situación a 27 de noviembre de 2026, sujeta a cambios: verifica cada paso con las autoridades consulares y las fuentes oficiales antes de comprometerte."
 essentials:
   - "El 10 de septiembre de 2026, el Ministerio de Asuntos Exteriores argelino anunció la ruptura de las relaciones diplomáticas con los Emiratos."
@@ -39,6 +39,8 @@ sources:
     url: "https://www.aps.dz/en/algeria/national-news/mtvv5lhn-algeria-decides-to-close-airspace-to-uae-registered-civilian-military-aircraft-starting-11-september"
   - label: "Al Jazeera: ruptura de relaciones Argelia-Emiratos, lo que sabemos (10/09/2026)"
     url: "https://www.aljazeera.com/news/2026/9/10/algeria-cuts-diplomatic-ties-with-uae-what-we-know"
+  - label: "RTA: canje de un carnet extranjero (60 países, actualización del 24/11/2026)"
+    url: "https://www.rta.ae/wps/portal/rta/ae/home/rta-services/service-details?serviceId=121"
 related: ["s-installer-a-dubai", "visa-residence-dubai", "etudier-a-dubai", "travailler-a-dubai", "s-installer-a-dubai-depuis-le-maroc"]
 order: 2
 key: "s-installer-a-dubai-depuis-l-algerie"
@@ -163,7 +165,7 @@ Más detalles en nuestra guía para [estudiar en Dubái](/es/estudiar-en-dubai/)
 
 ## Vida allí y comunidad
 
-Los argelinos instalados en los Emiratos conviven con las comunidades marroquí, tunecina y, en general, arabófona y francófona: el árabe es el idioma oficial, el inglés predomina en el trabajo y el francés abre las puertas de las numerosas redes francófonas de Dubái. El carnet de conducir argelino no se canjea directamente en Dubái: según la RTA (enero de 2026), solo un país africano figura en la lista de canje (Sudáfrica, según la prensa). Prevé clases en una autoescuela y comprueba la lista actualizada en rta.ae.
+Los argelinos instalados en los Emiratos conviven con las comunidades marroquí, tunecina y, en general, arabófona y francófona: el árabe es el idioma oficial, el inglés predomina en el trabajo y el francés abre las puertas de las numerosas redes francófonas de Dubái. El carnet de conducir argelino no se canjea directamente en Dubái: según la RTA (página actualizada el 24 de noviembre de 2026), hay 60 países en la lista de canje y Sudáfrica es el único país africano. Prevé clases en una autoescuela y comprueba la lista actualizada en rta.ae.
 
 ## Lista de comprobación antes de salir de Argelia
 

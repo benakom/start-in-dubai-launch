@@ -6,7 +6,7 @@ keyword: "emigreren naar dubai vanuit canada"
 secondary: ["visum dubai voor canadezen", "kosten van levensonderhoud dubai versus canada", "verhuizen naar dubai vanuit quebec", "emigreren naar dubai vanuit quebec"]
 cluster: pays
 country: "Canada"
-updated: 2026-11-27
+updated: 2026-11-28
 intro: "Wie vanuit Quebec of Canada naar Dubai verhuist, reist met een Canadees paspoort binnen dankzij een gratis toeristenvisum bij aankomst (90 dagen binnen 180) en krijgt daarna een verblijfsvisum via een werkgever, een eigen bedrijf, een investering of een gezinslid. Vóór vertrek tellen drie dossiers: uw fiscale status als niet-inwoner (Canada Revenue Agency en Revenu Québec, met de fictieve vervreemding van uw bezittingen), het einde van uw RAMQ-dekking en de authenticatie van uw Quebecse documenten met daarna de legalisatie door de ambassade van de Emiraten in Ottawa."
 essentials:
   - "Canadezen krijgen bij aankomst en gratis een toeristenvisum voor een verblijf van 90 dagen binnen een periode van 180 dagen."
@@ -23,7 +23,7 @@ faq:
   - q: "Betaal ik belasting in Canada als ik in Dubai woon?"
     a: "Als u niet-inwoner van Canada wordt, wordt u niet langer belast op uw wereldinkomen, maar bepaalde inkomsten uit Canadese bron blijven belastbaar. In het jaar van vertrek geeft u uw inkomsten aan tot de vertrekdatum en de fictieve vervreemding van bepaalde bezittingen kan een belastbare vermogenswinst opleveren, zowel federaal als in Quebec."
   - q: "Wordt mijn Canadese rijbewijs in Dubai geaccepteerd?"
-    a: "Volgens Voyage.gc.ca kunt u met een Canadees rijbewijs tijdens een verblijf in Dubai rijden of een auto huren, terwijl elders in de Emiraten een internationaal rijbewijs nodig is. Zodra u inwoner bent, kunt u uw Canadese rijbewijs omzetten in een Emiraats rijbewijs bij de vervoersautoriteit van uw emiraat."
+    a: "Controleer dit vóór vertrek: Canada staat niet bij de 20 uitzonderingslanden die de RTA voor bezoekers vermeldt om met het nationale rijbewijs te rijden. Vraag het na bij de RTA, voorzie een internationaal rijbewijs naast uw Canadese en controleer de voorwaarden van uw autoverhuurder. Zodra u inwoner bent, staat de RTA toe een Canadees rijbewijs zonder examen in te wisselen, alleen voor Canadese onderdanen en met uitzondering van beperkte rijbewijzen G1 en G2 (pagina bijgewerkt op 24 november 2026)."
   - q: "Zijn er directe vluchten tussen Montreal en Dubai?"
     a: "Ja: Emirates verbindt Montreal en Toronto rechtstreeks met Dubai en Air Canada biedt ook non-stopvluchten vanuit Toronto aan. De frequenties kunnen per seizoen en met de regionale situatie veranderen: controleer de dienstregelingen bij de maatschappijen."
 sources:
@@ -39,6 +39,8 @@ sources:
     url: "https://www.canada.ca/en/department-finance/programs/tax-policy/tax-treaties/country/united-arab-emirates-convention-2002.html"
   - label: "Global Affairs Canada: authenticatie van documenten"
     url: "https://international.canada.ca/en/global-affairs/services/document-authentication/requirements"
+  - label: "RTA: een buitenlands rijbewijs inwisselen (60 landen, bijgewerkt op 24/11/2026)"
+    url: "https://www.rta.ae/wps/portal/rta/ae/home/rta-services/service-details?serviceId=121"
 related: ["s-installer-a-dubai", "visa-residence-dubai", "cout-de-la-vie-dubai", "impots-dubai", "s-installer-a-dubai-depuis-la-france"]
 order: 8
 key: "s-installer-a-dubai-depuis-le-canada"
@@ -120,7 +122,7 @@ Het meest zichtbare verschil is het ontbreken van inkomstenbelasting voor person
 
 ## Als Canadees in Dubai wonen: praktische tips
 
-- **Rijbewijs**: tijdens een verblijf volstaat een Canadees rijbewijs in Dubai (in de andere emiraten is een internationaal rijbewijs vereist). Zodra u inwoner bent, kunt u het omzetten in een Emiraats rijbewijs bij de vervoersautoriteit van uw emiraat.
+- **Rijbewijs**: controleer tijdens een verblijf bij de RTA en voorzie een internationaal rijbewijs naast uw Canadese (Canada staat niet bij de uitzonderingslanden van de RTA voor bezoekers). Zodra u inwoner bent, is inwisselen mogelijk onder de voorwaarden van de RTA: alleen Canadese onderdanen, beperkte rijbewijzen G1 en G2 uitgesloten.
 - **Vluchten**: Emirates verbindt Montreal en Toronto rechtstreeks met Dubai en Air Canada biedt non-stopvluchten vanuit Toronto aan (frequenties per seizoen te controleren).
 - **Vertegenwoordigingen**: de ambassade van Canada in Abu Dhabi en het consulaat-generaal van Canada in Dubai.
 - **Netwerk**: de **Canadian Business Council Dubai & Northern Emirates**, een in 1993 opgerichte zakelijke non-profitvereniging.

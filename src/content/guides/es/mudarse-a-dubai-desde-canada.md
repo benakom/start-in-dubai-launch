@@ -6,7 +6,7 @@ keyword: "mudarse a dubái desde canadá"
 secondary: ["visado dubái para canadienses", "coste de vida dubái frente a canadá", "mudarse a dubái desde quebec", "expatriación dubái quebec"]
 cluster: pays
 country: "Canadá"
-updated: 2026-11-27
+updated: 2026-11-28
 intro: "Para mudarte a Dubái desde Quebec, entras con tu pasaporte canadiense gracias a un visado de turista que se expide gratis a la llegada (90 días en 180) y después obtienes un visado de residencia a través de un empleador, tu empresa, una inversión o un familiar. Antes de salir, cuentan tres expedientes: tu estatus fiscal de no residente (Agencia de Ingresos de Canadá y Revenu Québec, con la disposición presunta de tus bienes), el fin de tu cobertura de la RAMQ y la autenticación de tus documentos quebequeses y su legalización por la embajada de los Emiratos en Ottawa."
 essentials:
   - "Los canadienses obtienen a la llegada y gratis un visado de turista que permite una estancia de 90 días en un periodo de 180 días."
@@ -23,7 +23,7 @@ faq:
   - q: "¿Pagaré impuestos en Canadá viviendo en Dubái?"
     a: "Si te conviertes en no residente de Canadá, ya no tributas por tu renta mundial, pero ciertos ingresos de fuente canadiense siguen sujetos a impuestos. El año de la salida, declaras tus ingresos hasta la fecha de salida, y la disposición presunta de ciertos bienes puede generar una ganancia de capital imponible, tanto a nivel federal como en Quebec."
   - q: "¿Se acepta mi carnet de conducir canadiense en Dubái?"
-    a: "Según Voyage.gc.ca, un carnet canadiense permite conducir o alquilar un coche en Dubái durante una estancia, mientras que en el resto de los Emiratos se exige un carnet internacional. Una vez residente, puedes convertir tu carnet canadiense en uno emiratí ante la autoridad de transporte de tu emirato."
+    a: "Compruébalo antes de salir: Canadá no figura entre los 20 países de excepción que la RTA cita para los visitantes que conducen con su carnet nacional. Consulta a la RTA, prevé un carnet internacional además del canadiense y comprueba las condiciones de tu empresa de alquiler. Una vez residente, la RTA permite canjear un carnet canadiense sin examen, solo para ciudadanos canadienses y con exclusión de los carnés restringidos G1 y G2 (página actualizada el 24 de noviembre de 2026)."
   - q: "¿Hay vuelos directos entre Montreal y Dubái?"
     a: "Sí: Emirates conecta Montreal y Toronto con Dubái en vuelo directo, y Air Canada también ofrece vuelos sin escala desde Toronto. Las frecuencias pueden cambiar según la temporada y la situación regional: comprueba los horarios con las aerolíneas."
 sources:
@@ -39,6 +39,8 @@ sources:
     url: "https://www.canada.ca/en/department-finance/programs/tax-policy/tax-treaties/country/united-arab-emirates-convention-2002.html"
   - label: "Asuntos Globales Canadá: autenticación de documentos"
     url: "https://international.canada.ca/en/global-affairs/services/document-authentication/requirements"
+  - label: "RTA: canje de un carnet extranjero (60 países, actualización del 24/11/2026)"
+    url: "https://www.rta.ae/wps/portal/rta/ae/home/rta-services/service-details?serviceId=121"
 related: ["s-installer-a-dubai", "visa-residence-dubai", "cout-de-la-vie-dubai", "impots-dubai", "s-installer-a-dubai-depuis-la-france"]
 order: 8
 key: "s-installer-a-dubai-depuis-le-canada"
@@ -120,7 +122,7 @@ La diferencia más visible es la ausencia de impuesto sobre la renta de las pers
 
 ## Vivir en Dubái siendo canadiense: referencias prácticas
 
-- **Carnet de conducir**: de estancia, un carnet canadiense basta en Dubái (se exige un carnet internacional en los demás emiratos). Una vez residente, puedes convertirlo en un carnet emiratí ante la autoridad de transporte de tu emirato.
+- **Carnet de conducir**: de estancia, consulta a la RTA y prevé un carnet internacional además del canadiense (Canadá no figura entre los países de excepción de la RTA para los visitantes). Una vez residente, el canje es posible según las condiciones de la RTA: solo ciudadanos canadienses, con exclusión de los carnés restringidos G1 y G2.
 - **Vuelos**: Emirates conecta Montreal y Toronto con Dubái en vuelo directo, y Air Canada ofrece vuelos sin escala desde Toronto (frecuencias que comprobar según la temporada).
 - **Representaciones**: la embajada de Canadá en Abu Dabi y el consulado general de Canadá en Dubái.
 - **Red**: el **Canadian Business Council Dubai & Northern Emirates**, asociación empresarial sin ánimo de lucro fundada en 1993.

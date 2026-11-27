@@ -6,7 +6,7 @@ keyword: "emigreren naar dubai vanuit algerije"
 secondary: ["visum dubai voor algerijnen", "werken in dubai als algerijn", "studeren in dubai als algerijn", "verhuizen naar dubai vanuit algerije"]
 cluster: pays
 country: "Algerije"
-updated: 2026-11-27
+updated: 2026-11-28
 intro: "Een Algerijn kan naar Dubai verhuizen, maar moet zijn visum vóór vertrek regelen en daarna een verblijfsvergunning krijgen via een werkgever, een bedrijf, zijn gezin of een universiteit. 2026 maakt het traject lastiger: Algerije kondigde op 10 september 2026 de verbreking van de diplomatieke betrekkingen met de Emiraten aan en sloot zijn luchtruim voor vliegtuigen die in de Emiraten zijn geregistreerd, wat de directe vluchten en de consulaire diensten raakt. Situatie op 27 november 2026, onder voorbehoud van wijzigingen: controleer elke stap bij de consulaire autoriteiten en de officiële bronnen voordat u zich vastlegt."
 essentials:
   - "Op 10 september 2026 kondigde het Algerijnse ministerie van Buitenlandse Zaken de verbreking van de diplomatieke betrekkingen met de Emiraten aan."
@@ -39,6 +39,8 @@ sources:
     url: "https://www.aps.dz/en/algeria/national-news/mtvv5lhn-algeria-decides-to-close-airspace-to-uae-registered-civilian-military-aircraft-starting-11-september"
   - label: "Al Jazeera: verbreking van de betrekkingen Algerije-Emiraten, wat we weten (10-09-2026)"
     url: "https://www.aljazeera.com/news/2026/9/10/algeria-cuts-diplomatic-ties-with-uae-what-we-know"
+  - label: "RTA: een buitenlands rijbewijs inwisselen (60 landen, bijgewerkt op 24/11/2026)"
+    url: "https://www.rta.ae/wps/portal/rta/ae/home/rta-services/service-details?serviceId=121"
 related: ["s-installer-a-dubai", "visa-residence-dubai", "etudier-a-dubai", "travailler-a-dubai", "s-installer-a-dubai-depuis-le-maroc"]
 order: 2
 key: "s-installer-a-dubai-depuis-l-algerie"
@@ -163,7 +165,7 @@ Meer details in onze gids over [studeren in Dubai](/nl/studeren-in-dubai/).
 
 ## Leven ter plaatse en gemeenschap
 
-Algerijnen die in de Emiraten wonen, leven naast de Marokkaanse, Tunesische en ruimer de Arabisch- en Franstalige gemeenschappen: Arabisch is de officiële taal, Engels overheerst op het werk en Frans opent de deuren van de talrijke Franstalige netwerken van Dubai. Het Algerijnse rijbewijs wordt in Dubai niet rechtstreeks ingewisseld: volgens de RTA (januari 2026) staat er slechts één Afrikaans land op de wisselijst (Zuid-Afrika, volgens de pers). Reken op lessen bij een rijschool en controleer de actuele lijst op rta.ae.
+Algerijnen die in de Emiraten wonen, leven naast de Marokkaanse, Tunesische en ruimer de Arabisch- en Franstalige gemeenschappen: Arabisch is de officiële taal, Engels overheerst op het werk en Frans opent de deuren van de talrijke Franstalige netwerken van Dubai. Het Algerijnse rijbewijs wordt in Dubai niet rechtstreeks ingewisseld: volgens de RTA (pagina bijgewerkt op 24 november 2026) staan er 60 landen op de wisselijst en is Zuid-Afrika het enige Afrikaanse land. Reken op lessen bij een rijschool en controleer de actuele lijst op rta.ae.
 
 ## Checklist voordat u Algerije verlaat
 

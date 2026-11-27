@@ -6,7 +6,7 @@ keyword: "s'installer à dubai depuis le québec"
 secondary: ["visa dubai pour canadien", "coût de la vie dubai vs canada", "s'installer à dubai depuis le canada", "expatriation dubai québec"]
 cluster: pays
 country: "Canada"
-updated: 2026-11-27
+updated: 2026-11-28
 intro: "Pour s’installer à Dubaï depuis le Québec, vous entrez avec votre passeport canadien grâce à un visa de touriste délivré gratuitement à l’arrivée (90 jours sur 180), puis vous obtenez un visa de résidence par un employeur, votre société, un investissement ou un proche. Avant de partir, trois dossiers comptent : votre statut fiscal de non-résident (Agence du revenu du Canada et Revenu Québec, avec la disposition présumée de vos biens), la fin de votre couverture RAMQ, et l’authentification de vos documents québécois puis leur légalisation par l’ambassade des Émirats à Ottawa."
 essentials:
   - "Les Canadiens obtiennent à l’arrivée et gratuitement un visa de touriste qui permet un séjour de 90 jours sur une période de 180 jours."
@@ -23,7 +23,7 @@ faq:
   - q: "Vais-je payer de l’impôt au Canada en vivant à Dubaï ?"
     a: "Si vous devenez non-résident du Canada, vous n’êtes plus imposé sur votre revenu mondial, mais certains revenus de source canadienne restent imposables. L’année du départ, vous déclarez vos revenus jusqu’à la date du départ, et la disposition présumée de certains biens peut créer un gain en capital imposable, au fédéral comme au Québec."
   - q: "Mon permis de conduire canadien est-il accepté à Dubaï ?"
-    a: "Selon Voyage.gc.ca, un permis canadien permet de conduire ou de louer une voiture à Dubaï lors d’un séjour, alors qu’un permis international est requis ailleurs aux Émirats. Une fois résident, vous pouvez convertir votre permis canadien en permis émirien auprès de l’autorité des transports de votre émirat."
+    a: "À vérifier avant le départ : le Canada ne figure pas parmi les 20 pays d’exception que la RTA cite pour les visiteurs conduisant avec leur permis national. Renseignez-vous auprès de la RTA, prévoyez un permis international en plus de votre permis canadien et vérifiez les conditions de votre loueur. Une fois résident, la RTA permet d’échanger un permis canadien sans examen, pour les ressortissants canadiens seulement et hors permis restreints G1 et G2 (page mise à jour le 24 novembre 2026)."
   - q: "Y a-t-il des vols directs entre Montréal et Dubaï ?"
     a: "Oui : Emirates relie Montréal et Toronto à Dubaï en vol direct, et Air Canada propose aussi des vols sans escale au départ de Toronto. Les fréquences peuvent changer selon la saison et la situation régionale : vérifiez les horaires auprès des compagnies."
 sources:
@@ -39,6 +39,8 @@ sources:
     url: "https://www.canada.ca/en/department-finance/programs/tax-policy/tax-treaties/country/united-arab-emirates-convention-2002.html"
   - label: "Affaires mondiales Canada : authentification de documents"
     url: "https://international.canada.ca/en/global-affairs/services/document-authentication/requirements"
+  - label: "RTA : échanger un permis étranger (60 pays, mise à jour du 24/11/2026)"
+    url: "https://www.rta.ae/wps/portal/rta/ae/home/rta-services/service-details?serviceId=121"
 related: ["s-installer-a-dubai", "visa-residence-dubai", "cout-de-la-vie-dubai", "impots-dubai", "s-installer-a-dubai-depuis-la-france"]
 order: 8
 ---
@@ -119,7 +121,7 @@ La différence la plus visible est l’absence d’impôt sur le revenu des pers
 
 ## Vivre à Dubaï en Canadien : repères pratiques
 
-- **Permis de conduire** : en séjour, un permis canadien suffit à Dubaï (un permis international est requis dans les autres émirats). Une fois résident, vous pouvez le convertir en permis émirien auprès de l’autorité des transports de votre émirat.
+- **Permis de conduire** : en séjour, renseignez-vous auprès de la RTA et prévoyez un permis international en plus de votre permis canadien (le Canada ne figure pas parmi les pays d’exception de la RTA pour les visiteurs). Une fois résident, l’échange est possible selon les conditions de la RTA : ressortissants canadiens seulement, permis restreints G1 et G2 exclus. Détails : [guide du permis de conduire à Dubaï](/blog/permis-de-conduire-dubai/).
 - **Vols** : Emirates relie Montréal et Toronto à Dubaï en vol direct, et Air Canada propose des vols sans escale au départ de Toronto (fréquences à vérifier selon la saison).
 - **Représentations** : l’ambassade du Canada à Abu Dhabi et le consulat général du Canada à Dubaï.
 - **Réseau** : le **Canadian Business Council Dubai & Northern Emirates**, association d’affaires à but non lucratif fondée en 1993.

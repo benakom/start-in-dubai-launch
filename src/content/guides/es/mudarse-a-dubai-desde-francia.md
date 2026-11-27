@@ -6,7 +6,7 @@ keyword: "mudarse a dubái desde francia"
 secondary: ["expatriación dubái francia", "mudarse a dubái siendo francés", "impuestos dubái expatriados franceses", "emigrar a dubái desde francia"]
 cluster: pays
 country: "Francia"
-updated: 2026-11-27
+updated: 2026-11-28
 intro: "Para mudarte a Dubái desde Francia, entras sin visado con tu pasaporte francés (90 días como máximo en 180) y después obtienes un visado de residencia a través de un empleador, tu propia empresa, una inversión o un familiar. Del lado francés cuentan tres frentes: legalizar tus documentos (ahora ante notarios), organizar tu baja fiscal (domicilio fiscal, posible exit tax) y decidir tu protección social (CFE, jubilación)."
 essentials:
   - "Los ciudadanos franceses están exentos de visado: el sello de llegada permite una estancia de 90 días como máximo en un periodo de 180 días."
@@ -23,7 +23,7 @@ faq:
   - q: "¿Quién legaliza mis documentos franceses para los Emiratos?"
     a: "Desde el 1 de septiembre de 2025, la legalización de los actos públicos franceses destinados al extranjero corresponde a los notarios (a través de las cámaras y consejos regionales), y ya no a la oficina de legalizaciones del ministerio. Como los Emiratos no aplican la apostilla, el documento pasa después por la embajada de los Emiratos en París y luego por el Ministerio de Asuntos Exteriores emiratí."
   - q: "¿Es válido en Dubái mi carnet de conducir francés?"
-    a: "Una vez residente, en principio puedes canjearlo por un carnet emiratí sin volver a examinarte: según la prensa emiratí, Francia figura entre los países cuyos carnés son canjeables ante la RTA. La lista oficial y los documentos exigidos (prueba de visión, entre otros) están en la web de la RTA: compruébalos antes de desplazarte."
+    a: "Una vez residente, en principio puedes canjearlo por un carnet emiratí sin volver a examinarte: según la RTA (página actualizada el 24 de noviembre de 2026), el carnet francés se canjea sea cual sea tu nacionalidad, sin traducción, tras una prueba de visión. Los documentos exigidos (carnet original, Emirates ID) y las tasas están en rta.ae: compruébalos antes de desplazarte."
   - q: "¿Debo afiliarme a la Caisse des Français de l'étranger?"
     a: "No es obligatorio. La CFE permite mantener una cobertura de tipo seguridad social francesa y, si lo deseas, seguir cotizando para tu pensión de jubilación básica. Se suma al seguro médico local, obligatorio en Dubái para el visado de residencia: no lo sustituye."
 sources:
@@ -39,6 +39,8 @@ sources:
     url: "https://www.service-public.gouv.fr/particuliers/vosdroits/F32889"
   - label: "Service-Public: seguro médico de un francés que vive en el extranjero (CFE)"
     url: "https://www.service-public.gouv.fr/particuliers/vosdroits/F1568"
+  - label: "RTA: canje de un carnet extranjero (60 países, actualización del 24/11/2026)"
+    url: "https://www.rta.ae/wps/portal/rta/ae/home/rta-services/service-details?serviceId=121"
 related: ["s-installer-a-dubai", "visa-residence-dubai", "impots-dubai", "ecoles-francaises-dubai", "s-installer-a-dubai-depuis-la-belgique"]
 order: 5
 key: "s-installer-a-dubai-depuis-la-france"
@@ -136,7 +138,7 @@ Una vez instalado, inscríbete en el registro de franceses establecidos fuera de
 
 ## Vivir en Dubái en francés: referencias prácticas
 
-- **Carnet de conducir**: según la prensa emiratí, Francia figura entre los países cuyo carnet puede canjearse por uno emiratí una vez residente, sin volver a examinarte. Comprueba la lista oficial en la web de la RTA y lleva tu carnet original.
+- **Carnet de conducir**: según la RTA (página actualizada el 24 de noviembre de 2026), el carnet francés puede canjearse por uno emiratí una vez residente, sin volver a examinarte, sea cual sea tu nacionalidad. Lleva tu carnet original y comprueba las condiciones en rta.ae.
 - **Vuelos**: Emirates conecta Dubái con París-Charles de Gaulle, Niza y Lyon, y otras aerolíneas operan en París. Cuenta con un vuelo directo del orden de 6 a 8 horas según el sentido; comprueba los horarios y las frecuencias de la temporada con las aerolíneas, que pueden cambiar con la situación regional.
 - **Comunidad**: el consulado general de Francia en Dubái, la UFE Dubái (Union des Français de l'étranger), la Alliance française de Dubái y el French Business Council (cámara de comercio francesa de Dubái y de los Emiratos del Norte) son buenos puntos de entrada para crear una red.
 - **Colegios**: varios centros siguen el programa francés. Consulta nuestra guía de los [colegios franceses en Dubái](/es/colegios-franceses-dubai/).

@@ -6,7 +6,7 @@ keyword: "s'installer à dubai depuis la france"
 secondary: ["expatriation dubai france", "s'installer à dubai français", "impôts dubaï expatriés français"]
 cluster: pays
 country: "France"
-updated: 2026-11-27
+updated: 2026-11-28
 intro: "Pour s’installer à Dubaï depuis la France, vous entrez sans visa avec votre passeport français (90 jours maximum sur 180), puis vous obtenez un visa de résidence par un employeur, votre propre société, un investissement ou un proche. Côté France, trois chantiers comptent : faire légaliser vos documents (désormais auprès des notaires), organiser votre départ fiscal (domicile fiscal, exit tax éventuelle) et décider de votre protection sociale (CFE, retraite)."
 essentials:
   - "Les ressortissants français sont dispensés de visa : le tampon apposé à l’arrivée permet un séjour de 90 jours maximum sur une période de 180 jours."
@@ -23,7 +23,7 @@ faq:
   - q: "Qui légalise mes documents français pour les Émirats ?"
     a: "Depuis le 1er septembre 2025, la légalisation des actes publics français destinés à l’étranger est confiée aux notaires (par l’intermédiaire des chambres et conseils régionaux), et non plus au bureau des légalisations du ministère. Comme les Émirats n’appliquent pas l’apostille, le document passe ensuite par l’ambassade des Émirats à Paris, puis par le ministère des Affaires étrangères émirien."
   - q: "Mon permis de conduire français est-il valable à Dubaï ?"
-    a: "Une fois résident, vous pouvez en principe l’échanger contre un permis émirien sans repasser l’examen : selon la presse émiratie, la France figure parmi les pays dont les permis sont échangeables auprès de la RTA. La liste officielle et les pièces demandées (test de vue notamment) sont sur le site de la RTA : vérifiez-les avant de vous déplacer."
+    a: "Une fois résident, vous pouvez en principe l’échanger contre un permis émirien sans repasser l’examen : selon la RTA (page mise à jour le 24 novembre 2026), le permis français s’échange quelle que soit votre nationalité, sans traduction, après un test de vue. Les pièces demandées (permis original, Emirates ID) et les frais sont sur rta.ae : vérifiez-les avant de vous déplacer."
   - q: "Dois-je adhérer à la Caisse des Français de l’étranger ?"
     a: "Ce n’est pas obligatoire. La CFE permet de garder une couverture de type sécurité sociale française et, si vous le souhaitez, de continuer à cotiser pour votre retraite de base. Elle s’ajoute à l’assurance santé locale, obligatoire à Dubaï pour le visa de résidence : elle ne la remplace pas."
 sources:
@@ -39,6 +39,8 @@ sources:
     url: "https://www.service-public.gouv.fr/particuliers/vosdroits/F32889"
   - label: "Service-Public : assurance maladie d’un Français vivant à l’étranger (CFE)"
     url: "https://www.service-public.gouv.fr/particuliers/vosdroits/F1568"
+  - label: "RTA : échanger un permis étranger (60 pays, mise à jour du 24/11/2026)"
+    url: "https://www.rta.ae/wps/portal/rta/ae/home/rta-services/service-details?serviceId=121"
 related: ["s-installer-a-dubai", "visa-residence-dubai", "impots-dubai", "ecoles-francaises-dubai", "s-installer-a-dubai-depuis-la-belgique"]
 order: 5
 ---
@@ -135,7 +137,7 @@ Une fois installé, inscrivez-vous au registre des Français établis hors de Fr
 
 ## Vivre à Dubaï en Français : repères pratiques
 
-- **Permis de conduire** : selon la presse émiratie, la France figure parmi les pays dont le permis peut être échangé contre un permis émirien une fois résident, sans repasser l’examen. Vérifiez la liste officielle sur le site de la RTA et apportez votre permis original.
+- **Permis de conduire** : selon la RTA (page mise à jour le 24 novembre 2026), le permis français s’échange contre un permis émirien une fois résident, sans repasser l’examen, quelle que soit votre nationalité. Apportez votre permis original et vérifiez les conditions sur rta.ae. Détails : [guide du permis de conduire à Dubaï](/blog/permis-de-conduire-dubai/).
 - **Vols** : Emirates relie Dubaï à Paris-Charles-de-Gaulle, Nice et Lyon, et d’autres compagnies desservent Paris. Comptez un vol direct de l’ordre de 6 à 8 heures selon le sens ; vérifiez les horaires et les fréquences de la saison auprès des compagnies, qui peuvent changer avec la situation régionale.
 - **Communauté** : le consulat général de France à Dubaï, l’UFE Dubaï (Union des Français de l’étranger), l’Alliance française de Dubaï et le French Business Council (chambre de commerce française de Dubaï et des Émirats du Nord) sont de bons points d’entrée pour se créer un réseau.
 - **Écoles** : plusieurs établissements suivent le programme français. Voir notre guide des [écoles françaises à Dubaï](/ecoles-francaises-dubai/).

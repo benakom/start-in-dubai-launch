@@ -6,7 +6,7 @@ keyword: "moving to dubai from switzerland"
 secondary: ["dubai visa switzerland", "swiss expat dubai", "leaving switzerland for dubai", "switzerland uae tax treaty", "swiss pension fund withdrawal dubai"]
 cluster: pays
 country: "Switzerland"
-updated: 2026-11-27
+updated: 2026-11-28
 intro: "To move to Dubai from Switzerland, you enter visa-free with your Swiss passport (90 days in any 180, under the bilateral exemption agreement), then obtain a residence visa through an employer, your company, an investment or a relative. On the Swiss side, what matters happens before departure: notifying your municipality, choosing voluntary AHV (one-year deadline), deciding what to do with your pension fund (LPP) and third pillar, settling tax with your canton and legalising your documents."
 essentials:
   - "Switzerland and the UAE concluded a visa exemption agreement in 2017: 90 days maximum in any 180-day period, without a visa."
@@ -39,6 +39,8 @@ sources:
     url: "https://www.bsv.admin.ch/fr/le-troisieme-pilier"
   - label: "Swiss representation in the UAE: clubs and associations"
     url: "https://www.schweiz-vereinigtearabischeemirate.eda.admin.ch/en/clubs"
+  - label: "RTA: exchanging a foreign licence (60 countries, updated 24/11/2026)"
+    url: "https://www.rta.ae/wps/portal/rta/ae/home/rta-services/service-details?serviceId=121"
 related: ["s-installer-a-dubai", "visa-residence-dubai", "impots-dubai", "creer-sa-societe-a-dubai", "s-installer-a-dubai-depuis-la-france"]
 order: 7
 key: "s-installer-a-dubai-depuis-la-suisse"
@@ -123,7 +125,7 @@ Each canton legalises only its own documents: a document issued in another canto
 
 ## Living in Dubai as a Swiss citizen: practical points
 
-- **Driving licence**: according to the Emirati press, Switzerland is among the countries whose licence can be exchanged for a UAE licence once you are a resident. Check the official list and the documents required on the RTA website before going.
+- **Driving licence**: according to the RTA (page updated on 24 November 2026), a Swiss licence can be exchanged for a UAE licence once you are a resident, without retaking the test, whatever your nationality. Bring your original licence and check the conditions on rta.ae.
 - **Flights**: Emirates links Geneva and Zurich to Dubai with a direct flight. Check the season's frequencies with the airline: they may change with the regional situation.
 - **Network**: the **Swiss Business Council UAE**, a non-profit association founded in 1996, works with the embassy and the consulate general. It is the contact point listed by the Swiss representation.
 - **Schools**: French-speaking Swiss families will find programmes in French, presented in our guide to [French schools in Dubai](/en/french-schools-dubai/).

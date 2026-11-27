@@ -6,7 +6,7 @@ keyword: "emigreren naar dubai vanuit frankrijk"
 secondary: ["verhuizen naar dubai vanuit frankrijk", "emigreren naar dubai als fransman", "belasting dubai voor franse expats", "exit tax frankrijk dubai"]
 cluster: pays
 country: "Frankrijk"
-updated: 2026-11-27
+updated: 2026-11-28
 intro: "Wie vanuit Frankrijk naar Dubai verhuist, reist met een Frans paspoort visumvrij binnen (maximaal 90 dagen binnen 180 dagen) en krijgt daarna een verblijfsvisum via een werkgever, een eigen bedrijf, een investering of een gezinslid. In Frankrijk gaat het om drie dossiers: uw documenten laten legaliseren (voortaan bij de notarissen), uw fiscale vertrek regelen (fiscale woonplaats, eventuele exit tax) en beslissen over uw sociale bescherming (CFE, pensioen)."
 essentials:
   - "Franse onderdanen zijn vrijgesteld van een visum: de stempel bij aankomst geeft recht op een verblijf van maximaal 90 dagen binnen een periode van 180 dagen."
@@ -23,7 +23,7 @@ faq:
   - q: "Wie legaliseert mijn Franse documenten voor de Emiraten?"
     a: "Sinds 1 september 2025 is de legalisatie van Franse openbare akten die voor het buitenland zijn bestemd toevertrouwd aan de notarissen (via de kamers en regionale raden) en niet langer aan het legalisatiebureau van het ministerie. Omdat de Emiraten de apostille niet toepassen, gaat het document daarna naar de ambassade van de Emiraten in Parijs en vervolgens naar het Emiraatse ministerie van Buitenlandse Zaken."
   - q: "Is mijn Franse rijbewijs geldig in Dubai?"
-    a: "Zodra u inwoner bent, kunt u het in principe inwisselen voor een Emiraats rijbewijs zonder opnieuw examen te doen: volgens de Emiraatse pers staat Frankrijk op de lijst van landen waarvan de rijbewijzen bij de RTA inwisselbaar zijn. De officiële lijst en de gevraagde stukken (met name een oogtest) staan op de site van de RTA: controleer ze voordat u erheen gaat."
+    a: "Zodra u inwoner bent, kunt u het in principe inwisselen voor een Emiraats rijbewijs zonder opnieuw examen te doen: volgens de RTA (pagina bijgewerkt op 24 november 2026) kan een Frans rijbewijs worden ingewisseld ongeacht uw nationaliteit, zonder vertaling, na een oogtest. De gevraagde stukken (origineel rijbewijs, Emirates ID) en de kosten staan op rta.ae: controleer ze voordat u erheen gaat."
   - q: "Moet ik me aansluiten bij de Caisse des Français de l’étranger?"
     a: "Dat is niet verplicht. De CFE laat u een dekking van het type Franse sociale zekerheid behouden en, als u wilt, blijven bijdragen voor uw basispensioen. Ze komt bovenop de lokale ziektekostenverzekering, die in Dubai verplicht is voor het verblijfsvisum: ze vervangt die niet."
 sources:
@@ -39,6 +39,8 @@ sources:
     url: "https://www.service-public.gouv.fr/particuliers/vosdroits/F32889"
   - label: "Service-Public: ziektekostenverzekering van een Fransman die in het buitenland woont (CFE)"
     url: "https://www.service-public.gouv.fr/particuliers/vosdroits/F1568"
+  - label: "RTA: een buitenlands rijbewijs inwisselen (60 landen, bijgewerkt op 24/11/2026)"
+    url: "https://www.rta.ae/wps/portal/rta/ae/home/rta-services/service-details?serviceId=121"
 related: ["s-installer-a-dubai", "visa-residence-dubai", "impots-dubai", "ecoles-francaises-dubai", "s-installer-a-dubai-depuis-la-belgique"]
 order: 5
 key: "s-installer-a-dubai-depuis-la-france"
@@ -136,7 +138,7 @@ Eenmaal gevestigd, schrijft u zich in het register van Fransen die buiten Frankr
 
 ## Leven in Dubai als Franstalige: praktische tips
 
-- **Rijbewijs**: volgens de Emiraatse pers staat Frankrijk op de lijst van landen waarvan het rijbewijs, zodra u inwoner bent, kan worden ingewisseld voor een Emiraats rijbewijs zonder opnieuw examen. Controleer de officiële lijst op de site van de RTA en neem uw originele rijbewijs mee.
+- **Rijbewijs**: volgens de RTA (pagina bijgewerkt op 24 november 2026) kan een Frans rijbewijs, zodra u inwoner bent, worden ingewisseld voor een Emiraats rijbewijs zonder opnieuw examen, ongeacht uw nationaliteit. Neem uw originele rijbewijs mee en controleer de voorwaarden op rta.ae.
 - **Vluchten**: Emirates verbindt Dubai met Parijs-Charles-de-Gaulle, Nice en Lyon, en andere maatschappijen bedienen Parijs. Reken op een directe vlucht van ongeveer 6 tot 8 uur afhankelijk van de richting; controleer de tijden en frequenties van het seizoen bij de maatschappijen, die met de regionale situatie kunnen veranderen.
 - **Gemeenschap**: het consulaat-generaal van Frankrijk in Dubai, de UFE Dubaï (Union des Français de l’étranger), de Alliance française de Dubaï en de French Business Council (Franse kamer van koophandel van Dubai en de noordelijke emiraten) zijn goede ingangen om een netwerk op te bouwen.
 - **Scholen**: meerdere instellingen volgen het Franse programma. Zie onze gids over [Franse scholen in Dubai](/nl/franse-scholen-dubai/).

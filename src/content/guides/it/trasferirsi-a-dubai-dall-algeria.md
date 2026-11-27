@@ -6,7 +6,7 @@ keyword: "trasferirsi a dubai dall'algeria"
 secondary: ["visto dubai per algerini", "lavorare a dubai per algerini", "studiare a dubai per algerini", "voli algeria dubai", "algerini a dubai"]
 cluster: pays
 country: "Algeria"
-updated: 2026-11-27
+updated: 2026-11-28
 intro: "Un algerino può trasferirsi a Dubai, ma deve ottenere il visto prima della partenza e poi una residenza tramite un datore di lavoro, una società, la famiglia o un’università. Il 2026 complica il percorso: l’Algeria ha annunciato la rottura delle relazioni diplomatiche con gli Emirati il 10 settembre 2026 e ha chiuso lo spazio aereo agli aerei immatricolati negli Emirati, il che incide sui voli diretti e sui servizi consolari. Situazione al 27 novembre 2026, soggetta a cambiamenti: verifica ogni passaggio presso le autorità consolari e le fonti ufficiali prima di impegnarti."
 essentials:
   - "Il 10 settembre 2026 il ministero algerino degli Affari esteri ha annunciato la rottura delle relazioni diplomatiche con gli Emirati."
@@ -39,6 +39,8 @@ sources:
     url: "https://www.aps.dz/en/algeria/national-news/mtvv5lhn-algeria-decides-to-close-airspace-to-uae-registered-civilian-military-aircraft-starting-11-september"
   - label: "Al Jazeera: rottura delle relazioni Algeria-Emirati, cosa si sa (10/09/2026)"
     url: "https://www.aljazeera.com/news/2026/9/10/algeria-cuts-diplomatic-ties-with-uae-what-we-know"
+  - label: "RTA: conversione di una patente estera (60 paesi, aggiornamento del 24/11/2026)"
+    url: "https://www.rta.ae/wps/portal/rta/ae/home/rta-services/service-details?serviceId=121"
 related: ["s-installer-a-dubai", "visa-residence-dubai", "etudier-a-dubai", "travailler-a-dubai", "s-installer-a-dubai-depuis-le-maroc"]
 order: 2
 key: "s-installer-a-dubai-depuis-l-algerie"
@@ -163,7 +165,7 @@ Più dettagli nella nostra guida per [studiare a Dubai](/it/studiare-a-dubai/).
 
 ## Vita sul posto e comunità
 
-Gli algerini residenti negli Emirati frequentano le comunità marocchina, tunisina e, più in generale, arabofona e francofona: l’arabo è la lingua ufficiale, l’inglese domina al lavoro e il francese apre le porte delle numerose reti francofone di Dubai. La patente algerina non si converte direttamente a Dubai: secondo la RTA (gennaio 2026), un solo paese africano figura nell’elenco di conversione (il Sudafrica, secondo la stampa). Prevedi lezioni in una scuola guida e verifica l’elenco aggiornato su rta.ae.
+Gli algerini residenti negli Emirati frequentano le comunità marocchina, tunisina e, più in generale, arabofona e francofona: l’arabo è la lingua ufficiale, l’inglese domina al lavoro e il francese apre le porte delle numerose reti francofone di Dubai. La patente algerina non si converte direttamente a Dubai: secondo la RTA (pagina aggiornata il 24 novembre 2026), 60 paesi figurano nell’elenco di conversione e il Sudafrica è l’unico paese africano. Prevedi lezioni in una scuola guida e verifica l’elenco aggiornato su rta.ae.
 
 ## Checklist prima di partire dall’Algeria
 

@@ -6,7 +6,7 @@ keyword: "mudarse a dubái desde suiza"
 secondary: ["visado dubái suiza", "fiscalidad dubái suiza", "expatriación dubái suiza", "emigrar a dubái desde suiza"]
 cluster: pays
 country: "Suiza"
-updated: 2026-11-27
+updated: 2026-11-28
 intro: "Para mudarte a Dubái desde Suiza, entras sin visado con tu pasaporte suizo (90 días en 180, según el acuerdo bilateral de exención) y después obtienes un visado de residencia a través de un empleador, tu empresa, una inversión o un familiar. Del lado suizo, lo esencial se juega antes de la salida: aviso al municipio, elección de la AVS facultativa (plazo de un año), destino de tu haber de la LPP y de tu 3.er pilar, regularización fiscal con tu cantón y legalización de tus documentos."
 essentials:
   - "Suiza y los Emiratos concluyeron en 2017 un acuerdo de exención de visado: 90 días como máximo en un periodo de 180 días, sin visado."
@@ -39,6 +39,8 @@ sources:
     url: "https://www.bsv.admin.ch/fr/le-troisieme-pilier"
   - label: "Representación suiza en los Emiratos: clubes y asociaciones"
     url: "https://www.schweiz-vereinigtearabischeemirate.eda.admin.ch/en/clubs"
+  - label: "RTA: canje de un carnet extranjero (60 países, actualización del 24/11/2026)"
+    url: "https://www.rta.ae/wps/portal/rta/ae/home/rta-services/service-details?serviceId=121"
 related: ["s-installer-a-dubai", "visa-residence-dubai", "impots-dubai", "creer-sa-societe-a-dubai", "s-installer-a-dubai-depuis-la-france"]
 order: 7
 key: "s-installer-a-dubai-depuis-la-suisse"
@@ -123,7 +125,7 @@ Cada cantón solo legaliza sus propios documentos: un acta emitida en otro cant�
 
 ## Vivir en Dubái siendo suizo: referencias prácticas
 
-- **Carnet de conducir**: según la prensa emiratí, Suiza figura entre los países cuyo carnet puede canjearse por uno emiratí una vez residente. Comprueba la lista oficial y los documentos exigidos en la web de la RTA antes de desplazarte.
+- **Carnet de conducir**: según la RTA (página actualizada el 24 de noviembre de 2026), el carnet suizo puede canjearse por uno emiratí una vez residente, sin volver a examinarte, sea cual sea tu nacionalidad. Lleva tu carnet original y comprueba las condiciones en rta.ae.
 - **Vuelos**: Emirates conecta Ginebra y Zúrich con Dubái en vuelo directo. Comprueba las frecuencias de la temporada con la compañía: pueden cambiar con la situación regional.
 - **Red**: el **Swiss Business Council UAE**, asociación sin ánimo de lucro fundada en 1996, trabaja con la embajada y el consulado general. Es el punto de contacto que figura en el listado de la representación suiza.
 - **Colegios**: las familias de la Suiza romanda encuentran programas en francés, presentados en nuestra guía de los [colegios franceses en Dubái](/es/colegios-franceses-dubai/).

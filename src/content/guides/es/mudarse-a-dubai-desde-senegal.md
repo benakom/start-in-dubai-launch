@@ -6,7 +6,7 @@ keyword: "mudarse a dubái desde senegal"
 secondary: ["visado dubái senegal", "viajar a dubái desde senegal", "trabajar en dubái siendo senegalés", "vuelos dakar dubái"]
 cluster: pays
 country: "Senegal"
-updated: 2026-11-27
+updated: 2026-11-28
 intro: "Para mudarte a Dubái desde Senegal debes obtener un visado antes de viajar y después un visado de residencia a través de un empleador, una empresa, la familia o una universidad. Antes de salir, legaliza tus títulos y actas en el Ministerio de Asuntos Exteriores senegalés y hazlos atestar por la embajada de los Emiratos en Dakar. Las transferencias fuera de la zona UEMOA pasan por un banco o un intermediario autorizado, según la normativa de cambios del BCEAO."
 essentials:
   - "El pasaporte senegalés no permite ni la entrada sin visado ni el visado a la llegada en los Emiratos: el visado debe emitirse antes de salir."
@@ -39,6 +39,8 @@ sources:
     url: "https://www.mofa.gov.ae/en/Missions/Foreign-Missions-in-UAE?region=SEN"
   - label: "Ministerio de Educación de los Emiratos: equivalencia del diploma de fin de estudios obtenido en el extranjero"
     url: "https://moe.gov.ae/en/eservices/servicecard/pages/certequivalent-out.aspx"
+  - label: "RTA: canje de un carnet extranjero (60 países, actualización del 24/11/2026)"
+    url: "https://www.rta.ae/wps/portal/rta/ae/home/rta-services/service-details?serviceId=121"
 related: ["s-installer-a-dubai", "visa-residence-dubai", "creer-sa-societe-a-dubai", "etudier-a-dubai", "s-installer-a-dubai-depuis-le-maroc"]
 order: 4
 key: "s-installer-a-dubai-depuis-le-senegal"
@@ -168,7 +170,7 @@ Más detalles en nuestra guía para [estudiar en Dubái](/es/estudiar-en-dubai/)
 
 ## Vida allí
 
-La diáspora senegalesa en los Emiratos es activa, sobre todo en los intercambios comerciales con Senegal. El inglés es el idioma de trabajo, el árabe el idioma oficial, y el francés te abre las redes francófonas de Dubái. El carnet de conducir senegalés en principio no se canjea directamente: en enero de 2026, la RTA solo contaba con un país africano en su lista, Sudáfrica según la prensa emiratí. Prevé clases en una autoescuela si quieres conducir.
+La diáspora senegalesa en los Emiratos es activa, sobre todo en los intercambios comerciales con Senegal. El inglés es el idioma de trabajo, el árabe el idioma oficial, y el francés te abre las redes francófonas de Dubái. El carnet de conducir senegalés no se canjea directamente: según la RTA (página actualizada el 24 de noviembre de 2026), hay 60 países en la lista de canje y Sudáfrica es el único país africano. Prevé clases en una autoescuela si quieres conducir.
 
 ## Lista de comprobación antes de salir de Senegal
 

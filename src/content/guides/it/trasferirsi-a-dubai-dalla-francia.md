@@ -6,7 +6,7 @@ keyword: "trasferirsi a dubai dalla francia"
 secondary: ["espatrio dubai francia", "francesi a dubai", "tasse dubai espatriati francesi", "exit tax francia dubai"]
 cluster: pays
 country: "Francia"
-updated: 2026-11-27
+updated: 2026-11-28
 intro: "Per trasferirsi a Dubai dalla Francia entri senza visto con il passaporto francese (90 giorni al massimo su 180), poi ottieni un visto di residenza tramite un datore di lavoro, la tua società, un investimento o un familiare. Dal lato francese contano tre cantieri: far legalizzare i documenti (ormai presso i notai), organizzare la partenza fiscale (domicilio fiscale, eventuale exit tax) e decidere la protezione sociale (CFE, pensione)."
 essentials:
   - "I cittadini francesi sono dispensati dal visto: il timbro apposto all’arrivo permette un soggiorno di 90 giorni al massimo su un periodo di 180 giorni."
@@ -23,7 +23,7 @@ faq:
   - q: "Chi legalizza i miei documenti francesi per gli Emirati?"
     a: "Dal 1° settembre 2025 la legalizzazione degli atti pubblici francesi destinati all’estero è affidata ai notai (tramite le camere e i consigli regionali), e non più all’ufficio legalizzazioni del ministero. Poiché gli Emirati non applicano l’apostille, il documento passa poi dall’ambasciata degli Emirati a Parigi, quindi dal ministero degli Affari esteri emiratino."
   - q: "La mia patente francese è valida a Dubai?"
-    a: "Una volta residente puoi in linea di principio convertirla in una patente emiratina senza rifare l’esame: secondo la stampa emiratina, la Francia figura tra i paesi le cui patenti sono convertibili presso la RTA. L’elenco ufficiale e i documenti richiesti (in particolare il test della vista) sono sul sito della RTA: verificali prima di spostarti."
+    a: "Una volta residente puoi in linea di principio convertirla in una patente emiratina senza rifare l’esame: secondo la RTA (pagina aggiornata il 24 novembre 2026), la patente francese si converte qualunque sia la tua nazionalità, senza traduzione, dopo un test della vista. I documenti richiesti (patente originale, Emirates ID) e le tariffe sono su rta.ae: verificali prima di spostarti."
   - q: "Devo iscrivermi alla Caisse des Français de l’étranger?"
     a: "Non è obbligatorio. La CFE permette di mantenere una copertura di tipo previdenza sociale francese e, se lo desideri, di continuare a versare contributi per la pensione di base. Si aggiunge all’assicurazione sanitaria locale, obbligatoria a Dubai per il visto di residenza: non la sostituisce."
 sources:
@@ -39,6 +39,8 @@ sources:
     url: "https://www.service-public.gouv.fr/particuliers/vosdroits/F32889"
   - label: "Service-Public: assicurazione sanitaria di un francese che vive all’estero (CFE)"
     url: "https://www.service-public.gouv.fr/particuliers/vosdroits/F1568"
+  - label: "RTA: conversione di una patente estera (60 paesi, aggiornamento del 24/11/2026)"
+    url: "https://www.rta.ae/wps/portal/rta/ae/home/rta-services/service-details?serviceId=121"
 related: ["s-installer-a-dubai", "visa-residence-dubai", "impots-dubai", "ecoles-francaises-dubai", "s-installer-a-dubai-depuis-la-belgique"]
 order: 5
 key: "s-installer-a-dubai-depuis-la-france"
@@ -136,7 +138,7 @@ Una volta stabilito, iscriviti al registro dei francesi residenti fuori dalla Fr
 
 ## Vivere a Dubai da francese: punti di riferimento pratici
 
-- **Patente di guida**: secondo la stampa emiratina, la Francia figura tra i paesi le cui patenti possono essere convertite in una patente emiratina una volta residente, senza rifare l’esame. Verifica l’elenco ufficiale sul sito della RTA e porta la patente originale.
+- **Patente di guida**: secondo la RTA (pagina aggiornata il 24 novembre 2026), la patente francese può essere convertita in una patente emiratina una volta residente, senza rifare l’esame, qualunque sia la tua nazionalità. Porta la patente originale e verifica le condizioni su rta.ae.
 - **Voli**: Emirates collega Dubai a Parigi-Charles de Gaulle, Nizza e Lione, e altre compagnie servono Parigi. Calcola un volo diretto dell’ordine di 6-8 ore a seconda del senso; verifica orari e frequenze della stagione presso le compagnie, che possono cambiare con la situazione regionale.
 - **Comunità**: il consolato generale di Francia a Dubai, l’UFE Dubai (Union des Français de l’étranger), l’Alliance française di Dubai e il French Business Council (camera di commercio francese di Dubai e degli Emirati del Nord) sono buoni punti d’ingresso per crearsi una rete.
 - **Scuole**: diversi istituti seguono il programma francese. Vedi la nostra guida alle [scuole francesi a Dubai](/it/scuole-francesi-dubai/).

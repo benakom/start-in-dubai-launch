@@ -6,7 +6,7 @@ keyword: "trasferirsi a dubai dal marocco"
 secondary: ["visto dubai per marocchini", "lavorare a dubai per marocchini", "contratto di lavoro dubai marocchini", "marocchini a dubai", "documenti per dubai dal marocco"]
 cluster: pays
 country: "Marocco"
-updated: 2026-11-27
+updated: 2026-11-28
 intro: "Per trasferirsi a Dubai dal Marocco serve prima di tutto un visto ottenuto prima della partenza: il passaporto marocchino non dà né esenzione né visto all’arrivo. Sul posto, la residenza passa da un datore di lavoro, una società, lo status di freelance, un familiare o il Golden Visa. Prima di partire, fai legalizzare diplomi e atti di stato civile al ministero marocchino degli Affari esteri e poi all’ambasciata degli Emirati a Rabat, e informati presso l’Office des Changes per i tuoi trasferimenti di denaro."
 essentials:
   - "Il passaporto marocchino non è esente da visto e non dà il visto all’arrivo: il visto si ottiene prima del volo, con il passaporto valido almeno sei mesi."
@@ -21,7 +21,7 @@ faq:
   - q: "Si può cercare lavoro a Dubai con un visto turistico?"
     a: "Il visto turistico serve per fare turismo, non per lavorare. Esiste un visto di visita per cercare lavoro (60, 90 o 120 giorni, senza sponsor), riservato a profili qualificati: livelli di competenza da 1 a 3 del ministero delle Risorse umane (MOHRE) oppure neolaureati di una delle 500 migliori università del mondo, con almeno una laurea triennale. Potrai lavorare solo dopo che il datore di lavoro avrà ottenuto il permesso di lavoro e la residenza."
   - q: "La mia patente marocchina è valida a Dubai?"
-    a: "In linea di principio no. A gennaio 2026 la RTA di Dubai indicava che un solo paese africano figurava nell’elenco delle patenti convertibili (il Sudafrica, secondo la stampa emiratina) e il Marocco non ne fa parte. Un residente con patente marocchina passa quindi in genere da una scuola guida di Dubai. Controlla l’elenco aggiornato su rta.ae prima di iscriverti."
+    a: "In linea di principio no. Secondo la pagina della RTA aggiornata il 24 novembre 2026, le patenti di 60 paesi si convertono direttamente a Dubai, e il Sudafrica è l’unico paese africano dell’elenco: il Marocco non ne fa parte. Un residente con patente marocchina passa quindi in genere da una scuola guida di Dubai. Una patente rilasciata in un paese dell’elenco (Francia, Belgio, Spagna, Italia...) si converte invece qualunque sia la tua nazionalità: conta il paese della patente. Controlla l’elenco aggiornato su rta.ae prima di iscriverti."
   - q: "Quanto denaro si può trasferire dal Marocco a Dubai?"
     a: "I trasferimenti dei residenti marocchini verso l’estero sono regolati dall’Istruzione generale sulle operazioni di cambio. L’Office des Changes precisa che non è prevista alcuna “dotazione emigrazione”. Una volta stabilito all’estero, come marocchino residente all’estero puoi aprire in Marocco un conto in valuta o in dirham convertibili. Fai validare il tuo caso dalla banca prima di qualsiasi trasferimento importante."
   - q: "Esiste una convenzione fiscale tra Marocco ed Emirati?"
@@ -37,8 +37,8 @@ sources:
     url: "https://www.mofa.gov.ae/en/Missions/Rabat/Services/Services-for-Individuals/Attestation-Information"
   - label: "Office des Changes: domande frequenti"
     url: "https://www.oc.gov.ma/fr/faq"
-  - label: "RTA: patenti estere convertibili a Dubai (gennaio 2026)"
-    url: "https://www.rta.ae/wps/portal/rta/ae/home/news-and-media/all-news/NewsDetails/replacing-over-58000-driving-licences-from-57+countries-with-uae-ones"
+  - label: "RTA: conversione di una patente estera (60 paesi, aggiornamento del 24/11/2026)"
+    url: "https://www.rta.ae/wps/portal/rta/ae/home/rta-services/service-details?serviceId=121"
 related: ["s-installer-a-dubai", "visa-residence-dubai", "travailler-a-dubai", "ouvrir-un-compte-bancaire-a-dubai", "s-installer-a-dubai-depuis-la-tunisie"]
 order: 1
 key: "s-installer-a-dubai-depuis-le-maroc"

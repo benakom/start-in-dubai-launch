@@ -6,7 +6,7 @@ keyword: "trasferirsi a dubai dal senegal"
 secondary: ["visto dubai senegal", "viaggiare a dubai dal senegal", "senegalesi a dubai", "volo dakar dubai"]
 cluster: pays
 country: "Senegal"
-updated: 2026-11-27
+updated: 2026-11-28
 intro: "Per trasferirsi a Dubai dal Senegal bisogna ottenere un visto prima della partenza, poi un visto di residenza tramite un datore di lavoro, una società, la famiglia o un’università. Prima di partire, fai legalizzare diplomi e atti al ministero senegalese degli Affari esteri, poi attestare dall’ambasciata degli Emirati a Dakar. I trasferimenti fuori dalla zona UEMOA passano da una banca o da un intermediario autorizzato, secondo la normativa sui cambi della BCEAO."
 essentials:
   - "Il passaporto senegalese non dà né l’ingresso senza visto né il visto all’arrivo negli Emirati: il visto deve essere rilasciato prima della partenza."
@@ -39,6 +39,8 @@ sources:
     url: "https://www.mofa.gov.ae/en/Missions/Foreign-Missions-in-UAE?region=SEN"
   - label: "Ministero emiratino dell’Istruzione: equipollenza del diploma di fine scuola ottenuto all’estero"
     url: "https://moe.gov.ae/en/eservices/servicecard/pages/certequivalent-out.aspx"
+  - label: "RTA: conversione di una patente estera (60 paesi, aggiornamento del 24/11/2026)"
+    url: "https://www.rta.ae/wps/portal/rta/ae/home/rta-services/service-details?serviceId=121"
 related: ["s-installer-a-dubai", "visa-residence-dubai", "creer-sa-societe-a-dubai", "etudier-a-dubai", "s-installer-a-dubai-depuis-le-maroc"]
 order: 4
 key: "s-installer-a-dubai-depuis-le-senegal"
@@ -168,7 +170,7 @@ Più dettagli nella nostra guida per [studiare a Dubai](/it/studiare-a-dubai/).
 
 ## Vita sul posto
 
-La diaspora senegalese negli Emirati è attiva, in particolare negli scambi commerciali con il Senegal. L’inglese è la lingua del lavoro, l’arabo la lingua ufficiale, e il francese ti apre le reti francofone di Dubai. La patente senegalese in linea di principio non si converte direttamente: a gennaio 2026 la RTA contava un solo paese africano nel suo elenco, il Sudafrica secondo la stampa emiratina. Prevedi lezioni in una scuola guida se vuoi guidare.
+La diaspora senegalese negli Emirati è attiva, in particolare negli scambi commerciali con il Senegal. L’inglese è la lingua del lavoro, l’arabo la lingua ufficiale, e il francese ti apre le reti francofone di Dubai. La patente senegalese non si converte direttamente: secondo la RTA (pagina aggiornata il 24 novembre 2026), 60 paesi figurano nell’elenco di conversione e il Sudafrica è l’unico paese africano. Prevedi lezioni in una scuola guida se vuoi guidare.
 
 ## Checklist prima di lasciare il Senegal
 

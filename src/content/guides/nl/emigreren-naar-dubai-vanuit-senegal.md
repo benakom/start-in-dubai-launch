@@ -6,7 +6,7 @@ keyword: "emigreren naar dubai vanuit senegal"
 secondary: ["visum dubai senegal", "reizen naar dubai vanuit senegal", "werken in dubai als senegalees", "verhuizen naar dubai vanuit senegal"]
 cluster: pays
 country: "Senegal"
-updated: 2026-11-27
+updated: 2026-11-28
 intro: "Wie vanuit Senegal naar Dubai wil verhuizen, moet vóór vertrek een visum krijgen en daarna een verblijfsvisum via een werkgever, een bedrijf, het gezin of een universiteit. Laat uw diploma's en aktes vóór vertrek legaliseren bij het Senegalese ministerie van Buitenlandse Zaken en daarna attesteren door de ambassade van de Emiraten in Dakar. Overschrijvingen buiten de UEMOA-zone lopen via een erkende bank of tussenpersoon, volgens de wisselreglementering van de BCEAO."
 essentials:
   - "Een Senegalees paspoort geeft geen visumvrije toegang en geen visum bij aankomst in de Emiraten: het visum moet vóór vertrek zijn afgegeven."
@@ -39,6 +39,8 @@ sources:
     url: "https://www.mofa.gov.ae/en/Missions/Foreign-Missions-in-UAE?region=SEN"
   - label: "Emiraatse ministerie van Onderwijs: gelijkwaardigheid van een in het buitenland behaald diploma secundair onderwijs"
     url: "https://moe.gov.ae/en/eservices/servicecard/pages/certequivalent-out.aspx"
+  - label: "RTA: een buitenlands rijbewijs inwisselen (60 landen, bijgewerkt op 24/11/2026)"
+    url: "https://www.rta.ae/wps/portal/rta/ae/home/rta-services/service-details?serviceId=121"
 related: ["s-installer-a-dubai", "visa-residence-dubai", "creer-sa-societe-a-dubai", "etudier-a-dubai", "s-installer-a-dubai-depuis-le-maroc"]
 order: 4
 key: "s-installer-a-dubai-depuis-le-senegal"
@@ -168,7 +170,7 @@ Meer details in onze gids over [studeren in Dubai](/nl/studeren-in-dubai/).
 
 ## Leven ter plaatse
 
-De Senegalese diaspora in de Emiraten is actief, met name in de handel met Senegal. Engels is de werktaal, Arabisch de officiële taal en Frans opent de Franstalige netwerken van Dubai. Het Senegalese rijbewijs wordt in principe niet rechtstreeks ingewisseld: in januari 2026 telde de RTA slechts één Afrikaans land op zijn lijst, Zuid-Afrika volgens de Emiraatse pers. Reken op lessen bij een rijschool als u wilt rijden.
+De Senegalese diaspora in de Emiraten is actief, met name in de handel met Senegal. Engels is de werktaal, Arabisch de officiële taal en Frans opent de Franstalige netwerken van Dubai. Het Senegalese rijbewijs wordt niet rechtstreeks ingewisseld: volgens de RTA (pagina bijgewerkt op 24 november 2026) staan er 60 landen op de wisselijst en is Zuid-Afrika het enige Afrikaanse land. Reken op lessen bij een rijschool als u wilt rijden.
 
 ## Checklist voordat u Senegal verlaat
 

@@ -6,7 +6,7 @@ keyword: "s'installer à dubai depuis le sénégal"
 secondary: ["visa dubai sénégal", "voyager à dubai depuis le sénégal"]
 cluster: pays
 country: "Sénégal"
-updated: 2026-11-27
+updated: 2026-11-28
 intro: "Pour s’installer à Dubaï depuis le Sénégal, il faut obtenir un visa avant le départ, puis un visa de résidence par un employeur, une société, la famille ou une université. Avant de partir, faites légaliser vos diplômes et actes au ministère sénégalais des Affaires étrangères, puis attester par l’ambassade des Émirats à Dakar. Les transferts hors de la zone UEMOA passent par une banque ou un intermédiaire agréé, selon la réglementation des changes de la BCEAO."
 essentials:
   - "Le passeport sénégalais n’ouvre ni l’entrée sans visa, ni le visa à l’arrivée aux Émirats : le visa doit être émis avant le départ."
@@ -39,6 +39,8 @@ sources:
     url: "https://www.mofa.gov.ae/en/Missions/Foreign-Missions-in-UAE?region=SEN"
   - label: "Ministère émirien de l’Éducation : équivalence du diplôme de fin d’études obtenu à l’étranger"
     url: "https://moe.gov.ae/en/eservices/servicecard/pages/certequivalent-out.aspx"
+  - label: "RTA : échanger un permis étranger (60 pays, mise à jour du 24/11/2026)"
+    url: "https://www.rta.ae/wps/portal/rta/ae/home/rta-services/service-details?serviceId=121"
 related: ["s-installer-a-dubai", "visa-residence-dubai", "creer-sa-societe-a-dubai", "etudier-a-dubai", "s-installer-a-dubai-depuis-le-maroc"]
 order: 4
 ---
@@ -167,7 +169,7 @@ Plus de détails dans notre guide pour [étudier à Dubaï](/etudier-a-dubai/).
 
 ## Vie sur place
 
-La diaspora sénégalaise aux Émirats est active, notamment dans les échanges commerciaux avec le Sénégal. L’anglais est la langue du travail, l’arabe la langue officielle, et le français vous ouvre les réseaux francophones de Dubaï. Le permis de conduire sénégalais ne s’échange en principe pas directement : en janvier 2026, la RTA ne comptait qu’un seul pays africain sur sa liste, l’Afrique du Sud selon la presse émiratie. Prévoyez des cours dans une école de conduite si vous voulez conduire.
+La diaspora sénégalaise aux Émirats est active, notamment dans les échanges commerciaux avec le Sénégal. L’anglais est la langue du travail, l’arabe la langue officielle, et le français vous ouvre les réseaux francophones de Dubaï. Le permis de conduire sénégalais ne s’échange pas directement : selon la RTA (page mise à jour le 24 novembre 2026), 60 pays figurent sur la liste d’échange et l’Afrique du Sud est le seul pays africain. Prévoyez des cours dans une école de conduite si vous voulez conduire (voir notre [guide du permis de conduire à Dubaï](/blog/permis-de-conduire-dubai/)).
 
 ## Checklist avant de quitter le Sénégal
 

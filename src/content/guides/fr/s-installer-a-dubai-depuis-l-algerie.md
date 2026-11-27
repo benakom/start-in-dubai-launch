@@ -6,7 +6,7 @@ keyword: "s'installer à dubai pour un algérien"
 secondary: ["visa dubai pour les algériens", "travailler à dubaï pour les algériens", "étudier à dubaï pour algérien"]
 cluster: pays
 country: "Algérie"
-updated: 2026-11-27
+updated: 2026-11-28
 intro: "Un Algérien peut s’installer à Dubaï, mais il doit obtenir son visa avant le départ, puis une résidence par un employeur, une société, sa famille ou une université. L’année 2026 complique le parcours : l’Algérie a annoncé la rupture de ses relations diplomatiques avec les Émirats le 10 septembre 2026 et fermé son espace aérien aux avions immatriculés aux Émirats, ce qui touche les vols directs et les services consulaires. Situation au 27 novembre 2026, susceptible d’évoluer : vérifiez chaque étape auprès des autorités consulaires et des sources officielles avant de vous engager."
 essentials:
   - "Le 10 septembre 2026, le ministère algérien des Affaires étrangères a annoncé la rupture des relations diplomatiques avec les Émirats."
@@ -39,6 +39,8 @@ sources:
     url: "https://www.aps.dz/en/algeria/national-news/mtvv5lhn-algeria-decides-to-close-airspace-to-uae-registered-civilian-military-aircraft-starting-11-september"
   - label: "Al Jazeera : rupture des relations Algérie–Émirats, ce que l’on sait (10/09/2026)"
     url: "https://www.aljazeera.com/news/2026/9/10/algeria-cuts-diplomatic-ties-with-uae-what-we-know"
+  - label: "RTA : échanger un permis étranger (60 pays, mise à jour du 24/11/2026)"
+    url: "https://www.rta.ae/wps/portal/rta/ae/home/rta-services/service-details?serviceId=121"
 related: ["s-installer-a-dubai", "visa-residence-dubai", "etudier-a-dubai", "travailler-a-dubai", "s-installer-a-dubai-depuis-le-maroc"]
 order: 2
 ---
@@ -162,7 +164,7 @@ Plus de détails dans notre guide pour [étudier à Dubaï](/etudier-a-dubai/).
 
 ## Vie sur place et communauté
 
-Les Algériens installés aux Émirats côtoient les communautés marocaine, tunisienne et plus largement arabophone et francophone : l’arabe est la langue officielle, l’anglais domine au travail et le français ouvre les portes des nombreux réseaux francophones de Dubaï. Le permis de conduire algérien ne s’échange pas directement à Dubaï : selon la RTA (janvier 2026), un seul pays africain figure sur la liste d’échange (l’Afrique du Sud, d’après la presse). Prévoyez des cours dans une école de conduite et vérifiez la liste à jour sur rta.ae.
+Les Algériens installés aux Émirats côtoient les communautés marocaine, tunisienne et plus largement arabophone et francophone : l’arabe est la langue officielle, l’anglais domine au travail et le français ouvre les portes des nombreux réseaux francophones de Dubaï. Le permis de conduire algérien ne s’échange pas directement à Dubaï : selon la RTA (page mise à jour le 24 novembre 2026), 60 pays figurent sur la liste d’échange et l’Afrique du Sud est le seul pays africain. Prévoyez des cours dans une école de conduite et vérifiez la liste à jour sur rta.ae (voir notre [guide du permis de conduire à Dubaï](/blog/permis-de-conduire-dubai/)).
 
 ## Checklist avant de partir d’Algérie
 

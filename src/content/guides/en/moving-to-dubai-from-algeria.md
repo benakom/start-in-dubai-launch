@@ -6,7 +6,7 @@ keyword: "moving to dubai from algeria"
 secondary: ["dubai visa for algerians", "working in dubai as an algerian", "study in dubai algerian student", "algeria uae diplomatic break", "flights algeria dubai"]
 cluster: pays
 country: "Algeria"
-updated: 2026-11-27
+updated: 2026-11-28
 intro: "An Algerian can move to Dubai, but must get a visa before departure and then residence through an employer, a company, family or a university. 2026 complicates the route: Algeria announced the break of diplomatic relations with the UAE on 10 September 2026 and closed its airspace to UAE-registered aircraft, which affects direct flights and consular services. Situation as of 27 November 2026, subject to change: check every step with the consular authorities and official sources before you commit."
 essentials:
   - "On 10 September 2026, Algeria's Ministry of Foreign Affairs announced the break of diplomatic relations with the UAE."
@@ -39,6 +39,8 @@ sources:
     url: "https://www.aps.dz/en/algeria/national-news/mtvv5lhn-algeria-decides-to-close-airspace-to-uae-registered-civilian-military-aircraft-starting-11-september"
   - label: "Al Jazeera: Algeria–UAE break in relations, what we know (10/09/2026)"
     url: "https://www.aljazeera.com/news/2026/9/10/algeria-cuts-diplomatic-ties-with-uae-what-we-know"
+  - label: "RTA: exchanging a foreign licence (60 countries, updated 24/11/2026)"
+    url: "https://www.rta.ae/wps/portal/rta/ae/home/rta-services/service-details?serviceId=121"
 related: ["s-installer-a-dubai", "visa-residence-dubai", "etudier-a-dubai", "travailler-a-dubai", "s-installer-a-dubai-depuis-le-maroc"]
 order: 2
 key: "s-installer-a-dubai-depuis-l-algerie"
@@ -163,7 +165,7 @@ More details in our guide to [studying in Dubai](/en/study-in-dubai/).
 
 ## Life on the ground and community
 
-Algerians settled in the UAE mix with the Moroccan, Tunisian and more broadly Arabic- and French-speaking communities: Arabic is the official language, English dominates at work and French opens the door to Dubai's many francophone networks. The Algerian driving licence cannot be directly exchanged in Dubai: according to the RTA (January 2026), only one African country is on the exchange list (South Africa, according to the press). Plan lessons at a driving school and check the up-to-date list on rta.ae.
+Algerians settled in the UAE mix with the Moroccan, Tunisian and more broadly Arabic- and French-speaking communities: Arabic is the official language, English dominates at work and French opens the door to Dubai's many francophone networks. The Algerian driving licence cannot be directly exchanged in Dubai: according to the RTA (page updated on 24 November 2026), 60 countries are on the exchange list and South Africa is the only African country. Plan lessons at a driving school and check the up-to-date list on rta.ae.
 
 ## Checklist before leaving Algeria
 

@@ -6,7 +6,7 @@ keyword: "moving to dubai from france"
 secondary: ["french expat dubai", "leaving france for dubai", "french exit tax dubai", "france uae tax treaty", "dubai residence visa for french citizens"]
 cluster: pays
 country: "France"
-updated: 2026-11-27
+updated: 2026-11-28
 intro: "To move to Dubai from France, you enter visa-free with your French passport (90 days maximum in any 180), then obtain a residence visa through an employer, your own company, an investment or a relative. On the French side, three tasks matter: having your documents legalised (now through notaries), organising your tax departure (tax domicile, possible exit tax) and deciding on your social protection (CFE, pension)."
 essentials:
   - "French citizens are exempt from a visa: the stamp given on arrival allows a stay of 90 days maximum in any 180-day period."
@@ -23,7 +23,7 @@ faq:
   - q: "Who legalises my French documents for the UAE?"
     a: "Since 1 September 2025, the legalisation of French public documents intended for use abroad is entrusted to notaries (through the regional chambers and councils), and no longer to the ministry's legalisation office. Since the UAE does not apply the apostille, the document then goes through the UAE Embassy in Paris, then through the UAE Ministry of Foreign Affairs."
   - q: "Is my French driving licence valid in Dubai?"
-    a: "Once you are a resident, you can in principle exchange it for a UAE licence without retaking the test: according to the Emirati press, France is among the countries whose licences can be exchanged with the RTA. The official list and the documents required (an eye test in particular) are on the RTA website: check them before going."
+    a: "Once you are a resident, you can in principle exchange it for a UAE licence without retaking the test: according to the RTA (page updated on 24 November 2026), a French licence can be exchanged whatever your nationality, with no translation, after an eye test. The documents required (original licence, Emirates ID) and the fees are on rta.ae: check them before going."
   - q: "Should I join the Caisse des Français de l'étranger (CFE)?"
     a: "It is not compulsory. The CFE lets you keep French-style social security cover and, if you wish, keep contributing to your basic pension. It comes on top of the local health insurance, which is mandatory in Dubai for the residence visa: it does not replace it."
 sources:
@@ -39,6 +39,8 @@ sources:
     url: "https://www.service-public.gouv.fr/particuliers/vosdroits/F32889"
   - label: "Service-Public: health insurance for a French citizen living abroad (CFE)"
     url: "https://www.service-public.gouv.fr/particuliers/vosdroits/F1568"
+  - label: "RTA: exchanging a foreign licence (60 countries, updated 24/11/2026)"
+    url: "https://www.rta.ae/wps/portal/rta/ae/home/rta-services/service-details?serviceId=121"
 related: ["s-installer-a-dubai", "visa-residence-dubai", "impots-dubai", "ecoles-francaises-dubai", "s-installer-a-dubai-depuis-la-belgique"]
 order: 5
 key: "s-installer-a-dubai-depuis-la-france"
@@ -136,7 +138,7 @@ Once settled, register on the register of French citizens living abroad with the
 
 ## Living in Dubai as a French citizen: practical points
 
-- **Driving licence**: according to the Emirati press, France is among the countries whose licence can be exchanged for a UAE licence once you are a resident, without retaking the test. Check the official list on the RTA website and bring your original licence.
+- **Driving licence**: according to the RTA (page updated on 24 November 2026), a French licence can be exchanged for a UAE licence once you are a resident, without retaking the test, whatever your nationality. Bring your original licence and check the conditions on rta.ae.
 - **Flights**: Emirates links Dubai with Paris Charles de Gaulle, Nice and Lyon, and other airlines serve Paris. Expect a direct flight of around 6 to 8 hours depending on direction; check the season's schedules and frequencies with the airlines, which may change with the regional situation.
 - **Community**: the French Consulate General in Dubai, UFE Dubai (Union des Français de l'étranger), the Alliance Française de Dubai and the French Business Council (French chamber of commerce for Dubai and the Northern Emirates) are good entry points for building a network.
 - **Schools**: several institutions follow the French curriculum. See our guide to [French schools in Dubai](/en/french-schools-dubai/).

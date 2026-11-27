@@ -6,7 +6,7 @@ keyword: "trasferirsi a dubai dalla tunisia"
 secondary: ["visto dubai per tunisini", "contratto di lavoro dubai tunisini", "tunisini a dubai", "documenti per dubai dalla tunisia"]
 cluster: pays
 country: "Tunisia"
-updated: 2026-11-27
+updated: 2026-11-28
 intro: "Per trasferirsi a Dubai dalla Tunisia serve un visto ottenuto prima della partenza, poi un visto di residenza tramite un datore di lavoro, una società, la famiglia o un’università. Prima di partire, fai legalizzare diplomi e atti al ministero tunisino degli Affari esteri, poi attestare dall’ambasciata degli Emirati a Tunisi, online con BLS International o VFS Global. I trasferimenti di denaro restano regolati dalla Banca centrale di Tunisia: informati presso la tua banca prima di spostare i tuoi risparmi."
 essentials:
   - "Con un passaporto tunisino non si entra negli Emirati senza visto, e per questa nazionalità non esiste il visto all’arrivo."
@@ -35,8 +35,8 @@ sources:
     url: "https://www.mofa.gov.ae/en/Missions/Tunis/Services/Services-for-Individuals/Attestation-Information"
   - label: "u.ae: visto di visita per cercare lavoro"
     url: "https://u.ae/en/information-and-services/visa-and-emirates-id/Types-of-visas/Visit-visa/jobseeker-visit-visa"
-  - label: "RTA: patenti estere convertibili a Dubai (gennaio 2026)"
-    url: "https://www.rta.ae/wps/portal/rta/ae/home/news-and-media/all-news/NewsDetails/replacing-over-58000-driving-licences-from-57+countries-with-uae-ones"
+  - label: "RTA: conversione di una patente estera (60 paesi, aggiornamento del 24/11/2026)"
+    url: "https://www.rta.ae/wps/portal/rta/ae/home/rta-services/service-details?serviceId=121"
   - label: "Ministero emiratino dell’Istruzione: equipollenza del diploma di fine scuola ottenuto all’estero"
     url: "https://moe.gov.ae/en/eservices/servicecard/pages/certequivalent-out.aspx"
 related: ["s-installer-a-dubai", "visa-residence-dubai", "travailler-a-dubai", "freelance-dubai", "s-installer-a-dubai-depuis-l-algerie"]
@@ -176,7 +176,7 @@ L’università che ti ammette fa da sponsor al tuo visto studente. Prepara:
 
 ## La comunità tunisina negli Emirati
 
-La comunità tunisina è presente a Dubai come ad Abu Dhabi, e il consolato generale sostiene iniziative culturali e sportive: nel 2026 ha organizzato il “Dubai Mallathon” con il Dubai Sports Council. Sul piano pratico, la patente tunisina non si converte direttamente a Dubai (a inizio 2026 la RTA contava un solo paese africano nel suo elenco, il Sudafrica secondo la stampa emiratina): prevedi in genere una scuola guida e verifica l’elenco aggiornato su rta.ae.
+La comunità tunisina è presente a Dubai come ad Abu Dhabi, e il consolato generale sostiene iniziative culturali e sportive: nel 2026 ha organizzato il “Dubai Mallathon” con il Dubai Sports Council. Sul piano pratico, la patente tunisina non si converte direttamente a Dubai (secondo la RTA, pagina aggiornata il 24 novembre 2026, 60 paesi figurano nell’elenco e il Sudafrica è l’unico africano): prevedi in genere una scuola guida e verifica l’elenco aggiornato su rta.ae.
 
 ## Checklist prima di lasciare la Tunisia
 

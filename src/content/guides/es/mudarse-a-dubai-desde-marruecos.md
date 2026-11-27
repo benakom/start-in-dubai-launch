@@ -6,7 +6,7 @@ keyword: "mudarse a dubái desde marruecos"
 secondary: ["visado dubái para marroquíes", "trabajar en dubái siendo marroquí", "contrato de trabajo dubái marroquíes", "vivir en dubái desde marruecos"]
 cluster: pays
 country: "Marruecos"
-updated: 2026-11-27
+updated: 2026-11-28
 intro: "Para mudarte a Dubái desde Marruecos, primero necesitas un visado obtenido antes de viajar: el pasaporte marroquí no da exención de visado ni visado a la llegada. Una vez allí, la residencia se consigue a través de un empleador, una empresa, un permiso de autónomo, un familiar o el Golden Visa. Antes de salir, legaliza tus títulos y actas del registro civil en el Ministerio de Asuntos Exteriores marroquí y después en la embajada de los Emiratos en Rabat, e infórmate en la Oficina de Cambios sobre tus transferencias."
 essentials:
   - "El pasaporte marroquí exige visado antes de viajar: no hay exención ni visado a la llegada, y el pasaporte debe tener al menos seis meses de validez."
@@ -21,7 +21,7 @@ faq:
   - q: "¿Se puede ir a buscar trabajo a Dubái con un visado turístico?"
     a: "El visado turístico sirve para hacer turismo, no para trabajar. Existe un visado de visita para buscar empleo (60, 90 o 120 días, sin patrocinador), reservado a perfiles cualificados: niveles de competencia 1 a 3 del Ministerio de Recursos Humanos (MOHRE) o recién titulados de una de las 500 mejores universidades del mundo, con un grado como mínimo. Solo podrás trabajar cuando el empleador haya obtenido el permiso de trabajo y la residencia."
   - q: "¿Es válido en Dubái mi carnet de conducir marroquí?"
-    a: "En principio, no. En enero de 2026, la RTA de Dubái indicó que solo un país africano figuraba en la lista de carnés canjeables (Sudáfrica, según la prensa emiratí), y Marruecos no está en ella. Un residente con carnet marroquí suele pasar por una autoescuela de Dubái. Comprueba la lista actualizada en rta.ae antes de inscribirte."
+    a: "En principio, no. Según la página de la RTA actualizada el 24 de noviembre de 2026, los carnés de 60 países se canjean directamente en Dubái, y Sudáfrica es el único país africano de la lista: Marruecos no está en ella. Un residente con carnet marroquí suele pasar por una autoescuela de Dubái. En cambio, un carnet expedido en un país de la lista (Francia, Bélgica, España, Italia...) se canjea sea cual sea tu nacionalidad: cuenta el país del carnet. Comprueba la lista actualizada en rta.ae antes de inscribirte."
   - q: "¿Cuánto dinero se puede transferir de Marruecos a Dubái?"
     a: "Las transferencias de los residentes marroquíes al extranjero se rigen por la Instrucción general de operaciones de cambio. La Oficina de Cambios precisa que no se prevé ninguna \"dotación de emigración\". Una vez instalado en el extranjero, como marroquí residente en el exterior puedes abrir en Marruecos una cuenta en divisas o en dírhams convertibles. Pide a tu banco que valide tu caso antes de cualquier transferencia importante."
   - q: "¿Existe un convenio fiscal entre Marruecos y los Emiratos?"
@@ -37,8 +37,8 @@ sources:
     url: "https://www.mofa.gov.ae/en/Missions/Rabat/Services/Services-for-Individuals/Attestation-Information"
   - label: "Oficina de Cambios: preguntas frecuentes"
     url: "https://www.oc.gov.ma/fr/faq"
-  - label: "RTA: carnés extranjeros canjeables en Dubái (enero de 2026)"
-    url: "https://www.rta.ae/wps/portal/rta/ae/home/news-and-media/all-news/NewsDetails/replacing-over-58000-driving-licences-from-57+countries-with-uae-ones"
+  - label: "RTA: canje de un carnet extranjero (60 países, actualización del 24/11/2026)"
+    url: "https://www.rta.ae/wps/portal/rta/ae/home/rta-services/service-details?serviceId=121"
 related: ["s-installer-a-dubai", "visa-residence-dubai", "travailler-a-dubai", "ouvrir-un-compte-bancaire-a-dubai", "s-installer-a-dubai-depuis-la-tunisie"]
 order: 1
 key: "s-installer-a-dubai-depuis-le-maroc"

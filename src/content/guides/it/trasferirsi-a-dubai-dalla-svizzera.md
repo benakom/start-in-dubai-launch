@@ -6,7 +6,7 @@ keyword: "trasferirsi a dubai dalla svizzera"
 secondary: ["visto dubai svizzera", "fiscalità dubai svizzera", "espatrio dubai svizzera", "svizzeri a dubai"]
 cluster: pays
 country: "Svizzera"
-updated: 2026-11-27
+updated: 2026-11-28
 intro: "Per trasferirsi a Dubai dalla Svizzera entri senza visto con il passaporto svizzero (90 giorni su 180, secondo l’accordo bilaterale di esenzione), poi ottieni un visto di residenza tramite un datore di lavoro, la tua società, un investimento o un familiare. Dal lato svizzero l’essenziale si gioca prima della partenza: annuncio al comune, scelta dell’AVS facoltativa (termine di un anno), destino del tuo avere LPP e del terzo pilastro, regolamento fiscale con il tuo cantone e legalizzazione dei documenti."
 essentials:
   - "La Svizzera e gli Emirati hanno concluso nel 2017 un accordo di esenzione dal visto: 90 giorni al massimo su un periodo di 180 giorni, senza visto."
@@ -39,6 +39,8 @@ sources:
     url: "https://www.bsv.admin.ch/fr/le-troisieme-pilier"
   - label: "Rappresentanza svizzera negli Emirati: club e associazioni"
     url: "https://www.schweiz-vereinigtearabischeemirate.eda.admin.ch/en/clubs"
+  - label: "RTA: conversione di una patente estera (60 paesi, aggiornamento del 24/11/2026)"
+    url: "https://www.rta.ae/wps/portal/rta/ae/home/rta-services/service-details?serviceId=121"
 related: ["s-installer-a-dubai", "visa-residence-dubai", "impots-dubai", "creer-sa-societe-a-dubai", "s-installer-a-dubai-depuis-la-france"]
 order: 7
 key: "s-installer-a-dubai-depuis-la-suisse"
@@ -123,7 +125,7 @@ Ogni cantone legalizza solo i propri documenti: un atto emesso in un altro canto
 
 ## Vivere a Dubai da svizzero: punti di riferimento pratici
 
-- **Patente di guida**: secondo la stampa emiratina, la Svizzera figura tra i paesi le cui patenti possono essere convertite in una patente emiratina una volta residente. Verifica l’elenco ufficiale e i documenti richiesti sul sito della RTA prima di spostarti.
+- **Patente di guida**: secondo la RTA (pagina aggiornata il 24 novembre 2026), la patente svizzera può essere convertita in una patente emiratina una volta residente, senza rifare l’esame, qualunque sia la tua nazionalità. Porta la patente originale e verifica le condizioni su rta.ae.
 - **Voli**: Emirates collega Ginevra e Zurigo a Dubai con volo diretto. Verifica le frequenze della stagione presso la compagnia: possono cambiare con la situazione regionale.
 - **Rete**: lo **Swiss Business Council UAE**, associazione senza scopo di lucro fondata nel 1996, lavora con l’ambasciata e il consolato generale. È il punto di contatto indicato dalla rappresentanza svizzera.
 - **Scuole**: le famiglie romande trovano programmi in francese, presentati nella nostra guida alle [scuole francesi a Dubai](/it/scuole-francesi-dubai/).

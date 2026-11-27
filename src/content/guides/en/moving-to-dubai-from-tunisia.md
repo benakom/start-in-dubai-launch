@@ -6,7 +6,7 @@ keyword: "moving to dubai from tunisia"
 secondary: ["dubai visa for tunisians", "dubai work contract tunisians", "tunisian passport uae visa", "attest tunisian documents uae embassy", "study in dubai tunisian student"]
 cluster: pays
 country: "Tunisia"
-updated: 2026-11-27
+updated: 2026-11-28
 intro: "To move to Dubai from Tunisia, you need a visa obtained before departure, then a residence visa through an employer, a company, family or a university. Before you go, have your diplomas and certificates legalised at the Tunisian Ministry of Foreign Affairs, then attested by the UAE Embassy in Tunis, online with BLS International or VFS Global. Money transfers remain governed by the Central Bank of Tunisia: check with your bank before moving your savings."
 essentials:
   - "With a Tunisian passport you cannot enter the UAE visa-free, and there is no visa on arrival for this nationality."
@@ -35,8 +35,8 @@ sources:
     url: "https://www.mofa.gov.ae/en/Missions/Tunis/Services/Services-for-Individuals/Attestation-Information"
   - label: "u.ae: job-seeker visit visa"
     url: "https://u.ae/en/information-and-services/visa-and-emirates-id/Types-of-visas/Visit-visa/jobseeker-visit-visa"
-  - label: "RTA: foreign licences exchangeable in Dubai (January 2026)"
-    url: "https://www.rta.ae/wps/portal/rta/ae/home/news-and-media/all-news/NewsDetails/replacing-over-58000-driving-licences-from-57+countries-with-uae-ones"
+  - label: "RTA: exchanging a foreign licence (60 countries, updated 24/11/2026)"
+    url: "https://www.rta.ae/wps/portal/rta/ae/home/rta-services/service-details?serviceId=121"
   - label: "UAE Ministry of Education: equivalence of a secondary-school diploma obtained abroad"
     url: "https://moe.gov.ae/en/eservices/servicecard/pages/certequivalent-out.aspx"
 related: ["s-installer-a-dubai", "visa-residence-dubai", "travailler-a-dubai", "freelance-dubai", "s-installer-a-dubai-depuis-l-algerie"]
@@ -176,7 +176,7 @@ The university that admits you sponsors your student visa. Prepare:
 
 ## The Tunisian community in the UAE
 
-The Tunisian community is present in Dubai as in Abu Dhabi, and the Consulate General supports cultural and sporting initiatives: in 2026, it organised the "Dubai Mallathon" with the Dubai Sports Council. On the practical side, the Tunisian driving licence cannot be directly exchanged in Dubai (in early 2026, the RTA counted only one African country on its list, South Africa according to the Emirati press): generally plan on a driving school, and check the up-to-date list on rta.ae.
+The Tunisian community is present in Dubai as in Abu Dhabi, and the Consulate General supports cultural and sporting initiatives: in 2026, it organised the "Dubai Mallathon" with the Dubai Sports Council. On the practical side, the Tunisian driving licence cannot be directly exchanged in Dubai (according to the RTA, page updated on 24 November 2026, 60 countries are on the list and South Africa is the only African one): generally plan on a driving school, and check the up-to-date list on rta.ae.
 
 ## Checklist before leaving Tunisia
 

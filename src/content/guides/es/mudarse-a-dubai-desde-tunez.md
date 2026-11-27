@@ -6,7 +6,7 @@ keyword: "mudarse a dubái desde túnez"
 secondary: ["visado dubái para tunecinos", "contrato de trabajo dubái tunecinos", "trabajar en dubái siendo tunecino", "estudiar en dubái siendo tunecino"]
 cluster: pays
 country: "Túnez"
-updated: 2026-11-27
+updated: 2026-11-28
 intro: "Para mudarte a Dubái desde Túnez necesitas un visado obtenido antes de viajar y después un visado de residencia a través de un empleador, una empresa, la familia o una universidad. Antes de salir, legaliza tus títulos y actas en el Ministerio de Asuntos Exteriores tunecino y hazlos atestar por la embajada de los Emiratos en Túnez, en línea con BLS International o VFS Global. Las transferencias de dinero siguen reguladas por el Banco Central de Túnez: infórmate en tu banco antes de mover tus ahorros."
 essentials:
   - "Con un pasaporte tunecino no se entra en los Emiratos sin visado, y no existe visado a la llegada para esta nacionalidad."
@@ -35,8 +35,8 @@ sources:
     url: "https://www.mofa.gov.ae/en/Missions/Tunis/Services/Services-for-Individuals/Attestation-Information"
   - label: "u.ae: visado de visita para buscar empleo"
     url: "https://u.ae/en/information-and-services/visa-and-emirates-id/Types-of-visas/Visit-visa/jobseeker-visit-visa"
-  - label: "RTA: carnés extranjeros canjeables en Dubái (enero de 2026)"
-    url: "https://www.rta.ae/wps/portal/rta/ae/home/news-and-media/all-news/NewsDetails/replacing-over-58000-driving-licences-from-57+countries-with-uae-ones"
+  - label: "RTA: canje de un carnet extranjero (60 países, actualización del 24/11/2026)"
+    url: "https://www.rta.ae/wps/portal/rta/ae/home/rta-services/service-details?serviceId=121"
   - label: "Ministerio de Educación de los Emiratos: equivalencia del diploma de fin de estudios obtenido en el extranjero"
     url: "https://moe.gov.ae/en/eservices/servicecard/pages/certequivalent-out.aspx"
 related: ["s-installer-a-dubai", "visa-residence-dubai", "travailler-a-dubai", "freelance-dubai", "s-installer-a-dubai-depuis-l-algerie"]
@@ -176,7 +176,7 @@ La universidad que te admite patrocina tu visado de estudiante. Prepara:
 
 ## La comunidad tunecina en los Emiratos
 
-La comunidad tunecina está presente tanto en Dubái como en Abu Dabi, y el consulado general apoya iniciativas culturales y deportivas: en 2026 organizó el "Dubai Mallathon" con el Dubai Sports Council. En lo práctico, el carnet de conducir tunecino no se canjea directamente en Dubái (a principios de 2026, la RTA solo contaba con un país africano en su lista, Sudáfrica según la prensa emiratí): prevé en general una autoescuela y comprueba la lista actualizada en rta.ae.
+La comunidad tunecina está presente tanto en Dubái como en Abu Dabi, y el consulado general apoya iniciativas culturales y deportivas: en 2026 organizó el "Dubai Mallathon" con el Dubai Sports Council. En lo práctico, el carnet de conducir tunecino no se canjea directamente en Dubái (según la RTA, página actualizada el 24 de noviembre de 2026, hay 60 países en la lista y Sudáfrica es el único africano): prevé en general una autoescuela y comprueba la lista actualizada en rta.ae.
 
 ## Lista de comprobación antes de salir de Túnez
 

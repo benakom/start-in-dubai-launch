@@ -6,7 +6,7 @@ keyword: "moving to dubai from morocco"
 secondary: ["dubai visa for moroccans", "working in dubai as a moroccan", "dubai work contract moroccans", "moroccan passport dubai visa", "legalise documents morocco uae"]
 cluster: pays
 country: "Morocco"
-updated: 2026-11-27
+updated: 2026-11-28
 intro: "To move to Dubai from Morocco, you first need a visa obtained before you leave: a Moroccan passport gives neither visa-free entry nor a visa on arrival. Once there, residence comes through an employer, a company, a freelance permit, a family member or the Golden Visa. Before you go, have your diplomas and civil-status documents legalised by the Moroccan Ministry of Foreign Affairs and then attested for the UAE Embassy in Rabat, and check the Office des Changes rules for your transfers."
 essentials:
   - "A Moroccan passport needs a visa before departure: there is no visa-free entry and no visa on arrival."
@@ -20,7 +20,7 @@ faq:
   - q: "Can you look for a job in Dubai on a tourist visa?"
     a: "A tourist visa is for tourism, not for work. There is a job-seeker visit visa (60, 90 or 120 days, no sponsor needed) reserved for qualified profiles: skill levels 1 to 3 of the Ministry of Human Resources and Emiratisation (MOHRE), or recent graduates of a top 500 world university, with at least a bachelor's degree. You can only work once your employer has obtained the work permit and residence."
   - q: "Is a Moroccan driving licence valid in Dubai?"
-    a: "In principle, no. In January 2026, Dubai's RTA stated that only one African country was on the list of exchangeable licences (South Africa, according to the Emirati press), and Morocco is not on it. A resident holding a Moroccan licence therefore usually goes through a driving school in Dubai. Check the up-to-date list on rta.ae before enrolling."
+    a: "In principle, no. According to the RTA page updated on 24 November 2026, licences from 60 countries can be exchanged directly in Dubai, and South Africa is the only African country on the list: Morocco is not on it. A resident holding a Moroccan licence therefore usually goes through a driving school in Dubai. By contrast, a licence issued in a listed country (France, Belgium, Spain, Italy...) can be exchanged whatever your nationality: it is the country of the licence that counts. Check the up-to-date list on rta.ae before enrolling."
   - q: "How much money can you transfer from Morocco to Dubai?"
     a: "Transfers by Moroccan residents abroad are governed by the General Instruction on Foreign Exchange Operations. The Office des Changes states that it provides for no \"emigration allowance\". Once you live abroad, as a Moroccan resident abroad you can open a foreign-currency or convertible-dirham account in Morocco. Have your bank validate your case before any large transfer."
   - q: "Is there a tax treaty between Morocco and the UAE?"
@@ -36,8 +36,8 @@ sources:
     url: "https://www.mofa.gov.ae/en/Missions/Rabat/Services/Services-for-Individuals/Attestation-Information"
   - label: "Office des Changes: frequently asked questions"
     url: "https://www.oc.gov.ma/fr/faq"
-  - label: "RTA: foreign licences exchangeable in Dubai (January 2026)"
-    url: "https://www.rta.ae/wps/portal/rta/ae/home/news-and-media/all-news/NewsDetails/replacing-over-58000-driving-licences-from-57+countries-with-uae-ones"
+  - label: "RTA: exchanging a foreign licence (60 countries, updated 24/11/2026)"
+    url: "https://www.rta.ae/wps/portal/rta/ae/home/rta-services/service-details?serviceId=121"
 related: ["s-installer-a-dubai", "visa-residence-dubai", "travailler-a-dubai", "ouvrir-un-compte-bancaire-a-dubai", "s-installer-a-dubai-depuis-la-tunisie"]
 order: 1
 key: "s-installer-a-dubai-depuis-le-maroc"

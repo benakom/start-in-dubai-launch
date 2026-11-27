@@ -6,7 +6,7 @@ keyword: "emigreren naar dubai vanuit tunesie"
 secondary: ["visum dubai voor tunesiërs", "arbeidscontract dubai tunesiërs", "werken in dubai als tunesiër", "verhuizen naar dubai vanuit tunesie"]
 cluster: pays
 country: "Tunesië"
-updated: 2026-11-27
+updated: 2026-11-28
 intro: "Wie vanuit Tunesië naar Dubai wil verhuizen, heeft een visum nodig dat vóór vertrek is aangevraagd, en daarna een verblijfsvisum via een werkgever, een bedrijf, het gezin of een universiteit. Laat uw diploma's en aktes vóór vertrek legaliseren bij het Tunesische ministerie van Buitenlandse Zaken en daarna attesteren door de ambassade van de Emiraten in Tunis, online via BLS International of VFS Global. Geldoverschrijvingen blijven geregeld door de Banque centrale de Tunisie: informeer bij uw bank voordat u uw spaargeld verplaatst."
 essentials:
   - "Met een Tunesisch paspoort reist u de Emiraten niet visumvrij binnen en er bestaat voor deze nationaliteit geen visum bij aankomst."
@@ -35,8 +35,8 @@ sources:
     url: "https://www.mofa.gov.ae/en/Missions/Tunis/Services/Services-for-Individuals/Attestation-Information"
   - label: "u.ae: bezoekersvisum om werk te zoeken"
     url: "https://u.ae/en/information-and-services/visa-and-emirates-id/Types-of-visas/Visit-visa/jobseeker-visit-visa"
-  - label: "RTA: buitenlandse rijbewijzen die in Dubai inwisselbaar zijn (januari 2026)"
-    url: "https://www.rta.ae/wps/portal/rta/ae/home/news-and-media/all-news/NewsDetails/replacing-over-58000-driving-licences-from-57+countries-with-uae-ones"
+  - label: "RTA: een buitenlands rijbewijs inwisselen (60 landen, bijgewerkt op 24/11/2026)"
+    url: "https://www.rta.ae/wps/portal/rta/ae/home/rta-services/service-details?serviceId=121"
   - label: "Emiraatse ministerie van Onderwijs: gelijkwaardigheid van een in het buitenland behaald diploma secundair onderwijs"
     url: "https://moe.gov.ae/en/eservices/servicecard/pages/certequivalent-out.aspx"
 related: ["s-installer-a-dubai", "visa-residence-dubai", "travailler-a-dubai", "freelance-dubai", "s-installer-a-dubai-depuis-l-algerie"]
@@ -176,7 +176,7 @@ De universiteit die u toelaat, sponsort uw studentenvisum. Bereid voor:
 
 ## De Tunesische gemeenschap in de Emiraten
 
-De Tunesische gemeenschap is aanwezig in Dubai en in Abu Dhabi, en het consulaat-generaal steunt culturele en sportieve initiatieven: in 2026 organiseerde het de "Dubai Mallathon" samen met de Dubai Sports Council. Praktisch: het Tunesische rijbewijs wordt in Dubai niet rechtstreeks ingewisseld (begin 2026 telde de RTA slechts één Afrikaans land op zijn lijst, Zuid-Afrika volgens de Emiraatse pers): reken meestal op een rijschool en controleer de actuele lijst op rta.ae.
+De Tunesische gemeenschap is aanwezig in Dubai en in Abu Dhabi, en het consulaat-generaal steunt culturele en sportieve initiatieven: in 2026 organiseerde het de "Dubai Mallathon" samen met de Dubai Sports Council. Praktisch: het Tunesische rijbewijs wordt in Dubai niet rechtstreeks ingewisseld (volgens de RTA, pagina bijgewerkt op 24 november 2026, staan er 60 landen op de lijst en is Zuid-Afrika het enige Afrikaanse): reken meestal op een rijschool en controleer de actuele lijst op rta.ae.
 
 ## Checklist voordat u Tunesië verlaat
 

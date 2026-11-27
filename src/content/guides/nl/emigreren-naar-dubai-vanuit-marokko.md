@@ -6,7 +6,7 @@ keyword: "emigreren naar dubai vanuit marokko"
 secondary: ["visum dubai voor marokkanen", "werken in dubai als marokkaan", "arbeidscontract dubai marokkanen", "verhuizen naar dubai vanuit marokko"]
 cluster: pays
 country: "Marokko"
-updated: 2026-11-27
+updated: 2026-11-28
 intro: "Wie vanuit Marokko naar Dubai wil verhuizen, heeft eerst een visum nodig dat vóór vertrek is aangevraagd: met een Marokkaans paspoort kunt u niet visumvrij reizen en krijgt u ook geen visum bij aankomst. Ter plaatse loopt de verblijfsvergunning via een werkgever, een eigen bedrijf, een freelancestatus, een gezinslid of het Golden Visa. Laat uw diploma's en aktes van de burgerlijke stand vóór vertrek legaliseren bij het Marokkaanse ministerie van Buitenlandse Zaken en daarna bij de ambassade van de Emiraten in Rabat, en informeer bij de Office des Changes naar uw geldoverschrijvingen."
 essentials:
   - "Een Marokkaans paspoort geeft geen visumvrije toegang en geen visum bij aankomst: het visum moet vóór vertrek zijn aangevraagd."
@@ -21,7 +21,7 @@ faq:
   - q: "Kan ik met een toeristenvisum in Dubai werk zoeken?"
     a: "Een toeristenvisum is bedoeld voor toerisme, niet om te werken. Er bestaat wel een bezoekersvisum om werk te zoeken (60, 90 of 120 dagen, zonder sponsor), voorbehouden aan gekwalificeerde profielen: vaardigheidsniveau 1 tot 3 van het ministerie van Human Resources (MOHRE) of recent afgestudeerden van een van de 500 beste universiteiten ter wereld, met minstens een bachelordiploma. U mag pas werken zodra de werkgever de werkvergunning en de verblijfsvergunning heeft geregeld."
   - q: "Is mijn Marokkaanse rijbewijs geldig in Dubai?"
-    a: "In principe niet. In januari 2026 meldde de RTA van Dubai dat er slechts één Afrikaans land op de lijst met inwisselbare rijbewijzen stond (Zuid-Afrika, volgens de Emiraatse pers), en Marokko hoort daar niet bij. Een inwoner met een Marokkaans rijbewijs volgt daarom meestal rijlessen bij een rijschool in Dubai. Controleer de actuele lijst op rta.ae voordat u zich inschrijft."
+    a: "In principe niet. Volgens de RTA-pagina die op 24 november 2026 is bijgewerkt, kunnen rijbewijzen uit 60 landen rechtstreeks in Dubai worden ingewisseld, en Zuid-Afrika is het enige Afrikaanse land op de lijst: Marokko hoort daar niet bij. Een inwoner met een Marokkaans rijbewijs volgt daarom meestal rijlessen bij een rijschool in Dubai. Een rijbewijs uit een land op de lijst (Frankrijk, België, Spanje, Italië...) kan daarentegen worden ingewisseld ongeacht uw nationaliteit: het land van het rijbewijs telt. Controleer de actuele lijst op rta.ae voordat u zich inschrijft."
   - q: "Hoeveel geld mag ik van Marokko naar Dubai overmaken?"
     a: "Overschrijvingen van inwoners van Marokko naar het buitenland worden geregeld door de Instruction générale des opérations de change. De Office des Changes laat weten dat daarin geen speciale emigratietoelage is opgenomen. Zodra u in het buitenland woont, kunt u als Marokkaan die in het buitenland verblijft (MRE) in Marokko een rekening in vreemde valuta of in converteerbare dirham openen. Laat uw situatie door uw bank bevestigen vóór een grote overschrijving."
   - q: "Is er een belastingverdrag tussen Marokko en de Emiraten?"
@@ -37,8 +37,8 @@ sources:
     url: "https://www.mofa.gov.ae/en/Missions/Rabat/Services/Services-for-Individuals/Attestation-Information"
   - label: "Office des Changes: veelgestelde vragen"
     url: "https://www.oc.gov.ma/fr/faq"
-  - label: "RTA: buitenlandse rijbewijzen die in Dubai inwisselbaar zijn (januari 2026)"
-    url: "https://www.rta.ae/wps/portal/rta/ae/home/news-and-media/all-news/NewsDetails/replacing-over-58000-driving-licences-from-57+countries-with-uae-ones"
+  - label: "RTA: een buitenlands rijbewijs inwisselen (60 landen, bijgewerkt op 24/11/2026)"
+    url: "https://www.rta.ae/wps/portal/rta/ae/home/rta-services/service-details?serviceId=121"
 related: ["s-installer-a-dubai", "visa-residence-dubai", "travailler-a-dubai", "ouvrir-un-compte-bancaire-a-dubai", "s-installer-a-dubai-depuis-la-tunisie"]
 order: 1
 key: "s-installer-a-dubai-depuis-le-maroc"
