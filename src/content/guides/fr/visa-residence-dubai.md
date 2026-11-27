@@ -163,4 +163,4 @@ Si votre visa a été annulé de cette façon, une procédure permet de demander
 - **Rester plus de 180 jours dehors** avec un visa classique, sans vérifier si une exception s'applique.
 - **Confondre résidence et résidence fiscale** : avoir un visa ne suffit pas à ne plus être imposé dans votre pays. Lisez notre guide sur les [impôts à Dubaï](/impots-dubai/).
 
-START IN DUBAI vous accompagne de A à Z (société, compte bancaire, visas, logement, écoles), avec un seul interlocuteur, en français et en darija.
+START IN DUBAI vous accompagne de A à Z (société, compte bancaire, visas, logement, écoles), avec un seul interlocuteur, dans votre langue (arabe, français, anglais, espagnol, néerlandais, italien).

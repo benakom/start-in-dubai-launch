@@ -178,4 +178,4 @@ Un refus n'est pas définitif : une autre banque peut accepter un dossier mieux 
 6. Une fois le compte ouvert, **mettez à jour votre Emirates ID** à chaque renouvellement.
 7. En cas de litige, faites d'abord une réclamation à la banque. Si elle n'aboutit pas, Sanadak, le médiateur indépendant créé par la Banque centrale, traite gratuitement les réclamations contre les banques et assurances agréées.
 
-Ouvrir un compte va de pair avec la fiscalité de votre installation : lisez aussi notre guide sur les [impôts à Dubaï](/impots-dubai/) et notre guide complet pour [s'installer à Dubaï](/s-installer-a-dubai/). START IN DUBAI vous accompagne de A à Z (société, compte bancaire, visas, logement, écoles), avec un seul interlocuteur, en français et en darija.
+Ouvrir un compte va de pair avec la fiscalité de votre installation : lisez aussi notre guide sur les [impôts à Dubaï](/impots-dubai/) et notre guide complet pour [s'installer à Dubaï](/s-installer-a-dubai/). START IN DUBAI vous accompagne de A à Z (société, compte bancaire, visas, logement, écoles), avec un seul interlocuteur, dans votre langue (arabe, français, anglais, espagnol, néerlandais, italien).

@@ -157,4 +157,4 @@ Au-delà du budget mensuel, l’installation elle-même coûte cher. Prévoyez u
 6. l’inscription scolaire des enfants ;
 7. trois à six mois de dépenses courantes d’avance, pour faire face à un imprévu.
 
-Pour toutes les autres étapes de l’installation, suivez notre guide pour [s’installer à Dubaï](/s-installer-a-dubai/). START IN DUBAI peut ensuite tout coordonner avec vous, en français et en darija : [Demandez un premier échange gratuit](/#inscription).
+Pour toutes les autres étapes de l’installation, suivez notre guide pour [s’installer à Dubaï](/s-installer-a-dubai/). START IN DUBAI peut ensuite tout coordonner avec vous, dans votre langue (arabe, français, anglais, espagnol, néerlandais, italien) : [Demandez un premier échange gratuit](/#inscription).

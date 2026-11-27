@@ -156,4 +156,4 @@ Ce réseau aide beaucoup les premiers mois, mais gardez un œil critique sur les
 6. Ai-je vérifié ce que mon pays d’origine continue à me demander (impôts, protection sociale, retraite) ?
 7. Ai-je passé quelques jours sur place, idéalement en été, pour voir si ce rythme me convient ?
 
-Si vous répondez oui à la plupart de ces questions, votre projet est mûr. START IN DUBAI vous accompagne ensuite de A à Z, avec un seul interlocuteur, en français et en darija. [Demandez un premier échange gratuit](/#inscription).
+Si vous répondez oui à la plupart de ces questions, votre projet est mûr. START IN DUBAI vous accompagne ensuite de A à Z, avec un seul interlocuteur, dans votre langue (arabe, français, anglais, espagnol, néerlandais, italien). [Demandez un premier échange gratuit](/#inscription).
