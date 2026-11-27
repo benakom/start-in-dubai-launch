@@ -29,24 +29,11 @@
   tick();
   setTimeout(() => { tick(); setInterval(tick, 1000); }, 1000 - (Date.now() % 1000));
 
-  /* ---------------------------------------------------------------- accroche + images */
-  const ROT = [
-    { html: "Vous êtes <b>investisseur</b> ?", tag: "Investisseur" },
-    { html: "Vous êtes <b>entrepreneur</b> ?", tag: "Entrepreneur" },
-    { html: "Une <b>famille</b> qui veut s'installer ?", tag: "Famille" },
-  ];
-  const rotEl = $("[data-rot]"), tagEl = $("[data-tag]"), slides = $$(".slide");
-  let rot = 0;
-  setInterval(() => {
-    if (document.hidden) return;
-    rot = (rot + 1) % ROT.length;
-    slides.forEach((im, i) => im.classList.toggle("is-on", i === rot));
-    rotEl.classList.add("out"); tagEl.style.opacity = 0;
-    setTimeout(() => {
-      rotEl.innerHTML = ROT[rot].html; tagEl.textContent = ROT[rot].tag; tagEl.style.opacity = 1;
-      rotEl.classList.remove("out"); rotEl.classList.add("in"); void rotEl.offsetWidth; rotEl.classList.remove("in");
-    }, reduce ? 0 : 450);
-  }, 3800);
+  /* ---------------------------------------------------------------- bouton fixe (mobile) : visible une fois le bouton du haut dépassé */
+  const sticky = $("[data-sticky]"), heroCta = $(".hero .btn");
+  if (sticky && heroCta && "IntersectionObserver" in window) {
+    new IntersectionObserver(([e]) => sticky.classList.toggle("is-on", !e.isIntersecting && e.boundingClientRect.top < 0), { threshold: 0 }).observe(heroCta);
+  }
 
   /* ---------------------------------------------------------------- questions */
   const COUNTRIES = ["Maroc", "France", "Belgique", "Suisse", "Canada", "Tunisie", "Algérie", "Sénégal",
@@ -120,7 +107,7 @@
         const lab = el("label", "consent");
         const cb = el("input"); cb.type = "checkbox"; cb.name = "consent";
         cb.addEventListener("change", () => { data.consent = cb.checked; hideErr(); });
-        lab.append(cb, el("span", "", "J'accepte d'être recontacté(e) par START IN DUBAI au sujet de mon projet, par WhatsApp, téléphone ou e-mail."));
+        lab.append(cb, el("span", "", "J'accepte d'être recontacté(e) par START IN DUBAI et son partenaire Cevitas Real Estate au sujet de mon projet, par WhatsApp, téléphone ou e-mail."));
         inner.append(lab);
         honeypot = el("input"); honeypot.type = "text"; honeypot.name = "website"; honeypot.tabIndex = -1; honeypot.autocomplete = "off";
         honeypot.setAttribute("aria-hidden", "true"); honeypot.style.cssText = "position:absolute;left:-9999px;width:1px;height:1px;opacity:0";
@@ -162,11 +149,11 @@
     const inner = el("div", "step-in"); sec.append(inner);
     inner.innerHTML = `
       <h2 class="q">Merci<span data-thanks-name></span>. <em>Vous êtes sur la liste.</em></h2>
-      <p class="q-help">Nous vous écrirons sur WhatsApp avant l'ouverture du 15 décembre, pour vous présenter l'accompagnement et répondre à vos questions.</p>
+      <p class="q-help">Vous serez rappelé(e) en priorité. Nous vous écrirons sur WhatsApp avant l'ouverture du 15 décembre, pour vous présenter l'accompagnement et répondre à vos questions.</p>
       <div class="countdown" data-cd aria-hidden="true">
-        <div class="cd-cell"><span class="cd-num" data-u="d">00</span><span class="cd-unit">jours</span></div><span class="cd-sep"></span>
-        <div class="cd-cell"><span class="cd-num" data-u="h">00</span><span class="cd-unit">heures</span></div><span class="cd-sep"></span>
-        <div class="cd-cell"><span class="cd-num" data-u="m">00</span><span class="cd-unit">minutes</span></div><span class="cd-sep"></span>
+        <div class="cd-cell"><span class="cd-num" data-u="d">00</span><span class="cd-unit">jours</span></div>
+        <div class="cd-cell"><span class="cd-num" data-u="h">00</span><span class="cd-unit">heures</span></div>
+        <div class="cd-cell"><span class="cd-num" data-u="m">00</span><span class="cd-unit">minutes</span></div>
         <div class="cd-cell"><span class="cd-num" data-u="s">00</span><span class="cd-unit">secondes</span></div>
       </div>
       <div class="actions">
@@ -258,9 +245,48 @@
   }
 
   /* ---------------------------------------------------------------- envoi */
-  async function send(payload) {
+  // Ligne de la table « leads » de Cevitas : Cevitas la pousse ensuite dans Oleadoo (canal = source, tag en tête des notes).
+  function crmRow(p) {
+    const crm = C.crm || {};
+    const tag = crm.tag || "Start in Dubai";
+    const notes = [
+      `Tag : ${tag}`,
+      "Avant-première (ouverture le 15/12/2026)",
+      p.country ? `Pays : ${p.country}` : null,
+      p.horizon ? `Horizon : ${p.horizon}` : null,
+      p.message ? `Message : ${p.message}` : null,
+    ].filter(Boolean).join(" · ");
+    return {
+      name: p.firstName, email: p.email, phone: p.phone,
+      interest: [tag, p.profileLabel, p.needsLabels.join(", ")].filter(Boolean).join(" · ").slice(0, 500),
+      notes: notes.slice(0, 2000),
+      source: crm.source || "start-in-dubai",
+      language: "fr",
+      country: p.country || null,
+      utm_source: p.utm.utm_source || null, utm_medium: p.utm.utm_medium || null, utm_campaign: p.utm.utm_campaign || null,
+      referrer: p.referrer || null, landing_page: p.page, page_path: location.pathname,
+      device: matchMedia("(max-width: 768px)").matches ? "mobile" : "desktop",
+      user_agent: navigator.userAgent.slice(0, 500),
+    };
+  }
+
+  async function sendCrm(payload) {
+    const crm = C.crm || {};
+    if (!crm.supabaseUrl || !crm.publishableKey) { console.warn("[START IN DUBAI] crm non configuré dans config.js : inscription non enregistrée.", payload); return false; }
+    const base = crm.supabaseUrl.replace(/\/$/, "");
+    const auth = { apikey: crm.publishableKey, Authorization: "Bearer " + crm.publishableKey, "Content-Type": "application/json" };
+    const row = crmRow(payload);
+    const r = await fetch(base + "/rest/v1/leads", { method: "POST", headers: { ...auth, Prefer: "return=minimal" }, body: JSON.stringify(row), keepalive: true });
+    if (!r.ok) throw new Error("CRM HTTP " + r.status + " " + (await r.text().catch(() => "")));
+    if (crm.notifyEmail) { // e-mail à l'équipe : ne bloque jamais l'inscription
+      fetch(base + "/functions/v1/send-lead-email", { method: "POST", headers: auth, body: JSON.stringify(row), keepalive: true }).catch(() => {});
+    }
+    return true;
+  }
+
+  async function sendWebhook(payload) {
     const url = (C.leadWebhookUrl || "").trim();
-    if (!url) { console.warn("[START IN DUBAI] leadWebhookUrl est vide dans config.js : cette inscription n'est envoyée nulle part.", payload); return; }
+    if (!url) return;
     const body = JSON.stringify(payload);
     let r;
     try {
@@ -273,6 +299,16 @@
     if (!r.ok) throw new Error("HTTP " + r.status);
   }
 
+  async function send(payload) {
+    const [crm, hook] = await Promise.allSettled([sendCrm(payload), sendWebhook(payload)]);
+    if (crm.status === "rejected") console.error("[START IN DUBAI] CRM :", crm.reason);
+    if (hook.status === "rejected") console.error("[START IN DUBAI] webhook :", hook.reason);
+    // l'inscription est perdue seulement si aucun des deux envois n'a réussi
+    const crmOk = crm.status === "fulfilled" && crm.value === true;
+    const hookOk = hook.status === "fulfilled" && (C.leadWebhookUrl || "").trim();
+    if (!crmOk && !hookOk) throw new Error("aucun envoi");
+  }
+
   async function submit() {
     if (!validate()) return;
     const ok = $(".ok", els[idx]);
@@ -283,7 +319,7 @@
       profile: data.profile, profileLabel: LABEL["profile:" + data.profile],
       needs: data.needs, needsLabels: data.needs.map((n) => LABEL["needs:" + n]),
       country: data.country, horizon: data.horizon, message: data.message.trim(), consent: true,
-      source: "countdown-lancement", page: location.href.split("#")[0], referrer: document.referrer || "",
+      source: (C.crm && C.crm.source) || "start-in-dubai", tag: (C.crm && C.crm.tag) || "Start in Dubai", page: location.href.split("#")[0], referrer: document.referrer || "",
       utm: Object.fromEntries([...q.entries()].filter(([k]) => k.startsWith("utm_"))),
       language: navigator.language || "", launchDate: LAUNCH_ISO, submittedAt: new Date().toISOString(),
     };
@@ -307,7 +343,11 @@
     markDone();
   }
   function markDone() {
-    $$("[data-open-form]").forEach((b) => { b.classList.add("is-done"); $(".btn-txt", b).textContent = "Vous êtes sur la liste ✓"; });
+    $$("[data-open-form]").forEach((b) => {
+      b.classList.add("is-done");
+      const t = $(".btn-txt", b);
+      if (t) t.textContent = b.classList.contains("topbar-btn") ? "Inscrit ✓" : "Vous êtes sur la liste ✓";
+    });
   }
 
   async function share() {
@@ -323,6 +363,13 @@
     opener = e && e.currentTarget;
     if (!built) build();
     tf.hidden = false; document.body.style.overflow = "hidden";
+    // carte « Vous êtes… » : le profil est déjà choisi, on commence à la question suivante
+    const preset = opener && opener.dataset && opener.dataset.profile;
+    if (preset && !done) {
+      data.profile = preset;
+      $$(".choice", els[0]).forEach((x) => x.setAttribute("aria-checked", String(x.dataset.v === preset)));
+      if (idx === 0) idx = 1;
+    }
     show(done ? STEPS.length : idx, true);
   }
   function close() {
