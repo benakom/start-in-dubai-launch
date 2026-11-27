@@ -24,7 +24,7 @@ type UI = {
 
 export const UI: Record<Lang, UI> = {
   fr: {
-    home: "Accueil", guides: "Guides", signup: "Je m'inscris", updated: "Mis à jour le", by: "par", read: "min de lecture",
+    home: "Accueil", guides: "Guides", signup: "Être rappelé", updated: "Mis à jour le", by: "par", read: "min de lecture",
     toc: "Au sommaire", essentials: "L'essentiel en 30 secondes", faq: "Vos questions, nos réponses", faqEyebrow: "Questions fréquentes",
     sources: "Sources officielles", related: "Continuez votre projet", relatedEyebrow: "À lire aussi", author: "L'auteur",
     heroCta: "Je veux être accompagné", heroNote: "Gratuit · 1 minute · Sans engagement", heroBadge: "Guide vérifié sur les sources officielles",
@@ -43,7 +43,7 @@ export const UI: Record<Lang, UI> = {
     stats: [["0 %", "d'impôt sur le revenu des personnes"], ["100 %", "de votre société possible en zone franche"], ["6", "langues parlées par l'équipe"], ["1", "seul interlocuteur de A à Z"]],
   },
   en: {
-    home: "Home", guides: "Guides", signup: "Sign up", updated: "Updated", by: "by", read: "min read",
+    home: "Home", guides: "Guides", signup: "Get a call back", updated: "Updated", by: "by", read: "min read",
     toc: "In this guide", essentials: "The essentials in 30 seconds", faq: "Your questions, answered", faqEyebrow: "FAQ",
     sources: "Official sources", related: "Keep building your plan", relatedEyebrow: "Read next", author: "About the author",
     heroCta: "I want expert help", heroNote: "Free · 1 minute · No commitment", heroBadge: "Checked against official sources",
@@ -62,7 +62,7 @@ export const UI: Record<Lang, UI> = {
     stats: [["0%", "personal income tax"], ["100%", "foreign ownership in free zones"], ["6", "languages spoken by the team"], ["1", "single contact from A to Z"]],
   },
   ar: {
-    home: "الرئيسية", guides: "الأدلة", signup: "سجّل الآن", updated: "آخر تحديث", by: "بقلم", read: "دقائق قراءة",
+    home: "الرئيسية", guides: "الأدلة", signup: "اطلبوا اتصالًا", updated: "آخر تحديث", by: "بقلم", read: "دقائق قراءة",
     toc: "محتويات الدليل", essentials: "الأهم في 30 ثانية", faq: "أسئلتكم وأجوبتنا", faqEyebrow: "أسئلة شائعة",
     sources: "المصادر الرسمية", related: "تابعوا مشروعكم", relatedEyebrow: "اقرأ أيضًا", author: "عن الكاتب",
     heroCta: "أريد مرافقة متخصصة", heroNote: "مجاني · دقيقة واحدة · دون أي التزام", heroBadge: "دليل تم التحقق منه من المصادر الرسمية",
@@ -81,7 +81,7 @@ export const UI: Record<Lang, UI> = {
     stats: [["0%", "ضريبة على دخل الأفراد"], ["100%", "تملك كامل لشركتكم في المناطق الحرة"], ["6", "لغات يتحدثها الفريق"], ["1", "جهة تواصل واحدة من الألف إلى الياء"]],
   },
   es: {
-    home: "Inicio", guides: "Guías", signup: "Me apunto", updated: "Actualizado el", by: "por", read: "min de lectura",
+    home: "Inicio", guides: "Guías", signup: "Que me llamen", updated: "Actualizado el", by: "por", read: "min de lectura",
     toc: "En esta guía", essentials: "Lo esencial en 30 segundos", faq: "Tus preguntas, nuestras respuestas", faqEyebrow: "Preguntas frecuentes",
     sources: "Fuentes oficiales", related: "Sigue con tu proyecto", relatedEyebrow: "Lee también", author: "El autor",
     heroCta: "Quiero que me acompañen", heroNote: "Gratis · 1 minuto · Sin compromiso", heroBadge: "Guía verificada con fuentes oficiales",
@@ -100,7 +100,7 @@ export const UI: Record<Lang, UI> = {
     stats: [["0 %", "de impuesto sobre la renta personal"], ["100 %", "de tu empresa en zona franca"], ["6", "idiomas en el equipo"], ["1", "solo interlocutor de la A a la Z"]],
   },
   nl: {
-    home: "Home", guides: "Gidsen", signup: "Inschrijven", updated: "Bijgewerkt op", by: "door", read: "min lezen",
+    home: "Home", guides: "Gidsen", signup: "Bel mij terug", updated: "Bijgewerkt op", by: "door", read: "min lezen",
     toc: "In deze gids", essentials: "Het belangrijkste in 30 seconden", faq: "Uw vragen, onze antwoorden", faqEyebrow: "Veelgestelde vragen",
     sources: "Officiële bronnen", related: "Werk verder aan uw plan", relatedEyebrow: "Lees ook", author: "Over de auteur",
     heroCta: "Ik wil begeleiding", heroNote: "Gratis · 1 minuut · Vrijblijvend", heroBadge: "Gecontroleerd met officiële bronnen",
@@ -119,7 +119,7 @@ export const UI: Record<Lang, UI> = {
     stats: [["0%", "inkomstenbelasting voor particulieren"], ["100%", "eigendom van uw bedrijf in vrije zones"], ["6", "talen in het team"], ["1", "aanspreekpunt van A tot Z"]],
   },
   it: {
-    home: "Home", guides: "Guide", signup: "Mi iscrivo", updated: "Aggiornato il", by: "di", read: "min di lettura",
+    home: "Home", guides: "Guide", signup: "Richiamami", updated: "Aggiornato il", by: "di", read: "min di lettura",
     toc: "In questa guida", essentials: "L'essenziale in 30 secondi", faq: "Le tue domande, le nostre risposte", faqEyebrow: "Domande frequenti",
     sources: "Fonti ufficiali", related: "Vai avanti con il tuo progetto", relatedEyebrow: "Leggi anche", author: "L'autore",
     heroCta: "Voglio essere accompagnato", heroNote: "Gratis · 1 minuto · Senza impegno", heroBadge: "Guida verificata sulle fonti ufficiali",
