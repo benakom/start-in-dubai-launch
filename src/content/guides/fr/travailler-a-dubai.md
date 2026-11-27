@@ -3,7 +3,7 @@ title: "Travailler à Dubaï : emploi, visa de travail et salaires"
 description: "Travailler à Dubaï : trouver un emploi, secteurs qui recrutent les francophones, permis de travail MOHRE, contrat, salaires sans impôt et arnaques à éviter."
 h1: "Travailler à Dubaï : trouver un emploi et obtenir son visa de travail"
 keyword: "travailler à dubai"
-secondary: ["emploi à dubaï", "travail dubai", "emploi sur dubai", "salaire dubai"]
+secondary: ["emploi à dubaï", "travail dubai", "emploi sur dubai"]
 cluster: travail
 updated: 2026-11-27
 intro: "Pour travailler à Dubaï, il faut un employeur installé aux Émirats qui demande pour vous un permis de travail (auprès du MOHRE ou de l’autorité de sa zone franche), puis votre visa de résidence. Les frais de recrutement et de visa sont à sa charge : une offre qui vous demande de payer est un signal d’alarme. Les salaires ne sont pas soumis à l’impôt sur le revenu, mais il n’existe pas de salaire minimum général pour les expatriés."

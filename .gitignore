@@ -2,3 +2,6 @@ node_modules/
 dist/
 .astro/
 .DS_Store
+
+# Étude SEO (stratégie, concurrents) : gardée en local, le dépôt est public
+docs/seo-study/

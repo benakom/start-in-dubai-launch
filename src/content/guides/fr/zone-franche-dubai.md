@@ -3,7 +3,7 @@ title: "Freezone Dubaï : zones franches, mainland ou free zone ?"
 description: "Freezone Dubaï : ce qu’est une zone franche, les principales free zones (DMCC, IFZA, Meydan, Dubai South, DIFC), visas, flexi-desk et vente sur le marché local."
 h1: "Freezone à Dubaï : comment choisir sa zone franche"
 keyword: "freezone dubai"
-secondary: ["zone franche dubai", "société free zone dubaï", "free zone dubai", "mainland ou free zone"]
+secondary: ["zone franche dubai", "société free zone dubaï", "free zone dubai"]
 cluster: societe
 updated: 2026-11-27
 intro: "Une freezone à Dubaï est une zone économique qui a sa propre autorité et ses propres licences, où un étranger peut détenir 100 % de sa société. Dubaï en compte plus d’une vingtaine, chacune spécialisée (commerce, tech, médias, finance, logistique). Une société de zone franche peut parrainer des visas et vendre à l’international, mais ses ventes sur le marché local des Émirats sont encadrées."

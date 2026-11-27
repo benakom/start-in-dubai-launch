@@ -3,7 +3,7 @@ title: "Visa résidence Dubaï : types, Emirates ID, durée, renouvellement"
 description: "Visa résidence Dubaï : emploi, investisseur, freelance, propriétaire, retraite, famille. Emirates ID, visite médicale, durée, renouvellement et règle des 6 mois."
 h1: "Visa de résidence à Dubaï : tous les types de visas, l'Emirates ID et les règles à connaître"
 keyword: "visa résidence dubai"
-secondary: ["visa investisseur dubai", "résidence dubai", "emirates id", "carte de résident"]
+secondary: ["résidence dubai", "carte de résident"]
 cluster: visas
 updated: 2026-11-27
 intro: "Pour vivre à Dubaï, il faut un visa de résidence, obtenu par un emploi, une société, une activité freelance, un bien immobilier, la retraite ou le parrainage d'un proche. Les visas parrainés durent en général 1 à 3 ans, les visas sans parrain (Green Visa, Golden Visa) 5 ou 10 ans. Le visa s'accompagne d'une visite médicale et de l'Emirates ID, la carte de résident, et il est annulé si vous restez plus de 180 jours consécutifs hors du pays, sauf exceptions."
