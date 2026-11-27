@@ -88,6 +88,5 @@ Quand le site complet (projet `startindubai`) sera prêt, il prendra le domaine.
 
 ## À vérifier
 
-- Le darija (« قريب بزاف. » et le message de remerciement) est à relire par un natif.
 - La promesse « réponse sur WhatsApp, en français ou en darija » est-elle tenable dès le jour 1 ?
 - Les visuels sont générés par IA, à titre d'illustration.

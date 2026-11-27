@@ -169,7 +169,6 @@
         <div class="cd-cell"><span class="cd-num" data-u="m">00</span><span class="cd-unit">minutes</span></div><span class="cd-sep"></span>
         <div class="cd-cell"><span class="cd-num" data-u="s">00</span><span class="cd-unit">secondes</span></div>
       </div>
-      <p class="ar" lang="ar" dir="rtl">شكرا! غادي نتواصلو معاكم قبل الافتتاح.</p>
       <div class="actions">
         <button type="button" class="ok" data-share>Partager avec un proche</button>
         <button type="button" class="ok ghost" data-close-form>Fermer</button>
