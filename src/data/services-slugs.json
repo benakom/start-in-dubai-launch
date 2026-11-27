@@ -1,9 +1,45 @@
 {
   "_doc": "Adresse de chaque page service dans chaque langue. Clé = slug français. URL : /services/<slug>/ (fr) ou /<langue>/services/<slug>/.",
-  "creation-de-societe-dubai": { "en": "company-setup-dubai", "es": "creacion-de-empresa-dubai", "nl": "bedrijfsoprichting-dubai", "it": "costituzione-societa-dubai", "ar": "خدمة-تأسيس-الشركات-في-دبي" },
-  "golden-visa-visas-dubai": { "en": "golden-visa-services-dubai", "es": "golden-visa-y-visados-dubai", "nl": "golden-visa-en-visa-dubai", "it": "golden-visa-e-visti-dubai", "ar": "خدمة-الإقامة-الذهبية-والتأشيرات" },
-  "ouverture-compte-bancaire-dubai": { "en": "bank-account-opening-dubai", "es": "apertura-cuenta-bancaria-dubai", "nl": "bankrekening-openen-hulp-dubai", "it": "apertura-conto-bancario-dubai", "ar": "خدمة-فتح-حساب-بنكي-في-دبي" },
-  "installation-famille-dubai": { "en": "family-relocation-dubai", "es": "reubicacion-familiar-dubai", "nl": "gezinsverhuizing-dubai", "it": "trasferimento-famiglia-dubai", "ar": "خدمة-انتقال-العائلة-إلى-دبي" },
-  "etudes-superieures-dubai": { "en": "university-admission-dubai", "es": "admision-universidad-dubai", "nl": "universiteit-inschrijving-dubai", "it": "iscrizione-universita-dubai", "ar": "خدمة-الالتحاق-بالجامعات-في-دبي" },
-  "immobilier-dubai": { "en": "property-management-dubai", "es": "gestion-inmobiliaria-dubai", "nl": "vastgoedbeheer-dubai", "it": "gestione-immobiliare-dubai", "ar": "خدمة-العقارات-وإدارتها-في-دبي" }
+  "creation-de-societe-dubai": {
+    "en": "company-setup-dubai",
+    "es": "creacion-de-empresa-dubai",
+    "nl": "bedrijfsoprichting-dubai",
+    "it": "costituzione-societa-dubai",
+    "ar": "خدمة-تأسيس-الشركات-في-دبي"
+  },
+  "golden-visa-visas-dubai": {
+    "en": "golden-visa-services-dubai",
+    "es": "golden-visa-y-visados-dubai",
+    "nl": "golden-visa-en-visa-dubai",
+    "it": "golden-visa-e-visti-dubai",
+    "ar": "خدمة-الإقامة-الذهبية-والتأشيرات"
+  },
+  "ouverture-compte-bancaire-dubai": {
+    "en": "bank-account-opening-dubai",
+    "es": "apertura-cuenta-bancaria-dubai",
+    "nl": "bankrekening-openen-hulp-dubai",
+    "it": "apertura-conto-bancario-dubai",
+    "ar": "خدمة-فتح-حساب-بنكي-في-دبي"
+  },
+  "installation-famille-dubai": {
+    "en": "family-relocation-dubai",
+    "es": "reubicacion-familiar-dubai",
+    "nl": "gezinsverhuizing-dubai",
+    "it": "trasferimento-famiglia-dubai",
+    "ar": "خدمة-انتقال-العائلة-إلى-دبي"
+  },
+  "etudes-superieures-dubai": {
+    "en": "university-admission-dubai",
+    "es": "admision-universidad-dubai",
+    "nl": "universiteit-inschrijving-dubai",
+    "it": "iscrizione-universita-dubai",
+    "ar": "خدمة-الالتحاق-بالجامعات-في-دبي"
+  },
+  "immobilier-dubai": {
+    "en": "property-and-relocation-dubai",
+    "es": "inmobiliario-e-instalacion-dubai",
+    "nl": "vastgoed-en-verhuizing-dubai",
+    "it": "immobiliare-e-trasferimento-dubai",
+    "ar": "خدمة-العقار-والاستقرار-في-دبي"
+  }
 }
