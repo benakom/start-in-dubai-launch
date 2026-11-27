@@ -68,8 +68,8 @@
   };
   // Profil déduit du projet, ou choisi sur une carte « Vous êtes… » de la page (on ne repose alors pas la question).
   const PROFILE_LABEL = { investir: "Investisseur", societe: "Entrepreneur", famille: "Famille", etudes: "Étudiant / parents" };
-  const NEED_PROFILE = { business: "societe", immobilier: "investir", portefeuille: "investir", residence: "investir", famille: "famille", ecoles: "famille", etudes: "etudes" };
-  const PRESET_NEEDS = { investir: ["immobilier", "residence"], societe: ["business"], famille: ["famille", "ecoles"], etudes: ["etudes"] };
+  const NEED_PROFILE = { business: "societe", immobilier: "investir", portefeuille: "investir", residence: "investir", famille: "famille", etudes: "etudes" };
+  const PRESET_NEEDS = { investir: ["immobilier", "residence"], societe: ["business"], famille: ["famille"], etudes: ["etudes"] };
   const STEPS = [
     { id: "needs", type: "multi", q: "Votre projet à Dubaï ?", help: "Plusieurs réponses possibles.", options: [
       { v: "business", l: "Créer ou développer mon business" },
@@ -77,8 +77,7 @@
       { v: "portefeuille", l: "Faire louer et gérer mon bien" },
       { v: "residence", l: "Visa, résidence, Golden Visa" },
       { v: "famille", l: "Installer ma famille (logement, santé, démarches)" },
-      { v: "ecoles", l: "Inscrire mes enfants à l'école" },
-      { v: "etudes", l: "Études supérieures : université, inscription" },
+      { v: "etudes", l: "Études supérieures de mon fils ou ma fille : université, visa, logement" },
       { v: "banque", l: "Ouvrir un compte bancaire" } ] },
     { id: "horizon", type: "single", q: "Quand voulez-vous vous lancer ?", options: [
       "Dans les 3 prochains mois", "Dans 3 à 6 mois", "Dans 6 à 12 mois", "Je me renseigne pour plus tard"].map((h) => ({ v: h, l: h })) },
@@ -386,12 +385,13 @@
     tf.hidden = false; document.body.style.overflow = "hidden";
     // carte « Vous êtes… » : le profil est choisi, on ne repose pas la question du projet
     const p = opener && opener.dataset && opener.dataset.profile;
+    let start = idx;
     if (p && PRESET_NEEDS[p] && !done) {
       preset = p; data.needs = [...PRESET_NEEDS[p]];
       $$(".choice", els[NEEDS_I]).forEach((x) => x.setAttribute("aria-checked", String(data.needs.includes(x.dataset.v))));
-      if (idx === NEEDS_I) idx = flow()[0];
+      if (idx === NEEDS_I) start = flow()[0];   // show() éteint proprement l'écran précédent
     }
-    show(done ? STEPS.length : idx, true);
+    show(done ? STEPS.length : start, true);
   }
   function close() {
     tf.hidden = true; document.body.style.overflow = "";
