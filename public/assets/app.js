@@ -1,4 +1,4 @@
-/* START IN DUBAI : compte à rebours + formulaire une question à la fois. Réglages dans config.js. */
+/* START IN DUBAI : formulaire de demande d'accompagnement, une question à la fois. Réglages dans config.js. */
 (() => {
   "use strict";
   const C = window.SID_CONFIG || {};
@@ -209,12 +209,6 @@
     inner.innerHTML = `
       <h2 class="q">${tr("thanks_1")}<span data-thanks-name></span>. <em>${tr("thanks_2")}</em></h2>
       <p class="q-help">${tr("thanks_text")}</p>
-      <div class="countdown" data-cd aria-hidden="true">
-        <div class="cd-cell"><span class="cd-num" data-u="d">00</span><span class="cd-unit">${tr("u_d")}</span></div>
-        <div class="cd-cell"><span class="cd-num" data-u="h">00</span><span class="cd-unit">${tr("u_h")}</span></div>
-        <div class="cd-cell"><span class="cd-num" data-u="m">00</span><span class="cd-unit">${tr("u_m")}</span></div>
-        <div class="cd-cell"><span class="cd-num" data-u="s">00</span><span class="cd-unit">${tr("u_s")}</span></div>
-      </div>
       <div class="actions">
         <button type="button" class="ok" data-share>${tr("share")}</button>
         <button type="button" class="ok ghost" data-close-form>${tr("close")}</button>
@@ -299,7 +293,7 @@
     const tag = crm.tag || "Start in Dubai";
     const notes = [
       `Tag : ${tag}`,
-      "Avant-première (ouverture le 15/12/2026)",
+      "Demande d'accompagnement (site startindubai.com)",
       p.country ? `Pays : ${p.country}` : null,
       p.siteLang && p.siteLang !== "fr" ? `Langue du site : ${p.siteLang}` : null,
       p.horizon ? `Horizon : ${p.horizon}` : null,

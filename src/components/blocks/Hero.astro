@@ -5,12 +5,11 @@ import { UI } from "../../data/ui";
 import { LANDING } from "../../lib/site";
 import Arrow from "../Arrow.astro";
 interface Crumb { href?: string; label: string }
-interface Props { lang: Lang; title: string; intro?: string; pill?: string; image: string; crumbs?: Crumb[]; meta?: boolean; updated?: Date; minutes?: number; authorHref?: string; children?: any }
-const { lang, title, intro, pill, image, crumbs = [], meta = false, updated, minutes, authorHref = "#auteur" } = Astro.props;
+interface Props { lang: Lang; title: string; intro?: string; pill?: string; image: string; crumbs?: Crumb[]; meta?: boolean; updated?: Date; minutes?: number; authorHref?: string; profile?: string; cta?: string; children?: any }
+const { lang, title, intro, pill, image, crumbs = [], meta = false, updated, minutes, authorHref = "#auteur", profile, cta } = Astro.props;
 const u = UI[lang], t = LANDING[lang];
 const iso = updated?.toISOString().slice(0, 10);
 const human = updated?.toLocaleDateString({ fr: "fr-FR", ar: "ar-AE", en: "en-GB", es: "es-ES", nl: "nl-NL", it: "it-IT" }[lang], { day: "numeric", month: "long", year: "numeric", numberingSystem: "latn" });
-const CD = { fr: "jhms", ar: ["ي", "س", "د", "ث"], en: "dhms", es: "dhms", nl: "dums", it: "ghms" }[lang];
 ---
 <header class="xhero hero">
   <div class="xhero-bg"><img src={image} alt="" width="900" height="600" fetchpriority="high" decoding="async" /></div>
@@ -30,12 +29,8 @@ const CD = { fr: "jhms", ar: ["ي", "س", "د", "ث"], en: "dhms", es: "dhms", n
         </p>
       )}
       {intro && <p class="xhero-intro">{intro}</p>}
-      <div class="xhero-cd">
-        <span class="before" set:html={t.t011} />
-        <span class="countdown cd-mini" data-cd aria-hidden="true">{(["d", "h", "m", "s"] as const).map((k, i) => <span><b data-u={k}>00</b>{CD[i]}</span>)}</span>
-      </div>
       <div class="cta">
-        <button class="btn btn-pulse" type="button" data-open-form><span class="btn-txt">{u.heroCta}</span><Arrow /></button>
+        <button class="btn btn-pulse" type="button" data-open-form data-profile={profile}><span class="btn-txt">{cta || u.heroCta}</span><Arrow /></button>
         <p class="cta-note">{u.heroNote}</p>
       </div>
       <ul class="trust"><li set:html={t.t019} /><li set:html={t.t020} /><li set:html={t.t021} /></ul>

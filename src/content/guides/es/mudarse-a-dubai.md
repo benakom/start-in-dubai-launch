@@ -218,4 +218,4 @@ Tu empresa puede estar registrada en un emirato y tú puedes vivir en otro: comp
 - Permiso de conducir canjeado o examen planificado
 - Obligaciones fiscales saldadas en tu país de salida
 
-START IN DUBAI reúne todos estos pasos en un único recorrido, con un solo interlocutor, en tu idioma (árabe, francés, inglés, español, neerlandés, italiano): empresa, cuenta bancaria, visados, vivienda y colegios. El servicio abre el 15 de diciembre de 2026; puedes [inscribirte en primicia](/es/#inscription).
+START IN DUBAI reúne todos estos pasos en un único recorrido, con un solo interlocutor, en tu idioma (árabe, francés, inglés, español, neerlandés, italiano): empresa, cuenta bancaria, visados, vivienda y colegios. El servicio está abierto: [pide un primer intercambio gratuito](/es/#inscription).

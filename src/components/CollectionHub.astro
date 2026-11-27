@@ -1,0 +1,45 @@
+---
+// Page d'accueil d'une rubrique (services ou blog) dans une langue.
+import type { Lang } from "../content.config";
+import { LANGS } from "../content.config";
+import Base from "../layouts/Base.astro";
+import Hero from "./blocks/Hero.astro";
+import Stats from "./blocks/Stats.astro";
+import Cards from "./blocks/Cards.astro";
+import MidCta from "./blocks/MidCta.astro";
+import Profiles from "./blocks/Profiles.astro";
+import Steps from "./blocks/Steps.astro";
+import Founder from "./blocks/Founder.astro";
+import Offer from "./blocks/Offer.astro";
+import FinalCta from "./blocks/FinalCta.astro";
+import { UI } from "../data/ui";
+import { entries, langOf, entryPath, hubPath, homePath, abs } from "../lib/site";
+interface Props { lang: Lang; coll: "services" | "blog" }
+const { lang, coll } = Astro.props;
+const u = UI[lang];
+const items = (await entries(coll)).filter((e: any) => langOf(e) === lang);
+const has = new Set((await entries(coll)).map((e: any) => langOf(e)));
+const path = hubPath(coll, lang);
+const alts = LANGS.map((l) => ({ lang: l, href: has.has(l) ? hubPath(coll, l) : homePath(l), exists: has.has(l) }));
+const title = coll === "services" ? u.servicesTitle : u.blogTitle;
+const desc = coll === "services" ? u.servicesDesc : u.blogDesc;
+const intro = coll === "services" ? u.servicesIntro : u.blogIntro;
+const eyebrow = coll === "services" ? u.servicesEyebrow : u.blogEyebrow;
+const jsonld = [{
+  "@context": "https://schema.org", "@type": "CollectionPage", name: title, description: desc, url: abs(path), inLanguage: lang,
+  isPartOf: { "@type": "WebSite", name: "START IN DUBAI", url: "https://www.startindubai.com/" },
+  mainEntity: { "@type": "ItemList", itemListElement: items.map((e: any, i: number) => ({ "@type": "ListItem", position: i + 1, url: abs(entryPath(coll, e)), name: e.data.h1 })) },
+}];
+---
+<Base lang={lang} title={title} description={desc} path={path} alternates={alts} jsonld={jsonld} ogType="website" nav={coll}>
+  <Hero lang={lang} title={title} intro={intro} pill={eyebrow} image={coll === "services" ? "/assets/img/entrepreneur.webp" : "/assets/img/og.jpg"} crumbs={[{ href: homePath(lang), label: u.home }, { label: coll === "services" ? u.services : u.blog }]} />
+  <Stats lang={lang} />
+  <section class="sec" aria-label={title}>
+    <div class="wrap">
+      <Cards lang={lang} items={items} coll={coll} tag={coll === "blog"} />
+      <MidCta lang={lang} floating={false} />
+    </div>
+  </section>
+  {coll === "services" ? <><Steps lang={lang} /><Profiles lang={lang} /><Founder lang={lang} /></> : <><Profiles lang={lang} /><Offer lang={lang} /></>}
+  <FinalCta lang={lang} />
+</Base>

@@ -157,4 +157,4 @@ Questa rete aiuta molto nei primi mesi, ma mantieni uno sguardo critico sui cons
 6. Ho verificato che cosa il mio paese d'origine continua a chiedermi (imposte, protezione sociale, pensione)?
 7. Ho passato qualche giorno sul posto, idealmente d'estate, per vedere se questo ritmo fa per me?
 
-Se rispondi sì alla maggior parte di queste domande, il tuo progetto è maturo. START IN DUBAI ti accompagna poi dall'inizio alla fine, con un unico interlocutore, nella tua lingua (arabo, francese, inglese, spagnolo, olandese, italiano). Apertura il 15 dicembre 2026, [iscrizione in anteprima](/it/#inscription).
+Se rispondi sì alla maggior parte di queste domande, il tuo progetto è maturo. START IN DUBAI ti accompagna poi dall'inizio alla fine, con un unico interlocutore, nella tua lingua (arabo, francese, inglese, spagnolo, olandese, italiano). [Richiedi un primo colloquio gratuito](/it/#inscription).

@@ -154,6 +154,61 @@ def guides_block(lang):
             f'        <h2 id="guides-t" class="center">{title}</h2>\n        <p class="center" style="margin:0 auto;max-width:40em;color:var(--muted)">{sub}</p>\n'
             f'        <ul class="cards">{cards}</ul>\n        <p class="center" style="margin-top:28px"><a class="btn btn-sm" href="{hub}">{allg} →</a></p>\n      </div>\n    </section>\n')
 
+# ------------------------------------------------------------------ menu du site (même menu que les pages Astro)
+NAV_TXT = {
+    "fr": ("Services", "Guides", "Blog", "Créer sa société", "Visas et résidence", "Études", "Menu"),
+    "en": ("Services", "Guides", "Blog", "Company formation", "Visas and residence", "Studies", "Menu"),
+    "ar": ("الخدمات", "الأدلة", "المدونة", "تأسيس شركة", "التأشيرات والإقامة", "الدراسة", "القائمة"),
+    "es": ("Servicios", "Guías", "Blog", "Crear empresa", "Visados y residencia", "Estudios", "Menú"),
+    "nl": ("Diensten", "Gidsen", "Blog", "Bedrijf oprichten", "Visa en verblijf", "Studeren", "Menu"),
+    "it": ("Servizi", "Guide", "Blog", "Aprire una società", "Visti e residenza", "Studi", "Menu"),
+}
+
+def nav_block(lang, signup):
+    pre = "/" if lang == "fr" else f"/{lang}/"
+    has = lambda c: os.path.isdir(os.path.join(ROOT, "src", "content", c, lang)) and any(f.endswith(".md") for f in os.listdir(os.path.join(ROOT, "src", "content", c, lang)))
+    sv, gd, bl, so, vi, et, menu = NAV_TXT[lang]
+    items = ([(pre + "services/", sv)] if has("services") else []) + [(pre + "guides/", gd)] + ([(pre + "blog/", bl)] if has("blog") else []) + \
+            [(pre + "guides/#societe", so), (pre + "guides/#visas", vi), (pre + "guides/#etudes", et)]
+    lis = "".join(f'<li><a href="{h}">{t}</a></li>' for h, t in items)
+    return (f'    <nav class="nav" aria-label="{menu}" data-nav>\n      <div class="wrap nav-in">\n'
+            f'        <a class="nav-logo" href="{pre}" aria-label="START IN DUBAI"><img src="/assets/img/logo.webp?v=2" alt="START IN DUBAI" width="900" height="579"></a>\n'
+            f'        <ul class="nav-links" id="nav-links">{lis}</ul>\n'
+            f'        <button class="btn btn-sm nav-cta" type="button" data-open-form><span class="btn-txt">{signup}</span></button>\n'
+            f'        <button class="nav-burger" type="button" aria-expanded="false" aria-controls="nav-links" data-burger><span></span><b class="sr">{menu}</b></button>\n'
+            f'      </div>\n    </nav>')
+
+SERVICES_TXT = {
+    "fr": ("Nos services", "Tout ce que nous prenons en charge à Dubaï", "Voir le service", "Tous nos services"),
+    "en": ("Our services", "Everything we handle for you in Dubai", "See the service", "All our services"),
+    "ar": ("خدماتنا", "كل ما نتولاه من أجلكم في دبي", "اكتشف الخدمة", "جميع خدماتنا"),
+    "es": ("Nuestros servicios", "Todo lo que gestionamos por ti en Dubái", "Ver el servicio", "Todos nuestros servicios"),
+    "nl": ("Onze diensten", "Alles wat wij voor u regelen in Dubai", "Bekijk de dienst", "Al onze diensten"),
+    "it": ("I nostri servizi", "Tutto ciò di cui ci occupiamo per te a Dubai", "Scopri il servizio", "Tutti i nostri servizi"),
+}
+
+def services_block(lang):
+    d = os.path.join(ROOT, "src", "content", "services", lang)
+    if not os.path.isdir(d): return ""
+    items = []
+    for f in sorted(os.listdir(d)):
+        if not f.endswith(".md"): continue
+        fm = _fm(os.path.join(d, f))
+        o = re.search(r"^order:\s*(\d+)", open(os.path.join(d, f), encoding="utf-8").read(), re.M)
+        items.append((int(o.group(1)) if o else 99, ("/" if lang == "fr" else f"/{lang}/") + "services/" + f[:-3] + "/", fm))
+    if not items: return ""
+    items.sort(key=lambda x: x[0])
+    eb, title, go, allg = SERVICES_TXT[lang]
+    esc = lambda x: x.replace("&", "&amp;").replace("<", "&lt;").replace('"', "&quot;")
+    cards = "".join(
+        f'<li><a class="card" href="{href}"><span class="card-img"><img src="/assets/img/{CLUSTER_IMG.get(fm.get("cluster"), "og.jpg")}" alt="" width="640" height="360" loading="lazy"></span>'
+        f'<span class="card-body"><span class="card-t">{esc(fm.get("h1", ""))}</span><span class="card-d">{esc(fm.get("description", ""))}</span><span class="card-go">{go} →</span></span></a></li>'
+        for _, href, fm in items)
+    hub = ("/" if lang == "fr" else f"/{lang}/") + "services/"
+    return (f'    <section class="sec sec-gray" aria-labelledby="svc-t">\n      <div class="wrap">\n        <p class="eyebrow center">{eb}</p>\n'
+            f'        <h2 id="svc-t" class="center">{title}</h2>\n        <ul class="cards">{cards}</ul>\n'
+            f'        <p class="center" style="margin-top:28px"><a class="btn btn-sm" href="{hub}">{allg} →</a></p>\n      </div>\n    </section>\n')
+
 def build():
     tpl = open(os.path.join(I18N, "template.html"), encoding="utf-8").read()
     fr = json.load(open(os.path.join(I18N, "fr.json"), encoding="utf-8"))
@@ -188,6 +243,8 @@ def build():
         links = " · ".join(f'<a href="{"/" if l == "fr" else "/" + l + "/"}" hreflang="{l}" lang="{l}" data-lang-link="{l}"' + (' aria-current="page"' if l == lang else "") + f">{NAMES[l]}</a>" for l in LANGS)
         html = html.replace("<!--LANG_LINKS-->", f'<p class="langs">{links}</p>')
         html = html.replace("<!--GUIDES-->", guides_block(lang))
+        html = html.replace("<!--SERVICES-->", services_block(lang))
+        html = html.replace("<!--NAV-->", nav_block(lang, tr["t007"]))
         out = os.path.join(PUB, "index.html") if lang == "fr" else os.path.join(PUB, lang, "index.html")
         os.makedirs(os.path.dirname(out), exist_ok=True)
         open(out, "w", encoding="utf-8").write(html)

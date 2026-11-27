@@ -29,6 +29,25 @@ export const homePath = (l: Lang) => (l === "fr" ? "/" : `/${l}/`);
 export const guidesPath = (l: Lang) => (l === "fr" ? "/guides/" : `/${l}/guides/`);
 export const abs = (p: string) => SITE_URL + encodeURI(decodeURI(p));
 
+// Blog et services : même logique de langue, de clé et de traductions que les guides
+export type Coll = "guides" | "blog" | "services";
+const PRE: Record<Coll, string> = { guides: "", blog: "blog/", services: "services/" };
+export const entryPath = (c: Coll, e: { id: string }) => {
+  const l = e.id.split("/")[0], s = e.id.split("/").slice(1).join("/");
+  return l === "fr" ? `/${PRE[c]}${s}/` : `/${l}/${PRE[c]}${s}/`;
+};
+export const hubPath = (c: Exclude<Coll, "guides">, l: Lang) => (l === "fr" ? `/${PRE[c]}` : `/${l}/${PRE[c]}`);
+const ccache: Record<string, any[]> = {};
+export async function entries(c: Exclude<Coll, "guides">) {
+  ccache[c] ??= (await getCollection(c, (e: any) => !e.data.draft)).sort((a: any, b: any) => a.data.order - b.data.order);
+  return ccache[c];
+}
+export async function entryTranslations(c: Exclude<Coll, "guides">, key: string) {
+  const out: Partial<Record<Lang, string>> = {};
+  for (const e of await entries(c)) if (keyOf(e as any) === key) out[langOf(e as any)] = entryPath(c, e);
+  return out;
+}
+
 let cache: Guide[] | null = null;
 export async function allGuides() {
   cache ??= (await getCollection("guides", (g) => !g.data.draft)).sort((a, b) => a.data.order - b.data.order);

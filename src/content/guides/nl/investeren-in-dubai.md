@@ -147,4 +147,4 @@ Vastgoed is een van de meest gebruikelijke investeringen in Dubai, en een woning
 7. **Open de bankrekening** met een compleet dossier: activiteit, contracten of offertes, herkomst van het geld.
 8. **Zet de boekhouding** en de fiscale registraties meteen op.
 
-Gaat u verhuizen, ga dan verder met onze gids om [naar Dubai te emigreren](/nl/emigreren-naar-dubai/). START IN DUBAI begeleidt u van A tot Z (bedrijf, bankrekening, visa, woning, scholen), met één aanspreekpunt, in uw taal (Arabisch, Frans, Engels, Spaans, Nederlands, Italiaans). Opening op 15 december 2026, [inschrijving in voorpremière](/nl/#inscription).
+Gaat u verhuizen, ga dan verder met onze gids om [naar Dubai te emigreren](/nl/emigreren-naar-dubai/). START IN DUBAI begeleidt u van A tot Z (bedrijf, bankrekening, visa, woning, scholen), met één aanspreekpunt, in uw taal (Arabisch, Frans, Engels, Spaans, Nederlands, Italiaans). De dienst is open: [vraag een eerste gratis gesprek aan](/nl/#inscription).

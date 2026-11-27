@@ -222,3 +222,19 @@
 
 /* bouton du menu : jamais pleine largeur (style.css met .btn à 100 % sur mobile) */
 .nav .btn { width: auto; min-height: 0; }
+
+/* ------------------------------------------------------------------ services */
+.incl { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 14px; max-width: 980px; margin: 30px auto 34px; padding: 0; list-style: none; }
+.incl li { position: relative; padding: 18px 20px 18px 58px; border-radius: 14px; background: #fff; border: 1px solid var(--line); box-shadow: 0 14px 30px -26px rgba(0, 0, 0, .4); font-size: 16.5px; line-height: 1.45; font-weight: 600; }
+.incl li::before { content: "✓"; position: absolute; left: 18px; top: 16px; width: 28px; height: 28px; border-radius: 50%; display: grid; place-items: center; background: var(--green); color: #fff; font-weight: 900; }
+.svc-link { display: grid; gap: 6px; margin: 36px 0 0; padding: 22px 24px; border-radius: 16px; background: var(--ink); color: #fff; text-decoration: none; box-shadow: inset 4px 0 0 var(--red); transition: transform .2s var(--ease); }
+.svc-link:hover { transform: translateY(-3px); }
+.svc-link .eyebrow { margin: 0; color: var(--red-l); }
+.svc-t { font-family: var(--head); font-weight: 900; font-size: 21px; line-height: 1.2; }
+.svc-d { font-size: 15px; color: rgba(255, 255, 255, .78); }
+.svc-link .card-go { color: var(--red-l); }
+.cards + .cards { margin-top: 18px; }
+@media (max-width: 640px) { .incl { grid-template-columns: 1fr; } .incl li { font-size: 15.5px; } }
+[dir="rtl"] .incl li { padding: 18px 58px 18px 20px; }
+[dir="rtl"] .incl li::before { left: auto; right: 18px; }
+[dir="rtl"] .svc-link { box-shadow: inset -4px 0 0 var(--red); }

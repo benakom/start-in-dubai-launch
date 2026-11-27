@@ -158,4 +158,4 @@ Naast het maandbudget kost de verhuizing zelf veel geld. Plan een reserve in voo
 6. de schoolinschrijving van de kinderen;
 7. drie tot zes maanden lopende uitgaven vooruit, om tegenslagen op te vangen.
 
-Voor alle andere stappen van de verhuizing volgt u onze gids om [naar Dubai te emigreren](/nl/emigreren-naar-dubai/). START IN DUBAI kan daarna alles met u coördineren, in uw taal (Arabisch, Frans, Engels, Spaans, Nederlands, Italiaans): [inschrijving in voorpremière](/nl/#inscription).
+Voor alle andere stappen van de verhuizing volgt u onze gids om [naar Dubai te emigreren](/nl/emigreren-naar-dubai/). START IN DUBAI kan daarna alles met u coördineren, in uw taal (Arabisch, Frans, Engels, Spaans, Nederlands, Italiaans). [Vraag een eerste gratis gesprek aan](/nl/#inscription).

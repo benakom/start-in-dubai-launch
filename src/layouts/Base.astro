@@ -3,7 +3,7 @@
 import type { Lang } from "../content.config";
 import { LANGS } from "../content.config";
 import { UI, OG_LOCALE, LANG_NAMES } from "../data/ui";
-import { LANDING, FORM, PREVIEW, SITE_URL, abs, homePath, guidesPath } from "../lib/site";
+import { LANDING, FORM, PREVIEW, SITE_URL, abs, homePath, guidesPath, hubPath, entries, langOf } from "../lib/site";
 
 interface Alt { lang: Lang; href: string; exists: boolean }
 interface Props { lang: Lang; title: string; description: string; path: string; alternates: Alt[]; jsonld?: object[]; ogType?: string; image?: string; nav?: string }
@@ -13,14 +13,14 @@ const rtl = lang === "ar";
 const url = abs(path);
 const fullTitle = `${title} | START IN DUBAI`;
 const xdef = alternates.find((a) => a.lang === "fr" && a.exists)?.href || path;
-const CD = { fr: "jhms", ar: ["ي", "س", "د", "ث"], en: "dhms", es: "dhms", nl: "dums", it: "ghms" }[lang];
+const has = async (c: "services" | "blog") => new Set((await entries(c)).map((e: any) => langOf(e))).has(lang);
 const navItems = [
+  ...((await has("services")) ? [{ href: hubPath("services", lang), label: u.services, key: "services" }] : []),
   { href: guidesPath(lang), label: u.guides, key: "guides" },
+  ...((await has("blog")) ? [{ href: hubPath("blog", lang), label: u.blog, key: "blog" }] : []),
   { href: guidesPath(lang) + "#societe", label: u.clusters.societe, key: "societe" },
   { href: guidesPath(lang) + "#visas", label: u.clusters.visas, key: "visas" },
   { href: guidesPath(lang) + "#etudes", label: u.clusters.etudes, key: "etudes" },
-  { href: guidesPath(lang) + "#famille", label: u.clusters.famille, key: "famille" },
-  { href: guidesPath(lang) + "#pays", label: u.clusters.pays, key: "pays" },
 ];
 const fonts = "https://fonts.googleapis.com/css2?" + (rtl ? "family=Noto+Kufi+Arabic:wght@500;700;800&" : "") + "family=Montserrat:wght@700;800;900&family=Inter:wght@400;500;600;700&display=swap";
 ---
@@ -62,9 +62,6 @@ const fonts = "https://fonts.googleapis.com/css2?" + (rtl ? "family=Noto+Kufi+Ar
     <div class="topbar">
       <div class="wrap topbar-in">
         <p class="topbar-txt" set:html={t.t006} />
-        <div class="countdown cd-mini" data-cd aria-hidden="true">
-          {(["d", "h", "m", "s"] as const).map((k, i) => <span><b data-u={k}>00</b>{CD[i]}</span>)}
-        </div>
         <label class="lang-sw"><span class="sr">{u.language}</span><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9" fill="none" stroke="currentColor" stroke-width="1.8" /><path d="M3 12h18M12 3c3 3.2 3 14.8 0 18M12 3c-3 3.2-3 14.8 0 18" fill="none" stroke="currentColor" stroke-width="1.8" /></svg>
           <select data-lang-nav aria-label="Langue / Language">
             {alternates.map((a) => <option value={a.href} data-l={a.lang} selected={a.lang === lang}>{LANG_NAMES[a.lang]}</option>)}
@@ -90,7 +87,7 @@ const fonts = "https://fonts.googleapis.com/css2?" + (rtl ? "family=Noto+Kufi+Ar
   <footer class="foot">
     <div class="wrap foot-in">
       <img src="/assets/img/logo.webp?v=2" alt="START IN DUBAI" width="120" height="77" loading="lazy" />
-      <p><a href={guidesPath(lang)}>{u.allGuides}</a>{Object.entries(u.clusters).map(([k, v]) => <> · <a href={`${guidesPath(lang)}#${k}`}>{v}</a></>)}</p>
+      <p>{navItems.filter((n) => n.key === "services" || n.key === "blog").map((n) => <><a href={n.href}>{n.label}</a> · </>)}<a href={guidesPath(lang)}>{u.allGuides}</a>{Object.entries(u.clusters).map(([k, v]) => <> · <a href={`${guidesPath(lang)}#${k}`}>{v}</a></>)}</p>
       <p set:html={t.t123} />
       <p class="langs">{LANGS.map((l, i) => <>{i > 0 && " · "}<a href={alternates.find((a) => a.lang === l)?.href || homePath(l)} hreflang={l} lang={l} data-lang-link={l} aria-current={l === lang ? "page" : undefined}>{LANG_NAMES[l]}</a></>)}</p>
       <p class="small">{u.disclaimer}</p>

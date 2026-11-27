@@ -217,4 +217,4 @@ Your company can be registered in one emirate and you can live in another: just 
 - Driving licence converted or test planned
 - Tax obligations settled in your country of departure
 
-START IN DUBAI brings all these steps together in a single journey, with one point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian): company, bank account, visas, housing and schools. The service opens on 15 December 2026; you can [sign up for early access](/en/#inscription).
+START IN DUBAI brings all these steps together in a single journey, with one point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian): company, bank account, visas, housing and schools. [Ask for a free first call](/en/#inscription).

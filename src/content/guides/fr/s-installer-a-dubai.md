@@ -217,4 +217,4 @@ Votre société peut être enregistrée dans un émirat et vous pouvez vivre dan
 - Permis de conduire converti ou examen planifié
 - Obligations fiscales réglées dans votre pays de départ
 
-START IN DUBAI réunit toutes ces étapes dans un seul parcours, avec un seul interlocuteur, en français et en darija : société, compte bancaire, visas, logement et écoles. Le service ouvre le 15 décembre 2026 ; vous pouvez vous [inscrire en avant-première](/#inscription).
+START IN DUBAI réunit toutes ces étapes dans un seul parcours, avec un seul interlocuteur, en français et en darija : société, compte bancaire, visas, logement et écoles. [Demandez un premier échange gratuit](/#inscription).

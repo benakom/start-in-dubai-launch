@@ -193,7 +193,7 @@ U kunt de oprichting starten vanuit Amsterdam, Brussel, Antwerpen, Parijs of Cas
 
 Als uw project ook inhoudt dat u zich daar vestigt, lees dan ook onze gids over [emigreren naar Dubai](/nl/emigreren-naar-dubai/): woning, scholen en dagelijks leven regelt u parallel aan het bedrijf.
 
-START IN DUBAI begeleidt dit traject van A tot Z (bedrijf, bankrekening, visa, woning, scholen), met één aanspreekpunt, in uw eigen taal (Arabisch, Frans, Engels, Spaans, Nederlands, Italiaans). Opening op 15 december 2026: u kunt zich alvast [inschrijven als eerste](/nl/#inscription).
+START IN DUBAI begeleidt dit traject van A tot Z (bedrijf, bankrekening, visa, woning, scholen), met één aanspreekpunt, in uw eigen taal (Arabisch, Frans, Engels, Spaans, Nederlands, Italiaans). De dienst is open: [vraag een eerste gratis gesprek aan](/nl/#inscription).
 
 ## De fouten die u moet vermijden
 

@@ -147,4 +147,4 @@ El sector inmobiliario es una de las inversiones más habituales en Dubái, y un
 7. **Abre la cuenta bancaria** con un expediente completo: actividad, contratos o presupuestos, origen de los fondos.
 8. **Pon en marcha la contabilidad** y las altas fiscales desde el principio.
 
-Si piensas instalarte, continúa con nuestra guía para [mudarse a Dubái](/es/mudarse-a-dubai/). START IN DUBAI te acompaña de la A a la Z (sociedad, cuenta bancaria, visados, vivienda, colegios), con un único interlocutor y en tu idioma (árabe, francés, inglés, español, neerlandés, italiano). Apertura el 15 de diciembre de 2026, [inscripción anticipada](/es/#inscription).
+Si piensas instalarte, continúa con nuestra guía para [mudarse a Dubái](/es/mudarse-a-dubai/). START IN DUBAI te acompaña de la A a la Z (sociedad, cuenta bancaria, visados, vivienda, colegios), con un único interlocutor y en tu idioma (árabe, francés, inglés, español, neerlandés, italiano). El servicio está abierto: [pide un primer intercambio gratuito](/es/#inscription).

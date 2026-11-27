@@ -168,4 +168,4 @@ Para una empresa del mainland, la oferta de empleo pasa en principio por el MOHR
 7. No pagues nunca gastos de contratación.
 8. Una vez obtenido el visado, encadena: banco, vivienda, Ejari, seguro de la familia. Todo está en nuestra guía para [mudarse a Dubái](/es/mudarse-a-dubai/).
 
-START IN DUBAI te ayuda a organizar tu instalación cuando ya tengas el empleo (visados, vivienda, banco, colegios), en tu idioma (árabe, francés, inglés, español, neerlandés, italiano). [Inscripción anticipada](/es/#inscription).
+START IN DUBAI te ayuda a organizar tu instalación cuando ya tengas el empleo (visados, vivienda, banco, colegios), en tu idioma (árabe, francés, inglés, español, neerlandés, italiano). [Pide un primer intercambio gratuito](/es/#inscription).

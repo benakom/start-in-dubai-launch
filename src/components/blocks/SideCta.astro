@@ -2,7 +2,6 @@
 import type { Lang } from "../../content.config";
 import { UI } from "../../data/ui";
 import { LANDING } from "../../lib/site";
-import Countdown from "../Countdown.astro";
 interface Props { lang: Lang }
 const { lang } = Astro.props;
 const u = UI[lang], t = LANDING[lang];

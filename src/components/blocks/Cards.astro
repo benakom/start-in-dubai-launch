@@ -1,18 +1,19 @@
 ---
-// Grille de cartes de guides avec illustration.
+// Grille de cartes (guides, articles ou services) avec illustration.
 import type { Lang } from "../../content.config";
 import { UI, CLUSTER_IMG } from "../../data/ui";
-import { guidePath, type Guide } from "../../lib/site";
-interface Props { lang: Lang; items: Guide[]; tag?: boolean }
-const { lang, items, tag = true } = Astro.props;
+import { entryPath, type Coll } from "../../lib/site";
+interface Props { lang: Lang; items: any[]; tag?: boolean; coll?: Coll }
+const { lang, items, tag = true, coll = "guides" } = Astro.props;
 const u = UI[lang];
+const go = coll === "blog" ? u.readArticle : coll === "services" ? u.seeService : u.readGuide;
 ---
 <ul class="cards">
   {items.map((g) => (
     <li class="rv">
-      <a class="card" href={guidePath(g)}>
-        <span class="card-img"><img src={g.data.image || CLUSTER_IMG[g.data.cluster]} alt="" width="640" height="360" loading="lazy" />{tag && <span class="card-tag">{u.clusters[g.data.cluster]}</span>}</span>
-        <span class="card-body"><span class="card-t">{g.data.h1}</span><span class="card-d">{g.data.description}</span><span class="card-go">{u.readGuide} →</span></span>
+      <a class="card" href={entryPath(coll, g)}>
+        <span class="card-img"><img src={g.data.image || CLUSTER_IMG[g.data.cluster]} alt="" width="640" height="360" loading="lazy" />{tag && <span class="card-tag">{coll === "services" ? u.services : u.clusters[g.data.cluster]}</span>}</span>
+        <span class="card-body"><span class="card-t">{g.data.h1}</span><span class="card-d">{g.data.description}</span><span class="card-go">{go} →</span></span>
       </a>
     </li>
   ))}

@@ -147,4 +147,4 @@ Real estate is one of the most common investments in Dubai, and a property worth
 7. **Open the bank account** with a complete file: activity, contracts or quotes, source of funds.
 8. **Set up accounting** and tax registrations from the start.
 
-If you plan to move, follow on with our guide to [moving to Dubai](/en/moving-to-dubai/). START IN DUBAI supports you from A to Z (company, bank account, visas, housing, schools), with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian). We open on 15 December 2026: [sign up for early access](/en/#inscription).
+If you plan to move, follow on with our guide to [moving to Dubai](/en/moving-to-dubai/). START IN DUBAI supports you from A to Z (company, bank account, visas, housing, schools), with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian). [Ask for a free first call](/en/#inscription).

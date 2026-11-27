@@ -1,115 +1,17 @@
 ---
-// Page guide (6 langues) : /<slug>/ en français, /<langue>/<slug>/ sinon. Construite à partir des blocs de src/components/blocks.
-import { render } from "astro:content";
-import Base from "../layouts/Base.astro";
-import Hero from "../components/blocks/Hero.astro";
-import Stats from "../components/blocks/Stats.astro";
-import Essentials from "../components/blocks/Essentials.astro";
-import Toc from "../components/blocks/Toc.astro";
-import MidCta from "../components/blocks/MidCta.astro";
-import SideCta from "../components/blocks/SideCta.astro";
-import Profiles from "../components/blocks/Profiles.astro";
-import Offer from "../components/blocks/Offer.astro";
-import Faq from "../components/blocks/Faq.astro";
-import Cards from "../components/blocks/Cards.astro";
-import FinalCta from "../components/blocks/FinalCta.astro";
-import { UI, CLUSTER_IMG, LOCALES } from "../data/ui";
-import { AUTHOR } from "../data/site";
-import { allGuides, langOf, slugOf, keyOf, guidePath, homePath, guidesPath, translations, alternates, abs, readingMinutes, SITE_URL, type Guide } from "../lib/site";
+// Toutes les pages de contenu : guides (/<slug>/), blog (/blog/<slug>/), services (/services/<slug>/), en 6 langues.
+import ArticlePage from "../components/ArticlePage.astro";
+import ServicePage from "../components/ServicePage.astro";
+import { allGuides, entries, entryPath } from "../lib/site";
 
 export async function getStaticPaths() {
-  const all = await allGuides();
-  return all.map((g) => ({ params: { slug: langOf(g) === "fr" ? slugOf(g) : `${langOf(g)}/${slugOf(g)}` }, props: { guide: g } }));
+  const out: any[] = [];
+  const add = (coll: string, e: any) => out.push({ params: { slug: entryPath(coll as any, e).slice(1, -1) }, props: { entry: e, coll } });
+  for (const g of await allGuides()) add("guides", g);
+  for (const b of await entries("blog")) add("blog", b);
+  for (const s of await entries("services")) add("services", s);
+  return out;
 }
-const { guide } = Astro.props as { guide: Guide };
-const d = guide.data;
-const lang = langOf(guide);
-const u = UI[lang];
-const { Content, headings } = await render(guide);
-const path = guidePath(guide);
-const url = abs(path);
-const key = keyOf(guide);
-const alts = alternates(await translations(key), guidesPath);
-const all = (await allGuides()).filter((g) => langOf(g) === lang && g.id !== guide.id);
-const byKey = new Map(all.map((g) => [keyOf(g), g]));
-const related = d.related.map((k) => byKey.get(k)).filter(Boolean) as Guide[];
-const more = all.filter((g) => g.data.cluster === d.cluster && !related.includes(g));
-const cards = [...related, ...more].slice(0, 6);
-const image = d.image || CLUSTER_IMG[d.cluster];
-const updated = d.updated.toISOString().slice(0, 10);
-const toc = headings.filter((h) => h.depth === 2).map((h) => ({ slug: h.slug, text: h.text }));
-const minutes = readingMinutes(guide.body || "");
-
-const jsonld = [
-  {
-    "@context": "https://schema.org", "@type": "Article", headline: d.h1, description: d.description, inLanguage: lang,
-    datePublished: updated, dateModified: updated, mainEntityOfPage: url, image: SITE_URL + image,
-    keywords: [d.keyword, ...d.secondary].join(", "), about: d.keyword,
-    ...(d.essentials.length ? { abstract: d.essentials.join(" ") } : {}),
-    author: { "@type": "Person", name: AUTHOR.name, url: AUTHOR.url, jobTitle: AUTHOR.role, sameAs: AUTHOR.sameAs },
-    publisher: { "@type": "Organization", "@id": `${SITE_URL}/#organization`, name: "START IN DUBAI", url: SITE_URL + "/", logo: { "@type": "ImageObject", url: `${SITE_URL}/assets/img/logo.webp` } },
-    citation: d.sources.map((s) => s.url),
-  },
-  {
-    "@context": "https://schema.org", "@type": "BreadcrumbList",
-    itemListElement: [
-      { "@type": "ListItem", position: 1, name: u.home, item: abs(homePath(lang)) },
-      { "@type": "ListItem", position: 2, name: u.guides, item: abs(guidesPath(lang)) },
-      { "@type": "ListItem", position: 3, name: d.h1, item: url },
-    ],
-  },
-  ...(d.faq.length ? [{
-    "@context": "https://schema.org", "@type": "FAQPage", inLanguage: lang,
-    mainEntity: d.faq.map((f) => ({ "@type": "Question", name: f.q, acceptedAnswer: { "@type": "Answer", text: f.a } })),
-  }] : []),
-];
+const { entry, coll } = Astro.props;
 ---
-<Base lang={lang} title={d.title} description={d.description} path={path} alternates={alts} jsonld={jsonld} image={image} nav={d.cluster}>
-  <Hero lang={lang} title={d.h1} intro={d.intro} pill={u.clusters[d.cluster]} image={image} meta updated={d.updated} minutes={minutes}
-    crumbs={[{ href: homePath(lang), label: u.home }, { href: guidesPath(lang), label: u.guides }, { href: `${guidesPath(lang)}#${d.cluster}`, label: u.clusters[d.cluster] }]} />
-  <Stats lang={lang} />
-
-  <div class="wrap">
-    <div class="art">
-      <article class="art-main">
-        <Essentials lang={lang} items={d.essentials} />
-        <Toc lang={lang} items={toc} />
-        <div class="prose"><Content /></div>
-        <MidCta lang={lang} />
-
-        {d.sources.length > 0 && (
-          <section class="srcs" aria-labelledby="sources">
-            <h2 id="sources">{u.sources}</h2>
-            <ul>{d.sources.map((s) => <li><a href={s.url} rel="nofollow noopener" target="_blank">{s.label}</a></li>)}</ul>
-          </section>
-        )}
-
-        <section class="author" id="auteur" aria-label={u.author}>
-          <img src="/assets/img/ahmed-benjas.jpg" alt={AUTHOR.name} width="96" height="120" loading="lazy" />
-          <div>
-            <p class="n"><a href={AUTHOR.url}>{AUTHOR.name}</a></p>
-            <p class="r">Cevitas Real Estate · RERA ORN 49294</p>
-            {lang === "fr" && <p>{AUTHOR.bio}</p>}
-          </div>
-        </section>
-      </article>
-      <aside class="art-side"><div class="side-box"><SideCta lang={lang} /></div></aside>
-    </div>
-  </div>
-
-  <Profiles lang={lang} />
-  <Offer lang={lang} />
-  <Faq lang={lang} items={d.faq} />
-
-  {cards.length > 0 && (
-    <section class="sec sec-gray" aria-labelledby="lire">
-      <div class="wrap">
-        <p class="eyebrow center">{u.relatedEyebrow}</p>
-        <h2 id="lire" class="center">{u.related}</h2>
-        <Cards lang={lang} items={cards} />
-      </div>
-    </section>
-  )}
-
-  <FinalCta lang={lang} />
-</Base>
+{coll === "services" ? <ServicePage entry={entry} /> : <ArticlePage entry={entry} coll={coll} />}

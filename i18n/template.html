@@ -30,16 +30,16 @@
   <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.startindubai.com/#organization","name":"START IN DUBAI","alternateName":"Start in Dubai","url":"https://www.startindubai.com/","logo":"https://www.startindubai.com/assets/img/logo.webp","description":"{{t005}}","areaServed":[{"@type":"City","name":"Dubaï"},{"@type":"Country","name":"Émirats arabes unis"}],"knowsLanguage":["fr","ar"],"founder":{"@type":"Person","name":"Ahmed Benjas","url":"https://www.ahmedbenjas.com"}},{"@type":"WebSite","@id":"https://www.startindubai.com/#website","name":"START IN DUBAI","alternateName":["Start in Dubai","startindubai.com"],"url":"https://www.startindubai.com/","inLanguage":"fr","publisher":{"@id":"https://www.startindubai.com/#organization"}}]}</script>
 </head>
 <body>
-  <!-- Barre du haut : compte à rebours permanent -->
+  <!-- En-tête : bandeau noir + menu du site -->
+  <div class="hdr">
   <div class="topbar">
     <div class="wrap topbar-in">
       <p class="topbar-txt">{{t006}}</p>
-      <div class="countdown cd-mini" data-cd aria-hidden="true">
-        <!--CD_MINI-->
-      </div>
       <!--LANG_SWITCH-->
       <button class="topbar-btn" type="button" data-open-form><span class="btn-txt">{{t007}}</span></button>
     </div>
+  </div>
+<!--NAV-->
   </div>
 
   <main>
@@ -50,16 +50,6 @@
         <p class="pill">{{t008}}</p>
         <h1>{{t009}}</h1>
         <p class="sub">{{t010}}</p>
-
-        <div class="cd-block">
-          <p class="cd-label">{{t011}}</p>
-          <div class="countdown cd-big" data-cd role="timer" aria-label="{{t012}}">
-            <div class="cd-cell"><span class="cd-num" data-u="d">00</span><span class="cd-unit">{{t013}}</span></div>
-            <div class="cd-cell"><span class="cd-num" data-u="h">00</span><span class="cd-unit">{{t014}}</span></div>
-            <div class="cd-cell"><span class="cd-num" data-u="m">00</span><span class="cd-unit">{{t015}}</span></div>
-            <div class="cd-cell"><span class="cd-num" data-u="s">00</span><span class="cd-unit">{{t016}}</span></div>
-          </div>
-        </div>
 
         <div class="cta">
           <button class="btn" type="button" data-open-form>
@@ -121,6 +111,7 @@
       </div>
     </section>
 
+<!--SERVICES-->
     <!-- 4. POURQUOI C'EST DIFFÉRENT -->
     <section class="sec sec-dark" aria-labelledby="diff-t">
       <div class="wrap">
@@ -180,7 +171,7 @@
       </div>
     </section>
 
-    <!-- 7. L'OFFRE AVANT-PREMIÈRE -->
+    <!-- 7. PREMIER ÉCHANGE OFFERT -->
     <section class="sec" aria-labelledby="offer-t">
       <div class="wrap narrow">
         <div class="offer">
@@ -192,12 +183,6 @@
             <li>{{t096}}</li>
           </ul>
           <p class="offer-free">{{t097}}</p>
-          <div class="countdown cd-big cd-light" data-cd aria-hidden="true">
-            <div class="cd-cell"><span class="cd-num" data-u="d">00</span><span class="cd-unit">{{t013}}</span></div>
-            <div class="cd-cell"><span class="cd-num" data-u="h">00</span><span class="cd-unit">{{t014}}</span></div>
-            <div class="cd-cell"><span class="cd-num" data-u="m">00</span><span class="cd-unit">{{t015}}</span></div>
-            <div class="cd-cell"><span class="cd-num" data-u="s">00</span><span class="cd-unit">{{t016}}</span></div>
-          </div>
           <div class="cta center">
             <button class="btn" type="button" data-open-form><span class="btn-txt">{{t017}}</span><svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
           </div>
@@ -242,12 +227,6 @@
     <section class="sec sec-dark final" aria-labelledby="final-t">
       <div class="wrap narrow center">
         <h2 id="final-t">{{t121}}</h2>
-        <div class="countdown cd-big" data-cd aria-hidden="true">
-          <div class="cd-cell"><span class="cd-num" data-u="d">00</span><span class="cd-unit">{{t013}}</span></div>
-          <div class="cd-cell"><span class="cd-num" data-u="h">00</span><span class="cd-unit">{{t014}}</span></div>
-          <div class="cd-cell"><span class="cd-num" data-u="m">00</span><span class="cd-unit">{{t015}}</span></div>
-          <div class="cd-cell"><span class="cd-num" data-u="s">00</span><span class="cd-unit">{{t016}}</span></div>
-        </div>
         <div class="cta center">
           <button class="btn" type="button" data-open-form><span class="btn-txt">{{t122}}</span><svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
           <p class="cta-note">{{t018}}</p>
@@ -294,5 +273,6 @@
 
   <!--FORM_I18N-->
   <script src="assets/app.js"></script>
+  <script src="assets/site.js"></script>
 </body>
 </html>

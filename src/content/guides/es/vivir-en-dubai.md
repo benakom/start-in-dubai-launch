@@ -156,4 +156,4 @@ Esa red ayuda mucho los primeros meses, pero mantén una mirada crítica ante lo
 6. ¿He comprobado qué sigue pidiéndome mi país de origen (impuestos, protección social, jubilación)?
 7. ¿He pasado unos días allí, idealmente en verano, para ver si ese ritmo me conviene?
 
-Si respondes que sí a la mayoría, tu proyecto está maduro. START IN DUBAI te acompaña después de la A a la Z, con un único interlocutor y en tu idioma (árabe, francés, inglés, español, neerlandés, italiano). Apertura el 15 de diciembre de 2026, [inscripción anticipada](/es/#inscription).
+Si respondes que sí a la mayoría, tu proyecto está maduro. START IN DUBAI te acompaña después de la A a la Z, con un único interlocutor y en tu idioma (árabe, francés, inglés, español, neerlandés, italiano). El servicio está abierto: [pide un primer intercambio gratuito](/es/#inscription).

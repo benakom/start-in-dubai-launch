@@ -218,4 +218,4 @@ Uw bedrijf kan in het ene emiraat zijn geregistreerd en u kunt in een ander wone
 - Rijbewijs omgezet of examen gepland
 - Fiscale verplichtingen geregeld in uw land van vertrek
 
-START IN DUBAI brengt al deze stappen samen in één traject, met één aanspreekpunt, in uw eigen taal (Arabisch, Frans, Engels, Spaans, Nederlands, Italiaans): bedrijf, bankrekening, visa, woning en scholen. De dienst opent op 15 december 2026; u kunt zich alvast [inschrijven als eerste](/nl/#inscription).
+START IN DUBAI brengt al deze stappen samen in één traject, met één aanspreekpunt, in uw eigen taal (Arabisch, Frans, Engels, Spaans, Nederlands, Italiaans): bedrijf, bankrekening, visa, woning en scholen. De dienst is open: [vraag een eerste gratis gesprek aan](/nl/#inscription).

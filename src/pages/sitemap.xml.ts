@@ -1,6 +1,6 @@
-// Sitemap multilingue : pages de lancement (6 langues), bibliothèques de guides et guides, avec leurs versions dans les autres langues.
+// Sitemap multilingue : accueil (6 langues), services, guides, blog, avec leurs versions dans les autres langues.
 import { LANGS, type Lang } from "../content.config";
-import { allGuides, keyOf, langOf, guidePath, homePath, guidesPath, abs } from "../lib/site";
+import { allGuides, entries, entryPath, hubPath, keyOf, langOf, guidePath, homePath, guidesPath, abs } from "../lib/site";
 
 type Url = { loc: string; lastmod: string; alts: { lang: string; href: string }[] };
 const alt = (m: Partial<Record<Lang, string>>) => {
@@ -25,6 +25,17 @@ export async function GET() {
     byKey.set(keyOf(g), m);
   }
   for (const g of guides) urls.push({ loc: abs(guidePath(g)), lastmod: g.data.updated.toISOString().slice(0, 10), alts: alt(byKey.get(keyOf(g))!) });
+
+  // services et blog : pages de rubrique + pages, avec leurs traductions
+  for (const c of ["services", "blog"] as const) {
+    const list = await entries(c);
+    const langs = LANGS.filter((l) => list.some((e: any) => langOf(e) === l));
+    const hm = Object.fromEntries(langs.map((l) => [l, hubPath(c, l)]));
+    for (const l of langs) urls.push({ loc: abs(hubPath(c, l)), lastmod: today, alts: alt(hm) });
+    const km = new Map<string, Partial<Record<Lang, string>>>();
+    for (const e of list) { const m = km.get(keyOf(e)) || {}; m[langOf(e)] = entryPath(c, e); km.set(keyOf(e), m); }
+    for (const e of list) urls.push({ loc: abs(entryPath(c, e)), lastmod: e.data.updated.toISOString().slice(0, 10), alts: alt(km.get(keyOf(e))!) });
+  }
 
   const xml = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">

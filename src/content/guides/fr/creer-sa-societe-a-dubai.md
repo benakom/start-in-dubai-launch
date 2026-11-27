@@ -192,7 +192,7 @@ Vous pouvez lancer la création depuis Casablanca, Paris, Bruxelles, Montréal o
 
 Si votre projet est aussi de vous installer, lisez aussi notre guide pour s’installer à Dubaï : logement, écoles et vie quotidienne s’organisent en parallèle de la société.
 
-START IN DUBAI accompagne ce parcours de A à Z (société, compte bancaire, visas, logement, écoles), avec un seul interlocuteur, en français et en darija. Ouverture le 15 décembre 2026 : vous pouvez vous [inscrire en avant-première](/#inscription).
+START IN DUBAI accompagne ce parcours de A à Z (société, compte bancaire, visas, logement, écoles), avec un seul interlocuteur, en français et en darija. [Demandez un premier échange gratuit](/#inscription).
 
 ## Les erreurs à éviter
 

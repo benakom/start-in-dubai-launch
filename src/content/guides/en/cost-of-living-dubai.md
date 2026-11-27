@@ -158,4 +158,4 @@ Beyond the monthly budget, settling in itself is costly. Set aside a reserve for
 6. children's school registration;
 7. three to six months of everyday expenses in advance, to cope with the unexpected.
 
-For all the other steps of settling in, follow our guide to [moving to Dubai](/en/moving-to-dubai/). START IN DUBAI can then coordinate everything with you, in your language (Arabic, French, English, Spanish, Dutch, Italian): [sign up for early access](/en/#inscription).
+For all the other steps of settling in, follow our guide to [moving to Dubai](/en/moving-to-dubai/). START IN DUBAI can then coordinate everything with you, in your language (Arabic, French, English, Spanish, Dutch, Italian): [Ask for a free first call](/en/#inscription).

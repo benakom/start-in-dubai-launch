@@ -146,4 +146,4 @@ L’immobilier est l’un des investissements les plus courants à Dubaï, et un
 7. **Ouvrez le compte bancaire** avec un dossier complet : activité, contrats ou devis, origine des fonds.
 8. **Mettez en place la comptabilité** et les inscriptions fiscales dès le départ.
 
-Si vous comptez vous installer, enchaînez avec notre guide pour [s’installer à Dubaï](/s-installer-a-dubai/). START IN DUBAI vous accompagne de A à Z (société, compte bancaire, visas, logement, écoles), avec un seul interlocuteur, en français et en darija. Ouverture le 15 décembre 2026, [inscription en avant-première](/#inscription).
+Si vous comptez vous installer, enchaînez avec notre guide pour [s’installer à Dubaï](/s-installer-a-dubai/). START IN DUBAI vous accompagne de A à Z (société, compte bancaire, visas, logement, écoles), avec un seul interlocuteur, en français et en darija. [Demandez un premier échange gratuit](/#inscription).

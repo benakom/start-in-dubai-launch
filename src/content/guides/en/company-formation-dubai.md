@@ -193,7 +193,7 @@ You can start the formation from London, Paris, Brussels, Montreal or Casablanca
 
 If your project is also to move there, read our guide to [moving to Dubai](/en/moving-to-dubai/) as well: housing, schools and daily life are organised in parallel with the company.
 
-START IN DUBAI supports this journey from A to Z (company, bank account, visas, housing, schools), with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian). Opening on 15 December 2026: you can [sign up for early access](/en/#inscription).
+START IN DUBAI supports this journey from A to Z (company, bank account, visas, housing, schools), with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian). [Ask for a free first call](/en/#inscription).
 
 ## Mistakes to avoid
 

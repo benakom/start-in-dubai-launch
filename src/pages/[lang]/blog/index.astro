@@ -1,0 +1,10 @@
+---
+import CollectionHub from "../../../components/CollectionHub.astro";
+import { entries, langOf } from "../../../lib/site";
+export async function getStaticPaths() {
+  const langs = new Set((await entries("blog")).map((e: any) => langOf(e)));
+  return ["ar", "en", "es", "nl", "it"].filter((l) => langs.has(l as any)).map((lang) => ({ params: { lang } }));
+}
+const { lang } = Astro.params as any;
+---
+<CollectionHub lang={lang} coll="blog" />

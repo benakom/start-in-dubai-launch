@@ -147,4 +147,4 @@ L'immobiliare è uno degli investimenti più comuni a Dubai, e un immobile di al
 7. **Apri il conto bancario** con un dossier completo: attività, contratti o preventivi, origine dei fondi.
 8. **Imposta la contabilità** e le registrazioni fiscali fin dall'inizio.
 
-Se conti di trasferirti, prosegui con la nostra guida su [come trasferirsi a Dubai](/it/trasferirsi-a-dubai/). START IN DUBAI ti accompagna dall'inizio alla fine (società, conto bancario, visti, alloggio, scuole), con un unico interlocutore, nella tua lingua (arabo, francese, inglese, spagnolo, olandese, italiano). Apertura il 15 dicembre 2026, [iscrizione in anteprima](/it/#inscription).
+Se conti di trasferirti, prosegui con la nostra guida su [come trasferirsi a Dubai](/it/trasferirsi-a-dubai/). START IN DUBAI ti accompagna dall'inizio alla fine (società, conto bancario, visti, alloggio, scuole), con un unico interlocutore, nella tua lingua (arabo, francese, inglese, spagnolo, olandese, italiano). [Richiedi un primo colloquio gratuito](/it/#inscription).
