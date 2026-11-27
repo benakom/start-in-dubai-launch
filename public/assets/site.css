@@ -219,3 +219,6 @@
   [dir="rtl"] .stat:nth-child(2n) { border-left: 0; }
 }
 @media (prefers-reduced-motion: reduce) { .rv { opacity: 1; transform: none; } }
+
+/* bouton du menu : jamais pleine largeur (style.css met .btn à 100 % sur mobile) */
+.nav .btn { width: auto; min-height: 0; }
