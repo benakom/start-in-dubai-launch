@@ -36,10 +36,14 @@
   }
 
   /* ---------------------------------------------------------------- questions */
-  const COUNTRIES = ["Maroc", "France", "Belgique", "Suisse", "Canada", "Tunisie", "Algérie", "Sénégal",
-    "Côte d'Ivoire", "Luxembourg", "Émirats arabes unis", "Autre pays"];
-  const DIAL = { "Maroc": "+212", "France": "+33", "Belgique": "+32", "Suisse": "+41", "Canada": "+1", "Tunisie": "+216",
-    "Algérie": "+213", "Sénégal": "+221", "Côte d'Ivoire": "+225", "Luxembourg": "+352", "Émirats arabes unis": "+971" };
+  // Marocains du monde et francophones de partout : les pays où vivent le plus de nos visiteurs, puis « Autre pays ».
+  const COUNTRIES = ["Maroc", "France", "Espagne", "Italie", "Belgique", "Pays-Bas", "Allemagne", "Royaume-Uni",
+    "Suisse", "Canada", "États-Unis", "Émirats arabes unis", "Arabie saoudite", "Qatar", "Tunisie", "Algérie",
+    "Sénégal", "Côte d'Ivoire", "Luxembourg", "Autre pays"];
+  const DIAL = { "Maroc": "+212", "France": "+33", "Espagne": "+34", "Italie": "+39", "Belgique": "+32", "Pays-Bas": "+31",
+    "Allemagne": "+49", "Royaume-Uni": "+44", "Suisse": "+41", "Canada": "+1", "États-Unis": "+1",
+    "Émirats arabes unis": "+971", "Arabie saoudite": "+966", "Qatar": "+974", "Tunisie": "+216", "Algérie": "+213",
+    "Sénégal": "+221", "Côte d'Ivoire": "+225", "Luxembourg": "+352" };
   const STEPS = [
     { id: "profile", type: "single", q: "Vous êtes…", options: [
       { v: "investir", l: "Investisseur", s: "Immobilier, Golden Visa, résidence" },
