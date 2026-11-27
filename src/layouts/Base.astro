@@ -1,0 +1,55 @@
+---
+import { SITE } from "../data/site";
+interface Props { title: string; description: string; path: string; jsonld?: object[]; noindex?: boolean; ogType?: string }
+const { title, description, path, jsonld = [], noindex = false, ogType = "article" } = Astro.props;
+const url = new URL(path, SITE.url).href;
+const fullTitle = `${title} | ${SITE.name}`;
+---
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>{fullTitle}</title>
+  <meta name="description" content={description} />
+  <link rel="canonical" href={url} />
+  <link rel="alternate" hreflang="fr" href={url} />
+  <link rel="alternate" hreflang="x-default" href={url} />
+  {noindex && <meta name="robots" content="noindex, follow" />}
+  <meta name="theme-color" content="#0B0B0B" />
+  <meta property="og:type" content={ogType} />
+  <meta property="og:site_name" content={SITE.name} />
+  <meta property="og:title" content={title} />
+  <meta property="og:description" content={description} />
+  <meta property="og:url" content={url} />
+  <meta property="og:image" content={`${SITE.url}/assets/img/og.jpg`} />
+  <meta property="og:locale" content="fr_FR" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <link rel="icon" href="/assets/img/icon.png" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@800;900&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/assets/guide.css" />
+  {jsonld.map((d) => <script type="application/ld+json" set:html={JSON.stringify(d)} />)}
+</head>
+<body>
+  <header class="g-top">
+    <div class="g-wrap g-top-in">
+      <a href="/" class="g-logo" aria-label="START IN DUBAI, accueil"><img src="/assets/img/logo.webp" alt="START IN DUBAI" width="900" height="576" /></a>
+      <nav class="g-nav" aria-label="Navigation">
+        <a href="/guides/">Guides</a>
+        <a class="g-btn-sm" href={SITE.signup}>Je m'inscris</a>
+      </nav>
+    </div>
+  </header>
+  <main><slot /></main>
+  <footer class="g-foot">
+    <div class="g-wrap">
+      <img src="/assets/img/logo.webp" alt="START IN DUBAI" width="120" height="77" loading="lazy" />
+      <p>START IN DUBAI accompagne les Marocains du monde et les francophones du monde entier dans leur installation à Dubaï et aux Émirats.</p>
+      <p><a href="/guides/">Tous les guides</a> · <a href={SITE.signup}>Inscription en avant-première</a> · Immobilier : <a href="https://www.cevitas.ae">Cevitas Real Estate</a>, agence agréée RERA (ORN 49294)</p>
+      <p class="g-small">Informations générales, à jour à la date indiquée. Les règles (visas, fiscalité, licences) évoluent : elles sont vérifiées avec vous avant toute démarche et ne remplacent pas un conseil juridique ou fiscal personnalisé.</p>
+    </div>
+  </footer>
+</body>
+</html>
