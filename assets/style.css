@@ -351,6 +351,8 @@ h1 { margin: 0 0 16px; max-width: 980px; font-size: clamp(32px, min(4.6vw, 6.4vh
 .field input:focus, .field textarea:focus { border-color: var(--red); }
 .field input::placeholder, .field textarea::placeholder { color: rgba(11, 11, 11, .25); }
 
+.consent-note { max-width: 560px; margin: 14px 0 0; font-size: 13.5px; line-height: 1.5; color: var(--muted); }
+.consent-note .link { font-size: inherit; }
 .consent { display: flex; gap: 14px; align-items: flex-start; max-width: 560px; cursor: pointer; font-size: 15.5px; color: var(--ink-2); }
 .consent input { flex: none; width: 22px; height: 22px; margin: 1px 0 0; accent-color: var(--red); cursor: pointer; }
 .recap { margin: 0 0 24px; padding: 0; list-style: none; max-width: 560px; border-top: 1px solid var(--line); }

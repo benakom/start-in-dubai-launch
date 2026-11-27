@@ -36,22 +36,42 @@
   }
 
   /* ---------------------------------------------------------------- questions */
-  // Marocains du monde et francophones de partout : les pays où vivent le plus de nos visiteurs, puis « Autre pays ».
-  const COUNTRIES = ["Maroc", "France", "Espagne", "Italie", "Belgique", "Pays-Bas", "Allemagne", "Royaume-Uni",
-    "Suisse", "Canada", "États-Unis", "Émirats arabes unis", "Arabie saoudite", "Qatar", "Tunisie", "Algérie",
-    "Sénégal", "Côte d'Ivoire", "Luxembourg", "Autre pays"];
+  // Marocains du monde et francophones de partout : indicatifs des pays où vivent le plus de nos visiteurs.
   const DIAL = { "Maroc": "+212", "France": "+33", "Espagne": "+34", "Italie": "+39", "Belgique": "+32", "Pays-Bas": "+31",
     "Allemagne": "+49", "Royaume-Uni": "+44", "Suisse": "+41", "Canada": "+1", "États-Unis": "+1",
     "Émirats arabes unis": "+971", "Arabie saoudite": "+966", "Qatar": "+974", "Tunisie": "+216", "Algérie": "+213",
     "Sénégal": "+221", "Côte d'Ivoire": "+225", "Luxembourg": "+352" };
+  // Pays devinés depuis le fuseau horaire du téléphone : sert à pré-remplir l'indicatif WhatsApp (on ne pose plus la question du pays).
+  const TZ_COUNTRY = { "Africa/Casablanca": "Maroc", "Africa/El_Aaiun": "Maroc", "Europe/Paris": "France", "Europe/Madrid": "Espagne",
+    "Atlantic/Canary": "Espagne", "Africa/Ceuta": "Espagne", "Europe/Rome": "Italie", "Europe/Brussels": "Belgique", "Europe/Amsterdam": "Pays-Bas",
+    "Europe/Berlin": "Allemagne", "Europe/London": "Royaume-Uni", "Europe/Zurich": "Suisse", "Asia/Dubai": "Émirats arabes unis",
+    "Asia/Riyadh": "Arabie saoudite", "Asia/Qatar": "Qatar", "Africa/Tunis": "Tunisie", "Africa/Algiers": "Algérie", "Africa/Dakar": "Sénégal",
+    "Africa/Abidjan": "Côte d'Ivoire", "Europe/Luxembourg": "Luxembourg" };
+  const guessCountry = () => {
+    let tz = ""; try { tz = Intl.DateTimeFormat().resolvedOptions().timeZone || ""; } catch { /* */ }
+    if (TZ_COUNTRY[tz]) return TZ_COUNTRY[tz];
+    if (/^America\/(Toronto|Montreal|Vancouver|Edmonton|Winnipeg|Halifax|Regina|St_Johns|Moncton)/.test(tz)) return "Canada";
+    if (/^America\/(New_York|Chicago|Denver|Los_Angeles|Phoenix|Detroit|Anchorage|Indiana)/.test(tz)) return "États-Unis";
+    return "";
+  };
+  // Pays de résidence déduit de l'indicatif saisi (le plus long qui correspond).
+  const countryFromPhone = (phone) => {
+    const d = phone.replace(/[^\d+]/g, "");
+    if (!d.startsWith("+")) return guessCountry() || "Non précisé";
+    for (const len of [3, 2, 1]) {
+      const code = d.slice(0, len + 1);
+      if (code === "+1") { const g = guessCountry(); return g === "Canada" || g === "États-Unis" ? g : "Canada / États-Unis"; }
+      const hit = Object.keys(DIAL).find((c) => DIAL[c] === code);
+      if (hit) return hit;
+    }
+    return "Autre pays (" + d.slice(0, 4) + ")";
+  };
+  // Profil déduit du projet, ou choisi sur une carte « Vous êtes… » de la page (on ne repose alors pas la question).
+  const PROFILE_LABEL = { investir: "Investisseur", societe: "Entrepreneur", famille: "Famille", etudes: "Étudiant / parents" };
+  const NEED_PROFILE = { business: "societe", immobilier: "investir", portefeuille: "investir", residence: "investir", famille: "famille", ecoles: "famille", etudes: "etudes" };
+  const PRESET_NEEDS = { investir: ["immobilier", "residence"], societe: ["business"], famille: ["famille", "ecoles"], etudes: ["etudes"] };
   const STEPS = [
-    { id: "profile", type: "single", q: "Vous êtes…", options: [
-      { v: "investir", l: "Investisseur", s: "Immobilier, Golden Visa, résidence" },
-      { v: "societe", l: "Entrepreneur", s: "Créer ou développer ma société" },
-      { v: "famille", l: "Une famille qui veut s'installer", s: "Visas, logement, écoles" },
-      { v: "etudes", l: "Un étudiant ou ses parents", s: "Université, inscription, visa étudiant" },
-      { v: "plusieurs", l: "Un peu de tout", s: "Je ne sais pas encore par où commencer" } ] },
-    { id: "needs", type: "multi", q: "Qu'est-ce que vous voulez faire à Dubaï ?", help: "Plusieurs réponses possibles.", options: [
+    { id: "needs", type: "multi", q: "Votre projet à Dubaï ?", help: "Plusieurs réponses possibles.", options: [
       { v: "business", l: "Créer ou développer mon business" },
       { v: "immobilier", l: "Acheter un bien immobilier" },
       { v: "portefeuille", l: "Faire louer et gérer mon bien" },
@@ -60,23 +80,27 @@
       { v: "ecoles", l: "Inscrire mes enfants à l'école" },
       { v: "etudes", l: "Études supérieures : université, inscription" },
       { v: "banque", l: "Ouvrir un compte bancaire" } ] },
-    { id: "country", type: "single", compact: true, q: "Vous vivez actuellement…", options: COUNTRIES.map((c) => ({ v: c, l: c })) },
-    { id: "horizon", type: "single", q: "Quand pensez-vous vous lancer ?", options: [
+    { id: "horizon", type: "single", q: "Quand voulez-vous vous lancer ?", options: [
       "Dans les 3 prochains mois", "Dans 3 à 6 mois", "Dans 6 à 12 mois", "Je me renseigne pour plus tard"].map((h) => ({ v: h, l: h })) },
     { id: "firstName", type: "text", q: "Votre prénom ?", ph: "Tapez votre prénom…", ac: "given-name", max: 60 },
-    { id: "phone", type: "tel", q: ["Enchanté, {firstName}. Votre numéro WhatsApp ?", "Votre numéro WhatsApp ?"],
-      help: "Nous vous écrirons ici avant l'ouverture.", ph: "+212 6 12 34 56 78", ac: "tel", max: 30 },
-    { id: "email", type: "email", q: "Et votre e-mail ?", help: "Pour recevoir l'invitation au lancement.", ph: "nom@exemple.com", ac: "email", max: 120 },
-    { id: "message", type: "textarea", optional: true, q: "Un mot sur votre projet ?",
-      help: "Facultatif. Ex. : nous sommes 4, je veux ouvrir une société de conseil et inscrire les enfants à la rentrée.", ph: "Écrivez ici…", max: 1500 },
-    { id: "consent", type: "consent", q: ["Tout est bon, {firstName} ?", "Tout est bon ?"], help: "Vérifiez vos réponses, puis envoyez." },
+    { id: "phone", type: "tel", q: ["Enchanté, {firstName}. Votre WhatsApp ?", "Votre WhatsApp ?"],
+      help: "Nous vous écrirons ici avant l'ouverture. Vérifiez l'indicatif de votre pays.", ph: "+212 6 12 34 56 78", ac: "tel", max: 30 },
+    { id: "email", type: "email", final: true, q: ["Dernière étape, {firstName} : votre e-mail ?", "Dernière étape : votre e-mail ?"],
+      help: "Pour recevoir l'invitation au lancement.", ph: "nom@exemple.com", ac: "email", max: 120 },
   ];
   const LABEL = {}; STEPS.forEach((s) => (s.options || []).forEach((o) => (LABEL[s.id + ":" + o.v] = o.l)));
+  const NEEDS_I = STEPS.findIndex((s) => s.id === "needs");
 
-  const data = { profile: "", needs: [], country: "", horizon: "", firstName: "", phone: "", email: "", message: "", consent: false };
+  const data = { needs: [], horizon: "", firstName: "", phone: "", email: "", message: "" };
   const tf = $("#tf"), stage = $(".tf-stage", tf), bar = $(".tf-progress span", tf);
   const btnPrev = $("[data-prev]", tf), btnNext = $("[data-next]", tf);
-  let els = [], idx = 0, built = false, done = false, opener = null, honeypot;
+  let els = [], idx = 0, built = false, done = false, opener = null, honeypot, preset = "";
+  // questions réellement posées : le projet est sauté quand le visiteur a déjà choisi son profil sur la page
+  const flow = () => STEPS.map((_, i) => i).filter((i) => !(i === NEEDS_I && preset));
+  const profileOf = () => {
+    const cats = preset ? [preset] : [...new Set(data.needs.map((n) => NEED_PROFILE[n]).filter(Boolean))];
+    return { profile: cats.length === 1 ? cats[0] : "plusieurs", profileLabel: cats.map((c) => PROFILE_LABEL[c]).join(" + ") || "À préciser" };
+  };
 
   const ARROW = '<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>';
   const CHECK = '<svg class="check" viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12.5l4.5 4.5L19 7.5" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>';
@@ -109,16 +133,6 @@
           box.append(b);
         });
         inner.append(box);
-      } else if (s.type === "consent") {
-        inner.append(el("ul", "recap"));
-        const lab = el("label", "consent");
-        const cb = el("input"); cb.type = "checkbox"; cb.name = "consent";
-        cb.addEventListener("change", () => { data.consent = cb.checked; hideErr(); });
-        lab.append(cb, el("span", "", "J'accepte d'être recontacté(e) par START IN DUBAI et son partenaire Cevitas Real Estate au sujet de mon projet, par WhatsApp, téléphone ou e-mail."));
-        inner.append(lab);
-        honeypot = el("input"); honeypot.type = "text"; honeypot.name = "website"; honeypot.tabIndex = -1; honeypot.autocomplete = "off";
-        honeypot.setAttribute("aria-hidden", "true"); honeypot.style.cssText = "position:absolute;left:-9999px;width:1px;height:1px;opacity:0";
-        inner.append(honeypot);
       } else {
         const f = el("div", "field");
         const inp = s.type === "textarea" ? el("textarea") : el("input");
@@ -135,12 +149,21 @@
           if (s.type === "textarea") { inp.style.height = "auto"; inp.style.height = inp.scrollHeight + "px"; }
         });
         f.append(inp); inner.append(f);
+        if (s.final) { // dernière question : mention de recontact (envoyer = accepter) + piège à robots
+          const note = el("p", "consent-note", "En envoyant, vous acceptez d'être recontacté(e) par START IN DUBAI et son partenaire Cevitas Real Estate au sujet de votre projet (WhatsApp, téléphone ou e-mail). ");
+          const priv = el("button", "link", "Confidentialité"); priv.type = "button";
+          priv.addEventListener("click", () => $("#privacy").showModal());
+          note.append(priv); inner.append(note);
+          honeypot = el("input"); honeypot.type = "text"; honeypot.name = "website"; honeypot.tabIndex = -1; honeypot.autocomplete = "off";
+          honeypot.setAttribute("aria-hidden", "true"); honeypot.style.cssText = "position:absolute;left:-9999px;width:1px;height:1px;opacity:0";
+          inner.append(honeypot);
+        }
       }
 
       const act = el("div", "actions");
-      const ok = el("button", "ok", s.type === "consent" ? "Envoyer" : "OK"); ok.type = "button";
-      if (s.type !== "consent") ok.insertAdjacentHTML("beforeend", CHECK.replace('class="check" ', 'width="18" height="18" '));
-      ok.addEventListener("click", () => (s.type === "consent" ? submit() : next()));
+      const ok = el("button", "ok", s.final ? "Envoyer" : "OK"); ok.type = "button";
+      if (!s.final) ok.insertAdjacentHTML("beforeend", CHECK.replace('class="check" ', 'width="18" height="18" '));
+      ok.addEventListener("click", () => (s.final ? submit() : next()));
       const hint = el("span", "hint"); hint.innerHTML = s.type === "textarea" ? "<b>Maj + Entrée</b> pour aller à la ligne" : "appuyez sur <b>Entrée ↵</b>";
       act.append(ok, hint);
       inner.append(act, el("p", "err"));
@@ -181,14 +204,17 @@
     nw.style.transition = "none"; nw.classList.toggle("is-up", !fwd && !instant); void nw.offsetWidth; nw.style.transition = "";
     nw.classList.remove("is-up"); nw.classList.add("is-on");
     idx = n;
-    const s = STEPS[n];
+    const s = STEPS[n], F = flow(), pos = F.indexOf(n);
     if (s) {
       $(".q", nw).textContent = qText(s);
-      if (s.type === "tel") { const i = $("input", nw); if (!data.phone && DIAL[data.country]) { i.value = data.phone = DIAL[data.country] + " "; } }
-      if (s.type === "consent") renderRecap(nw);
+      $(".q-num span", nw).textContent = pos + 1;
+      // profil choisi sur la page : on le confirme au lieu de reposer la question
+      if (pos === 0 && preset) $(".q-help", nw).textContent = PROFILE_LABEL[preset] + " : c'est noté ✓";
+      else $(".q-help", nw).textContent = s.help || "";
+      if (s.type === "tel") { const i = $("input", nw), c = guessCountry(); if (!data.phone && DIAL[c]) { i.value = data.phone = DIAL[c] + " "; } }
     }
-    bar.style.width = (done ? 100 : (n / STEPS.length) * 100) + "%";
-    btnPrev.disabled = n === 0; btnNext.disabled = n >= STEPS.length - 1;
+    bar.style.width = (done ? 100 : (Math.max(pos, 0) / F.length) * 100) + "%";
+    btnPrev.disabled = pos <= 0; btnNext.disabled = pos < 0 || pos >= F.length - 1;
     tf.classList.toggle("is-done", n >= STEPS.length);
     hideErr();
     setTimeout(() => focusStep(nw, s), instant ? 30 : 380);
@@ -204,8 +230,8 @@
     target.focus({ preventScroll: true });
     if (target.setSelectionRange && target.type !== "email") { const L = target.value.length; try { target.setSelectionRange(L, L); } catch { /* */ } }
   }
-  function next() { if (!validate()) return; if (idx < STEPS.length - 1) show(idx + 1); }
-  function prev() { if (idx > 0 && idx < STEPS.length) show(idx - 1); }
+  function next() { if (!validate()) return; const F = flow(), p = F.indexOf(idx); if (p >= 0 && p < F.length - 1) show(F[p + 1]); }
+  function prev() { const F = flow(), p = F.indexOf(idx); if (p > 0) show(F[p - 1]); }
 
   function pick(s, b) {
     hideErr();
@@ -217,7 +243,6 @@
     }
     $$(".choice", b.parentNode).forEach((x) => x.setAttribute("aria-checked", String(x === b)));
     data[s.id] = b.dataset.v;
-    if (s.id === "country" && data.phone.trim() && /^\+\d{1,3}\s?$/.test(data.phone)) data.phone = ""; // indicatif seul : on le remplace
     b.classList.remove("blink"); void b.offsetWidth; b.classList.add("blink");
     const at = idx;
     setTimeout(() => { if (idx === at) next(); }, reduce ? 150 : 420);
@@ -235,20 +260,8 @@
       case "text": if (v.length < 2) return err("Indiquez votre prénom."), false; break;
       case "tel": { const d = v.replace(/\D/g, ""); if (d.length < 8 || d.length > 15) return err("Ce numéro semble incomplet. Ajoutez l'indicatif, par exemple +212 6 12 34 56 78."), false; break; }
       case "email": if (!/^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(v)) return err("Cette adresse e-mail ne semble pas correcte."), false; break;
-      case "consent": if (!data.consent) return err("Cochez la case pour que nous puissions vous recontacter."), false; break;
     }
     return true;
-  }
-
-  function renderRecap(sec) {
-    const ul = $(".recap", sec); ul.textContent = "";
-    const rows = [
-      ["Profil", LABEL["profile:" + data.profile]],
-      ["Projet", data.needs.map((n) => LABEL["needs:" + n]).join(", ")],
-      ["Pays", data.country], ["Horizon", data.horizon],
-      ["Prénom", data.firstName.trim()], ["WhatsApp", data.phone.trim()], ["E-mail", data.email.trim()],
-    ];
-    rows.forEach(([k, v]) => { const li = el("li"); li.append(el("span", "", k), el("span", "", v || "—")); ul.append(li); });
   }
 
   /* ---------------------------------------------------------------- envoi */
@@ -321,11 +334,12 @@
     const ok = $(".ok", els[idx]);
     if (honeypot && honeypot.value) { finish(); return; }
     const q = new URLSearchParams(location.search);
+    const { profile, profileLabel } = profileOf();
     const payload = {
       firstName: data.firstName.trim(), phone: data.phone.trim(), email: data.email.trim().toLowerCase(),
-      profile: data.profile, profileLabel: LABEL["profile:" + data.profile],
+      profile, profileLabel, profileFromPage: !!preset,
       needs: data.needs, needsLabels: data.needs.map((n) => LABEL["needs:" + n]),
-      country: data.country, horizon: data.horizon, message: data.message.trim(), consent: true,
+      country: countryFromPhone(data.phone), horizon: data.horizon, message: data.message.trim(), consent: true,
       source: (C.crm && C.crm.source) || "start-in-dubai", tag: (C.crm && C.crm.tag) || "Start in Dubai", page: location.href.split("#")[0], referrer: document.referrer || "",
       utm: Object.fromEntries([...q.entries()].filter(([k]) => k.startsWith("utm_"))),
       language: navigator.language || "", launchDate: LAUNCH_ISO, submittedAt: new Date().toISOString(),
@@ -333,7 +347,7 @@
     ok.disabled = true; ok.textContent = "Envoi…";
     try {
       await send(payload);
-      window.gtag?.("event", "generate_lead", { lead_source: "countdown", profile: data.profile });
+      window.gtag?.("event", "generate_lead", { lead_source: "countdown", profile });
       window.fbq?.("track", "Lead");
       store.set("sid_lead_v1", { firstName: payload.firstName, at: payload.submittedAt });
       finish();
@@ -370,12 +384,12 @@
     opener = e && e.currentTarget;
     if (!built) build();
     tf.hidden = false; document.body.style.overflow = "hidden";
-    // carte « Vous êtes… » : le profil est déjà choisi, on commence à la question suivante
-    const preset = opener && opener.dataset && opener.dataset.profile;
-    if (preset && !done) {
-      data.profile = preset;
-      $$(".choice", els[0]).forEach((x) => x.setAttribute("aria-checked", String(x.dataset.v === preset)));
-      if (idx === 0) idx = 1;
+    // carte « Vous êtes… » : le profil est choisi, on ne repose pas la question du projet
+    const p = opener && opener.dataset && opener.dataset.profile;
+    if (p && PRESET_NEEDS[p] && !done) {
+      preset = p; data.needs = [...PRESET_NEEDS[p]];
+      $$(".choice", els[NEEDS_I]).forEach((x) => x.setAttribute("aria-checked", String(data.needs.includes(x.dataset.v))));
+      if (idx === NEEDS_I) idx = flow()[0];
     }
     show(done ? STEPS.length : idx, true);
   }
@@ -402,8 +416,7 @@
       // Entrée sur un choix : on le sélectionne s'il s'agit d'un choix unique pas encore coché, sinon on passe à la suite
       if (t.classList && t.classList.contains("choice") && s && s.type === "single" && t.getAttribute("aria-checked") !== "true") { t.click(); return; }
       if (!s) return;
-      if (t.type === "checkbox" && !t.checked) { t.click(); return; }   // 1re Entrée : coche ; 2e Entrée : envoie
-      s.type === "consent" ? submit() : next();
+      s.final ? submit() : next();
       return;
     }
     if (!s || e.metaKey || e.ctrlKey || e.altKey) return;
