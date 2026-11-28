@@ -192,7 +192,7 @@ Each country has its own criteria (home, length of stay, centre of interests, na
 6. **In a free zone:** do not count on 0% without having checked each condition of the qualifying regime.
 7. **Open a local account** to separate your flows clearly: see our guide to [opening a bank account in Dubai](/en/open-bank-account-dubai/).
 
-Before you start, our guide to [moving to Dubai](/en/moving-to-dubai/) gives you the order of the steps, and the one on the [Golden Visa](/en/golden-visa-dubai/) helps you choose your residence. START IN DUBAI supports you from A to Z (company, bank account, visas, housing, schools), with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian). For tax questions specific to your home country, always have your situation validated by a tax adviser in that country.
+Before you start, our guide to [moving to Dubai](/en/moving-to-dubai/) gives you the order of the steps, and the one on the [Golden Visa](/en/golden-visa-dubai/) helps you choose your residence. Start in Dubai supports you from A to Z (company, bank account, visas, housing, schools), with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian). For tax questions specific to your home country, always have your situation validated by a tax adviser in that country.
 
 ## Go further
 

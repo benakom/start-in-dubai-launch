@@ -164,6 +164,6 @@ The sequence has waiting periods that you cannot shorten: the 45-day creditor pe
 
 ## Do you need help?
 
-START IN DUBAI supports people from A to Z (company, bank account, visas, housing, schools), with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian). We are not a law firm or an auditor: a liquidation needs a liquidator and, for the final accounts, an auditor, and the FTA decides on deregistration. If you are choosing between closing and restructuring, or planning your next structure, [book a free first call](/en/#inscription).
+Start in Dubai supports people from A to Z (company, bank account, visas, housing, schools), with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian). We are not a law firm or an auditor: a liquidation needs a liquidator and, for the final accounts, an auditor, and the FTA decides on deregistration. If you are choosing between closing and restructuring, or planning your next structure, [book a free first call](/en/#inscription).
 
 Last checked on u.ae, Dubai.ae and the Federal Tax Authority pages in November 2026. Procedures, fees and deadlines change: the authority concerned remains the reference.

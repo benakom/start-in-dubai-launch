@@ -177,4 +177,4 @@ La legge n. 11 del 2013 (art. 23) prevede una multa **da 500 a 150.000 AED** per
 6. Francesi: decidi tra polizza locale più FrancExpat, oppure offerta dedicata agli Emirati.
 7. Annota la data di scadenza e rinnova prima del visto.
 
-L'assicurazione della famiglia è uno dei punti che START IN DUBAI organizza per te al momento del trasferimento, insieme a visti, alloggio e iscrizione dei figli, in un unico percorso e nella tua lingua. Per un trasferimento con figli, leggi anche la nostra guida per [trasferirsi a Dubai con la famiglia](/it/trasferirsi-a-dubai-con-la-famiglia/). [Richiedi un primo colloquio gratuito](/it/#inscription).
+L'assicurazione della famiglia è uno dei punti che Start in Dubai organizza per te al momento del trasferimento, insieme a visti, alloggio e iscrizione dei figli, in un unico percorso e nella tua lingua. Per un trasferimento con figli, leggi anche la nostra guida per [trasferirsi a Dubai con la famiglia](/it/trasferirsi-a-dubai-con-la-famiglia/). [Richiedi un primo colloquio gratuito](/it/#inscription).

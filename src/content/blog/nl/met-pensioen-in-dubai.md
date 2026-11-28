@@ -199,7 +199,7 @@ Is uw plan zes maanden hier en zes maanden daar te leven, kies dan uw visum daar
 7. **Een lokale bankrekening openen** om uw pensioen te ontvangen en de huur te betalen: zie onze gids over [wonen in Dubai](/nl/wonen-in-dubai/) in het dagelijks leven.
 8. **Uw verblijven in het thuisland plannen** om de regel van 180 dagen na te leven.
 
-Bereidt u uw pensioen in de Emiraten voor? START IN DUBAI begeleidt u van A tot Z (visum, bankrekening, huisvesting, vestiging), met één aanspreekpunt dat uw taal spreekt. Om erover te praten, [vraag een eerste gratis gesprek aan](/nl/#inscription).
+Bereidt u uw pensioen in de Emiraten voor? Start in Dubai begeleidt u van A tot Z (visum, bankrekening, huisvesting, vestiging), met één aanspreekpunt dat uw taal spreekt. Om erover te praten, [vraag een eerste gratis gesprek aan](/nl/#inscription).
 
 ## Verder lezen
 

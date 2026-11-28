@@ -191,4 +191,4 @@ Exclusief medisch onderzoek, zorgverzekering, eventuele btw, bank, boekhouding e
 5. **Vergelijk minstens twee rechtsgebieden**, waaronder een mainland-optie als uw klanten lokaal zijn.
 6. **Controleer elk bedrag** op het officiële tarief van de zone als dat bestaat.
 
-Wilt u een helder budget voordat u begint? START IN DUBAI begeleidt u van A tot Z (bedrijf, bankrekening, visa, verhuizing van uw gezin), met één aanspreekpunt, in uw eigen taal. [Een eerste gratis gesprek aanvragen](/nl/#inscription).
+Wilt u een helder budget voordat u begint? Start in Dubai begeleidt u van A tot Z (bedrijf, bankrekening, visa, verhuizing van uw gezin), met één aanspreekpunt, in uw eigen taal. [Een eerste gratis gesprek aanvragen](/nl/#inscription).

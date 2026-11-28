@@ -219,4 +219,4 @@ Avant de signer chez le nouvel employeur, comparez aussi la structure de son off
 9. Le nouvel employeur dépose le nouveau permis bien avant la limite de 90 jours.
 10. Les visas de votre famille sont prévus dans le calendrier.
 
-Pour les règles générales de l’emploi aux Émirats, de la recherche de poste aux arnaques à éviter, voir notre guide pour [travailler à Dubaï](/travailler-a-dubai/). Si votre changement de poste s’accompagne d’un déménagement, d’un nouveau visa familial ou d’une inscription scolaire, START IN DUBAI peut coordonner ces démarches avec un seul interlocuteur, dans votre langue : [premier échange gratuit](/#inscription).
+Pour les règles générales de l’emploi aux Émirats, de la recherche de poste aux arnaques à éviter, voir notre guide pour [travailler à Dubaï](/travailler-a-dubai/). Si votre changement de poste s’accompagne d’un déménagement, d’un nouveau visa familial ou d’une inscription scolaire, Start in Dubai peut coordonner ces démarches avec un seul interlocuteur, dans votre langue : [premier échange gratuit](/#inscription).

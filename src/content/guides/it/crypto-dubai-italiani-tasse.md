@@ -122,4 +122,4 @@ La direttiva DAC8 impone ai prestatori di servizi per cripto-attività di raccog
 5. Prepara il conto bancario a Dubai per gli on-ramp e off-ramp: leggi [aprire un conto bancario a Dubai](/it/aprire-conto-bancario-dubai/), dove le banche possono considerare le crypto un'attività a rischio.
 6. Per chi pensa a una struttura societaria, leggi [holding a Dubai per italiani](/it/holding-dubai-per-italiani/) e [esterovestizione](/it/esterovestizione-societa-dubai/).
 
-START IN DUBAI ti accompagna nel trasferimento, nella società, nel conto bancario e nei visti, con un solo interlocutore che parla italiano. [Richiedi un primo colloquio gratuito e senza impegno](/it/#inscription). Per tasse e investimenti rivolgiti a un commercialista e a un consulente abilitato: non forniamo consulenza fiscale né finanziaria.
+Start in Dubai ti accompagna nel trasferimento, nella società, nel conto bancario e nei visti, con un solo interlocutore che parla italiano. [Richiedi un primo colloquio gratuito e senza impegno](/it/#inscription). Per tasse e investimenti rivolgiti a un commercialista e a un consulente abilitato: non forniamo consulenza fiscale né finanziaria.

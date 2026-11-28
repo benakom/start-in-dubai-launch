@@ -130,4 +130,4 @@ De Emiraten heffen geen inkomstenbelasting op particulieren, maar dat betekent n
 
 ## Hulp bij uw vestiging
 
-START IN DUBAI begeleidt u van A tot Z bij uw verhuizing (visum, bankrekening, huisvesting, vestiging), met één aanspreekpunt dat Nederlands spreekt. Wij geven geen pensioen- of beleggingsadvies: daarvoor verwijzen wij u naar een onafhankelijk adviseur. Wilt u eerst weten wat uw verhuizing inhoudt? [Vraag een eerste gratis gesprek aan](/nl/#inscription).
+Start in Dubai begeleidt u van A tot Z bij uw verhuizing (visum, bankrekening, huisvesting, vestiging), met één aanspreekpunt dat Nederlands spreekt. Wij geven geen pensioen- of beleggingsadvies: daarvoor verwijzen wij u naar een onafhankelijk adviseur. Wilt u eerst weten wat uw verhuizing inhoudt? [Vraag een eerste gratis gesprek aan](/nl/#inscription).

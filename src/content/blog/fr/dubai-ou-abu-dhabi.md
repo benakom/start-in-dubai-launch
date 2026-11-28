@@ -179,4 +179,4 @@ Le meilleur conseil : passez quelques jours dans chaque ville, en semaine, aux h
 
 Si vous venez en famille, notre guide pour [s’installer à Dubaï en famille](/s-installer-a-dubai-en-famille/) détaille les visas des proches, les écoles et le logement.
 
-Vous hésitez entre Dubaï et Abu Dhabi pour votre projet ? START IN DUBAI vous accompagne de A à Z (société, compte bancaire, visas et Golden Visa, logement, installation de la famille, études supérieures), avec un seul interlocuteur, dans votre langue. [Demander un premier échange gratuit](/#inscription).
+Vous hésitez entre Dubaï et Abu Dhabi pour votre projet ? Start in Dubai vous accompagne de A à Z (société, compte bancaire, visas et Golden Visa, logement, installation de la famille, études supérieures), avec un seul interlocuteur, dans votre langue. [Demander un premier échange gratuit](/#inscription).

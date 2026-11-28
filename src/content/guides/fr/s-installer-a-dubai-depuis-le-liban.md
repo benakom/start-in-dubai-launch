@@ -165,6 +165,6 @@ Renseignez-vous auprès du ministère libanais des Affaires étrangères pour co
 6. Offre d’emploi vérifiée, sans frais à payer, ou admission universitaire.
 7. Assurance santé valable aux Émirats dès l’arrivée ([guide de l’assurance santé](/blog/assurance-sante-dubai/)).
 
-Pour cadrer votre projet (société, visa, banque, logement, famille), [premier échange gratuit](/#inscription) avec START IN DUBAI, un seul interlocuteur qui parle français. Pour l’immobilier, notre partenaire Cevitas Real Estate est une agence agréée RERA : https://www.cevitas.ae.
+Pour cadrer votre projet (société, visa, banque, logement, famille), [premier échange gratuit](/#inscription) avec Start in Dubai, un seul interlocuteur qui parle français. Pour l’immobilier, notre partenaire Cevitas Real Estate est une agence agréée RERA : https://www.cevitas.ae.
 
 Pour la suite (logement, école, vie quotidienne), lisez notre guide pour [s’installer à Dubaï](/s-installer-a-dubai/).

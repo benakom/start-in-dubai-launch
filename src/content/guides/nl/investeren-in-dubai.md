@@ -106,7 +106,7 @@ Het Golden Visa is een langdurig verblijf, van 5 of 10 jaar afhankelijk van de c
 
 ## En vastgoed?
 
-Vastgoed is een van de meest gebruikelijke investeringen in Dubai, en een woning van minimaal 2 miljoen AED kan recht geven op het Golden Visa. Het is een vak apart, met eigen regels, kosten en risico's. START IN DUBAI adviseert niet over de keuze van woningen: voor vastgoed werken we samen met [Cevitas Real Estate](https://www.cevitas.ae), een Franstalig makelaarskantoor met RERA-erkenning (ORN 49294).
+Vastgoed is een van de meest gebruikelijke investeringen in Dubai, en een woning van minimaal 2 miljoen AED kan recht geven op het Golden Visa. Het is een vak apart, met eigen regels, kosten en risico's. Start in Dubai adviseert niet over de keuze van woningen: voor vastgoed werken we samen met [Cevitas Real Estate](https://www.cevitas.ae), een Franstalig makelaarskantoor met RERA-erkenning (ORN 49294).
 
 ## De voordelen van investeren in de Verenigde Arabische Emiraten
 
@@ -148,7 +148,7 @@ Vastgoed is een van de meest gebruikelijke investeringen in Dubai, en een woning
 7. **Open de bankrekening** met een compleet dossier: activiteit, contracten of offertes, herkomst van het geld.
 8. **Zet de boekhouding** en de fiscale registraties meteen op.
 
-Gaat u verhuizen, ga dan verder met onze gids om [naar Dubai te emigreren](/nl/emigreren-naar-dubai/). START IN DUBAI begeleidt u van A tot Z (bedrijf, bankrekening, visa, woning, scholen), met één aanspreekpunt, in uw taal (Arabisch, Frans, Engels, Spaans, Nederlands, Italiaans). De dienst is open: [vraag een eerste gratis gesprek aan](/nl/#inscription).
+Gaat u verhuizen, ga dan verder met onze gids om [naar Dubai te emigreren](/nl/emigreren-naar-dubai/). Start in Dubai begeleidt u van A tot Z (bedrijf, bankrekening, visa, woning, scholen), met één aanspreekpunt, in uw taal (Arabisch, Frans, Engels, Spaans, Nederlands, Italiaans). De dienst is open: [vraag een eerste gratis gesprek aan](/nl/#inscription).
 
 ## Verder lezen
 

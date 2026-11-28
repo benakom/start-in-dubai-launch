@@ -200,4 +200,4 @@ Attenzione: un visto di residenza viene annullato anche se resti più di 180 gio
 6. App UAEICP installata e account UAE Pass creato.
 7. Promemoria in agenda sei mesi prima della scadenza.
 
-Stai arrivando a Dubai e vuoi che visto, Emirates ID, conto bancario e alloggio si susseguano senza perdite di tempo? START IN DUBAI se ne occupa con te, con un unico interlocutore, nella tua lingua. Per cominciare, [richiedi un primo colloquio gratuito](/it/#inscription).
+Stai arrivando a Dubai e vuoi che visto, Emirates ID, conto bancario e alloggio si susseguano senza perdite di tempo? Start in Dubai se ne occupa con te, con un unico interlocutore, nella tua lingua. Per cominciare, [richiedi un primo colloquio gratuito](/it/#inscription).

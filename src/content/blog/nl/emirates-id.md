@@ -200,4 +200,4 @@ Let op: een verblijfsvisum wordt ook geannuleerd als u meer dan 180 opeenvolgend
 6. UAEICP-app geïnstalleerd en UAE Pass-account aangemaakt.
 7. Herinnering in uw agenda zes maanden voor het verlopen.
 
-Komt u naar Dubai en wilt u dat visum, Emirates ID, bankrekening en woning soepel op elkaar aansluiten? START IN DUBAI regelt het samen met u, met één aanspreekpunt, in uw eigen taal. Om te beginnen kunt u [een gratis eerste gesprek aanvragen](/nl/#inscription).
+Komt u naar Dubai en wilt u dat visum, Emirates ID, bankrekening en woning soepel op elkaar aansluiten? Start in Dubai regelt het samen met u, met één aanspreekpunt, in uw eigen taal. Om te beginnen kunt u [een gratis eerste gesprek aanvragen](/nl/#inscription).

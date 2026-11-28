@@ -207,4 +207,4 @@ For the overall budget of a move, car included, see our guide to the [cost of li
 5. If your licence cannot be exchanged, choose an approved school and ask for the golden chance.
 6. Keep a budget margin: 1,050 AED for an exchange, more for the driving school route.
 
-START IN DUBAI organises your move from A to Z, licence included: visas, Emirates ID, housing, bank and everyday procedures, with a single point of contact, in your language. For life on the ground, also read our guide to [living in Dubai](/en/living-in-dubai/). [Request a free first call](/en/#inscription).
+Start in Dubai organises your move from A to Z, licence included: visas, Emirates ID, housing, bank and everyday procedures, with a single point of contact, in your language. For life on the ground, also read our guide to [living in Dubai](/en/living-in-dubai/). [Request a free first call](/en/#inscription).

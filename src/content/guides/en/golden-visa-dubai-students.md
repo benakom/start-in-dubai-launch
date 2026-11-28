@@ -182,4 +182,4 @@ If your university is outside the UAE, also find out whether it appears in the r
 - [ ] I know the duration confirmed by the issuing authority
 - [ ] I have a plan for the day the visa ends
 
-START IN DUBAI helps students and families plan studies, residence and settling in, in your language (Arabic, French, English, Spanish, Dutch, Italian). [Ask for a free first call](/en/#inscription).
+Start in Dubai helps students and families plan studies, residence and settling in, in your language (Arabic, French, English, Spanish, Dutch, Italian). [Ask for a free first call](/en/#inscription).

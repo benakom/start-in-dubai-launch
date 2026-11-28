@@ -137,4 +137,4 @@ Per il visto studentesco leggi la guida al [visto per studenti a Dubai](/it/vist
 - [ ] Controllare traduzione e legalizzazione richieste dall'ente italiano.
 - [ ] Conservare copia di ogni ricevuta e della corrispondenza.
 
-START IN DUBAI ti accompagna per la parte emiratina dei tuoi studi o del tuo trasferimento (scelta dell'istituto, iscrizione, [visto](/it/visto-di-residenza-dubai/), alloggio) con un solo interlocutore che parla italiano. Per parlarne, [richiedi un primo colloquio gratuito e senza impegno](/it/#inscription). Il riconoscimento del titolo in Italia resta una decisione degli enti italiani competenti: START IN DUBAI non può garantirne l'esito.
+Start in Dubai ti accompagna per la parte emiratina dei tuoi studi o del tuo trasferimento (scelta dell'istituto, iscrizione, [visto](/it/visto-di-residenza-dubai/), alloggio) con un solo interlocutore che parla italiano. Per parlarne, [richiedi un primo colloquio gratuito e senza impegno](/it/#inscription). Il riconoscimento del titolo in Italia resta una decisione degli enti italiani competenti: Start in Dubai non può garantirne l'esito.

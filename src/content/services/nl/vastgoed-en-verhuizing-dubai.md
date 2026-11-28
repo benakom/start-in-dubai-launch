@@ -4,7 +4,7 @@ description: "Vastgoed kopen in Dubai en verhuizen: aankoop en beheer via Cevita
 h1: "Vastgoed en verhuizen naar Dubai: uw aankoop afgestemd op de rest van uw project"
 keyword: "vastgoed en verhuizing naar dubai"
 secondary: ["vastgoed kopen dubai om er te wonen", "eigenaar in dubai vanuit het buitenland", "vastgoed kopen en verblijfsvisum dubai", "vastgoed kopen en bankrekening dubai", "verhuizen naar dubai en kopen"]
-intro: "Voor vastgoed werkt START IN DUBAI samen met Cevitas Real Estate, een door de RERA erkend kantoor (ORN 49294), dat de aankoop en het beheer van uw pand verzorgt. Wij coördineren alles wat eromheen speelt: verblijfsvisum of Golden Visa, bankrekening, eventueel een bedrijf, verhuizing van het gezin. U hebt één aanspreekpunt voor het geheel, in uw taal, of u nu in Dubai woont of in het buitenland."
+intro: "Voor vastgoed werkt Start in Dubai samen met Cevitas Real Estate, een door de RERA erkend kantoor (ORN 49294), dat de aankoop en het beheer van uw pand verzorgt. Wij coördineren alles wat eromheen speelt: verblijfsvisum of Golden Visa, bankrekening, eventueel een bedrijf, verhuizing van het gezin. U hebt één aanspreekpunt voor het geheel, in uw taal, of u nu in Dubai woont of in het buitenland."
 essentials:
   - "Eén aanspreekpunt voor uw vastgoedproject en alles wat ervan afhangt: visum, bank, bedrijf, gezin."
   - "Zoeken, kopen en beheren van uw pand zijn in handen van Cevitas Real Estate, RERA-erkend kantoor (ORN 49294)."
@@ -26,8 +26,8 @@ steps:
 profile: investir
 cluster: investir
 faq:
-  - q: "Verkoopt START IN DUBAI vastgoed?"
-    a: "Nee. START IN DUBAI adviseert niet over de keuze van panden. Zoeken, kopen en beheren zijn toevertrouwd aan onze partner Cevitas Real Estate, RERA-erkend kantoor (ORN 49294). Wij coördineren de rest van uw project: visum, bank, bedrijf en installatie."
+  - q: "Verkoopt Start in Dubai vastgoed?"
+    a: "Nee. Start in Dubai adviseert niet over de keuze van panden. Zoeken, kopen en beheren zijn toevertrouwd aan onze partner Cevitas Real Estate, RERA-erkend kantoor (ORN 49294). Wij coördineren de rest van uw project: visum, bank, bedrijf en installatie."
   - q: "Wat kost deze begeleiding?"
     a: "De kosten van de aankoop (registratie bij het Dubai Land Department, makelaarshonorarium) hangen af van elke transactie: Cevitas Real Estate geeft u die in detail voor het pand dat u interesseert. Voor onze installatiediensten is het eerste gesprek gratis en vrijblijvend, en daar doen wij u ons voorstel."
   - q: "Geeft het kopen van een pand mij automatisch een visum?"
@@ -67,9 +67,9 @@ U kunt in Nederland, België, Marokko, elders in Europa, Canada, Afrika of al in
 
 ### Cevitas Real Estate: aankoop en beheer van het pand
 
-De keuze van het pand, de onderhandeling, de transactie en het beheer na de aankoop vormen een beroep apart, dat in Dubai door de RERA wordt gereguleerd. Wij vertrouwen ze toe aan onze partner [Cevitas Real Estate](https://www.cevitas.ae), RERA-erkend kantoor (ORN 49294). START IN DUBAI adviseert niet over de keuze van panden. Voor het verhuren van een pand zonder ter plaatse te zijn, stelt Cevitas zijn dienst voor op de pagina [verhuurbeheer in Dubai](https://www.cevitas.ae/gestion-locative-dubai).
+De keuze van het pand, de onderhandeling, de transactie en het beheer na de aankoop vormen een beroep apart, dat in Dubai door de RERA wordt gereguleerd. Wij vertrouwen ze toe aan onze partner [Cevitas Real Estate](https://www.cevitas.ae), RERA-erkend kantoor (ORN 49294). Start in Dubai adviseert niet over de keuze van panden. Voor het verhuren van een pand zonder ter plaatse te zijn, stelt Cevitas zijn dienst voor op de pagina [verhuurbeheer in Dubai](https://www.cevitas.ae/gestion-locative-dubai).
 
-### START IN DUBAI: alles wat eromheen speelt
+### Start in Dubai: alles wat eromheen speelt
 
 Wij nemen alles op ons wat afhangt van uw aankoop of die voorwaardelijk maakt:
 
@@ -105,7 +105,7 @@ De stukken die bij de vastgoedtransactie horen, vraagt Cevitas Real Estate u.
 
 ## Waarom één aanspreekpunt
 
-Aankoop, visum, bank en installatie hangen samen: een vertraging bij het ene blokkeert de andere. Bij START IN DUBAI bewaakt één persoon de planning, werkt rechtstreeks samen met Cevitas Real Estate en houdt u op de hoogte, in uw taal (Arabisch, Frans, Engels, Spaans, Nederlands of Italiaans). Voor een overzicht van de manieren om in de Emiraten te investeren, buiten vastgoed om, leest u onze gids [investeren in Dubai](/nl/investeren-in-dubai/).
+Aankoop, visum, bank en installatie hangen samen: een vertraging bij het ene blokkeert de andere. Bij Start in Dubai bewaakt één persoon de planning, werkt rechtstreeks samen met Cevitas Real Estate en houdt u op de hoogte, in uw taal (Arabisch, Frans, Engels, Spaans, Nederlands of Italiaans). Voor een overzicht van de manieren om in de Emiraten te investeren, buiten vastgoed om, leest u onze gids [investeren in Dubai](/nl/investeren-in-dubai/).
 
 ## De fouten die wij u besparen
 

@@ -105,7 +105,7 @@ Ti inviamo l’elenco adatto alla tua pratica e verifichiamo ogni documento prim
 
 ## Perché un unico referente
 
-Costituire una società a Dubai non è una singola pratica ma una catena: licenza, sede, visto, Emirates ID, banca, tasse, poi spesso la famiglia, la casa e la scuola. Quando ogni anello è affidato a un fornitore diverso, le pratiche si contraddicono e i tempi si allungano. Con START IN DUBAI una sola persona segue tutto, nella tua lingua (arabo, francese, inglese, spagnolo, olandese o italiano). Possiamo occuparci anche dell’[apertura dei tuoi conti bancari](/it/services/apertura-conto-bancario-dubai/) e del trasferimento della tua famiglia.
+Costituire una società a Dubai non è una singola pratica ma una catena: licenza, sede, visto, Emirates ID, banca, tasse, poi spesso la famiglia, la casa e la scuola. Quando ogni anello è affidato a un fornitore diverso, le pratiche si contraddicono e i tempi si allungano. Con Start in Dubai una sola persona segue tutto, nella tua lingua (arabo, francese, inglese, spagnolo, olandese o italiano). Possiamo occuparci anche dell’[apertura dei tuoi conti bancari](/it/services/apertura-conto-bancario-dubai/) e del trasferimento della tua famiglia.
 
 ## Gli errori che ti evitiamo
 

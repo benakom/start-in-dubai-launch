@@ -195,7 +195,7 @@ Vous pouvez lancer la création depuis Casablanca, Paris, Bruxelles, Montréal o
 
 Si votre projet est aussi de vous installer, lisez aussi notre guide pour s’installer à Dubaï : logement, écoles et vie quotidienne s’organisent en parallèle de la société.
 
-START IN DUBAI accompagne ce parcours de A à Z (société, compte bancaire, visas, logement, écoles), avec un seul interlocuteur, dans votre langue (arabe, français, anglais, espagnol, néerlandais, italien). [Demandez un premier échange gratuit](/#inscription).
+Start in Dubai accompagne ce parcours de A à Z (société, compte bancaire, visas, logement, écoles), avec un seul interlocuteur, dans votre langue (arabe, français, anglais, espagnol, néerlandais, italien). [Demandez un premier échange gratuit](/#inscription).
 
 ## Les erreurs à éviter
 

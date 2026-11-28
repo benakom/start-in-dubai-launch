@@ -188,7 +188,7 @@ Si además piensas comprar una vivienda, esta guía no trata del inmobiliario: d
 7. Oferta de empleo verificada (nombre de la empresa, sin ningún gasto exigido).
 8. Seguro médico para el periodo previo a la residencia.
 
-START IN DUBAI acompaña a los marroquíes de la A a la Z (empresa, cuenta bancaria, visados, vivienda, colegios), con un único interlocutor, en tu idioma (árabe, francés, inglés, español, neerlandés, italiano). Para el resto del recorrido, lee nuestra guía general para [mudarte a Dubái](/es/mudarse-a-dubai/).
+Start in Dubai acompaña a los marroquíes de la A a la Z (empresa, cuenta bancaria, visados, vivienda, colegios), con un único interlocutor, en tu idioma (árabe, francés, inglés, español, neerlandés, italiano). Para el resto del recorrido, lee nuestra guía general para [mudarte a Dubái](/es/mudarse-a-dubai/).
 
 ## Para ir más lejos
 

@@ -52,7 +52,7 @@ const jsonld = [
     keywords: [d.keyword, ...d.secondary].join(", "), about: d.keyword,
     ...(d.essentials.length ? { abstract: d.essentials.join(" ") } : {}),
     author: { "@type": "Organization", "@id": `${SITE_URL}/#organization`, name: AUTHOR.name, url: AUTHOR.url },
-    publisher: { "@type": "Organization", "@id": `${SITE_URL}/#organization`, name: "START IN DUBAI", url: SITE_URL + "/", logo: { "@type": "ImageObject", url: `${SITE_URL}/assets/img/logo.webp` } },
+    publisher: { "@type": "Organization", "@id": `${SITE_URL}/#organization`, name: "Start in Dubai", url: SITE_URL + "/", logo: { "@type": "ImageObject", url: `${SITE_URL}/assets/img/logo.webp` } },
     citation: d.sources.map((s: any) => s.url),
   },
   {
@@ -105,7 +105,7 @@ const jsonld = [
         )}
 
         <section class="author" id="auteur" aria-label={u.author}>
-          <img src="/assets/img/logo-256.webp" alt="START IN DUBAI" width="96" height="62" loading="lazy" />
+          <img src="/assets/img/logo-256.webp" alt="Start in Dubai" width="96" height="62" loading="lazy" />
           <div>
             <p class="n">{u.author}</p>
             <p>{u.teamBio}</p>

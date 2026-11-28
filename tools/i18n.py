@@ -1,4 +1,4 @@
-"""Page d'avant-première START IN DUBAI en 6 langues (fr, ar, en, es, nl, it).
+"""Page d'avant-première Start in Dubai en 6 langues (fr, ar, en, es, nl, it).
 
   python3 tools/i18n.py extract   # une seule fois : index.html (fr) -> i18n/template.html + i18n/fr.json
   python3 tools/i18n.py build     # i18n/template.html + i18n/<lang>.json -> index.html, en/, ar/, es/, nl/, it/ + sitemap.xml
@@ -176,7 +176,7 @@ def nav_block(lang, signup):
             [(pre + "guides/#societe", so), (pre + "guides/#visas", vi), (pre + "guides/#etudes", et)]
     lis = "".join(f'<li><a href="{h}">{t}</a></li>' for h, t in items)
     return (f'    <nav class="nav" aria-label="{menu}" data-nav>\n      <div class="wrap nav-in">\n'
-            f'        <a class="nav-logo" href="{pre}" aria-label="START IN DUBAI"><img src="/assets/img/logo-256.webp" alt="START IN DUBAI" width="256" height="165"></a>\n'
+            f'        <a class="nav-logo" href="{pre}" aria-label="Start in Dubai"><img src="/assets/img/logo-256.webp" alt="Start in Dubai" width="256" height="165"></a>\n'
             f'        <ul class="nav-links" id="nav-links">{lis}</ul>\n'
             f'        <button class="btn btn-sm nav-cta" type="button" data-open-form><span class="btn-txt">{signup}</span></button>\n'
             f'        <button class="nav-burger" type="button" aria-expanded="false" aria-controls="nav-links" data-burger><span></span><b class="sr">{menu}</b></button>\n'

@@ -202,4 +202,4 @@ Un salarié qui doit travailler un jour férié a en principe droit à un jour d
 7. Réserver tôt les voyages de l’Aïd.
 8. Accepter une invitation à l’iftar si on vous la propose : c’est la meilleure façon de comprendre le mois.
 
-Vous préparez votre installation et voulez caler les démarches (visa, Emirates ID, banque, logement, école) en tenant compte du Ramadan et de l’Aïd ? START IN DUBAI vous accompagne de A à Z, avec un seul interlocuteur, dans votre langue. [Demander un premier échange gratuit](/#inscription).
+Vous préparez votre installation et voulez caler les démarches (visa, Emirates ID, banque, logement, école) en tenant compte du Ramadan et de l’Aïd ? Start in Dubai vous accompagne de A à Z, avec un seul interlocuteur, dans votre langue. [Demander un premier échange gratuit](/#inscription).

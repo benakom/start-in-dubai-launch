@@ -148,4 +148,4 @@ Since you may be reading this to plan repeat visits: u.ae describes a multiple-e
 - [ ] My passport is valid for the stay
 - [ ] I have a plan for what comes next: residence, job, company or departure
 
-START IN DUBAI helps you choose the right residence route and plan the settlement (bank, housing, schools), in your language (Arabic, French, English, Spanish, Dutch, Italian). [Ask for a free first call](/en/#inscription).
+Start in Dubai helps you choose the right residence route and plan the settlement (bank, housing, schools), in your language (Arabic, French, English, Spanish, Dutch, Italian). [Ask for a free first call](/en/#inscription).

@@ -198,4 +198,4 @@ Une consultante crée une LLC du mainland à Dubaï. Sur son premier exercice, e
 8. Préparer un modèle de facture fiscale conforme, en dirhams, et un logiciel compatible avec la facture électronique.
 9. Faire valider votre régime d'impôt sur les sociétés par un comptable agréé avant la première déclaration.
 
-Vous voulez exercer votre métier de conseil depuis Dubaï ? START IN DUBAI vous accompagne de A à Z (société, compte bancaire, visas et installation de votre famille), avec un seul interlocuteur, dans votre langue. [Demander un premier échange gratuit](/#inscription).
+Vous voulez exercer votre métier de conseil depuis Dubaï ? Start in Dubai vous accompagne de A à Z (société, compte bancaire, visas et installation de votre famille), avec un seul interlocuteur, dans votre langue. [Demander un premier échange gratuit](/#inscription).

@@ -108,7 +108,7 @@ Depending on the category, you will notably be asked for:
 
 ## Why one point of contact
 
-The visa is never isolated. It often depends on a company, a property or a job, and it conditions the bank account, the lease and the children's school. With START IN DUBAI, one person follows your residence and everything that follows from it, in your language (English, Arabic, French, Spanish, Dutch or Italian). If your visa goes through a company, we set it up with you: see our [company formation guide](/en/company-formation-dubai/).
+The visa is never isolated. It often depends on a company, a property or a job, and it conditions the bank account, the lease and the children's school. With Start in Dubai, one person follows your residence and everything that follows from it, in your language (English, Arabic, French, Spanish, Dutch or Italian). If your visa goes through a company, we set it up with you: see our [company formation guide](/en/company-formation-dubai/).
 
 ## The mistakes we help you avoid
 

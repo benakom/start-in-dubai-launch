@@ -193,7 +193,7 @@ Chaque pays a ses propres critères (foyer, durée de séjour, centre des intér
 6. **En zone franche** : ne comptez pas sur le 0 % sans avoir vérifié chaque condition du régime qualifiant.
 7. **Ouvrez un compte local** pour séparer clairement vos flux : voyez notre guide pour [ouvrir un compte bancaire à Dubaï](/ouvrir-un-compte-bancaire-a-dubai/).
 
-Avant de vous lancer, notre guide pour [s'installer à Dubaï](/s-installer-a-dubai/) vous donne l'ordre des étapes, et celui sur le [Golden Visa](/golden-visa-dubai/) vous aide à choisir votre résidence. START IN DUBAI vous accompagne de A à Z (société, compte bancaire, visas, logement, écoles), avec un seul interlocuteur, dans votre langue (arabe, français, anglais, espagnol, néerlandais, italien). Pour les questions fiscales propres à votre pays d'origine, faites toujours valider votre situation par un conseiller fiscal de ce pays.
+Avant de vous lancer, notre guide pour [s'installer à Dubaï](/s-installer-a-dubai/) vous donne l'ordre des étapes, et celui sur le [Golden Visa](/golden-visa-dubai/) vous aide à choisir votre résidence. Start in Dubai vous accompagne de A à Z (société, compte bancaire, visas, logement, écoles), avec un seul interlocuteur, dans votre langue (arabe, français, anglais, espagnol, néerlandais, italien). Pour les questions fiscales propres à votre pays d'origine, faites toujours valider votre situation par un conseiller fiscal de ce pays.
 
 ## Pour aller plus loin
 

@@ -137,4 +137,4 @@ U kunt ook DigiD ophalen via een DigiD-balie in het buitenland. Of dat bij het c
 - **Een kopie van uw ID meenemen** naar het videogesprek: dat is niet toegestaan.
 - **Een nieuw nummer niet koppelen**: wijzig het via de app of met een sms naar uw oude nummer.
 
-START IN DUBAI begeleidt u bij uw installatie van A tot Z: visum, Emirates ID, bank en alledaagse formaliteiten, met één aanspreekpunt, in uw eigen taal. Voor de eerste maanden leest u ook onze gids over [wonen in Dubai](/nl/wonen-in-dubai/). [Een gratis eerste gesprek aanvragen](/nl/#inscription).
+Start in Dubai begeleidt u bij uw installatie van A tot Z: visum, Emirates ID, bank en alledaagse formaliteiten, met één aanspreekpunt, in uw eigen taal. Voor de eerste maanden leest u ook onze gids over [wonen in Dubai](/nl/wonen-in-dubai/). [Een gratis eerste gesprek aanvragen](/nl/#inscription).

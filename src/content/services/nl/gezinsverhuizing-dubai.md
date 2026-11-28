@@ -107,7 +107,7 @@ Na een gratis kennismakingsgesprek stellen wij een verhuisplan op met data: wat 
 
 ## Waarom één aanspreekpunt
 
-Het gezinsvisum hangt af van de huurovereenkomst, de huurovereenkomst hangt af van de Emirates ID, de school vraagt het visum en de bankrekening vraagt al het overige. Met meerdere dienstverleners houdt niemand het geheel in handen. Bij START IN DUBAI coördineert één persoon elke stap, in uw taal (Arabisch, Frans, Engels, Spaans, Nederlands of Italiaans). Loopt uw visum via een bedrijf of een Golden Visa, dan behandelen wij dat ook: zie onze dienst [Golden Visa en verblijfsvisa](/nl/services/golden-visa-en-visa-dubai/).
+Het gezinsvisum hangt af van de huurovereenkomst, de huurovereenkomst hangt af van de Emirates ID, de school vraagt het visum en de bankrekening vraagt al het overige. Met meerdere dienstverleners houdt niemand het geheel in handen. Bij Start in Dubai coördineert één persoon elke stap, in uw taal (Arabisch, Frans, Engels, Spaans, Nederlands of Italiaans). Loopt uw visum via een bedrijf of een Golden Visa, dan behandelen wij dat ook: zie onze dienst [Golden Visa en verblijfsvisa](/nl/services/golden-visa-en-visa-dubai/).
 
 ## De fouten die wij u besparen
 

@@ -1,4 +1,4 @@
-/* START IN DUBAI : assistant en bas à droite. Deux questions (projet, échéance), un petit formulaire
+/* Start in Dubai : assistant en bas à droite. Deux questions (projet, échéance), un petit formulaire
    (prénom, WhatsApp, e-mail facultatif), puis le lead part dans la table « leads » de Cevitas,
    que crm-dispatch pousse dans Oleadoo (canal « bot-start-in-dubai », tag « Bot Start in Dubai »).
    Chargé par site.js après le chargement de la page : aucun effet sur la vitesse d'affichage. */
@@ -13,66 +13,66 @@
   const RTL = document.documentElement.dir === "rtl";
 
   const T = {
-    fr: { open: "Ouvrir l'assistant START IN DUBAI", close: "Fermer", teaser: "Un projet à Dubaï ? Parlons-en 👋", sub: "Assistant · l'équipe vous recontacte",
-      hello: "Bonjour 👋 Je suis l'assistant START IN DUBAI.", q1: "Quel est votre projet à Dubaï ?",
+    fr: { open: "Ouvrir l'assistant Start in Dubai", close: "Fermer", teaser: "Un projet à Dubaï ? Parlons-en 👋", sub: "Assistant · l'équipe vous recontacte",
+      hello: "Bonjour 👋 Je suis l'assistant Start in Dubai.", q1: "Quel est votre projet à Dubaï ?",
       p: ["Créer ma société", "Visa et résidence", "M'installer en famille", "Études", "Compte bancaire", "Autre projet"],
       q2: "C'est pour quand ?", w: ["Dans le mois", "D'ici 3 mois", "Dans 3 à 6 mois", "Je me renseigne"],
       q3: "Parfait. Laissez vos coordonnées : un conseiller de l'équipe vous contacte.",
       name: "Prénom", phone: "WhatsApp ou téléphone, avec l'indicatif", php: "+33 6 12 34 56 78", email: "E-mail (facultatif)", send: "Être contacté",
       consent: "En envoyant, vous acceptez d'être recontacté au sujet de votre projet.", privacy: "Confidentialité",
       eName: "Indiquez votre prénom.", ePhone: "Indiquez le numéro avec l'indicatif du pays, par exemple +33 6 12 34 56 78.", eEmail: "Cette adresse e-mail n'est pas valide.", eSend: "L'envoi n'a pas abouti. Réessayez dans un instant.",
-      sending: "Envoi…", done: "Merci {n} ! C'est bien reçu. Un membre de l'équipe START IN DUBAI va vous contacter très prochainement, sur WhatsApp ou par téléphone.",
-      again: "Votre demande est bien enregistrée : l'équipe START IN DUBAI va vous contacter.", restart: "Nouvelle demande", news: "Recevoir aussi nos guides par e-mail (facultatif)" },
-    en: { open: "Open the START IN DUBAI assistant", close: "Close", teaser: "A project in Dubai? Let's talk 👋", sub: "Assistant · our team gets back to you",
-      hello: "Hello 👋 I'm the START IN DUBAI assistant.", q1: "What is your Dubai project?",
+      sending: "Envoi…", done: "Merci {n} ! C'est bien reçu. Un membre de l'équipe Start in Dubai va vous contacter très prochainement, sur WhatsApp ou par téléphone.",
+      again: "Votre demande est bien enregistrée : l'équipe Start in Dubai va vous contacter.", restart: "Nouvelle demande", news: "Recevoir aussi nos guides par e-mail (facultatif)" },
+    en: { open: "Open the Start in Dubai assistant", close: "Close", teaser: "A project in Dubai? Let's talk 👋", sub: "Assistant · our team gets back to you",
+      hello: "Hello 👋 I'm the Start in Dubai assistant.", q1: "What is your Dubai project?",
       p: ["Set up my company", "Visa and residency", "Move with my family", "Studies", "Bank account", "Something else"],
       q2: "When are you planning it?", w: ["Within a month", "Within 3 months", "In 3 to 6 months", "Just exploring"],
       q3: "Great. Leave your details and an adviser from our team will contact you.",
       name: "First name", phone: "WhatsApp or phone, with country code", php: "+44 7700 900123", email: "Email (optional)", send: "Get contacted",
       consent: "By sending, you agree to be contacted about your project.", privacy: "Privacy",
       eName: "Please enter your first name.", ePhone: "Please enter the number with its country code, e.g. +44 7700 900123.", eEmail: "This email address is not valid.", eSend: "Sending failed. Please try again in a moment.",
-      sending: "Sending…", done: "Thank you {n}! We've got it. A member of the START IN DUBAI team will contact you very soon, on WhatsApp or by phone.",
-      again: "Your request is registered: the START IN DUBAI team will contact you.", restart: "New request", news: "Also receive our guides by email (optional)" },
-    ar: { open: "فتح مساعد START IN DUBAI", close: "إغلاق", teaser: "لديك مشروع في دبي؟ لنتحدث 👋", sub: "المساعد · فريقنا يتواصل معك",
-      hello: "مرحبًا 👋 أنا مساعد START IN DUBAI.", q1: "ما هو مشروعك في دبي؟",
+      sending: "Sending…", done: "Thank you {n}! We've got it. A member of the Start in Dubai team will contact you very soon, on WhatsApp or by phone.",
+      again: "Your request is registered: the Start in Dubai team will contact you.", restart: "New request", news: "Also receive our guides by email (optional)" },
+    ar: { open: "فتح مساعد Start in Dubai", close: "إغلاق", teaser: "لديك مشروع في دبي؟ لنتحدث 👋", sub: "المساعد · فريقنا يتواصل معك",
+      hello: "مرحبًا 👋 أنا مساعد Start in Dubai.", q1: "ما هو مشروعك في دبي؟",
       p: ["تأسيس شركتي", "التأشيرة والإقامة", "الانتقال مع عائلتي", "الدراسة", "حساب بنكي", "مشروع آخر"],
       q2: "متى تخطط لذلك؟", w: ["خلال شهر", "خلال 3 أشهر", "بعد 3 إلى 6 أشهر", "أجمع المعلومات فقط"],
       q3: "ممتاز. اترك بياناتك وسيتواصل معك أحد مستشاري فريقنا.",
       name: "الاسم الأول", phone: "واتساب أو هاتف، مع رمز الدولة", php: "+971 50 123 4567", email: "البريد الإلكتروني (اختياري)", send: "تواصلوا معي",
       consent: "بالإرسال، توافق على أن نتواصل معك بشأن مشروعك.", privacy: "الخصوصية",
       eName: "يرجى كتابة اسمك الأول.", ePhone: "يرجى كتابة الرقم مع رمز الدولة، مثل ‎+971 50 123 4567.", eEmail: "عنوان البريد الإلكتروني غير صالح.", eSend: "تعذّر الإرسال. حاول مرة أخرى بعد قليل.",
-      sending: "جارٍ الإرسال…", done: "شكرًا {n}! وصلنا طلبك. سيتواصل معك أحد أعضاء فريق START IN DUBAI قريبًا جدًا عبر واتساب أو الهاتف.",
-      again: "تم تسجيل طلبك: سيتواصل معك فريق START IN DUBAI.", restart: "طلب جديد", news: "أرغب أيضًا في تلقي أدلتكم عبر البريد الإلكتروني (اختياري)" },
-    es: { open: "Abrir el asistente de START IN DUBAI", close: "Cerrar", teaser: "¿Un proyecto en Dubái? Hablemos 👋", sub: "Asistente · nuestro equipo le contacta",
-      hello: "Hola 👋 Soy el asistente de START IN DUBAI.", q1: "¿Cuál es su proyecto en Dubái?",
+      sending: "جارٍ الإرسال…", done: "شكرًا {n}! وصلنا طلبك. سيتواصل معك أحد أعضاء فريق Start in Dubai قريبًا جدًا عبر واتساب أو الهاتف.",
+      again: "تم تسجيل طلبك: سيتواصل معك فريق Start in Dubai.", restart: "طلب جديد", news: "أرغب أيضًا في تلقي أدلتكم عبر البريد الإلكتروني (اختياري)" },
+    es: { open: "Abrir el asistente de Start in Dubai", close: "Cerrar", teaser: "¿Un proyecto en Dubái? Hablemos 👋", sub: "Asistente · nuestro equipo le contacta",
+      hello: "Hola 👋 Soy el asistente de Start in Dubai.", q1: "¿Cuál es su proyecto en Dubái?",
       p: ["Crear mi empresa", "Visado y residencia", "Mudarme con mi familia", "Estudios", "Cuenta bancaria", "Otro proyecto"],
       q2: "¿Para cuándo?", w: ["En el próximo mes", "En los próximos 3 meses", "En 3 a 6 meses", "Solo me informo"],
       q3: "Perfecto. Déjenos sus datos y un asesor del equipo le contactará.",
       name: "Nombre", phone: "WhatsApp o teléfono, con prefijo", php: "+34 612 34 56 78", email: "Email (opcional)", send: "Quiero que me contacten",
       consent: "Al enviar, acepta que le contactemos sobre su proyecto.", privacy: "Privacidad",
       eName: "Indique su nombre.", ePhone: "Indique el número con el prefijo del país, por ejemplo +34 612 34 56 78.", eEmail: "Este email no es válido.", eSend: "No se pudo enviar. Inténtelo de nuevo en un momento.",
-      sending: "Enviando…", done: "¡Gracias, {n}! Lo hemos recibido. Un miembro del equipo START IN DUBAI le contactará muy pronto por WhatsApp o por teléfono.",
-      again: "Su solicitud está registrada: el equipo START IN DUBAI le contactará.", restart: "Nueva solicitud", news: "Recibir también nuestras guías por email (opcional)" },
-    nl: { open: "De assistent van START IN DUBAI openen", close: "Sluiten", teaser: "Een project in Dubai? Laten we praten 👋", sub: "Assistent · ons team neemt contact op",
-      hello: "Hallo 👋 Ik ben de assistent van START IN DUBAI.", q1: "Wat is uw project in Dubai?",
+      sending: "Enviando…", done: "¡Gracias, {n}! Lo hemos recibido. Un miembro del equipo Start in Dubai le contactará muy pronto por WhatsApp o por teléfono.",
+      again: "Su solicitud está registrada: el equipo Start in Dubai le contactará.", restart: "Nueva solicitud", news: "Recibir también nuestras guías por email (opcional)" },
+    nl: { open: "De assistent van Start in Dubai openen", close: "Sluiten", teaser: "Een project in Dubai? Laten we praten 👋", sub: "Assistent · ons team neemt contact op",
+      hello: "Hallo 👋 Ik ben de assistent van Start in Dubai.", q1: "Wat is uw project in Dubai?",
       p: ["Mijn bedrijf oprichten", "Visum en verblijf", "Verhuizen met mijn gezin", "Studeren", "Bankrekening", "Iets anders"],
       q2: "Wanneer wilt u starten?", w: ["Binnen een maand", "Binnen 3 maanden", "Over 3 tot 6 maanden", "Ik oriënteer me"],
       q3: "Prima. Laat uw gegevens achter, dan neemt een adviseur van ons team contact met u op.",
       name: "Voornaam", phone: "WhatsApp of telefoon, met landcode", php: "+31 6 12345678", email: "E-mail (optioneel)", send: "Neem contact met mij op",
       consent: "Door te verzenden gaat u ermee akkoord dat wij contact met u opnemen over uw project.", privacy: "Privacy",
       eName: "Vul uw voornaam in.", ePhone: "Vul het nummer in met de landcode, bijvoorbeeld +31 6 12345678.", eEmail: "Dit e-mailadres is ongeldig.", eSend: "Verzenden is mislukt. Probeer het zo opnieuw.",
-      sending: "Verzenden…", done: "Bedankt, {n}! We hebben het ontvangen. Iemand van het START IN DUBAI-team neemt heel snel contact met u op via WhatsApp of telefoon.",
-      again: "Uw aanvraag is geregistreerd: het START IN DUBAI-team neemt contact met u op.", restart: "Nieuwe aanvraag", news: "Ook onze gidsen per e-mail ontvangen (optioneel)" },
-    it: { open: "Apri l'assistente di START IN DUBAI", close: "Chiudi", teaser: "Un progetto a Dubai? Parliamone 👋", sub: "Assistente · il team La ricontatta",
-      hello: "Buongiorno 👋 Sono l'assistente di START IN DUBAI.", q1: "Qual è il Suo progetto a Dubai?",
+      sending: "Verzenden…", done: "Bedankt, {n}! We hebben het ontvangen. Iemand van het Start in Dubai-team neemt heel snel contact met u op via WhatsApp of telefoon.",
+      again: "Uw aanvraag is geregistreerd: het Start in Dubai-team neemt contact met u op.", restart: "Nieuwe aanvraag", news: "Ook onze gidsen per e-mail ontvangen (optioneel)" },
+    it: { open: "Apri l'assistente di Start in Dubai", close: "Chiudi", teaser: "Un progetto a Dubai? Parliamone 👋", sub: "Assistente · il team La ricontatta",
+      hello: "Buongiorno 👋 Sono l'assistente di Start in Dubai.", q1: "Qual è il Suo progetto a Dubai?",
       p: ["Aprire la mia società", "Visto e residenza", "Trasferirmi con la famiglia", "Studi", "Conto bancario", "Altro progetto"],
       q2: "Per quando?", w: ["Entro un mese", "Entro 3 mesi", "Tra 3 e 6 mesi", "Mi sto informando"],
       q3: "Perfetto. Lasci i Suoi dati e un consulente del team La contatterà.",
       name: "Nome", phone: "WhatsApp o telefono, con prefisso", php: "+39 312 345 6789", email: "Email (facoltativa)", send: "Voglio essere contattato",
       consent: "Inviando, accetta di essere ricontattato per il Suo progetto.", privacy: "Privacy",
       eName: "Inserisca il Suo nome.", ePhone: "Inserisca il numero con il prefisso internazionale, ad esempio +39 312 345 6789.", eEmail: "Questa email non è valida.", eSend: "Invio non riuscito. Riprovi tra un attimo.",
-      sending: "Invio…", done: "Grazie, {n}! Abbiamo ricevuto la Sua richiesta. Un membro del team START IN DUBAI La contatterà molto presto su WhatsApp o per telefono.",
-      again: "La Sua richiesta è registrata: il team START IN DUBAI La contatterà.", restart: "Nuova richiesta", news: "Ricevere anche le nostre guide via email (facoltativo)" },
+      sending: "Invio…", done: "Grazie, {n}! Abbiamo ricevuto la Sua richiesta. Un membro del team Start in Dubai La contatterà molto presto su WhatsApp o per telefono.",
+      again: "La Sua richiesta è registrata: il team Start in Dubai La contatterà.", restart: "Nuova richiesta", news: "Ricevere anche le nostre guide via email (facoltativo)" },
   };
   const t = T[LANG] || T.en, FR = T.fr;
 
@@ -161,10 +161,10 @@ body:has(.sticky.is-on) .sb{bottom:calc(92px + env(safe-area-inset-bottom))}
   const tx = el("button", null, "×"); tx.type = "button"; tx.setAttribute("aria-label", t.close);
   teaser.append(document.createTextNode(t.teaser), tx);
 
-  const panel = el("section", "sb-panel"); panel.hidden = true; panel.setAttribute("role", "dialog"); panel.setAttribute("aria-label", "START IN DUBAI");
+  const panel = el("section", "sb-panel"); panel.hidden = true; panel.setAttribute("role", "dialog"); panel.setAttribute("aria-label", "Start in Dubai");
   const head = el("header", "sb-head");
   const hImg = el("img"); hImg.src = logo; hImg.alt = ""; hImg.width = 42; hImg.height = 42;
-  const hTxt = el("div"); hTxt.append(el("b", null, "START IN DUBAI"), el("small", null, t.sub));
+  const hTxt = el("div"); hTxt.append(el("b", null, "Start in Dubai"), el("small", null, t.sub));
   const x = el("button", "sb-x", "×"); x.type = "button"; x.setAttribute("aria-label", t.close);
   head.append(hImg, hTxt, x);
   const body = el("div", "sb-body"); body.setAttribute("aria-live", "polite");
@@ -263,7 +263,7 @@ body:has(.sticky.is-on) .sb{bottom:calc(92px + env(safe-area-inset-bottom))}
         store.set("sid_bot_lead", { name, at: new Date().toISOString() });
         done(name, f);
       } catch (ex) {
-        console.error("[START IN DUBAI] bot :", ex);
+        console.error("[Start in Dubai] bot :", ex);
         err.textContent = t.eSend;
         send.disabled = false; send.textContent = t.send;
       }

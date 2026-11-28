@@ -199,4 +199,4 @@ Notre guide pour [travailler à Dubaï](/travailler-a-dubai/) détaille les sign
 9. Offre et entreprise vérifiées sur les services officiels avant toute suite.
 10. Aucun paiement demandé, aucun document original envoyé.
 
-Une fois l’offre signée, viennent le visa, le logement, la banque et, le cas échéant, l’installation de la famille. START IN DUBAI peut les coordonner avec un seul interlocuteur, dans votre langue : [premier échange gratuit](/#inscription).
+Une fois l’offre signée, viennent le visa, le logement, la banque et, le cas échéant, l’installation de la famille. Start in Dubai peut les coordonner avec un seul interlocuteur, dans votre langue : [premier échange gratuit](/#inscription).

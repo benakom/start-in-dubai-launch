@@ -197,7 +197,7 @@ If your plan is to live six months here and six months there, choose your visa a
 7. **Open a local bank account** to receive your pension and pay rent: see our guide to [living in Dubai](/en/living-in-dubai/) day to day.
 8. **Plan your stays at home** to respect the 180-day rule.
 
-Preparing your retirement in the UAE? START IN DUBAI supports you from A to Z (visa, bank account, housing, settling in), with a single point of contact who speaks your language. To talk about it, [request a free first conversation](/en/#inscription).
+Preparing your retirement in the UAE? Start in Dubai supports you from A to Z (visa, bank account, housing, settling in), with a single point of contact who speaks your language. To talk about it, [request a free first conversation](/en/#inscription).
 
 ## Go further
 

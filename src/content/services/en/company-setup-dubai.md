@@ -105,7 +105,7 @@ We send you the list adapted to your file and check every document before submis
 
 ## Why one point of contact
 
-Setting up a company in Dubai is not one procedure but a chain: licence, premises, visa, Emirates ID, bank, taxes, then often family, housing and school. When each link is handled by a different provider, files contradict each other and delays grow. With START IN DUBAI, one person follows everything, in your language (English, Arabic, French, Spanish, Dutch or Italian). We can also handle [the opening of your bank accounts](/en/services/bank-account-opening-dubai/) and your family's relocation.
+Setting up a company in Dubai is not one procedure but a chain: licence, premises, visa, Emirates ID, bank, taxes, then often family, housing and school. When each link is handled by a different provider, files contradict each other and delays grow. With Start in Dubai, one person follows everything, in your language (English, Arabic, French, Spanish, Dutch or Italian). We can also handle [the opening of your bank accounts](/en/services/bank-account-opening-dubai/) and your family's relocation.
 
 ## The mistakes we help you avoid
 

@@ -170,7 +170,7 @@ Pour une entreprise du mainland, l’offre d’emploi passe en principe par le M
 7. Ne payez jamais de frais de recrutement.
 8. Une fois le visa obtenu, enchaînez : banque, logement, Ejari, assurance de la famille. Tout est dans notre guide pour [s’installer à Dubaï](/s-installer-a-dubai/).
 
-START IN DUBAI vous aide à organiser votre installation une fois l’emploi trouvé (visas, logement, banque, écoles), dans votre langue (arabe, français, anglais, espagnol, néerlandais, italien). [Demandez un premier échange gratuit](/#inscription).
+Start in Dubai vous aide à organiser votre installation une fois l’emploi trouvé (visas, logement, banque, écoles), dans votre langue (arabe, français, anglais, espagnol, néerlandais, italien). [Demandez un premier échange gratuit](/#inscription).
 
 ## Pour aller plus loin
 

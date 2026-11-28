@@ -148,4 +148,4 @@ La Farnesina segnala un fenomeno crescente di offerte di lavoro fasulle e di pro
 7. **Apri un conto locale** e sistema patente, assicurazione e abitazione.
 8. **Chiedi, se ti serve, il certificato di residenza fiscale emiratino** quando i criteri sono rispettati.
 
-START IN DUBAI ti accompagna nella parte emiratina (società, conto bancario, visti e Golden Visa, alloggio, installazione della famiglia) con un solo interlocutore che parla italiano. Per parlarne, [richiedi un primo colloquio gratuito e senza impegno](/it/#inscription). La consulenza fiscale e la scelta della tua posizione in Italia restano al tuo commercialista: START IN DUBAI non le fornisce.
+Start in Dubai ti accompagna nella parte emiratina (società, conto bancario, visti e Golden Visa, alloggio, installazione della famiglia) con un solo interlocutore che parla italiano. Per parlarne, [richiedi un primo colloquio gratuito e senza impegno](/it/#inscription). La consulenza fiscale e la scelta della tua posizione in Italia restano al tuo commercialista: Start in Dubai non le fornisce.

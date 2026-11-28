@@ -106,7 +106,7 @@ The Golden Visa is a long-term residence, of 5 or 10 years depending on the cate
 
 ## What about real estate?
 
-Real estate is one of the most common investments in Dubai, and a property worth at least 2 million AED can qualify for the Golden Visa. It is a profession in its own right, with its own rules, costs and risks. START IN DUBAI does not advise on choosing properties: for real estate, we work with [Cevitas Real Estate](https://www.cevitas.ae), an RERA-licensed agency (ORN 49294).
+Real estate is one of the most common investments in Dubai, and a property worth at least 2 million AED can qualify for the Golden Visa. It is a profession in its own right, with its own rules, costs and risks. Start in Dubai does not advise on choosing properties: for real estate, we work with [Cevitas Real Estate](https://www.cevitas.ae), an RERA-licensed agency (ORN 49294).
 
 ## The advantages of investing in the United Arab Emirates
 
@@ -148,7 +148,7 @@ Real estate is one of the most common investments in Dubai, and a property worth
 7. **Open the bank account** with a complete file: activity, contracts or quotes, source of funds.
 8. **Set up accounting** and tax registrations from the start.
 
-If you plan to move, follow on with our guide to [moving to Dubai](/en/moving-to-dubai/). START IN DUBAI supports you from A to Z (company, bank account, visas, housing, schools), with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian). [Ask for a free first call](/en/#inscription).
+If you plan to move, follow on with our guide to [moving to Dubai](/en/moving-to-dubai/). Start in Dubai supports you from A to Z (company, bank account, visas, housing, schools), with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian). [Ask for a free first call](/en/#inscription).
 
 ## Go further
 

@@ -192,7 +192,7 @@ Ogni paese ha i propri criteri (famiglia, durata di soggiorno, centro degli inte
 6. **In zona franca**: non contare sullo 0% senza aver verificato ogni condizione del regime qualificato.
 7. **Apri un conto locale** per separare chiaramente i tuoi flussi: vedi la nostra guida per [aprire un conto bancario a Dubai](/it/aprire-conto-bancario-dubai/).
 
-Prima di lanciarti, la nostra guida per [trasferirsi a Dubai](/it/trasferirsi-a-dubai/) ti dà l'ordine dei passaggi, e quella sul [Golden Visa](/it/golden-visa-dubai/) ti aiuta a scegliere la tua residenza. START IN DUBAI ti accompagna dall'inizio alla fine (società, conto bancario, visti, casa, scuole), con un solo interlocutore, nella tua lingua (arabo, francese, inglese, spagnolo, olandese, italiano). Per le questioni fiscali proprie del tuo paese d'origine, fai sempre validare la tua situazione da un consulente fiscale di quel paese.
+Prima di lanciarti, la nostra guida per [trasferirsi a Dubai](/it/trasferirsi-a-dubai/) ti dà l'ordine dei passaggi, e quella sul [Golden Visa](/it/golden-visa-dubai/) ti aiuta a scegliere la tua residenza. Start in Dubai ti accompagna dall'inizio alla fine (società, conto bancario, visti, casa, scuole), con un solo interlocutore, nella tua lingua (arabo, francese, inglese, spagnolo, olandese, italiano). Per le questioni fiscali proprie del tuo paese d'origine, fai sempre validare la tua situazione da un consulente fiscale di quel paese.
 
 ## Per approfondire
 

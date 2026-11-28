@@ -139,6 +139,6 @@ Por último, guarda siempre una copia de tu visado, tu Emirates ID y el contrato
 5. Revisa tu actividad en redes antes de la mudanza.
 6. Consulta a un abogado local para cualquier duda sobre pareja, hijos o estado civil.
 
-## Cómo te acompaña START IN DUBAI
+## Cómo te acompaña Start in Dubai
 
-START IN DUBAI te acompaña en los trámites de instalación (sociedad, cuenta bancaria, visados y Golden Visa, vivienda, familia), con un solo interlocutor y en tu idioma. Para cuestiones legales concretas, un abogado local debe revisar tu caso. [Solicita un primer intercambio gratuito y sin compromiso](/es/#inscription) para ordenar tus pasos.
+Start in Dubai te acompaña en los trámites de instalación (sociedad, cuenta bancaria, visados y Golden Visa, vivienda, familia), con un solo interlocutor y en tu idioma. Para cuestiones legales concretas, un abogado local debe revisar tu caso. [Solicita un primer intercambio gratuito y sin compromiso](/es/#inscription) para ordenar tus pasos.

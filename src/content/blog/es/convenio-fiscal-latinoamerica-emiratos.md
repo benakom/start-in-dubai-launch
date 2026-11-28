@@ -149,6 +149,6 @@ Para invocar un convenio necesitas probar que eres residente de los Emiratos. La
 5. Reúne las pruebas de residencia emiratí y pide el certificado cuando proceda.
 6. Valida todo con un asesor fiscal de tu país.
 
-## Cómo te acompaña START IN DUBAI
+## Cómo te acompaña Start in Dubai
 
-START IN DUBAI te acompaña en los trámites emiratíes (sociedad, cuenta bancaria, visados y Golden Visa, instalación de la familia), con un solo interlocutor y en tu idioma. La fiscalidad de tu país de origen debe validarla siempre un asesor local. Si quieres ordenar los pasos en los Emiratos, [solicita un primer intercambio gratuito y sin compromiso](/es/#inscription). Para crear una sociedad con conocimiento de los riesgos, empieza por [crear una empresa en Dubái desde Latinoamérica](/es/crear-empresa-en-dubai-desde-latinoamerica/).
+Start in Dubai te acompaña en los trámites emiratíes (sociedad, cuenta bancaria, visados y Golden Visa, instalación de la familia), con un solo interlocutor y en tu idioma. La fiscalidad de tu país de origen debe validarla siempre un asesor local. Si quieres ordenar los pasos en los Emiratos, [solicita un primer intercambio gratuito y sin compromiso](/es/#inscription). Para crear una sociedad con conocimiento de los riesgos, empieza por [crear una empresa en Dubái desde Latinoamérica](/es/crear-empresa-en-dubai-desde-latinoamerica/).

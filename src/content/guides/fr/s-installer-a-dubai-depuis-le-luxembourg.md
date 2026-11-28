@@ -149,6 +149,6 @@ Si vous préférez créer votre structure, notre guide pour [créer sa société
 7. Préavis de bail, radiation de la commune, information des banques et assureurs.
 8. Contact avec l’Ambassade du Luxembourg à Abou Dhabi à l’arrivée.
 
-Pour un cadrage de votre projet (société, visa, banque, logement, famille), [premier échange gratuit](/#inscription) avec START IN DUBAI, un seul interlocuteur qui parle français. Pour l’immobilier, notre partenaire Cevitas Real Estate est une agence agréée RERA : https://www.cevitas.ae.
+Pour un cadrage de votre projet (société, visa, banque, logement, famille), [premier échange gratuit](/#inscription) avec Start in Dubai, un seul interlocuteur qui parle français. Pour l’immobilier, notre partenaire Cevitas Real Estate est une agence agréée RERA : https://www.cevitas.ae.
 
 Pour la suite (logement, Emirates ID, écoles), lisez notre guide pour [s’installer à Dubaï](/s-installer-a-dubai/).

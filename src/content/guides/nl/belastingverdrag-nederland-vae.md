@@ -173,9 +173,9 @@ De concurrentie in de zoekresultaten over dit onderwerp bestaat vooral uit sites
 
 Dit artikel is geen fiscaal advies. Het geeft de verdragstekst weer, met de bronnen.
 
-## Wat START IN DUBAI wel kan doen
+## Wat Start in Dubai wel kan doen
 
-START IN DUBAI begeleidt uw installatie van A tot Z: bedrijf, bankrekening, visa, woning, scholen en studies, met één aanspreekpunt, in uw eigen taal (Arabisch, Frans, Engels, Spaans, Nederlands, Italiaans). Een fiscaal advies over uw Nederlandse situatie geven wij niet: daarvoor verwijzen wij u naar een Nederlandse fiscalist. Heeft u een bedrijfsplan, lees dan onze gids over [een bedrijf oprichten in Dubai](/nl/bedrijf-oprichten-in-dubai/) en onze gids over de [bankrekening in Dubai](/nl/bankrekening-openen-dubai/). Plan uw vertrek stap voor stap met [een eerste gratis gesprek](/nl/#inscription).
+Start in Dubai begeleidt uw installatie van A tot Z: bedrijf, bankrekening, visa, woning, scholen en studies, met één aanspreekpunt, in uw eigen taal (Arabisch, Frans, Engels, Spaans, Nederlands, Italiaans). Een fiscaal advies over uw Nederlandse situatie geven wij niet: daarvoor verwijzen wij u naar een Nederlandse fiscalist. Heeft u een bedrijfsplan, lees dan onze gids over [een bedrijf oprichten in Dubai](/nl/bedrijf-oprichten-in-dubai/) en onze gids over de [bankrekening in Dubai](/nl/bankrekening-openen-dubai/). Plan uw vertrek stap voor stap met [een eerste gratis gesprek](/nl/#inscription).
 
 ## Verder lezen
 

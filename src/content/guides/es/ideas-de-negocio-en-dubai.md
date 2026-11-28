@@ -153,4 +153,4 @@ Este sitio no trata proyectos, precios ni zonas para comprar. Para invertir en i
 6. Comprueba tu **situación fiscal** en tu país de residencia antes de firmar.
 7. Planifica la **cuenta bancaria**: no es automática. Mira [abrir una cuenta bancaria en Dubái](/es/abrir-cuenta-bancaria-dubai/).
 
-Si prefieres que alguien te acompañe, START IN DUBAI cubre la creación de la empresa, la cuenta bancaria, los visados y la instalación con un solo interlocutor en español. Puedes pedir un [primer intercambio gratuito](/es/#inscription), sin compromiso.
+Si prefieres que alguien te acompañe, Start in Dubai cubre la creación de la empresa, la cuenta bancaria, los visados y la instalación con un solo interlocutor en español. Puedes pedir un [primer intercambio gratuito](/es/#inscription), sin compromiso.

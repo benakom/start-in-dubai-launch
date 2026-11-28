@@ -249,4 +249,4 @@ Le décret-loi prévoit notamment (article 27) :
 7. Vous avez prévu son logement, son jour de repos, ses congés et le billet retour tous les 2 ans.
 8. Vous savez comment prouver le paiement du salaire chaque mois.
 
-Vous vous installez à Dubaï en famille et voulez organiser la garde des enfants dès l’arrivée ? Comparez aussi les nurseries dans notre article sur la [crèche à Dubaï](/blog/creche-dubai/). START IN DUBAI vous accompagne de A à Z (visas, logement, installation de la famille), avec un seul interlocuteur, dans votre langue. [Demander un premier échange gratuit](/#inscription).
+Vous vous installez à Dubaï en famille et voulez organiser la garde des enfants dès l’arrivée ? Comparez aussi les nurseries dans notre article sur la [crèche à Dubaï](/blog/creche-dubai/). Start in Dubai vous accompagne de A à Z (visas, logement, installation de la famille), avec un seul interlocuteur, dans votre langue. [Demander un premier échange gratuit](/#inscription).

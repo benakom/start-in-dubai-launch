@@ -191,4 +191,4 @@ Esclusi visita medica, assicurazione sanitaria, eventuale IVA, banca, contabilit
 5. **Confronta almeno due giurisdizioni**, tra cui un'opzione mainland se i tuoi clienti sono locali.
 6. **Verifica ogni importo** sul listino ufficiale della zona quando esiste.
 
-Vuoi un budget chiaro prima di lanciarti? START IN DUBAI ti accompagna dalla A alla Z (società, conto bancario, visti, trasferimento della famiglia), con un solo interlocutore, nella tua lingua. [Richiedi un primo colloquio gratuito](/it/#inscription).
+Vuoi un budget chiaro prima di lanciarti? Start in Dubai ti accompagna dalla A alla Z (società, conto bancario, visti, trasferimento della famiglia), con un solo interlocutore, nella tua lingua. [Richiedi un primo colloquio gratuito](/it/#inscription).

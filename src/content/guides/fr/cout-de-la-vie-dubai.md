@@ -92,7 +92,7 @@ Les baux sont annuels. Les loyers sont exprimés à l’année et se paient souv
 
 À l’entrée dans les lieux, prévoyez en plus la caution, la commission d’agence si vous passez par un agent, l’enregistrement du bail (Ejari) et le dépôt de garantie DEWA pour l’électricité et l’eau. Le premier mois coûte donc nettement plus cher que les suivants.
 
-Si vous pensez acheter plutôt que louer, c’est un autre calcul : pour l’immobilier, START IN DUBAI travaille avec [Cevitas Real Estate](https://www.cevitas.ae), agence agréée RERA (ORN 49294).
+Si vous pensez acheter plutôt que louer, c’est un autre calcul : pour l’immobilier, Start in Dubai travaille avec [Cevitas Real Estate](https://www.cevitas.ae), agence agréée RERA (ORN 49294).
 
 ### Les écoles
 
@@ -160,7 +160,7 @@ Au-delà du budget mensuel, l’installation elle-même coûte cher. Prévoyez u
 6. l’inscription scolaire des enfants ;
 7. trois à six mois de dépenses courantes d’avance, pour faire face à un imprévu.
 
-Pour toutes les autres étapes de l’installation, suivez notre guide pour [s’installer à Dubaï](/s-installer-a-dubai/). START IN DUBAI peut ensuite tout coordonner avec vous, dans votre langue (arabe, français, anglais, espagnol, néerlandais, italien) : [Demandez un premier échange gratuit](/#inscription).
+Pour toutes les autres étapes de l’installation, suivez notre guide pour [s’installer à Dubaï](/s-installer-a-dubai/). Start in Dubai peut ensuite tout coordonner avec vous, dans votre langue (arabe, français, anglais, espagnol, néerlandais, italien) : [Demandez un premier échange gratuit](/#inscription).
 
 ## Pour aller plus loin
 

@@ -161,4 +161,4 @@ Esta tabla da tendencias, no una regla. Una misma actividad puede pasar de una c
 5. **Subestimar los visados.** Un flexi-desk suele dar pocos visados. Si piensas contratar, dilo al pedir el presupuesto.
 6. **Mirar solo el primer año.** Compara también la renovación: licencia, oficina, tarjeta de establecimiento y visados vuelven cada año o cada dos años.
 
-¿Aún dudas entre mainland y zona franca para tu proyecto? START IN DUBAI te acompaña de la A a la Z (empresa, cuenta bancaria, visados, instalación de la familia), con un único interlocutor, en tu idioma. [Pedir una primera conversación gratuita](/es/#inscription).
+¿Aún dudas entre mainland y zona franca para tu proyecto? Start in Dubai te acompaña de la A a la Z (empresa, cuenta bancaria, visados, instalación de la familia), con un único interlocutor, en tu idioma. [Pedir una primera conversación gratuita](/es/#inscription).

@@ -102,7 +102,7 @@ For a **company account**, add in general:
 
 ## Why one point of contact
 
-The bank file repeats everything that was done before: the licence, the declared activity, the visa, the address. If these elements were prepared by different providers, they often contradict each other, and the bank notices. With START IN DUBAI, the same person follows your company, your visa and your account, in your language (English, Arabic, French, Spanish, Dutch or Italian). If you have not yet set up your company, start with our [guide to company formation in Dubai](/en/company-formation-dubai/).
+The bank file repeats everything that was done before: the licence, the declared activity, the visa, the address. If these elements were prepared by different providers, they often contradict each other, and the bank notices. With Start in Dubai, the same person follows your company, your visa and your account, in your language (English, Arabic, French, Spanish, Dutch or Italian). If you have not yet set up your company, start with our [guide to company formation in Dubai](/en/company-formation-dubai/).
 
 ## The mistakes we help you avoid
 

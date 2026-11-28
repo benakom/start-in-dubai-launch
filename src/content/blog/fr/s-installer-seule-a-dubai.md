@@ -222,4 +222,4 @@ L’écart est réel, mais la colocation n’a d’intérêt que si elle est en 
 6. Votre offre d’emploi indique le salaire de base et chaque indemnité par écrit.
 7. Vous connaissez la règle réelle sur la tenue et les points du cadre légal sur la vie privée.
 
-Vous préparez votre départ et voulez un seul interlocuteur pour le visa, le logement et la banque ? START IN DUBAI vous accompagne de A à Z, dans votre langue. [Demander un premier échange gratuit](/#inscription).
+Vous préparez votre départ et voulez un seul interlocuteur pour le visa, le logement et la banque ? Start in Dubai vous accompagne de A à Z, dans votre langue. [Demander un premier échange gratuit](/#inscription).

@@ -147,4 +147,4 @@ Las ofertas fraudulentas se aprovechan de que «profesor» suena fácil de contr
 6. Antes de firmar, compara el paquete con el [coste de vida en Dubái](/es/coste-de-vida-dubai/) y, si dudas del sueldo, con la guía de [salarios en Dubái](/es/blog/salario-en-dubai/).
 7. Si te vas a quedar, consulta tu situación fiscal en tu país de origen antes de salir.
 
-Si prefieres no hacerlo solo, START IN DUBAI acompaña la instalación de A a Z (visados, cuenta bancaria, vivienda, familia) con un solo interlocutor en español. Puedes pedir un [primer intercambio gratuito](/es/#inscription), sin compromiso. Para la vivienda, nuestro socio es [Cevitas Real Estate](https://www.cevitas.ae), agencia autorizada por RERA.
+Si prefieres no hacerlo solo, Start in Dubai acompaña la instalación de A a Z (visados, cuenta bancaria, vivienda, familia) con un solo interlocutor en español. Puedes pedir un [primer intercambio gratuito](/es/#inscription), sin compromiso. Para la vivienda, nuestro socio es [Cevitas Real Estate](https://www.cevitas.ae), agencia autorizada por RERA.

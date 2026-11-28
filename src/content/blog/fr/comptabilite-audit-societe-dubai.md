@@ -241,4 +241,4 @@ Ce calcul est une illustration : le choix entre les deux régimes dépend de l'a
 8. Déposer la déclaration d'impôt dans les 9 mois suivant la clôture, et la TVA dans les 28 jours suivant chaque période.
 9. Archiver tous les documents au moins 7 ans, 15 ans pour l'immobilier.
 
-Vous créez votre société et voulez que la licence, le compte bancaire et les visas soient pensés dès le départ avec ces obligations en tête ? START IN DUBAI vous accompagne de A à Z, avec un seul interlocuteur, dans votre langue. Pour commencer, [demander un premier échange gratuit](/#inscription).
+Vous créez votre société et voulez que la licence, le compte bancaire et les visas soient pensés dès le départ avec ces obligations en tête ? Start in Dubai vous accompagne de A à Z, avec un seul interlocuteur, dans votre langue. Pour commencer, [demander un premier échange gratuit](/#inscription).

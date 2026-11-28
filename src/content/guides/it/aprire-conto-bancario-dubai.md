@@ -180,7 +180,7 @@ Un rifiuto non è definitivo: un'altra banca può accettare un dossier presentat
 6. Una volta aperto il conto, **aggiorna il tuo Emirates ID** a ogni rinnovo.
 7. In caso di controversia, presenta prima un reclamo alla banca. Se non porta a nulla, Sanadak, il mediatore indipendente creato dalla Banca centrale, tratta gratuitamente i reclami contro le banche e le assicurazioni autorizzate.
 
-Aprire un conto va di pari passo con la fiscalità del tuo trasferimento: leggi anche la nostra guida sulle [tasse a Dubai](/it/tasse-dubai/) e la nostra guida completa per [trasferirsi a Dubai](/it/trasferirsi-a-dubai/). START IN DUBAI ti accompagna dall'inizio alla fine (società, conto bancario, visti, casa, scuole), con un solo interlocutore, nella tua lingua (arabo, francese, inglese, spagnolo, olandese, italiano).
+Aprire un conto va di pari passo con la fiscalità del tuo trasferimento: leggi anche la nostra guida sulle [tasse a Dubai](/it/tasse-dubai/) e la nostra guida completa per [trasferirsi a Dubai](/it/trasferirsi-a-dubai/). Start in Dubai ti accompagna dall'inizio alla fine (società, conto bancario, visti, casa, scuole), con un solo interlocutore, nella tua lingua (arabo, francese, inglese, spagnolo, olandese, italiano).
 
 ## Per approfondire
 

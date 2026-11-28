@@ -207,4 +207,4 @@ Para el presupuesto global de una instalación, coche incluido, consulta nuestra
 5. Si tu permiso no se canjea, elige una autoescuela autorizada y pide la golden chance.
 6. Guarda un margen de presupuesto: 1.050 AED para un canje, más para la vía de la autoescuela.
 
-START IN DUBAI organiza tu instalación de la A a la Z, permiso incluido: visados, Emirates ID, vivienda, banco y trámites del día a día, con un único interlocutor y en tu idioma (árabe, francés, inglés, español, neerlandés, italiano). Para la vida en destino, lee también nuestra guía para [vivir en Dubái](/es/vivir-en-dubai/). [Solicita una primera conversación gratuita](/es/#inscription).
+Start in Dubai organiza tu instalación de la A a la Z, permiso incluido: visados, Emirates ID, vivienda, banco y trámites del día a día, con un único interlocutor y en tu idioma (árabe, francés, inglés, español, neerlandés, italiano). Para la vida en destino, lee también nuestra guía para [vivir en Dubái](/es/vivir-en-dubai/). [Solicita una primera conversación gratuita](/es/#inscription).

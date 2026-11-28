@@ -147,6 +147,6 @@ The right order is almost always: licence with a precise activity, resident visa
 - Moving money into a company before the account exists and telling the bank later.
 - Ignoring requests for documents: banks may close an application that stays unanswered.
 
-START IN DUBAI helps with company setup and the bank account, with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian). We prepare the file, but only the bank decides, and nobody can promise an outcome. [Book a free first call](/en/#inscription).
+Start in Dubai helps with company setup and the bank account, with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian). We prepare the file, but only the bank decides, and nobody can promise an outcome. [Book a free first call](/en/#inscription).
 
 Last checked on the Central Bank rulebook and u.ae in November 2026.

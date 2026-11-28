@@ -192,4 +192,4 @@ Les frais de recrutement et de visa sont, eux, à la charge de l’employeur : i
 6. Votre résidence fiscale dans votre pays d’origine est clarifiée.
 7. Aucun frais de recrutement ou de visa ne vous est demandé.
 
-Vous avez une offre et vous préparez votre départ ? START IN DUBAI vous accompagne de A à Z (visas, logement, banque, installation de la famille), avec un seul interlocuteur, dans votre langue. [Demander un premier échange gratuit](/#inscription).
+Vous avez une offre et vous préparez votre départ ? Start in Dubai vous accompagne de A à Z (visas, logement, banque, installation de la famille), avec un seul interlocuteur, dans votre langue. [Demander un premier échange gratuit](/#inscription).

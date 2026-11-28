@@ -139,6 +139,6 @@ If in doubt, write to the university's admissions office from the address on its
 - [ ] Student visa route understood
 - [ ] Contract conditions read
 
-START IN DUBAI supports people from A to Z (company, bank account, visas, housing, schools, higher education), with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian). We do not award or guarantee scholarships. [Book a free first call](/en/#inscription).
+Start in Dubai supports people from A to Z (company, bank account, visas, housing, schools, higher education), with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian). We do not award or guarantee scholarships. [Book a free first call](/en/#inscription).
 
 Last checked on the universities' websites and u.ae in November 2026.

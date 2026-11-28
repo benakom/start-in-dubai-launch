@@ -135,6 +135,6 @@ The remote work visa requires an employer located outside the UAE. If you start 
 
 ## Do you need help?
 
-START IN DUBAI supports people from A to Z (company, bank account, visas, housing, schools), with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian). We do not give tax advice for your home country: for the departure side, speak to a tax adviser there. If you are planning to live in the UAE and need the visa, the bank account and the housing in order, [book a free first call](/en/#inscription).
+Start in Dubai supports people from A to Z (company, bank account, visas, housing, schools), with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian). We do not give tax advice for your home country: for the departure side, speak to a tax adviser there. If you are planning to live in the UAE and need the visa, the bank account and the housing in order, [book a free first call](/en/#inscription).
 
 Last checked on the FTA, the Ministry of Finance, GOV.UK and Légifrance pages in November 2026. Residence rules change: the official page of your own tax administration remains the reference.

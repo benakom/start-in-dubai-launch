@@ -149,7 +149,7 @@ El dirham emiratí está vinculado al dólar, lo que facilita calcular tu presup
 6. Seguro médico previsto desde la llegada.
 7. Recomendaciones de viaje de la SRE leídas el mismo mes de tu salida.
 
-¿Quieres que alguien coordine todo esto contigo y en español? START IN DUBAI te acompaña de la A a la Z con un único interlocutor. [Solicita una primera conversación gratuita](/es/#inscription).
+¿Quieres que alguien coordine todo esto contigo y en español? Start in Dubai te acompaña de la A a la Z con un único interlocutor. [Solicita una primera conversación gratuita](/es/#inscription).
 
 ## Para ir más lejos
 

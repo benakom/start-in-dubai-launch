@@ -172,7 +172,7 @@ Prepare short, factual answers to the questions that come back in almost every o
 5. Apply once with a complete file and answer questions fast.
 6. If refused, ask in writing, fix the cause and consider a different bank or structure.
 
-START IN DUBAI supports company setup and the bank account, with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian). Only the bank decides, and nobody can promise an outcome. [Book a free first call](/en/#inscription).
+Start in Dubai supports company setup and the bank account, with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian). Only the bank decides, and nobody can promise an outcome. [Book a free first call](/en/#inscription).
 
 Last checked on u.ae and the Central Bank rulebook in November 2026.
 

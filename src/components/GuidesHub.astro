@@ -23,7 +23,7 @@ const path = guidesPath(lang);
 const alts = LANGS.map((l) => ({ lang: l, href: guidesPath(l), exists: true }));
 const jsonld = [{
   "@context": "https://schema.org", "@type": "CollectionPage", name: u.guidesTitle, description: u.guidesDesc, url: abs(path), inLanguage: lang,
-  isPartOf: { "@type": "WebSite", name: "START IN DUBAI", url: "https://www.startindubai.com/" },
+  isPartOf: { "@type": "WebSite", name: "Start in Dubai", url: "https://www.startindubai.com/" },
   mainEntity: { "@type": "ItemList", itemListElement: all.map((g, i) => ({ "@type": "ListItem", position: i + 1, url: abs(guidePath(g)), name: g.data.h1 })) },
 }];
 ---

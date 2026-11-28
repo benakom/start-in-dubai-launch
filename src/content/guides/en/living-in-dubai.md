@@ -158,7 +158,7 @@ This network helps a great deal in the first months, but stay critical of the un
 6. Have I checked what my home country still asks of me (tax, social protection, pension)?
 7. Have I spent a few days on the ground, ideally in summer, to see whether this pace suits me?
 
-If you answer yes to most of these questions, your project is ready. START IN DUBAI then supports you from A to Z, with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian). [Ask for a free first call](/en/#inscription).
+If you answer yes to most of these questions, your project is ready. Start in Dubai then supports you from A to Z, with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian). [Ask for a free first call](/en/#inscription).
 
 ## Go further
 

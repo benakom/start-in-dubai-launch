@@ -91,7 +91,7 @@ Los contratos son anuales. Los alquileres se expresan por año y a menudo se pag
 
 Al entrar en la vivienda, cuenta además con la fianza, la comisión de la agencia si pasas por un agente, el registro del contrato (Ejari) y el depósito de garantía de DEWA para la electricidad y el agua. El primer mes cuesta, por tanto, bastante más que los siguientes.
 
-Si estás pensando en comprar en lugar de alquilar, es otro cálculo: para el sector inmobiliario, START IN DUBAI trabaja con [Cevitas Real Estate](https://www.cevitas.ae), agencia autorizada por la RERA (ORN 49294).
+Si estás pensando en comprar en lugar de alquilar, es otro cálculo: para el sector inmobiliario, Start in Dubai trabaja con [Cevitas Real Estate](https://www.cevitas.ae), agencia autorizada por la RERA (ORN 49294).
 
 ### Los colegios
 
@@ -159,7 +159,7 @@ Más allá del presupuesto mensual, la propia instalación sale cara. Reserva di
 6. la matrícula escolar de los hijos;
 7. de tres a seis meses de gastos corrientes por adelantado, para afrontar cualquier imprevisto.
 
-Para el resto de pasos de la instalación, sigue nuestra guía para [mudarse a Dubái](/es/mudarse-a-dubai/). START IN DUBAI puede coordinarlo todo contigo en tu idioma (árabe, francés, inglés, español, neerlandés, italiano). [Pide un primer intercambio gratuito](/es/#inscription).
+Para el resto de pasos de la instalación, sigue nuestra guía para [mudarse a Dubái](/es/mudarse-a-dubai/). Start in Dubai puede coordinarlo todo contigo en tu idioma (árabe, francés, inglés, español, neerlandés, italiano). [Pide un primer intercambio gratuito](/es/#inscription).
 
 ## Para ir más lejos
 

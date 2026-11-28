@@ -191,4 +191,4 @@ Ce calcul est une illustration : vérifiez les taux et la qualification de vos o
 9. Vous inscrire auprès de Dubai Customs si vous importez par l'e-commerce transfrontalier.
 10. Budgéter la licence, le local, la comptabilité et les frais de paiement avant de fixer vos prix.
 
-Vous voulez lancer votre activité en ligne depuis Dubaï avec la bonne licence, le bon compte bancaire et votre visa ? START IN DUBAI vous accompagne de A à Z, avec un seul interlocuteur, dans votre langue. Pour commencer, [demander un premier échange gratuit](/#inscription).
+Vous voulez lancer votre activité en ligne depuis Dubaï avec la bonne licence, le bon compte bancaire et votre visa ? Start in Dubai vous accompagne de A à Z, avec un seul interlocuteur, dans votre langue. Pour commencer, [demander un premier échange gratuit](/#inscription).

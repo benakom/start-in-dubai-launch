@@ -177,4 +177,4 @@ Law No. 11 of 2013 (art. 23) provides for a fine **of 500 to 150,000 AED** for a
 6. French citizens: decide between a local policy plus FrancExpat, or a plan dedicated to the UAE.
 7. Note the expiry date and renew before the visa.
 
-Your family's insurance is one of the points START IN DUBAI organises for you when you settle in, together with visas, housing and school enrolment, in a single process and in your language. For a move with children, also read our guide to [moving to Dubai with your family](/en/moving-to-dubai-with-family/). [Request a free first call](/en/#inscription).
+Your family's insurance is one of the points Start in Dubai organises for you when you settle in, together with visas, housing and school enrolment, in a single process and in your language. For a move with children, also read our guide to [moving to Dubai with your family](/en/moving-to-dubai-with-family/). [Request a free first call](/en/#inscription).

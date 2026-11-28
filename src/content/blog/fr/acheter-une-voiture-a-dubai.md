@@ -250,4 +250,4 @@ En cas de retard, des pénalités s’appliquent selon la durée. Sans renouvell
 9. Mulkiya et plaques reçues, badge Salik installé.
 10. Date de renouvellement notée, avec un rappel un mois avant.
 
-Vous préparez votre arrivée et voulez y voir clair dans l’ordre des démarches (visa, Emirates ID, banque, logement, puis voiture) ? START IN DUBAI vous accompagne de A à Z, avec un seul interlocuteur, dans votre langue. [Demander un premier échange gratuit](/#inscription).
+Vous préparez votre arrivée et voulez y voir clair dans l’ordre des démarches (visa, Emirates ID, banque, logement, puis voiture) ? Start in Dubai vous accompagne de A à Z, avec un seul interlocuteur, dans votre langue. [Demander un premier échange gratuit](/#inscription).

@@ -103,7 +103,7 @@ Le premier échange est gratuit, avec l’étudiant et, s’ils le souhaitent, s
 
 ## Pourquoi un seul interlocuteur
 
-Les études à Dubaï mobilisent l’université, la GDRFA, un bailleur, un assureur et une banque. Pour une famille qui suit le dossier à distance, c’est vite difficile. Avec START IN DUBAI, une seule personne coordonne l’ensemble et tient l’étudiant et les parents informés, dans leur langue (français, arabe, anglais, espagnol, néerlandais ou italien).
+Les études à Dubaï mobilisent l’université, la GDRFA, un bailleur, un assureur et une banque. Pour une famille qui suit le dossier à distance, c’est vite difficile. Avec Start in Dubai, une seule personne coordonne l’ensemble et tient l’étudiant et les parents informés, dans leur langue (français, arabe, anglais, espagnol, néerlandais ou italien).
 
 ## Les erreurs que nous vous évitons
 

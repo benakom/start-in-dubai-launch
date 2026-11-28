@@ -189,4 +189,4 @@ Le spese di reclutamento e di visto sono invece a carico del datore di lavoro: n
 6. La tua residenza fiscale nel Paese d'origine è chiarita.
 7. Nessuna spesa di reclutamento o di visto ti viene richiesta.
 
-Hai un'offerta e stai preparando la partenza? START IN DUBAI ti accompagna dall'inizio alla fine (visti, alloggio, banca, trasferimento della famiglia), con un unico interlocutore, nella tua lingua. [Richiedi un primo colloquio gratuito](/it/#inscription).
+Hai un'offerta e stai preparando la partenza? Start in Dubai ti accompagna dall'inizio alla fine (visti, alloggio, banca, trasferimento della famiglia), con un unico interlocutore, nella tua lingua. [Richiedi un primo colloquio gratuito](/it/#inscription).

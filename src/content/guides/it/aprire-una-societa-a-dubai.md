@@ -194,7 +194,7 @@ Puoi avviare la costituzione da Roma, Milano, Parigi, Bruxelles, Casablanca o Mo
 
 Se il tuo progetto è anche quello di trasferirti, leggi la nostra guida per [trasferirsi a Dubai](/it/trasferirsi-a-dubai/): casa, scuole e vita quotidiana si organizzano in parallelo alla società.
 
-START IN DUBAI accompagna questo percorso dall'inizio alla fine (società, conto bancario, visti, casa, scuole), con un solo interlocutore, nella tua lingua (arabo, francese, inglese, spagnolo, olandese, italiano). Puoi [richiedere un primo colloquio gratuito](/it/#inscription).
+Start in Dubai accompagna questo percorso dall'inizio alla fine (società, conto bancario, visti, casa, scuole), con un solo interlocutore, nella tua lingua (arabo, francese, inglese, spagnolo, olandese, italiano). Puoi [richiedere un primo colloquio gratuito](/it/#inscription).
 
 ## Gli errori da evitare
 

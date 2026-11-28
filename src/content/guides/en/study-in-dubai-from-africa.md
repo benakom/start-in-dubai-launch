@@ -156,7 +156,7 @@ The student visa ends with your studies, and you must change status: employment,
 - [ ] I have a plan for housing, insurance and living costs
 - [ ] I have paid nothing to an intermediary for "guaranteed" admission or a visa
 
-START IN DUBAI helps students and families with the whole move (student visa, housing, bank, family), in your language (Arabic, French, English, Spanish, Dutch, Italian). [Ask for a free first call](/en/#inscription).
+Start in Dubai helps students and families with the whole move (student visa, housing, bank, family), in your language (Arabic, French, English, Spanish, Dutch, Italian). [Ask for a free first call](/en/#inscription).
 
 ## Go further
 

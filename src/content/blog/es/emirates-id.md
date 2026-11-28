@@ -200,4 +200,4 @@ Ojo: un visado de residencia también se cancela si pasas más de 180 días cons
 6. Aplicación UAEICP instalada y cuenta UAE Pass creada.
 7. Recordatorio en tu agenda seis meses antes de la caducidad.
 
-¿Llegas a Dubái y quieres que visado, Emirates ID, cuenta bancaria y vivienda encajen sin perder tiempo? START IN DUBAI se encarga contigo, con un único interlocutor y en tu idioma (árabe, francés, inglés, español, neerlandés, italiano). Para empezar, [solicita una primera conversación gratuita](/es/#inscription).
+¿Llegas a Dubái y quieres que visado, Emirates ID, cuenta bancaria y vivienda encajen sin perder tiempo? Start in Dubai se encarga contigo, con un único interlocutor y en tu idioma (árabe, francés, inglés, español, neerlandés, italiano). Para empezar, [solicita una primera conversación gratuita](/es/#inscription).

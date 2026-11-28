@@ -169,7 +169,7 @@ Do not choose on price alone. Check three things:
 - [ ] I know who sponsors the student visa and what it costs
 - [ ] I have asked for scholarship criteria in writing
 
-START IN DUBAI helps students and families with the whole move (visa, housing, bank, family), in your language (Arabic, French, English, Spanish, Dutch, Italian). [Ask for a free first call](/en/#inscription).
+Start in Dubai helps students and families with the whole move (visa, housing, bank, family), in your language (Arabic, French, English, Spanish, Dutch, Italian). [Ask for a free first call](/en/#inscription).
 
 ## Go further
 

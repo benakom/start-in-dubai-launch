@@ -150,4 +150,4 @@ After you pass the checks, the employer takes care of the permit, then the resid
 - [ ] I am not being asked to travel on a tourist visa to start work
 - [ ] The offer matches the contract I will sign: salary, role, workplace, duration
 
-START IN DUBAI helps you organise your move once you have a verified job offer (residence, bank, housing, schooling), in your language (Arabic, French, English, Spanish, Dutch, Italian). [Ask for a free first call](/en/#inscription).
+Start in Dubai helps you organise your move once you have a verified job offer (residence, bank, housing, schooling), in your language (Arabic, French, English, Spanish, Dutch, Italian). [Ask for a free first call](/en/#inscription).

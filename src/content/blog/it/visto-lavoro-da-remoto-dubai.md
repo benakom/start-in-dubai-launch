@@ -192,4 +192,4 @@ Pensa anche al cambio: se vieni pagato in euro o in franchi svizzeri, il tuo red
 - **Dimenticare la legalizzazione** dell'atto di matrimonio e degli atti di nascita prima della partenza.
 - **Confondere visto e residenza fiscale**: il visto non ti fa uscire automaticamente dal sistema fiscale del tuo Paese.
 
-Vuoi trasferirti a Dubai lavorando da remoto, o passare poi allo status di freelance o alla tua società? START IN DUBAI ti accompagna dall'inizio alla fine (visto, conto bancario, alloggio, famiglia), con un unico interlocutore, nella tua lingua. Per parlarne, [richiedi un primo colloquio gratuito](/it/#inscription).
+Vuoi trasferirti a Dubai lavorando da remoto, o passare poi allo status di freelance o alla tua società? Start in Dubai ti accompagna dall'inizio alla fine (visto, conto bancario, alloggio, famiglia), con un unico interlocutore, nella tua lingua. Per parlarne, [richiedi un primo colloquio gratuito](/it/#inscription).

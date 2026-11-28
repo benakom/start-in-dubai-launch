@@ -184,7 +184,7 @@ Una vez emitido tu Golden Visa, puedes patrocinar a cónyuge, hijos y padres. Lo
 5. Prevé el presupuesto de las tasas oficiales para ti y para cada miembro de la familia.
 6. Ten presente la cuestión fiscal en tu país de origen antes de instalarte.
 
-El Golden Visa es solo una pieza de tu proyecto. Si buscas también una inversión, nuestra guía para [invertir en Dubái](/es/invertir-en-dubai/) te ayuda a elegir la vía adecuada. START IN DUBAI te acompaña de la A a la Z (empresa, cuenta bancaria, visados, vivienda, colegios), con un solo interlocutor, en tu idioma (árabe, francés, inglés, español, neerlandés, italiano).
+El Golden Visa es solo una pieza de tu proyecto. Si buscas también una inversión, nuestra guía para [invertir en Dubái](/es/invertir-en-dubai/) te ayuda a elegir la vía adecuada. Start in Dubai te acompaña de la A a la Z (empresa, cuenta bancaria, visados, vivienda, colegios), con un solo interlocutor, en tu idioma (árabe, francés, inglés, español, neerlandés, italiano).
 
 ## Para ir más lejos
 

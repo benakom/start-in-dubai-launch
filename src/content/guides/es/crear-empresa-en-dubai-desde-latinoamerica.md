@@ -145,7 +145,7 @@ Tres reglas que no cambian:
 - Fecha de viaje prevista para visado y banco.
 - Presupuesto del primer año y de la renovación, con el número de visados y la oficina.
 
-Si quieres que alguien te ordene este camino con tu caso concreto, START IN DUBAI acompaña de principio a fin la creación de la sociedad, la cuenta bancaria y los visados, con un solo interlocutor que habla español. Puedes hacer un [primer intercambio gratuito](/es/#inscription), sin compromiso. Para la parte inmobiliaria, nuestro socio es [Cevitas Real Estate](https://www.cevitas.ae), agencia autorizada por RERA.
+Si quieres que alguien te ordene este camino con tu caso concreto, Start in Dubai acompaña de principio a fin la creación de la sociedad, la cuenta bancaria y los visados, con un solo interlocutor que habla español. Puedes hacer un [primer intercambio gratuito](/es/#inscription), sin compromiso. Para la parte inmobiliaria, nuestro socio es [Cevitas Real Estate](https://www.cevitas.ae), agencia autorizada por RERA.
 
 ## Según tu país
 

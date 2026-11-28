@@ -178,4 +178,4 @@ Het beste advies: breng enkele dagen door in elke stad, doordeweeks, op de uren 
 
 Komt u met uw gezin, dan beschrijft onze gids over [emigreren naar Dubai met uw gezin](/nl/emigreren-naar-dubai-met-gezin/) de visa van naasten, de scholen en de huisvesting.
 
-Twijfelt u tussen Dubai en Abu Dhabi voor uw project? START IN DUBAI begeleidt u van A tot Z (bedrijf, bankrekening, visa en Golden Visa, huisvesting, verhuizing van uw gezin, hoger onderwijs), met één aanspreekpunt, in uw eigen taal. [Een eerste gratis gesprek aanvragen](/nl/#inscription).
+Twijfelt u tussen Dubai en Abu Dhabi voor uw project? Start in Dubai begeleidt u van A tot Z (bedrijf, bankrekening, visa en Golden Visa, huisvesting, verhuizing van uw gezin, hoger onderwijs), met één aanspreekpunt, in uw eigen taal. [Een eerste gratis gesprek aanvragen](/nl/#inscription).

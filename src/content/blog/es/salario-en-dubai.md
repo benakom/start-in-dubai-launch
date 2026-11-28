@@ -189,4 +189,4 @@ Los gastos de contratación y de visado corren, en cambio, a cargo del empleador
 6. Tu residencia fiscal en tu país de origen está aclarada.
 7. No se te pide ningún gasto de contratación ni de visado.
 
-¿Tienes una oferta y preparas tu salida? START IN DUBAI te acompaña de la A a la Z (visados, vivienda, banco, instalación de la familia), con un único interlocutor y en tu idioma (árabe, francés, inglés, español, neerlandés, italiano). [Solicita una primera conversación gratuita](/es/#inscription).
+¿Tienes una oferta y preparas tu salida? Start in Dubai te acompaña de la A a la Z (visados, vivienda, banco, instalación de la familia), con un único interlocutor y en tu idioma (árabe, francés, inglés, español, neerlandés, italiano). [Solicita una primera conversación gratuita](/es/#inscription).

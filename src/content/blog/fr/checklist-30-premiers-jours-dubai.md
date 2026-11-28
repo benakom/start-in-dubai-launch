@@ -242,4 +242,4 @@ Les grilles peuvent évoluer : vérifiez chaque montant sur le site officiel au 
 13. Permis de conduire échangé ou inscription en école de conduite.
 14. Visas de la famille et inscriptions scolaires lancés.
 
-Vous voulez que visa, Emirates ID, banque, logement et installation de la famille s'enchaînent sans temps perdu ? START IN DUBAI vous accompagne de A à Z, avec un seul interlocuteur qui parle votre langue. Pour en parler, demandez un [premier échange gratuit](/#inscription).
+Vous voulez que visa, Emirates ID, banque, logement et installation de la famille s'enchaînent sans temps perdu ? Start in Dubai vous accompagne de A à Z, avec un seul interlocuteur qui parle votre langue. Pour en parler, demandez un [premier échange gratuit](/#inscription).

@@ -168,7 +168,7 @@ Les étapes, les documents légalisés et les écoles sont détaillés dans notr
 6. Souscrivez l'assurance santé.
 7. Lancez ensuite les visas de la famille et l'ouverture des comptes bancaires.
 
-START IN DUBAI vous accompagne de A à Z : société, visas et Golden Visa, compte bancaire, logement et installation de la famille, avec un seul interlocuteur, dans votre langue (arabe, français, anglais, espagnol, néerlandais, italien). Notre page sur l'[accompagnement Golden Visa et visas](/services/golden-visa-visas-dubai/) présente notre façon de travailler. Pour étudier votre cas, réservez votre [premier échange gratuit](/#inscription), sans engagement.
+Start in Dubai vous accompagne de A à Z : société, visas et Golden Visa, compte bancaire, logement et installation de la famille, avec un seul interlocuteur, dans votre langue (arabe, français, anglais, espagnol, néerlandais, italien). Notre page sur l'[accompagnement Golden Visa et visas](/services/golden-visa-visas-dubai/) présente notre façon de travailler. Pour étudier votre cas, réservez votre [premier échange gratuit](/#inscription), sans engagement.
 
 ## Pour aller plus loin
 

@@ -192,4 +192,4 @@ Also think about exchange rates: if you are paid in euros or Swiss francs, your 
 - **Forgetting to legalise** the marriage certificate and birth certificates before leaving.
 - **Confusing visa and tax residence**: the visa does not automatically take you out of your country's tax system.
 
-Do you want to move to Dubai as a remote worker, or later move to freelance status or your own company? START IN DUBAI supports you from A to Z (visa, bank account, housing, family), with a single point of contact. To talk about it, [request a free first call](/en/#inscription).
+Do you want to move to Dubai as a remote worker, or later move to freelance status or your own company? Start in Dubai supports you from A to Z (visa, bank account, housing, family), with a single point of contact. To talk about it, [request a free first call](/en/#inscription).

@@ -102,7 +102,7 @@ Voor een **bedrijfsrekening** komt er doorgaans bij:
 
 ## Waarom één aanspreekpunt
 
-Het bankdossier herneemt alles wat eerder is gedaan: de licentie, de aangegeven activiteit, het visum, het adres. Zijn die elementen door verschillende dienstverleners voorbereid, dan spreken ze elkaar vaak tegen, en de bank ziet dat. Bij START IN DUBAI volgt dezelfde persoon uw bedrijf, uw visum en uw rekening, in uw taal (Arabisch, Frans, Engels, Spaans, Nederlands of Italiaans). Hebt u uw bedrijf nog niet opgericht, begin dan met onze [gids over een bedrijf oprichten in Dubai](/nl/bedrijf-oprichten-in-dubai/).
+Het bankdossier herneemt alles wat eerder is gedaan: de licentie, de aangegeven activiteit, het visum, het adres. Zijn die elementen door verschillende dienstverleners voorbereid, dan spreken ze elkaar vaak tegen, en de bank ziet dat. Bij Start in Dubai volgt dezelfde persoon uw bedrijf, uw visum en uw rekening, in uw taal (Arabisch, Frans, Engels, Spaans, Nederlands of Italiaans). Hebt u uw bedrijf nog niet opgericht, begin dan met onze [gids over een bedrijf oprichten in Dubai](/nl/bedrijf-oprichten-in-dubai/).
 
 ## De fouten die wij u besparen
 

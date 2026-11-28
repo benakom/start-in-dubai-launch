@@ -179,7 +179,7 @@ Algerijnen die in de Emiraten wonen, leven naast de Marokkaanse, Tunesische en r
 7. Gecontroleerd jobaanbod, zonder te betalen kosten.
 8. Inschrijving bij de Algerijnse vertegenwoordiging die voor de Emiraten is aangewezen.
 
-START IN DUBAI begeleidt van A tot Z (bedrijf, bankrekening, visa, woning, scholen), met één aanspreekpunt, in uw eigen taal (Arabisch, Frans, Engels, Spaans, Nederlands, Italiaans). Voor het volledige traject, van het zoeken naar een woning tot de Emirates ID, leest u onze gids over [emigreren naar Dubai](/nl/emigreren-naar-dubai/). Ook nuttig om te vergelijken: de gids voor [Marokkanen die naar Dubai verhuizen](/nl/emigreren-naar-dubai-vanuit-marokko/).
+Start in Dubai begeleidt van A tot Z (bedrijf, bankrekening, visa, woning, scholen), met één aanspreekpunt, in uw eigen taal (Arabisch, Frans, Engels, Spaans, Nederlands, Italiaans). Voor het volledige traject, van het zoeken naar een woning tot de Emirates ID, leest u onze gids over [emigreren naar Dubai](/nl/emigreren-naar-dubai/). Ook nuttig om te vergelijken: de gids voor [Marokkanen die naar Dubai verhuizen](/nl/emigreren-naar-dubai-vanuit-marokko/).
 
 ## Verder lezen
 

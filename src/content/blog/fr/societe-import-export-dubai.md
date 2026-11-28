@@ -220,4 +220,4 @@ Le négoce est un secteur où les banques posent beaucoup de questions : origine
 8. Faire valider le régime d'impôt sur les sociétés par un conseiller fiscal.
 9. Préparer le dossier bancaire en même temps que la licence.
 
-Vous montez une activité de négoce depuis Dubaï ? START IN DUBAI vous accompagne de A à Z (société, compte bancaire, visas, installation), avec un seul interlocuteur, dans votre langue. [Demander un premier échange gratuit](/#inscription).
+Vous montez une activité de négoce depuis Dubaï ? Start in Dubai vous accompagne de A à Z (société, compte bancaire, visas, installation), avec un seul interlocuteur, dans votre langue. [Demander un premier échange gratuit](/#inscription).

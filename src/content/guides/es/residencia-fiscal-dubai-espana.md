@@ -154,6 +154,6 @@ El convenio entre España y los Emiratos (BOE-A-2007-1343) sirve para repartir d
 7. Comunica el cambio con el modelo 030 con la ayuda de tu asesor.
 8. Conserva el expediente varios años.
 
-## Cómo te acompaña START IN DUBAI
+## Cómo te acompaña Start in Dubai
 
-START IN DUBAI te acompaña en los trámites emiratíes: sociedad, cuenta bancaria, visados y Golden Visa, vivienda e instalación de la familia, con un solo interlocutor y en tu idioma. La fiscalidad española debe validarla siempre un asesor fiscal español. Tu [primer intercambio gratuito y sin compromiso](/es/#inscription) sirve para ordenar los pasos en los Emiratos antes de dar ninguno en España.
+Start in Dubai te acompaña en los trámites emiratíes: sociedad, cuenta bancaria, visados y Golden Visa, vivienda e instalación de la familia, con un solo interlocutor y en tu idioma. La fiscalidad española debe validarla siempre un asesor fiscal español. Tu [primer intercambio gratuito y sin compromiso](/es/#inscription) sirve para ordenar los pasos en los Emiratos antes de dar ninguno en España.

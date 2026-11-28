@@ -186,7 +186,7 @@ Un programme pilote a démarré le **1er juillet 2026**, et toute entreprise peu
 
 La TVA s'ajoute à l'**impôt sur les sociétés**, qui obéit à d'autres règles et d'autres délais : voyez notre guide de l'[impôt sur les sociétés à Dubaï](/impot-sur-les-societes-dubai/). Si vous n'avez pas encore créé votre structure, notre guide pour [créer sa société à Dubaï](/creer-sa-societe-a-dubai/) vous donne l'ordre des étapes.
 
-START IN DUBAI vous accompagne de A à Z (société, compte bancaire, visas, logement, installation de la famille), avec un seul interlocuteur, dans votre langue (arabe, français, anglais, espagnol, néerlandais, italien), et vous oriente vers les bons professionnels pour la comptabilité et les déclarations. Pour en parler, réservez votre [premier échange gratuit](/#inscription).
+Start in Dubai vous accompagne de A à Z (société, compte bancaire, visas, logement, installation de la famille), avec un seul interlocuteur, dans votre langue (arabe, français, anglais, espagnol, néerlandais, italien), et vous oriente vers les bons professionnels pour la comptabilité et les déclarations. Pour en parler, réservez votre [premier échange gratuit](/#inscription).
 
 ## Pour aller plus loin
 

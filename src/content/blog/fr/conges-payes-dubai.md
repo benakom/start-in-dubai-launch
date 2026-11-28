@@ -232,4 +232,4 @@ Pour la vie de famille autour de ces congés (écoles, vacances scolaires, voyag
 6. Pour une **naissance**, vous avez prévu le congé maternité (60 jours), le **congé parental** du père (5 jours ouvrés) et les démarches de visa du bébé.
 7. Au départ, votre **solde de congés** figure dans le solde de tout compte, calculé sur le salaire de base.
 
-Vous préparez votre installation et celle de votre famille à Dubaï ? START IN DUBAI vous accompagne de A à Z (visas, logement, banque, écoles), avec un seul interlocuteur, dans votre langue : [premier échange gratuit](/#inscription).
+Vous préparez votre installation et celle de votre famille à Dubaï ? Start in Dubai vous accompagne de A à Z (visas, logement, banque, écoles), avec un seul interlocuteur, dans votre langue : [premier échange gratuit](/#inscription).

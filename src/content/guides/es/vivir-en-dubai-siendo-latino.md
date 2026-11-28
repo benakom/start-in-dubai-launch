@@ -144,7 +144,7 @@ Dubái reúne a residentes de muchísimas nacionalidades, y los latinoamericanos
 - Plan para el carnet de conducir.
 - Consulta fiscal hecha en tu país.
 
-Si quieres que alguien te acompañe con tu caso, START IN DUBAI cubre la instalación de A a Z (sociedad, cuenta bancaria, visados, vivienda, familia) con un solo interlocutor en español. Puedes pedir un [primer intercambio gratuito](/es/#inscription), sin compromiso.
+Si quieres que alguien te acompañe con tu caso, Start in Dubai cubre la instalación de A a Z (sociedad, cuenta bancaria, visados, vivienda, familia) con un solo interlocutor en español. Puedes pedir un [primer intercambio gratuito](/es/#inscription), sin compromiso.
 
 ## Según tu país
 

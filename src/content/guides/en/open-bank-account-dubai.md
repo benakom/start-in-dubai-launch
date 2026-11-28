@@ -180,7 +180,7 @@ A refusal is not final: another bank may accept a better-presented file. But mul
 6. Once the account is open, **update your Emirates ID** at each renewal.
 7. In case of dispute, first make a complaint to the bank. If it does not succeed, Sanadak, the independent ombudsman created by the Central Bank, handles complaints against licensed banks and insurers free of charge.
 
-Opening an account goes hand in hand with the tax side of your move: also read our guide to [taxes in Dubai](/en/tax-in-dubai/) and our complete guide to [moving to Dubai](/en/moving-to-dubai/). START IN DUBAI supports you from A to Z (company, bank account, visas, housing, schools), with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian).
+Opening an account goes hand in hand with the tax side of your move: also read our guide to [taxes in Dubai](/en/tax-in-dubai/) and our complete guide to [moving to Dubai](/en/moving-to-dubai/). Start in Dubai supports you from A to Z (company, bank account, visas, housing, schools), with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian).
 
 ## Go further
 

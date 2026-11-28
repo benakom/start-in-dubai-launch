@@ -201,4 +201,4 @@ Las **donaciones**, en cambio, no están cubiertas por el convenio. Las normas f
 
 Los trámites prácticos en Francia (registro consular, legalización, protección social) están en nuestra guía para [mudarse a Dubái desde Francia](/es/mudarse-a-dubai-desde-francia/), y el orden general de los pasos en nuestra guía para [mudarse a Dubái](/es/mudarse-a-dubai/). Para separar claramente tus flujos desde la llegada, mira cómo [abrir una cuenta bancaria en Dubái](/es/abrir-cuenta-bancaria-dubai/).
 
-¿Estás preparando tu salida y quieres una instalación limpia en los Emiratos? START IN DUBAI te acompaña de la A a la Z (empresa, cuenta bancaria, visados y Golden Visa, vivienda, instalación de la familia), con un único interlocutor, en tu idioma. [Pedir una primera conversación gratuita](/es/#inscription).
+¿Estás preparando tu salida y quieres una instalación limpia en los Emiratos? Start in Dubai te acompaña de la A a la Z (empresa, cuenta bancaria, visados y Golden Visa, vivienda, instalación de la familia), con un único interlocutor, en tu idioma. [Pedir una primera conversación gratuita](/es/#inscription).

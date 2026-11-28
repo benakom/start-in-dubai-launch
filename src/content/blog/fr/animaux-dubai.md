@@ -103,6 +103,6 @@ Si vous préparez un déménagement complet, lisez aussi notre guide du [démén
 6. Obtenir l’accord écrit du bailleur pour le logement.
 7. Prévoir l’enregistrement à Dubai Municipality dès l’arrivée.
 
-Pour préparer votre installation en famille (visas, écoles, logement), [premier échange gratuit](/#inscription) avec START IN DUBAI, en français.
+Pour préparer votre installation en famille (visas, écoles, logement), [premier échange gratuit](/#inscription) avec Start in Dubai, en français.
 
 Pour le reste de votre projet, voir notre guide [s’installer à Dubaï en famille](/s-installer-a-dubai-en-famille/).

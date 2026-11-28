@@ -1,4 +1,4 @@
-/* START IN DUBAI : formulaire de demande d'accompagnement, une question à la fois. Réglages dans config.js. */
+/* Start in Dubai : formulaire de demande d'accompagnement, une question à la fois. Réglages dans config.js. */
 (() => {
   "use strict";
   const C = window.SID_CONFIG || {};
@@ -315,7 +315,7 @@
 
   async function sendCrm(payload) {
     const crm = C.crm || {};
-    if (!crm.supabaseUrl || !crm.publishableKey) { console.warn("[START IN DUBAI] crm non configuré dans config.js : inscription non enregistrée.", payload); return false; }
+    if (!crm.supabaseUrl || !crm.publishableKey) { console.warn("[Start in Dubai] crm non configuré dans config.js : inscription non enregistrée.", payload); return false; }
     const base = crm.supabaseUrl.replace(/\/$/, "");
     const auth = { apikey: crm.publishableKey, Authorization: "Bearer " + crm.publishableKey, "Content-Type": "application/json" };
     const row = crmRow(payload);
@@ -355,8 +355,8 @@
   async function send(payload) {
     sendBrevo(payload);
     const [crm, hook] = await Promise.allSettled([sendCrm(payload), sendWebhook(payload)]);
-    if (crm.status === "rejected") console.error("[START IN DUBAI] CRM :", crm.reason);
-    if (hook.status === "rejected") console.error("[START IN DUBAI] webhook :", hook.reason);
+    if (crm.status === "rejected") console.error("[Start in Dubai] CRM :", crm.reason);
+    if (hook.status === "rejected") console.error("[Start in Dubai] webhook :", hook.reason);
     // l'inscription est perdue seulement si aucun des deux envois n'a réussi
     const crmOk = crm.status === "fulfilled" && crm.value === true;
     const hookOk = hook.status === "fulfilled" && (C.leadWebhookUrl || "").trim();
@@ -410,7 +410,7 @@
     const url = location.href.split(/[?#]/)[0];
     const text = tr("share_text");
     const btn = $("[data-share]");
-    if (navigator.share) { try { await navigator.share({ title: "START IN DUBAI", text, url }); } catch { /* annulé */ } return; }
+    if (navigator.share) { try { await navigator.share({ title: "Start in Dubai", text, url }); } catch { /* annulé */ } return; }
     try { await navigator.clipboard.writeText(url); btn.textContent = tr("copied"); } catch { prompt(tr("copy_prompt"), url); }
   }
 

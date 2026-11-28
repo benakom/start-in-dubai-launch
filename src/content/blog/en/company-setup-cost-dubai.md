@@ -191,4 +191,4 @@ Excluding the medical exam, health insurance, any VAT, bank, accounting and audi
 5. **Compare at least two jurisdictions**, including a mainland option if your clients are local.
 6. **Check each amount** against the zone's official price list when one exists.
 
-Want a clear budget before you start? START IN DUBAI supports you from A to Z (company, bank account, visas, settling your family), with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian). [Request a free first conversation](/en/#inscription).
+Want a clear budget before you start? Start in Dubai supports you from A to Z (company, bank account, visas, settling your family), with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian). [Request a free first conversation](/en/#inscription).

@@ -189,4 +189,4 @@ De wervings- en visumkosten zijn voor rekening van de werkgever: ze zijn niet on
 6. Uw fiscale woonplaats in uw land van herkomst is opgehelderd.
 7. Er worden u geen wervings- of visumkosten gevraagd.
 
-Hebt u een aanbod en bereidt u uw vertrek voor? START IN DUBAI begeleidt u van A tot Z (visa, woning, bank, installatie van het gezin), met één aanspreekpunt, in uw eigen taal. [Een gratis eerste gesprek aanvragen](/nl/#inscription).
+Hebt u een aanbod en bereidt u uw vertrek voor? Start in Dubai begeleidt u van A tot Z (visa, woning, bank, installatie van het gezin), met één aanspreekpunt, in uw eigen taal. [Een gratis eerste gesprek aanvragen](/nl/#inscription).

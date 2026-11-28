@@ -184,7 +184,7 @@ Zodra uw Golden Visa is afgegeven, kunt u partner, kinderen en ouders sponsoren.
 5. Plan het budget voor de officiële kosten voor uzelf en voor elk gezinslid.
 6. Houd de fiscale vraag in uw land van herkomst in gedachten voordat u zich vestigt.
 
-Het Golden Visa is slechts een onderdeel van uw project. Wilt u ook investeren, dan helpt onze gids over [investeren in Dubai](/nl/investeren-in-dubai/) u de juiste route te kiezen. START IN DUBAI begeleidt u van A tot Z (bedrijf, bankrekening, visa, woning, scholen), met één aanspreekpunt, in uw eigen taal (Arabisch, Frans, Engels, Spaans, Nederlands, Italiaans).
+Het Golden Visa is slechts een onderdeel van uw project. Wilt u ook investeren, dan helpt onze gids over [investeren in Dubai](/nl/investeren-in-dubai/) u de juiste route te kiezen. Start in Dubai begeleidt u van A tot Z (bedrijf, bankrekening, visa, woning, scholen), met één aanspreekpunt, in uw eigen taal (Arabisch, Frans, Engels, Spaans, Nederlands, Italiaans).
 
 ## Verder lezen
 

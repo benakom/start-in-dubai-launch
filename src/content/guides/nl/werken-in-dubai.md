@@ -169,4 +169,4 @@ Voor een bedrijf op het mainland loopt het arbeidsaanbod in principe via het MOH
 7. Betaal nooit wervingskosten.
 8. Zodra u het visum hebt, gaat u door met bank, woning, Ejari en verzekering van het gezin. Alles staat in onze gids om [naar Dubai te emigreren](/nl/emigreren-naar-dubai/).
 
-START IN DUBAI helpt u uw verhuizing te organiseren zodra u een baan hebt gevonden (visa, woning, bank, scholen), in uw taal (Arabisch, Frans, Engels, Spaans, Nederlands, Italiaans). [Vraag een eerste gratis gesprek aan](/nl/#inscription).
+Start in Dubai helpt u uw verhuizing te organiseren zodra u een baan hebt gevonden (visa, woning, bank, scholen), in uw taal (Arabisch, Frans, Engels, Spaans, Nederlands, Italiaans). [Vraag een eerste gratis gesprek aan](/nl/#inscription).

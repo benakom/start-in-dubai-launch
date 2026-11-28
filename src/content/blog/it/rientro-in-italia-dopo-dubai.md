@@ -135,4 +135,4 @@ In pratica:
 
 Se stai valutando il rientro, parti da una pagina di calendario con le date che contano (cancellazione visto, iscrizione anagrafica, chiusura conti) e portala al tuo commercialista. Se invece stai ancora decidendo dove vivere, confronta il costo della vita nella guida a [vivere a Dubai](/it/vivere-a-dubai/).
 
-START IN DUBAI accompagna chi si trasferisce, apre una società o organizza la vita a Dubai, con un solo interlocutore che parla italiano. Per il tuo caso, [richiedi un primo colloquio gratuito e senza impegno](/it/#inscription). Per la parte fiscale italiana rivolgiti al tuo commercialista: non forniamo consulenza fiscale.
+Start in Dubai accompagna chi si trasferisce, apre una società o organizza la vita a Dubai, con un solo interlocutore che parla italiano. Per il tuo caso, [richiedi un primo colloquio gratuito e senza impegno](/it/#inscription). Per la parte fiscale italiana rivolgiti al tuo commercialista: non forniamo consulenza fiscale.

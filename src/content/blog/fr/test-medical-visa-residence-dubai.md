@@ -228,4 +228,4 @@ Selon u.ae, les demandeurs qui présentent une **cicatrice de tuberculose**, une
 7. Résultat reçu par SMS ou e-mail, conservé jusqu'à l'émission du visa.
 8. Rappel noté pour le prochain renouvellement.
 
-Visa, test médical, Emirates ID, assurance et visas de la famille : START IN DUBAI vous accompagne sur l'ensemble du parcours, avec un seul interlocuteur dans votre langue. Pour commencer, demandez un [premier échange gratuit](/#inscription).
+Visa, test médical, Emirates ID, assurance et visas de la famille : Start in Dubai vous accompagne sur l'ensemble du parcours, avec un seul interlocuteur dans votre langue. Pour commencer, demandez un [premier échange gratuit](/#inscription).

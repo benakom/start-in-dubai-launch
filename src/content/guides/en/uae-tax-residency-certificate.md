@@ -151,7 +151,7 @@ For treaty benefits, the FTA also lists a certificate for the purposes of a doub
 
 ## Do you need help?
 
-START IN DUBAI supports people from A to Z (company, bank account, visas, housing, schools), with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian). We do not give tax advice for your home country: for the exit side, speak to a tax adviser there. If your plan is to settle and structure your life in the UAE, [book a free first call](/en/#inscription).
+Start in Dubai supports people from A to Z (company, bank account, visas, housing, schools), with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian). We do not give tax advice for your home country: for the exit side, speak to a tax adviser there. If your plan is to settle and structure your life in the UAE, [book a free first call](/en/#inscription).
 
 Last checked on the FTA service page and the Ministry of Finance in November 2026. Rules and fees can change: the FTA remains the reference.
 

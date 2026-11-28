@@ -102,7 +102,7 @@ Per un **conto di società**, aggiungi in genere:
 
 ## Perché un unico referente
 
-La pratica bancaria riprende tutto ciò che è stato fatto prima: la licenza, l’attività dichiarata, il visto, l’indirizzo. Se questi elementi sono stati preparati da fornitori diversi, spesso si contraddicono, e la banca se ne accorge. Con START IN DUBAI la stessa persona segue la tua società, il tuo visto e il tuo conto, nella tua lingua (arabo, francese, inglese, spagnolo, olandese o italiano). Se non hai ancora costituito la società, comincia dalla nostra [guida alla costituzione di una società a Dubai](/it/aprire-una-societa-a-dubai/).
+La pratica bancaria riprende tutto ciò che è stato fatto prima: la licenza, l’attività dichiarata, il visto, l’indirizzo. Se questi elementi sono stati preparati da fornitori diversi, spesso si contraddicono, e la banca se ne accorge. Con Start in Dubai la stessa persona segue la tua società, il tuo visto e il tuo conto, nella tua lingua (arabo, francese, inglese, spagnolo, olandese o italiano). Se non hai ancora costituito la società, comincia dalla nostra [guida alla costituzione di una società a Dubai](/it/aprire-una-societa-a-dubai/).
 
 ## Gli errori che ti evitiamo
 

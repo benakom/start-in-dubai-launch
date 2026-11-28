@@ -159,7 +159,7 @@ Elk huurcontract in Dubai moet via het systeem **Ejari** worden geregistreerd bi
 
 ### Kopen
 
-Overweegt u te kopen, om er te wonen of om te investeren, dan is dat een ander onderwerp, met eigen regels en eigen risico's. Voor vastgoed werkt START IN DUBAI samen met [Cevitas Real Estate](https://www.cevitas.ae), een makelaarskantoor met RERA-licentie (ORN 49294).
+Overweegt u te kopen, om er te wonen of om te investeren, dan is dat een ander onderwerp, met eigen regels en eigen risico's. Voor vastgoed werkt Start in Dubai samen met [Cevitas Real Estate](https://www.cevitas.ae), een makelaarskantoor met RERA-licentie (ORN 49294).
 
 ## Een bankrekening openen
 
@@ -219,7 +219,7 @@ Uw bedrijf kan in het ene emiraat zijn geregistreerd en u kunt in een ander wone
 - Rijbewijs omgezet of examen gepland
 - Fiscale verplichtingen geregeld in uw land van vertrek
 
-START IN DUBAI brengt al deze stappen samen in één traject, met één aanspreekpunt, in uw eigen taal (Arabisch, Frans, Engels, Spaans, Nederlands, Italiaans): bedrijf, bankrekening, visa, woning en scholen. De dienst is open: [vraag een eerste gratis gesprek aan](/nl/#inscription).
+Start in Dubai brengt al deze stappen samen in één traject, met één aanspreekpunt, in uw eigen taal (Arabisch, Frans, Engels, Spaans, Nederlands, Italiaans): bedrijf, bankrekening, visa, woning en scholen. De dienst is open: [vraag een eerste gratis gesprek aan](/nl/#inscription).
 
 ## Verder lezen
 

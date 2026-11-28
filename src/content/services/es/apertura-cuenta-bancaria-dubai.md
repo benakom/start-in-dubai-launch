@@ -102,7 +102,7 @@ Para una **cuenta de empresa**, se añade en general:
 
 ## Por qué un único interlocutor
 
-El expediente bancario recoge todo lo hecho antes: la licencia, la actividad declarada, el visado, la dirección. Si esos elementos los han preparado proveedores distintos, a menudo se contradicen, y el banco lo ve. Con START IN DUBAI, la misma persona sigue tu empresa, tu visado y tu cuenta, en tu idioma (árabe, francés, inglés, español, neerlandés o italiano). Si todavía no has creado tu empresa, empieza por nuestra [guía para crear una empresa en Dubái](/es/crear-empresa-en-dubai/).
+El expediente bancario recoge todo lo hecho antes: la licencia, la actividad declarada, el visado, la dirección. Si esos elementos los han preparado proveedores distintos, a menudo se contradicen, y el banco lo ve. Con Start in Dubai, la misma persona sigue tu empresa, tu visado y tu cuenta, en tu idioma (árabe, francés, inglés, español, neerlandés o italiano). Si todavía no has creado tu empresa, empieza por nuestra [guía para crear una empresa en Dubái](/es/crear-empresa-en-dubai/).
 
 ## Los errores que te evitamos
 

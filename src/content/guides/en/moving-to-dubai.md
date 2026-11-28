@@ -158,7 +158,7 @@ Every tenancy contract in Dubai must be registered with the Dubai Land Departmen
 
 ### Buying
 
-If you are considering buying, to live in or to invest, that is a different subject, with its own rules and its own risks. For property, START IN DUBAI works with [Cevitas Real Estate](https://www.cevitas.ae), a RERA-licensed agency (ORN 49294).
+If you are considering buying, to live in or to invest, that is a different subject, with its own rules and its own risks. For property, Start in Dubai works with [Cevitas Real Estate](https://www.cevitas.ae), a RERA-licensed agency (ORN 49294).
 
 ## Opening a bank account
 
@@ -218,7 +218,7 @@ Your company can be registered in one emirate and you can live in another: just 
 - Driving licence converted or test planned
 - Tax obligations settled in your country of departure
 
-START IN DUBAI brings all these steps together in a single journey, with one point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian): company, bank account, visas, housing and schools. [Ask for a free first call](/en/#inscription).
+Start in Dubai brings all these steps together in a single journey, with one point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian): company, bank account, visas, housing and schools. [Ask for a free first call](/en/#inscription).
 
 ## Go further
 

@@ -195,7 +195,7 @@ Ajouter une activité, changer d'associé ou de gérant se fait par une **modifi
 - [ ] Devis écrit sur deux ans, renouvellement compris
 - [ ] Dossier bancaire préparé en parallèle
 
-START IN DUBAI prépare votre dossier de licence, le dépose auprès de l'autorité compétente et enchaîne avec les visas et le compte bancaire : voir notre [accompagnement à la création de société](/services/creation-de-societe-dubai/). Pour en parler, demandez un [premier échange gratuit](/#inscription).
+Start in Dubai prépare votre dossier de licence, le dépose auprès de l'autorité compétente et enchaîne avec les visas et le compte bancaire : voir notre [accompagnement à la création de société](/services/creation-de-societe-dubai/). Pour en parler, demandez un [premier échange gratuit](/#inscription).
 
 ## Pour aller plus loin
 

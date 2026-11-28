@@ -106,7 +106,7 @@ Nous vous envoyons la liste adaptée à votre dossier et vérifions chaque pièc
 
 ## Pourquoi un seul interlocuteur
 
-Créer une société à Dubaï, ce n’est pas une démarche mais une chaîne : licence, local, visa, Emirates ID, banque, impôts, puis souvent la famille, le logement et l’école. Quand chaque maillon est confié à un prestataire différent, les dossiers se contredisent et les délais s’allongent. Avec START IN DUBAI, une seule personne suit l’ensemble, dans votre langue (français, arabe, anglais, espagnol, néerlandais ou italien). Nous pouvons aussi prendre en charge [l’ouverture de vos comptes bancaires](/services/ouverture-compte-bancaire-dubai/) et l’installation de votre famille.
+Créer une société à Dubaï, ce n’est pas une démarche mais une chaîne : licence, local, visa, Emirates ID, banque, impôts, puis souvent la famille, le logement et l’école. Quand chaque maillon est confié à un prestataire différent, les dossiers se contredisent et les délais s’allongent. Avec Start in Dubai, une seule personne suit l’ensemble, dans votre langue (français, arabe, anglais, espagnol, néerlandais ou italien). Nous pouvons aussi prendre en charge [l’ouverture de vos comptes bancaires](/services/ouverture-compte-bancaire-dubai/) et l’installation de votre famille.
 
 ## Les erreurs que nous vous évitons
 

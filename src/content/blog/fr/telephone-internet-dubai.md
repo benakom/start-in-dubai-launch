@@ -130,6 +130,6 @@ Beaucoup de nouveaux arrivants conservent leur ligne d’origine (France, Belgiq
 6. Numéro d’origine conservé pour les codes bancaires.
 7. Rappel de renouvellement noté.
 
-Pour organiser votre arrivée (visa, banque, logement, école), [premier échange gratuit](/#inscription) avec START IN DUBAI, en français.
+Pour organiser votre arrivée (visa, banque, logement, école), [premier échange gratuit](/#inscription) avec Start in Dubai, en français.
 
 Pour la suite de votre installation, lisez notre guide pour [vivre à Dubaï](/vivre-a-dubai/) et celui pour [s’installer à Dubaï](/s-installer-a-dubai/).

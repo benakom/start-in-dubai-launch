@@ -180,4 +180,4 @@ Start early and prepare the whole family's documents in one batch. If you plan t
 - Sending originals to an attestation agent before checking with the embassy what the current procedure is.
 - Selling UK property or moving a pension without advice on the tax in both countries.
 
-When you are ready to turn this into a plan with a company, visa, bank account and housing, you can book a [free first consultation](/en/#inscription) with START IN DUBAI.
+When you are ready to turn this into a plan with a company, visa, bank account and housing, you can book a [free first consultation](/en/#inscription) with Start in Dubai.

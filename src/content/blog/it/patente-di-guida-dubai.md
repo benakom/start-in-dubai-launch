@@ -207,4 +207,4 @@ Per il budget complessivo di un trasferimento, auto compresa, vedi la nostra gui
 5. Se la tua patente non si converte, scegli una scuola autorizzata e chiedi la golden chance.
 6. Tieni un margine di budget: 1.050 AED per una conversione, di più per la via della scuola guida.
 
-START IN DUBAI organizza il tuo trasferimento dall'inizio alla fine, patente compresa: visti, Emirates ID, alloggio, banca e pratiche quotidiane, con un unico interlocutore, nella tua lingua. Per la vita sul posto, leggi anche la nostra guida per [vivere a Dubai](/it/vivere-a-dubai/). [Richiedi un primo colloquio gratuito](/it/#inscription).
+Start in Dubai organizza il tuo trasferimento dall'inizio alla fine, patente compresa: visti, Emirates ID, alloggio, banca e pratiche quotidiane, con un unico interlocutore, nella tua lingua. Per la vita sul posto, leggi anche la nostra guida per [vivere a Dubai](/it/vivere-a-dubai/). [Richiedi un primo colloquio gratuito](/it/#inscription).

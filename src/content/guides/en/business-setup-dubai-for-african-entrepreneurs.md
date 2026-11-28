@@ -147,4 +147,4 @@ If you are building a business that could qualify, the [Golden Visa for entrepre
 6. Attest only the documents that the zone asks for.
 7. Note the corporate tax registration deadline.
 
-START IN DUBAI supports entrepreneurs from A to Z (company, bank account, visas and Golden Visa, housing, family and higher education), with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian). You can also read our [company setup service page](/en/services/company-setup-dubai/) or [ask for a free first call](/en/#inscription).
+Start in Dubai supports entrepreneurs from A to Z (company, bank account, visas and Golden Visa, housing, family and higher education), with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian). You can also read our [company setup service page](/en/services/company-setup-dubai/) or [ask for a free first call](/en/#inscription).

@@ -160,7 +160,7 @@ Tout bail à Dubaï doit être enregistré auprès du Dubai Land Department via 
 
 ### Acheter
 
-Si vous envisagez d’acheter, pour y vivre ou pour investir, c’est un autre sujet, avec ses propres règles et ses propres risques. Pour l’immobilier, START IN DUBAI travaille avec [Cevitas Real Estate](https://www.cevitas.ae), agence agréée RERA (ORN 49294).
+Si vous envisagez d’acheter, pour y vivre ou pour investir, c’est un autre sujet, avec ses propres règles et ses propres risques. Pour l’immobilier, Start in Dubai travaille avec [Cevitas Real Estate](https://www.cevitas.ae), agence agréée RERA (ORN 49294).
 
 ## Ouvrir un compte bancaire
 
@@ -220,7 +220,7 @@ Votre société peut être enregistrée dans un émirat et vous pouvez vivre dan
 - Permis de conduire converti ou examen planifié
 - Obligations fiscales réglées dans votre pays de départ
 
-START IN DUBAI réunit toutes ces étapes dans un seul parcours, avec un seul interlocuteur, dans votre langue (arabe, français, anglais, espagnol, néerlandais, italien) : société, compte bancaire, visas, logement et écoles. [Demandez un premier échange gratuit](/#inscription).
+Start in Dubai réunit toutes ces étapes dans un seul parcours, avec un seul interlocuteur, dans votre langue (arabe, français, anglais, espagnol, néerlandais, italien) : société, compte bancaire, visas, logement et écoles. [Demandez un premier échange gratuit](/#inscription).
 
 ## Pour aller plus loin
 

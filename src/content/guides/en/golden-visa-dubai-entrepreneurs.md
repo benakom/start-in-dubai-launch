@@ -167,7 +167,7 @@ If you are an employee rather than a founder, a different category fits you bett
 6. Ask the GDRFA to confirm the duration and the revenue threshold for your file.
 7. Consider your tax residence in your home country before you move.
 
-The Golden Visa is one step in a wider project: company, bank account, visas, housing, schools. START IN DUBAI supports you from A to Z with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian), including the [Golden Visa services](/en/services/golden-visa-services-dubai/). Property is handled by our partner [Cevitas Real Estate](https://www.cevitas.ae), a RERA-licensed agency. You can book a [free first conversation](/en/#inscription) with no commitment.
+The Golden Visa is one step in a wider project: company, bank account, visas, housing, schools. Start in Dubai supports you from A to Z with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian), including the [Golden Visa services](/en/services/golden-visa-services-dubai/). Property is handled by our partner [Cevitas Real Estate](https://www.cevitas.ae), a RERA-licensed agency. You can book a [free first conversation](/en/#inscription) with no commitment.
 
 ## Go further
 

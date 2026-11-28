@@ -147,4 +147,4 @@ Labour rules are the same for every nationality. Your employer must obtain the w
 - Assuming the Nigeria-UAE tax treaty protects you without checking its status.
 - Moving a large sum without bank documentation, which then blocks your UAE account opening.
 
-For property in Dubai, our partner agency Cevitas Real Estate (RERA-licensed, ORN 49294) is at https://www.cevitas.ae. To turn this checklist into a plan, book a [free first consultation](/en/#inscription) with START IN DUBAI.
+For property in Dubai, our partner agency Cevitas Real Estate (RERA-licensed, ORN 49294) is at https://www.cevitas.ae. To turn this checklist into a plan, book a [free first consultation](/en/#inscription) with Start in Dubai.

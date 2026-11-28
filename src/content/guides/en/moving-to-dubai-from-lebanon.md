@@ -179,4 +179,4 @@ Ask Lebanon's Ministry of Foreign Affairs which Lebanese embassy covers the UAE 
 6. Verified job offer with no fees to pay, or a university admission.
 7. Health insurance valid in the UAE from arrival ([health insurance guide](/en/blog/health-insurance-dubai/)).
 
-To frame your project (company, visa, bank, housing, family), book a [free first consultation](/en/#inscription) with START IN DUBAI, a single contact who speaks your language. For property, our partner Cevitas Real Estate is a RERA-licensed agency: https://www.cevitas.ae.
+To frame your project (company, visa, bank, housing, family), book a [free first consultation](/en/#inscription) with Start in Dubai, a single contact who speaks your language. For property, our partner Cevitas Real Estate is a RERA-licensed agency: https://www.cevitas.ae.

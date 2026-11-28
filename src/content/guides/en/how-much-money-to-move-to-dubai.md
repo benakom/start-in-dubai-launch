@@ -155,7 +155,7 @@ These costs are outside Dubai and easy to forget. For shipping, customs and pets
 6. Check what the employer pays in the contract: visa, insurance, housing, flights.
 7. Compare to your savings. If the gap is large, move alone first, share housing, or negotiate a relocation allowance.
 
-START IN DUBAI supports people from A to Z (company, bank account, visas, housing, schools), with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian). We do not guarantee any cost or outcome: the figures above are estimates. For property, we work with [Cevitas Real Estate](https://www.cevitas.ae), an RERA-licensed agency (ORN 49294). [Book a free first call](/en/#inscription).
+Start in Dubai supports people from A to Z (company, bank account, visas, housing, schools), with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian). We do not guarantee any cost or outcome: the figures above are estimates. For property, we work with [Cevitas Real Estate](https://www.cevitas.ae), an RERA-licensed agency (ORN 49294). [Book a free first call](/en/#inscription).
 
 Last checked on u.ae and ICP in November 2026.
 

@@ -108,7 +108,7 @@ Après un premier échange gratuit, nous établissons un plan d’installation a
 
 ## Pourquoi un seul interlocuteur
 
-Le visa de la famille dépend du bail, le bail dépend de l’Emirates ID, l’école demande le visa, et le compte bancaire demande tout le reste. Avec plusieurs prestataires, personne ne tient l’ensemble. Avec START IN DUBAI, une seule personne coordonne chaque étape, dans votre langue (français, arabe, anglais, espagnol, néerlandais ou italien). Si votre visa passe par une société ou un Golden Visa, nous le traitons aussi : voir notre service [Golden Visa et visas de résidence](/services/golden-visa-visas-dubai/).
+Le visa de la famille dépend du bail, le bail dépend de l’Emirates ID, l’école demande le visa, et le compte bancaire demande tout le reste. Avec plusieurs prestataires, personne ne tient l’ensemble. Avec Start in Dubai, une seule personne coordonne chaque étape, dans votre langue (français, arabe, anglais, espagnol, néerlandais ou italien). Si votre visa passe par une société ou un Golden Visa, nous le traitons aussi : voir notre service [Golden Visa et visas de résidence](/services/golden-visa-visas-dubai/).
 
 ## Les erreurs que nous vous évitons
 

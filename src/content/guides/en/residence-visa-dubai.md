@@ -165,7 +165,7 @@ If your visa was cancelled this way, a procedure lets you apply for a return per
 - **Staying more than 180 days outside** with a standard visa, without checking whether an exception applies.
 - **Confusing residence and tax residence:** having a visa is not enough to stop being taxed in your country. Read our guide to [taxes in Dubai](/en/tax-in-dubai/).
 
-START IN DUBAI supports you from A to Z (company, bank account, visas, housing, schools), with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian).
+Start in Dubai supports you from A to Z (company, bank account, visas, housing, schools), with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian).
 
 ## Go further
 

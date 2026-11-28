@@ -102,7 +102,7 @@ The first conversation is free, with the student and, if they wish, their parent
 
 ## Why one point of contact
 
-Studying in Dubai involves the university, the GDRFA, a landlord, an insurer and a bank. For a family following the file from a distance, it quickly becomes difficult. With START IN DUBAI, one person coordinates everything and keeps the student and the parents informed, in their language (English, Arabic, French, Spanish, Dutch or Italian).
+Studying in Dubai involves the university, the GDRFA, a landlord, an insurer and a bank. For a family following the file from a distance, it quickly becomes difficult. With Start in Dubai, one person coordinates everything and keeps the student and the parents informed, in their language (English, Arabic, French, Spanish, Dutch or Italian).
 
 ## The mistakes we help you avoid
 

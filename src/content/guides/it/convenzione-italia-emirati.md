@@ -125,7 +125,7 @@ Se percepisci una pensione italiana, la guida alla [pensione INPS all'estero](/i
 6. **Tieni traccia dei giorni** trascorsi in Italia e negli Emirati.
 7. **Fai validare tutto da un commercialista italiano** prima di cancellarti dall'anagrafe: leggi la guida all'[AIRE a Dubai](/it/aire-dubai/).
 
-START IN DUBAI ti accompagna nella parte emiratina del trasferimento (visto di residenza, società, conto bancario, alloggio, famiglia) con un solo interlocutore che parla italiano. Per parlarne, [richiedi un primo colloquio gratuito e senza impegno](/it/#inscription). L'interpretazione della convenzione per il tuo caso resta al tuo commercialista: START IN DUBAI non fornisce consulenza fiscale.
+Start in Dubai ti accompagna nella parte emiratina del trasferimento (visto di residenza, società, conto bancario, alloggio, famiglia) con un solo interlocutore che parla italiano. Per parlarne, [richiedi un primo colloquio gratuito e senza impegno](/it/#inscription). L'interpretazione della convenzione per il tuo caso resta al tuo commercialista: Start in Dubai non fornisce consulenza fiscale.
 
 ## Per approfondire
 

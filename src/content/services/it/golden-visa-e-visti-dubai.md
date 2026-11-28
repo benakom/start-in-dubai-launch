@@ -108,7 +108,7 @@ A seconda della categoria, ti verranno chiesti in particolare:
 
 ## Perché un unico referente
 
-Il visto non è mai isolato. Dipende spesso da una società, da un immobile o da un lavoro, e condiziona il conto bancario, l’affitto e la scuola dei figli. Con START IN DUBAI una sola persona segue la tua residenza e tutto ciò che ne deriva, nella tua lingua (arabo, francese, inglese, spagnolo, olandese o italiano). Se il tuo visto passa per una società, la costituiamo con te: vedi la nostra [guida alla costituzione di una società](/it/aprire-una-societa-a-dubai/).
+Il visto non è mai isolato. Dipende spesso da una società, da un immobile o da un lavoro, e condiziona il conto bancario, l’affitto e la scuola dei figli. Con Start in Dubai una sola persona segue la tua residenza e tutto ciò che ne deriva, nella tua lingua (arabo, francese, inglese, spagnolo, olandese o italiano). Se il tuo visto passa per una società, la costituiamo con te: vedi la nostra [guida alla costituzione di una società](/it/aprire-una-societa-a-dubai/).
 
 ## Gli errori che ti evitiamo
 

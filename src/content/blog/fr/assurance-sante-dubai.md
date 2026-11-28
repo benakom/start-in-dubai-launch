@@ -178,4 +178,4 @@ La loi n° 11 de 2013 (art. 23) prévoit une amende **de 500 à 150 000 AED** po
 6. Français : décidez entre police locale plus FrancExpat, ou offre dédiée aux Émirats.
 7. Notez la date d’échéance et renouvelez avant le visa.
 
-L’assurance de la famille est un des points que START IN DUBAI organise pour vous au moment de l’installation, avec les visas, le logement et l’inscription des enfants, en un seul parcours et dans votre langue. Pour une installation avec enfants, lisez aussi notre guide pour [s’installer à Dubaï en famille](/s-installer-a-dubai-en-famille/). [Demander un premier échange gratuit](/#inscription).
+L’assurance de la famille est un des points que Start in Dubai organise pour vous au moment de l’installation, avec les visas, le logement et l’inscription des enfants, en un seul parcours et dans votre langue. Pour une installation avec enfants, lisez aussi notre guide pour [s’installer à Dubaï en famille](/s-installer-a-dubai-en-famille/). [Demander un premier échange gratuit](/#inscription).

@@ -251,4 +251,4 @@ Pour les logements résidentiels avec un seul numéro de local, la DEWA est reli
 8. Rappel mensuel de paiement en place, e-mail et mobile à jour chez la DEWA.
 9. Au départ : Move-out ou Move-to demandé, IBAN au bon nom, quitus conservé.
 
-Logement, Ejari, DEWA, banque et visas : START IN DUBAI organise votre installation de A à Z, avec un seul interlocuteur dans votre langue. Pour en parler, demandez un [premier échange gratuit](/#inscription).
+Logement, Ejari, DEWA, banque et visas : Start in Dubai organise votre installation de A à Z, avec un seul interlocuteur dans votre langue. Pour en parler, demandez un [premier échange gratuit](/#inscription).

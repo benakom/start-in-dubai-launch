@@ -150,6 +150,6 @@ Carrier liability is not the same as insurance. Many removal contracts limit wha
 6. Compare the total with the cost of **replacing** the goods in Dubai. As a rule of thumb (ours, not an official figure), if shipping an item costs more than half of its replacement value, sell it.
 7. Add the result to your living budget from our [budget by profile](/en/how-much-money-to-move-to-dubai/).
 
-START IN DUBAI supports people from A to Z (company, bank account, visas, housing, schools), with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian). We do not set removal prices and we do not guarantee any cost or outcome. For property, we work with [Cevitas Real Estate](https://www.cevitas.ae), an RERA-licensed agency (ORN 49294). [Book a free first call](/en/#inscription).
+Start in Dubai supports people from A to Z (company, bank account, visas, housing, schools), with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian). We do not set removal prices and we do not guarantee any cost or outcome. For property, we work with [Cevitas Real Estate](https://www.cevitas.ae), an RERA-licensed agency (ORN 49294). [Book a free first call](/en/#inscription).
 
 Last checked on Dubai Customs and u.ae in November 2026.

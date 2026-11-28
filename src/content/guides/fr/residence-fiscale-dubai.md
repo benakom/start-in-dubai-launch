@@ -173,7 +173,7 @@ Des conventions existent aussi avec la Tunisie, l'Algérie et le Sénégal : leu
 - [ ] Compte EmaraTax ouvert, frais de la FTA prévus
 - [ ] Période du certificat choisie (12 mois au plus, déjà écoulés)
 
-START IN DUBAI vous accompagne pour réunir les preuves de votre installation : visa, Emirates ID, logement, compte bancaire, société. Pour l'analyse fiscale propre à votre pays d'origine, nous vous recommandons toujours un conseiller fiscal de ce pays. Pour en parler, demandez un [premier échange gratuit](/#inscription).
+Start in Dubai vous accompagne pour réunir les preuves de votre installation : visa, Emirates ID, logement, compte bancaire, société. Pour l'analyse fiscale propre à votre pays d'origine, nous vous recommandons toujours un conseiller fiscal de ce pays. Pour en parler, demandez un [premier échange gratuit](/#inscription).
 
 ## Pour aller plus loin
 

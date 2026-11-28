@@ -126,4 +126,4 @@ Heeft u vastgoed, ook in Dubai? Dan laat u de fiscale gevolgen bepalen door een 
 - **Geen DigiD hebben vóór vertrek**: vanuit Dubai kost het extra stappen.
 - **Fiscaal advies halen bij een courtier of een forum**: bronnen verschillen op punten als box 3 en de peildatum; laat het controleren door een fiscalist.
 
-START IN DUBAI begeleidt u bij uw installatie in Dubai van A tot Z, met één aanspreekpunt in uw eigen taal. Fiscaal advies voor uw situatie blijft het werk van een erkend fiscalist. Voor uw installatie leest u ook onze gids over [wonen in Dubai](/nl/wonen-in-dubai/). [Een gratis eerste gesprek aanvragen](/nl/#inscription).
+Start in Dubai begeleidt u bij uw installatie in Dubai van A tot Z, met één aanspreekpunt in uw eigen taal. Fiscaal advies voor uw situatie blijft het werk van een erkend fiscalist. Voor uw installatie leest u ook onze gids over [wonen in Dubai](/nl/wonen-in-dubai/). [Een gratis eerste gesprek aanvragen](/nl/#inscription).

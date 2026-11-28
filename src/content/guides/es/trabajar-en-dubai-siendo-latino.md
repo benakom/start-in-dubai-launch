@@ -140,7 +140,7 @@ Si tienes dudas sobre un empleo ya aceptado, el MOHRE tiene canales de contacto 
 6. Planifica el viaje con el visado correcto y el seguro médico en regla.
 7. Antes de salir, consulta tu situación fiscal en tu país.
 
-Si prefieres no ir solo en esto, START IN DUBAI acompaña la instalación de A a Z (visados, cuenta bancaria, vivienda, familia) con un solo interlocutor en español. Puedes pedir un [primer intercambio gratuito](/es/#inscription), sin compromiso. Para el alquiler o la compra de vivienda, nuestro socio es [Cevitas Real Estate](https://www.cevitas.ae), agencia autorizada por RERA.
+Si prefieres no ir solo en esto, Start in Dubai acompaña la instalación de A a Z (visados, cuenta bancaria, vivienda, familia) con un solo interlocutor en español. Puedes pedir un [primer intercambio gratuito](/es/#inscription), sin compromiso. Para el alquiler o la compra de vivienda, nuestro socio es [Cevitas Real Estate](https://www.cevitas.ae), agencia autorizada por RERA.
 
 ## Según tu país
 

@@ -166,11 +166,11 @@ El Ministerio de Asuntos Exteriores pide a los españoles que no son residentes 
 5. Reúne las pruebas de tu instalación en Dubái desde el primer día.
 6. Pide el certificado de residencia fiscal a la FTA cuando cumplas sus criterios.
 7. Comunica tu cambio a la Agencia Tributaria y conserva el justificante.
-8. Valida el conjunto con un asesor fiscal español: START IN DUBAI no sustituye ese asesoramiento.
+8. Valida el conjunto con un asesor fiscal español: Start in Dubai no sustituye ese asesoramiento.
 
-## Cómo te acompaña START IN DUBAI
+## Cómo te acompaña Start in Dubai
 
-START IN DUBAI te acompaña de la A a la Z en los trámites emiratíes (empresa, cuenta bancaria, visados y Golden Visa, vivienda, instalación de la familia, estudios superiores), con un solo interlocutor y en tu idioma. Para el inmobiliario, trabajamos con Cevitas Real Estate, agencia autorizada por RERA (ORN 49294): consulta [cevitas.ae](https://www.cevitas.ae). Puedes pedir tu [primer intercambio gratuito y sin compromiso](/es/#inscription).
+Start in Dubai te acompaña de la A a la Z en los trámites emiratíes (empresa, cuenta bancaria, visados y Golden Visa, vivienda, instalación de la familia, estudios superiores), con un solo interlocutor y en tu idioma. Para el inmobiliario, trabajamos con Cevitas Real Estate, agencia autorizada por RERA (ORN 49294): consulta [cevitas.ae](https://www.cevitas.ae). Puedes pedir tu [primer intercambio gratuito y sin compromiso](/es/#inscription).
 
 ## Para ir más lejos
 

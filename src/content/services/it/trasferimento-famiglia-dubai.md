@@ -107,7 +107,7 @@ Dopo un primo colloquio gratuito stabiliamo un piano di trasferimento con delle 
 
 ## Perché un unico referente
 
-Il visto della famiglia dipende dal contratto di locazione, il contratto di locazione dipende dall’Emirates ID, la scuola chiede il visto e il conto bancario chiede tutto il resto. Con più fornitori nessuno tiene insieme il quadro. Con START IN DUBAI una sola persona coordina ogni fase, nella tua lingua (arabo, francese, inglese, spagnolo, olandese o italiano). Se il tuo visto passa per una società o un Golden Visa, lo trattiamo anche noi: vedi il nostro servizio [Golden Visa e visti di residenza](/it/services/golden-visa-e-visti-dubai/).
+Il visto della famiglia dipende dal contratto di locazione, il contratto di locazione dipende dall’Emirates ID, la scuola chiede il visto e il conto bancario chiede tutto il resto. Con più fornitori nessuno tiene insieme il quadro. Con Start in Dubai una sola persona coordina ogni fase, nella tua lingua (arabo, francese, inglese, spagnolo, olandese o italiano). Se il tuo visto passa per una società o un Golden Visa, lo trattiamo anche noi: vedi il nostro servizio [Golden Visa e visti di residenza](/it/services/golden-visa-e-visti-dubai/).
 
 ## Gli errori che ti evitiamo
 

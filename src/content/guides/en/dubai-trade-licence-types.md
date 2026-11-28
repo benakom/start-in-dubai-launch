@@ -146,4 +146,4 @@ A free zone licence does not mean "no tax". The UAE corporate tax is 0% up to 37
 6. Reserve a trade name that follows the rules.
 7. Plan the corporate tax registration and your bank account: see [business bank account in Dubai](/en/business-bank-account-dubai-non-resident/).
 
-START IN DUBAI supports company creation from A to Z (licence, bank account, visas and Golden Visa, housing, family and higher education), with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian). You can also read our [company setup service page](/en/services/company-setup-dubai/) or [ask for a free first call](/en/#inscription).
+Start in Dubai supports company creation from A to Z (licence, bank account, visas and Golden Visa, housing, family and higher education), with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian). You can also read our [company setup service page](/en/services/company-setup-dubai/) or [ask for a free first call](/en/#inscription).

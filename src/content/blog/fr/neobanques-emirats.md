@@ -174,4 +174,4 @@ Pour un salarié, le calcul est souvent plus simple : chez Mashreq NEO, par exem
 6. Calculer le coût d'un mois type avec vos virements locaux et internationaux.
 7. Noter la procédure de réclamation de la banque, et garder en tête Sanadak en dernier recours.
 
-Vous voulez que votre compte personnel, celui de votre société et vos visas s'enchaînent sans blocage ? START IN DUBAI vous accompagne de A à Z, avec un seul interlocuteur, dans votre langue. Pour commencer, [demander un premier échange gratuit](/#inscription).
+Vous voulez que votre compte personnel, celui de votre société et vos visas s'enchaînent sans blocage ? Start in Dubai vous accompagne de A à Z, avec un seul interlocuteur, dans votre langue. Pour commencer, [demander un premier échange gratuit](/#inscription).

@@ -124,4 +124,4 @@ Una regola pratica: non portare tutto subito. Prima del trasferimento valuta il 
 - [ ] Ho segnato il conto estero per il quadro RW, se dovuto.
 - [ ] Non porto contante oltre le soglie senza dichiararlo.
 
-START IN DUBAI ti accompagna in conto bancario, società, visti e installazione, con un solo interlocutore che parla italiano. Per il tuo caso [richiedi un primo colloquio gratuito e senza impegno](/it/#inscription). Per le questioni fiscali rivolgiti a un commercialista: non forniamo consulenza fiscale né servizi di trasferimento di denaro.
+Start in Dubai ti accompagna in conto bancario, società, visti e installazione, con un solo interlocutore che parla italiano. Per il tuo caso [richiedi un primo colloquio gratuito e senza impegno](/it/#inscription). Per le questioni fiscali rivolgiti a un commercialista: non forniamo consulenza fiscale né servizi di trasferimento di denaro.

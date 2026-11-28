@@ -131,6 +131,6 @@ To sponsor your family, u.ae sets a minimum salary of 4,000 AED, or 3,000 AED wi
 - [ ] I checked what my employer pays, in writing
 - [ ] I compared at least three schools
 
-START IN DUBAI supports families from A to Z (visas, housing, schools, bank account, company), with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian). We do not set school fees and do not guarantee a place. [Book a free first call](/en/#inscription).
+Start in Dubai supports families from A to Z (visas, housing, schools, bank account, company), with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian). We do not set school fees and do not guarantee a place. [Book a free first call](/en/#inscription).
 
 Last checked on the KHDA and the Dubai Media Office in November 2026.

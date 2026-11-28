@@ -161,4 +161,4 @@ Deze tabel geeft tendensen, geen regel. Dezelfde activiteit kan van de ene kolom
 5. **De visa onderschatten.** Een flexi-desk geeft doorgaans weinig visa. Wilt u personeel aannemen, zeg dat dan bij uw offerteaanvraag.
 6. **Alleen naar het eerste jaar kijken.** Vergelijk ook de verlenging: licentie, kantoor, establishment card en visa komen elk jaar of om de twee jaar terug.
 
-Twijfelt u nog tussen mainland en vrije zone voor uw project? START IN DUBAI begeleidt u van A tot Z (bedrijf, bankrekening, visa, verhuizing van uw gezin), met één aanspreekpunt, in uw eigen taal. [Een eerste gratis gesprek aanvragen](/nl/#inscription).
+Twijfelt u nog tussen mainland en vrije zone voor uw project? Start in Dubai begeleidt u van A tot Z (bedrijf, bankrekening, visa, verhuizing van uw gezin), met één aanspreekpunt, in uw eigen taal. [Een eerste gratis gesprek aanvragen](/nl/#inscription).

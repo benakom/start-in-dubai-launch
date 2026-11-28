@@ -167,7 +167,7 @@ Each route has its own conditions and costs, and some depend on your nationality
 - [ ] I will not work or accept paid work until I have a work permit
 - [ ] I have a plan for the day the visa expires
 
-START IN DUBAI helps you plan your move once you know where you stand: residence options, bank, housing and schooling, in your language (Arabic, French, English, Spanish, Dutch, Italian). [Ask for a free first call](/en/#inscription).
+Start in Dubai helps you plan your move once you know where you stand: residence options, bank, housing and schooling, in your language (Arabic, French, English, Spanish, Dutch, Italian). [Ask for a free first call](/en/#inscription).
 
 ## Go further
 

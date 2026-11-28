@@ -146,6 +146,6 @@ Werkt u alleen, zonder personeel, dan kan een [freelancelicentie in Dubai](/nl/f
 6. Noteer de datum van registratie voor de vennootschapsbelasting.
 7. Leg vast waar de leiding van het bedrijf wordt uitgeoefend.
 
-## Wat START IN DUBAI kan doen
+## Wat Start in Dubai kan doen
 
-START IN DUBAI begeleidt het traject van A tot Z (bedrijf, bankrekening, visa, woning, scholen), met één aanspreekpunt, in uw eigen taal (Arabisch, Frans, Engels, Spaans, Nederlands, Italiaans). Onze dienst voor [bedrijfsoprichting in Dubai](/nl/services/bedrijfsoprichting-dubai/) legt uit wat wij doen. Een Nederlands fiscaal advies geven wij niet. De dienst is open: [vraag een eerste gratis gesprek aan](/nl/#inscription).
+Start in Dubai begeleidt het traject van A tot Z (bedrijf, bankrekening, visa, woning, scholen), met één aanspreekpunt, in uw eigen taal (Arabisch, Frans, Engels, Spaans, Nederlands, Italiaans). Onze dienst voor [bedrijfsoprichting in Dubai](/nl/services/bedrijfsoprichting-dubai/) legt uit wat wij doen. Een Nederlands fiscaal advies geven wij niet. De dienst is open: [vraag een eerste gratis gesprek aan](/nl/#inscription).

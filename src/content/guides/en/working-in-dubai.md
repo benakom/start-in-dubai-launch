@@ -169,7 +169,7 @@ For a mainland company, the job offer normally goes through MOHRE and carries a 
 7. Never pay recruitment fees.
 8. Once you have the visa, follow on with: bank, housing, Ejari, family insurance. It is all in our guide to [moving to Dubai](/en/moving-to-dubai/).
 
-START IN DUBAI helps you organise your move once you have found a job (visas, housing, bank, schools), in your language (Arabic, French, English, Spanish, Dutch, Italian). [Ask for a free first call](/en/#inscription).
+Start in Dubai helps you organise your move once you have found a job (visas, housing, bank, schools), in your language (Arabic, French, English, Spanish, Dutch, Italian). [Ask for a free first call](/en/#inscription).
 
 ## Go further
 

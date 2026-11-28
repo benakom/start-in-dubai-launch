@@ -102,7 +102,7 @@ Het eerste gesprek is gratis, met de student en, als zij dat willen, de ouders. 
 
 ## Waarom één aanspreekpunt
 
-Studeren in Dubai brengt de universiteit, de GDRFA, een verhuurder, een verzekeraar en een bank in beweging. Voor een gezin dat het dossier op afstand volgt, wordt dat snel moeilijk. Bij START IN DUBAI coördineert één persoon het geheel en houdt de student en de ouders op de hoogte, in hun taal (Arabisch, Frans, Engels, Spaans, Nederlands of Italiaans).
+Studeren in Dubai brengt de universiteit, de GDRFA, een verhuurder, een verzekeraar en een bank in beweging. Voor een gezin dat het dossier op afstand volgt, wordt dat snel moeilijk. Bij Start in Dubai coördineert één persoon het geheel en houdt de student en de ouders op de hoogte, in hun taal (Arabisch, Frans, Engels, Spaans, Nederlands of Italiaans).
 
 ## De fouten die wij u besparen
 

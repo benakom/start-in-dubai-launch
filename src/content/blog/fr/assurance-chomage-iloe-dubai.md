@@ -230,4 +230,4 @@ Pour la recherche elle-même (sites, recruteurs, arnaques à éviter), notre gui
 5. En cas de perte d'emploi, vous déposez la demande **dans les 30 jours** et restez aux Émirats.
 6. Vous avez prévu la suite de votre **visa** pendant la période d'indemnisation.
 
-Vous préparez votre arrivée comme salarié ou vous envisagez de créer votre propre société ? START IN DUBAI vous accompagne de A à Z (visas, banque, logement, installation de la famille), avec un seul interlocuteur, dans votre langue : [premier échange gratuit](/#inscription).
+Vous préparez votre arrivée comme salarié ou vous envisagez de créer votre propre société ? Start in Dubai vous accompagne de A à Z (visas, banque, logement, installation de la famille), avec un seul interlocuteur, dans votre langue : [premier échange gratuit](/#inscription).

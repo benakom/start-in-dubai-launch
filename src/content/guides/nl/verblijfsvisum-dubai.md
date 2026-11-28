@@ -165,7 +165,7 @@ Als uw visum op deze manier is geannuleerd, kunt u via een procedure vanuit het 
 - **Meer dan 180 dagen buiten het land blijven** met een gewoon visum, zonder te controleren of een uitzondering geldt.
 - **Verblijf en fiscale woonplaats door elkaar halen**: een visum hebben volstaat niet om in uw land niet meer belast te worden. Lees onze gids over de [belasting in Dubai](/nl/belasting-dubai/).
 
-START IN DUBAI begeleidt u van A tot Z (bedrijf, bankrekening, visa, woning, scholen), met één aanspreekpunt, in uw eigen taal (Arabisch, Frans, Engels, Spaans, Nederlands, Italiaans).
+Start in Dubai begeleidt u van A tot Z (bedrijf, bankrekening, visa, woning, scholen), met één aanspreekpunt, in uw eigen taal (Arabisch, Frans, Engels, Spaans, Nederlands, Italiaans).
 
 ## Verder lezen
 

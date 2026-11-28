@@ -177,4 +177,4 @@ Wet nr. 11 van 2013 (art. 23) voorziet een boete **van 500 tot 150.000 AED** voo
 6. Fransen: kies tussen een lokale polis plus FrancExpat, of een aanbod speciaal voor de Emiraten.
 7. Noteer de vervaldatum en verleng vóór het visum.
 
-De verzekering van het gezin is een van de punten die START IN DUBAI voor u regelt bij de installatie, samen met de visa, de woning en de inschrijving van de kinderen, in één traject en in uw eigen taal. Voor een installatie met kinderen leest u ook onze gids over [emigreren naar Dubai met uw gezin](/nl/emigreren-naar-dubai-met-gezin/). [Een gratis eerste gesprek aanvragen](/nl/#inscription).
+De verzekering van het gezin is een van de punten die Start in Dubai voor u regelt bij de installatie, samen met de visa, de woning en de inschrijving van de kinderen, in één traject en in uw eigen taal. Voor een installatie met kinderen leest u ook onze gids over [emigreren naar Dubai met uw gezin](/nl/emigreren-naar-dubai-met-gezin/). [Een gratis eerste gesprek aanvragen](/nl/#inscription).

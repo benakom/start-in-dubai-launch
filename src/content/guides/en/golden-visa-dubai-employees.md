@@ -167,7 +167,7 @@ The conditions are tied to your job. If you are promoted, your salary may cross 
 5. Take out comprehensive health insurance for yourself and your family.
 6. Check the tax consequences in your home country: the visa settles your right to reside, not your tax residence. See [taxes in Dubai](/en/tax-in-dubai/).
 
-START IN DUBAI supports you from A to Z with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian), including the [Golden Visa services](/en/services/golden-visa-services-dubai/). You can book a [free first conversation](/en/#inscription) with no commitment.
+Start in Dubai supports you from A to Z with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian), including the [Golden Visa services](/en/services/golden-visa-services-dubai/). You can book a [free first conversation](/en/#inscription) with no commitment.
 
 ## Go further
 

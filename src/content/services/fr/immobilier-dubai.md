@@ -4,7 +4,7 @@ description: "Immobilier et installation à Dubaï : achat et gestion avec Cevit
 h1: "Immobilier et installation à Dubaï : votre achat coordonné avec le reste de votre projet"
 keyword: "immobilier et installation à dubai"
 secondary: ["acheter un bien à dubai pour s’y installer", "propriétaire à dubai depuis l’étranger", "achat immobilier et visa de résidence dubai", "achat immobilier et compte bancaire dubai", "s’installer à dubai et acheter"]
-intro: "Pour l’immobilier, START IN DUBAI travaille avec Cevitas Real Estate, agence agréée RERA (ORN 49294), qui s’occupe de l’achat et de la gestion de votre bien. De notre côté, nous coordonnons tout ce qui gravite autour : visa de résidence ou Golden Visa, compte bancaire, société éventuelle, installation de la famille. Vous avez un seul interlocuteur pour l’ensemble, dans votre langue, que vous viviez à Dubaï ou à l’étranger."
+intro: "Pour l’immobilier, Start in Dubai travaille avec Cevitas Real Estate, agence agréée RERA (ORN 49294), qui s’occupe de l’achat et de la gestion de votre bien. De notre côté, nous coordonnons tout ce qui gravite autour : visa de résidence ou Golden Visa, compte bancaire, société éventuelle, installation de la famille. Vous avez un seul interlocuteur pour l’ensemble, dans votre langue, que vous viviez à Dubaï ou à l’étranger."
 essentials:
   - "Un seul interlocuteur pour votre projet immobilier et tout ce qui en dépend : visa, banque, société, famille."
   - "Recherche, achat et gestion de votre bien confiés à Cevitas Real Estate, agence agréée RERA (ORN 49294)."
@@ -26,8 +26,8 @@ steps:
 profile: investir
 cluster: investir
 faq:
-  - q: "START IN DUBAI vend-il des biens immobiliers ?"
-    a: "Non. START IN DUBAI ne conseille pas sur le choix des biens. La recherche, l’achat et la gestion sont confiés à notre partenaire Cevitas Real Estate, agence agréée RERA (ORN 49294). Nous coordonnons le reste de votre projet : visa, banque, société et installation."
+  - q: "Start in Dubai vend-il des biens immobiliers ?"
+    a: "Non. Start in Dubai ne conseille pas sur le choix des biens. La recherche, l’achat et la gestion sont confiés à notre partenaire Cevitas Real Estate, agence agréée RERA (ORN 49294). Nous coordonnons le reste de votre projet : visa, banque, société et installation."
   - q: "Combien coûte cet accompagnement ?"
     a: "Les frais liés à l’achat (enregistrement au Dubai Land Department, honoraires d’agence) dépendent de chaque transaction : Cevitas Real Estate vous les détaille pour le bien qui vous intéresse. Pour nos services d’installation, le premier échange est gratuit et sans engagement, et c’est là que nous vous présentons notre proposition."
   - q: "Acheter un bien me donne-t-il automatiquement un visa ?"
@@ -68,9 +68,9 @@ Vous pouvez vivre au Maroc, en Europe, au Canada, en Afrique ou déjà aux Émir
 
 ### Cevitas Real Estate : l’achat et la gestion du bien
 
-Le choix du bien, la négociation, la transaction et la gestion après l’achat relèvent d’un métier à part, encadré à Dubaï par la RERA. Nous les confions à notre partenaire [Cevitas Real Estate](https://www.cevitas.ae), agence agréée RERA (ORN 49294). START IN DUBAI ne conseille pas sur le choix des biens. Pour la mise en location d’un bien sans être sur place, Cevitas présente son service sur sa page [gestion locative à Dubaï](https://www.cevitas.ae/gestion-locative-dubai).
+Le choix du bien, la négociation, la transaction et la gestion après l’achat relèvent d’un métier à part, encadré à Dubaï par la RERA. Nous les confions à notre partenaire [Cevitas Real Estate](https://www.cevitas.ae), agence agréée RERA (ORN 49294). Start in Dubai ne conseille pas sur le choix des biens. Pour la mise en location d’un bien sans être sur place, Cevitas présente son service sur sa page [gestion locative à Dubaï](https://www.cevitas.ae/gestion-locative-dubai).
 
-### START IN DUBAI : tout ce qui gravite autour
+### Start in Dubai : tout ce qui gravite autour
 
 Nous prenons en charge ce qui dépend de votre achat ou qui le conditionne :
 
@@ -106,7 +106,7 @@ Les pièces propres à la transaction immobilière vous sont demandées par Cevi
 
 ## Pourquoi un seul interlocuteur
 
-L’achat, le visa, la banque et l’installation se répondent : un retard sur l’un bloque les autres. Avec START IN DUBAI, une seule personne tient le calendrier, travaille directement avec Cevitas Real Estate et vous tient informé, dans votre langue (français, arabe, anglais, espagnol, néerlandais ou italien). Pour une vue d’ensemble des façons d’investir aux Émirats, au-delà de l’immobilier, lisez notre guide [investir à Dubaï](/investir-a-dubai/).
+L’achat, le visa, la banque et l’installation se répondent : un retard sur l’un bloque les autres. Avec Start in Dubai, une seule personne tient le calendrier, travaille directement avec Cevitas Real Estate et vous tient informé, dans votre langue (français, arabe, anglais, espagnol, néerlandais ou italien). Pour une vue d’ensemble des façons d’investir aux Émirats, au-delà de l’immobilier, lisez notre guide [investir à Dubaï](/investir-a-dubai/).
 
 ## Les erreurs que nous vous évitons
 

@@ -115,4 +115,4 @@ La dichiarazione di valore, come precisa il Ministero degli Esteri, non è un ri
 
 ## Il tuo prossimo passo
 
-START IN DUBAI ti accompagna nella parte emiratina del trasferimento della famiglia (visti, alloggio, scelta e iscrizione delle scuole, conto bancario) con un solo interlocutore che parla italiano. Per parlarne, [richiedi un primo colloquio gratuito e senza impegno](/it/#inscription). La scelta della scuola e il rientro nel sistema italiano restano decisioni della tua famiglia e delle scuole interessate: START IN DUBAI non può garantire un posto né il riconoscimento di un percorso.
+Start in Dubai ti accompagna nella parte emiratina del trasferimento della famiglia (visti, alloggio, scelta e iscrizione delle scuole, conto bancario) con un solo interlocutore che parla italiano. Per parlarne, [richiedi un primo colloquio gratuito e senza impegno](/it/#inscription). La scelta della scuola e il rientro nel sistema italiano restano decisioni della tua famiglia e delle scuole interessate: Start in Dubai non può garantire un posto né il riconoscimento di un percorso.

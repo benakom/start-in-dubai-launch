@@ -4,7 +4,7 @@ description: "Property and relocation in Dubai: purchase and management with Cev
 h1: "Property and relocation in Dubai: your purchase coordinated with the rest of your project"
 keyword: "dubai property and relocation support"
 secondary: ["buy property in dubai to move there", "property owner in dubai from abroad", "property purchase and residence visa dubai", "property purchase and bank account dubai", "move to dubai and buy"]
-intro: "For real estate, START IN DUBAI works with Cevitas Real Estate, a RERA-licensed agency (ORN 49294), which takes care of the purchase and management of your property. On our side, we coordinate everything around it: residence visa or Golden Visa, bank account, a company if needed, your family’s relocation. You have one point of contact for the whole, in your language, whether you live in Dubai or abroad."
+intro: "For real estate, Start in Dubai works with Cevitas Real Estate, a RERA-licensed agency (ORN 49294), which takes care of the purchase and management of your property. On our side, we coordinate everything around it: residence visa or Golden Visa, bank account, a company if needed, your family’s relocation. You have one point of contact for the whole, in your language, whether you live in Dubai or abroad."
 essentials:
   - "One point of contact for your property project and everything that depends on it: visa, bank, company, family."
   - "Search, purchase and management of your property entrusted to Cevitas Real Estate, a RERA-licensed agency (ORN 49294)."
@@ -26,8 +26,8 @@ steps:
 profile: investir
 cluster: investir
 faq:
-  - q: "Does START IN DUBAI sell properties?"
-    a: "No. START IN DUBAI does not advise on the choice of properties. Search, purchase and management are entrusted to our partner Cevitas Real Estate, a RERA-licensed agency (ORN 49294). We coordinate the rest of your project: visa, bank, company and relocation."
+  - q: "Does Start in Dubai sell properties?"
+    a: "No. Start in Dubai does not advise on the choice of properties. Search, purchase and management are entrusted to our partner Cevitas Real Estate, a RERA-licensed agency (ORN 49294). We coordinate the rest of your project: visa, bank, company and relocation."
   - q: "How much does this support cost?"
     a: "The costs linked to the purchase (registration with the Dubai Land Department, agency fees) depend on each transaction: Cevitas Real Estate details them for the property you are interested in. For our relocation services, the first conversation is free and without obligation, and that is where we present our proposal."
   - q: "Does buying a property automatically give me a visa?"
@@ -67,9 +67,9 @@ You can live in Morocco, Europe, Canada, Africa or already in the UAE: the coord
 
 ### Cevitas Real Estate: purchase and management of the property
 
-Choosing the property, negotiation, the transaction and management after purchase are a profession of their own, regulated in Dubai by RERA. We entrust them to our partner [Cevitas Real Estate](https://www.cevitas.ae), a RERA-licensed agency (ORN 49294). START IN DUBAI does not advise on the choice of properties. For renting out a property without being on site, Cevitas presents its service on its page on [rental management in Dubai](https://www.cevitas.ae/gestion-locative-dubai).
+Choosing the property, negotiation, the transaction and management after purchase are a profession of their own, regulated in Dubai by RERA. We entrust them to our partner [Cevitas Real Estate](https://www.cevitas.ae), a RERA-licensed agency (ORN 49294). Start in Dubai does not advise on the choice of properties. For renting out a property without being on site, Cevitas presents its service on its page on [rental management in Dubai](https://www.cevitas.ae/gestion-locative-dubai).
 
-### START IN DUBAI: everything around it
+### Start in Dubai: everything around it
 
 We take charge of what depends on your purchase or conditions it:
 
@@ -105,7 +105,7 @@ The documents specific to the property transaction are requested by Cevitas Real
 
 ## Why one point of contact
 
-The purchase, the visa, the bank and the relocation respond to each other: a delay on one blocks the others. With START IN DUBAI, one person keeps the schedule, works directly with Cevitas Real Estate and keeps you informed, in your language (English, Arabic, French, Spanish, Dutch or Italian). For an overview of the ways to invest in the UAE, beyond real estate, read our guide to [investing in Dubai](/en/invest-in-dubai/).
+The purchase, the visa, the bank and the relocation respond to each other: a delay on one blocks the others. With Start in Dubai, one person keeps the schedule, works directly with Cevitas Real Estate and keeps you informed, in your language (English, Arabic, French, Spanish, Dutch or Italian). For an overview of the ways to invest in the UAE, beyond real estate, read our guide to [investing in Dubai](/en/invest-in-dubai/).
 
 ## The mistakes we help you avoid
 

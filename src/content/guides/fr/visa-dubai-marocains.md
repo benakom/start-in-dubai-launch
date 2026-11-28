@@ -167,7 +167,7 @@ Les étapes, documents et délais de chaque voie sont dans notre guide du [visa 
 6. Pour le visa de 5 ans : relevé bancaire de six mois et garantie de 3 000 AED.
 7. Pour un projet d’installation : diplômes et actes d’état civil attestés avant le départ.
 
-START IN DUBAI accompagne les Marocains et les Marocains du monde de A à Z (société, compte bancaire, visas et Golden Visa, logement, installation de la famille, études), avec un seul interlocuteur, en arabe, en français ou en anglais. Pour en parler, réservez un [premier échange gratuit](/#inscription).
+Start in Dubai accompagne les Marocains et les Marocains du monde de A à Z (société, compte bancaire, visas et Golden Visa, logement, installation de la famille, études), avec un seul interlocuteur, en arabe, en français ou en anglais. Pour en parler, réservez un [premier échange gratuit](/#inscription).
 
 ## Pour aller plus loin
 

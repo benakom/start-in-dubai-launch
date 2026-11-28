@@ -162,4 +162,4 @@ Es habitual que el banco pregunte por el **origen de los fondos** en transferenc
 6. Conserva **justificantes** del origen y del destino.
 7. Haz un **envío de prueba** pequeño antes de uno grande.
 
-Si vas a mudarte y quieres que alguien te acompañe con la cuenta bancaria, los visados y la instalación, START IN DUBAI trabaja con un solo interlocutor en español. Puedes pedir un [primer intercambio gratuito](/es/#inscription), sin compromiso.
+Si vas a mudarte y quieres que alguien te acompañe con la cuenta bancaria, los visados y la instalación, Start in Dubai trabaja con un solo interlocutor en español. Puedes pedir un [primer intercambio gratuito](/es/#inscription), sin compromiso.

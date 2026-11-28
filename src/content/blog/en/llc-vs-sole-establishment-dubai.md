@@ -137,6 +137,6 @@ We cover the full sequence, including tax deregistration, in our guide to [closi
 
 ## Do you need help?
 
-START IN DUBAI supports people from A to Z (company, bank account, visas, housing, schools), with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian). We do not give legal advice on your specific licence: the licensing authority and a lawyer decide that. If you want to choose and set up the right structure, see our guide to [company formation in Dubai](/en/company-formation-dubai/) or [book a free first call](/en/#inscription).
+Start in Dubai supports people from A to Z (company, bank account, visas, housing, schools), with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian). We do not give legal advice on your specific licence: the licensing authority and a lawyer decide that. If you want to choose and set up the right structure, see our guide to [company formation in Dubai](/en/company-formation-dubai/) or [book a free first call](/en/#inscription).
 
 Last checked on u.ae, Dubai.ae and the Federal Tax Authority in November 2026. Laws, licences and fees change: the licensing authority remains the reference.

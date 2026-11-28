@@ -201,4 +201,4 @@ Le **donazioni**, invece, non sono coperte dalla convenzione. Le regole francesi
 
 Le pratiche concrete lato Francia (registro consolare, legalizzazione, protezione sociale) sono nella nostra guida per [trasferirsi a Dubai dalla Francia](/it/trasferirsi-a-dubai-dalla-francia/), e l'ordine generale dei passaggi nella nostra guida per [trasferirsi a Dubai](/it/trasferirsi-a-dubai/). Per separare chiaramente i tuoi flussi fin dall'arrivo, scopri come [aprire un conto bancario a Dubai](/it/aprire-conto-bancario-dubai/).
 
-Stai preparando la partenza e vuoi un trasferimento in regola, lato Emirati? START IN DUBAI ti accompagna dalla A alla Z (società, conto bancario, visti e Golden Visa, alloggio, trasferimento della famiglia), con un solo interlocutore, nella tua lingua. [Richiedi un primo colloquio gratuito](/it/#inscription).
+Stai preparando la partenza e vuoi un trasferimento in regola, lato Emirati? Start in Dubai ti accompagna dalla A alla Z (società, conto bancario, visti e Golden Visa, alloggio, trasferimento della famiglia), con un solo interlocutore, nella tua lingua. [Richiedi un primo colloquio gratuito](/it/#inscription).

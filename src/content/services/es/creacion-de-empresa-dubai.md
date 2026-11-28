@@ -105,7 +105,7 @@ Te enviamos la lista adaptada a tu expediente y revisamos cada documento antes d
 
 ## Por qué un único interlocutor
 
-Crear una empresa en Dubái no es un trámite sino una cadena: licencia, local, visado, Emirates ID, banco, impuestos y, a menudo, después la familia, la vivienda y el colegio. Cuando cada eslabón está en manos de un proveedor distinto, los expedientes se contradicen y los plazos se alargan. Con START IN DUBAI, una sola persona sigue todo el proceso, en tu idioma (árabe, francés, inglés, español, neerlandés o italiano). También podemos encargarnos de la [apertura de tus cuentas bancarias](/es/services/apertura-cuenta-bancaria-dubai/) y de la instalación de tu familia.
+Crear una empresa en Dubái no es un trámite sino una cadena: licencia, local, visado, Emirates ID, banco, impuestos y, a menudo, después la familia, la vivienda y el colegio. Cuando cada eslabón está en manos de un proveedor distinto, los expedientes se contradicen y los plazos se alargan. Con Start in Dubai, una sola persona sigue todo el proceso, en tu idioma (árabe, francés, inglés, español, neerlandés o italiano). También podemos encargarnos de la [apertura de tus cuentas bancarias](/es/services/apertura-cuenta-bancaria-dubai/) y de la instalación de tu familia.
 
 ## Los errores que te evitamos
 

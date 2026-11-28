@@ -156,7 +156,7 @@ Corporate tax registration is mandatory in all cases, within 3 months of incorpo
 7. Filing plan for form 3916 or 3916 bis.
 8. Corporate tax registration deadline noted.
 
-START IN DUBAI supports French-speaking entrepreneurs from A to Z (company, bank account, visas and Golden Visa, housing, family and higher education), with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian). See our [company setup service](/en/services/company-setup-dubai/) or [ask for a free first call](/en/#inscription).
+Start in Dubai supports French-speaking entrepreneurs from A to Z (company, bank account, visas and Golden Visa, housing, family and higher education), with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian). See our [company setup service](/en/services/company-setup-dubai/) or [ask for a free first call](/en/#inscription).
 
 ## Go further
 

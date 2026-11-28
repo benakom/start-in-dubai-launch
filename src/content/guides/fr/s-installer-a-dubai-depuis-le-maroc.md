@@ -189,7 +189,7 @@ Si vous envisagez aussi d’acheter un logement, ce guide ne traite pas de l’i
 7. Offre d’emploi vérifiée (nom de la société, aucun frais demandé).
 8. Assurance santé pour la période avant la résidence.
 
-START IN DUBAI accompagne les Marocains de A à Z (société, compte bancaire, visas, logement, écoles), avec un seul interlocuteur, dans votre langue (arabe, français, anglais, espagnol, néerlandais, italien). Pour le reste du parcours, lisez notre guide général pour [s’installer à Dubaï](/s-installer-a-dubai/).
+Start in Dubai accompagne les Marocains de A à Z (société, compte bancaire, visas, logement, écoles), avec un seul interlocuteur, dans votre langue (arabe, français, anglais, espagnol, néerlandais, italien). Pour le reste du parcours, lisez notre guide général pour [s’installer à Dubaï](/s-installer-a-dubai/).
 
 ## Pour aller plus loin
 

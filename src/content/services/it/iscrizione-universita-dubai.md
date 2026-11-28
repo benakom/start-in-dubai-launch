@@ -102,7 +102,7 @@ Il primo colloquio è gratuito, con lo studente e, se lo desiderano, i suoi geni
 
 ## Perché un unico referente
 
-Gli studi a Dubai coinvolgono l’università, la GDRFA, un proprietario, un assicuratore e una banca. Per una famiglia che segue la pratica a distanza diventa presto difficile. Con START IN DUBAI una sola persona coordina il tutto e tiene informati lo studente e i genitori, nella loro lingua (arabo, francese, inglese, spagnolo, olandese o italiano).
+Gli studi a Dubai coinvolgono l’università, la GDRFA, un proprietario, un assicuratore e una banca. Per una famiglia che segue la pratica a distanza diventa presto difficile. Con Start in Dubai una sola persona coordina il tutto e tiene informati lo studente e i genitori, nella loro lingua (arabo, francese, inglese, spagnolo, olandese o italiano).
 
 ## Gli errori che ti evitiamo
 

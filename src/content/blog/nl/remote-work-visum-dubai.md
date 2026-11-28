@@ -192,4 +192,4 @@ Denk ook aan de wisselkoers: wordt u betaald in euro of Zwitserse frank, dan vol
 - **De legalisatie vergeten** van de huwelijksakte en de geboorteakten vóór het vertrek.
 - **Visum en fiscale woonplaats door elkaar halen**: het visum haalt u niet automatisch uit het belastingstelsel van uw land.
 
-Wilt u zich in Dubai vestigen met remote werk, of daarna overstappen naar freelance of uw eigen bedrijf? START IN DUBAI begeleidt u van A tot Z (visum, bankrekening, woning, gezin), met één aanspreekpunt, in uw eigen taal. Om erover te praten kunt u [een gratis eerste gesprek aanvragen](/nl/#inscription).
+Wilt u zich in Dubai vestigen met remote werk, of daarna overstappen naar freelance of uw eigen bedrijf? Start in Dubai begeleidt u van A tot Z (visum, bankrekening, woning, gezin), met één aanspreekpunt, in uw eigen taal. Om erover te praten kunt u [een gratis eerste gesprek aanvragen](/nl/#inscription).

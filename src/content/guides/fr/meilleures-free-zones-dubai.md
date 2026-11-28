@@ -180,7 +180,7 @@ Les zones ajustent parfois leurs frais. En avril 2026, DIEZ a par exemple annonc
 - **Ignorer les clients du mainland.** Une zone franche n'y vend pas librement, sauf permis ou distributeur.
 - **Signer sans lire les conditions de renouvellement et de fermeture.**
 
-START IN DUBAI compare avec vous les zones réalistes pour votre activité, puis s'occupe de la licence, des visas et du compte bancaire : voir notre [accompagnement à la création de société](/services/creation-de-societe-dubai/). Pour en parler, demandez un [premier échange gratuit](/#inscription).
+Start in Dubai compare avec vous les zones réalistes pour votre activité, puis s'occupe de la licence, des visas et du compte bancaire : voir notre [accompagnement à la création de société](/services/creation-de-societe-dubai/). Pour en parler, demandez un [premier échange gratuit](/#inscription).
 
 ## Pour aller plus loin
 

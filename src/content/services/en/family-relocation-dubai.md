@@ -107,7 +107,7 @@ After a free first conversation, we set a relocation plan with dates: what has t
 
 ## Why one point of contact
 
-The family visa depends on the lease, the lease depends on the Emirates ID, the school asks for the visa, and the bank account asks for everything else. With several providers, nobody holds the whole. With START IN DUBAI, one person coordinates every step, in your language (English, Arabic, French, Spanish, Dutch or Italian). If your visa goes through a company or a Golden Visa, we handle that too: see our [Golden Visa and residence visa services](/en/services/golden-visa-services-dubai/).
+The family visa depends on the lease, the lease depends on the Emirates ID, the school asks for the visa, and the bank account asks for everything else. With several providers, nobody holds the whole. With Start in Dubai, one person coordinates every step, in your language (English, Arabic, French, Spanish, Dutch or Italian). If your visa goes through a company or a Golden Visa, we handle that too: see our [Golden Visa and residence visa services](/en/services/golden-visa-services-dubai/).
 
 ## The mistakes we help you avoid
 

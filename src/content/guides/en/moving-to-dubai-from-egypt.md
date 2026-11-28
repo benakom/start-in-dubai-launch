@@ -160,4 +160,4 @@ Most problems for newcomers come from timing, not from the rules themselves. A r
 - Sending original documents to the embassy before the Egyptian ministry step is done.
 - Moving a large sum without paperwork, which blocks your UAE bank account later.
 
-To turn this into a plan covering company, visa, bank account and housing, book a [free first consultation](/en/#inscription) with START IN DUBAI.
+To turn this into a plan covering company, visa, bank account and housing, book a [free first consultation](/en/#inscription) with Start in Dubai.

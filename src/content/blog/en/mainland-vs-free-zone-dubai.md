@@ -161,4 +161,4 @@ This table gives tendencies, not a rule. The same activity can move from one col
 5. **Underestimating visas.** A flexi-desk generally gives few visas. If you plan to hire, say so when you request a quote.
 6. **Looking only at the first year.** Compare the renewal too: licence, office, establishment card and visas come back every year or every two years.
 
-Still hesitating between mainland and free zone for your project? START IN DUBAI supports you from A to Z (company, bank account, visas, settling your family), with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian). [Request a free first conversation](/en/#inscription).
+Still hesitating between mainland and free zone for your project? Start in Dubai supports you from A to Z (company, bank account, visas, settling your family), with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian). [Request a free first conversation](/en/#inscription).

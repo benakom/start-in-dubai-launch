@@ -119,4 +119,4 @@ Nelle community online circolano consigli utili e, a volte, offerte rischiose. A
 - Se hai un'impresa, contatta l'ufficio ICE di Dubai per capire fiere e missioni utili.
 - Fai una lista di contatti ufficiali (consolato, ambasciata, assicurazione sanitaria, banca).
 
-START IN DUBAI ti accompagna nell'installazione a Dubai con un solo interlocutore che parla italiano: società, conto bancario, visti, alloggio e famiglia. Per parlarne, [richiedi un primo colloquio gratuito e senza impegno](/it/#inscription).
+Start in Dubai ti accompagna nell'installazione a Dubai con un solo interlocutore che parla italiano: società, conto bancario, visti, alloggio e famiglia. Per parlarne, [richiedi un primo colloquio gratuito e senza impegno](/it/#inscription).

@@ -202,4 +202,4 @@ Sur quatre ans, l'écart entre 40 % et 50 % représente **24 000 AED** dans cett
 7. J'ai budgété logement, transport, assurance et visa, en plus des frais restants.
 8. Si mes notes le permettent, je me suis renseigné sur le Golden Visa des meilleurs élèves.
 
-Vous préparez des études supérieures aux Émirats pour vous ou votre enfant ? START IN DUBAI vous accompagne de A à Z (inscription, visa, logement, installation), avec un seul interlocuteur, dans votre langue. Voir notre [accompagnement pour les études supérieures](/services/etudes-superieures-dubai/) ou [demander un premier échange gratuit](/#inscription).
+Vous préparez des études supérieures aux Émirats pour vous ou votre enfant ? Start in Dubai vous accompagne de A à Z (inscription, visa, logement, installation), avec un seul interlocuteur, dans votre langue. Voir notre [accompagnement pour les études supérieures](/services/etudes-superieures-dubai/) ou [demander un premier échange gratuit](/#inscription).

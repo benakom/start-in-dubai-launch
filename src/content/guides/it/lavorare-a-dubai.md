@@ -169,7 +169,7 @@ Per un'azienda del mainland, l'offerta di lavoro passa in linea di principio dal
 7. Non pagare mai spese di assunzione.
 8. Una volta ottenuto il visto, prosegui: banca, alloggio, Ejari, assicurazione della famiglia. È tutto nella nostra guida su [come trasferirsi a Dubai](/it/trasferirsi-a-dubai/).
 
-START IN DUBAI ti aiuta a organizzare il tuo trasferimento una volta trovato il lavoro (visti, alloggio, banca, scuole), nella tua lingua (arabo, francese, inglese, spagnolo, olandese, italiano). [Richiedi un primo colloquio gratuito](/it/#inscription).
+Start in Dubai ti aiuta a organizzare il tuo trasferimento una volta trovato il lavoro (visti, alloggio, banca, scuole), nella tua lingua (arabo, francese, inglese, spagnolo, olandese, italiano). [Richiedi un primo colloquio gratuito](/it/#inscription).
 
 ## Per approfondire
 

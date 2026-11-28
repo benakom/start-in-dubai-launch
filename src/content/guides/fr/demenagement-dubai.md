@@ -167,7 +167,7 @@ Le point clé est l’**ordre visa puis dédouanement** : sans visa de résidenc
 7. Signer un bail dans un immeuble qui refuse les animaux.
 8. Ne pas prévenir l’immeuble de la date de livraison.
 
-START IN DUBAI vous accompagne de A à Z dans votre installation (visas, logement, compte bancaire, écoles, installation de la famille), avec un seul interlocuteur dans votre langue. Pour organiser votre arrivée, réservez un [premier échange gratuit](/#inscription).
+Start in Dubai vous accompagne de A à Z dans votre installation (visas, logement, compte bancaire, écoles, installation de la famille), avec un seul interlocuteur dans votre langue. Pour organiser votre arrivée, réservez un [premier échange gratuit](/#inscription).
 
 ## Pour aller plus loin
 

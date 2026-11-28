@@ -27,7 +27,7 @@ const intro = coll === "services" ? u.servicesIntro : u.blogIntro;
 const eyebrow = coll === "services" ? u.servicesEyebrow : u.blogEyebrow;
 const jsonld = [{
   "@context": "https://schema.org", "@type": "CollectionPage", name: title, description: desc, url: abs(path), inLanguage: lang,
-  isPartOf: { "@type": "WebSite", name: "START IN DUBAI", url: "https://www.startindubai.com/" },
+  isPartOf: { "@type": "WebSite", name: "Start in Dubai", url: "https://www.startindubai.com/" },
   mainEntity: { "@type": "ItemList", itemListElement: items.map((e: any, i: number) => ({ "@type": "ListItem", position: i + 1, url: abs(entryPath(coll, e)), name: e.data.h1 })) },
 }];
 ---

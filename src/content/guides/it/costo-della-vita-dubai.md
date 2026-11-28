@@ -91,7 +91,7 @@ I contratti sono annuali. Gli affitti sono espressi su base annua e si pagano sp
 
 All'ingresso nell'alloggio prevedi inoltre la caparra, la commissione dell'agenzia se passi da un agente, la registrazione del contratto (Ejari) e il deposito cauzionale DEWA per elettricità e acqua. Il primo mese costa quindi nettamente più dei successivi.
 
-Se pensi di comprare invece di affittare, è un altro calcolo: per l'immobiliare, START IN DUBAI lavora con [Cevitas Real Estate](https://www.cevitas.ae), agenzia autorizzata RERA (ORN 49294).
+Se pensi di comprare invece di affittare, è un altro calcolo: per l'immobiliare, Start in Dubai lavora con [Cevitas Real Estate](https://www.cevitas.ae), agenzia autorizzata RERA (ORN 49294).
 
 ### Le scuole
 
@@ -159,7 +159,7 @@ Oltre al budget mensile, l'installazione stessa costa cara. Prevedi una riserva 
 6. l'iscrizione scolastica dei figli;
 7. da tre a sei mesi di spese correnti in anticipo, per far fronte a un imprevisto.
 
-Per tutte le altre tappe dell'installazione, segui la nostra guida su [come trasferirsi a Dubai](/it/trasferirsi-a-dubai/). START IN DUBAI può poi coordinare tutto con te, nella tua lingua (arabo, francese, inglese, spagnolo, olandese, italiano): [richiedi un primo colloquio gratuito](/it/#inscription).
+Per tutte le altre tappe dell'installazione, segui la nostra guida su [come trasferirsi a Dubai](/it/trasferirsi-a-dubai/). Start in Dubai può poi coordinare tutto con te, nella tua lingua (arabo, francese, inglese, spagnolo, olandese, italiano): [richiedi un primo colloquio gratuito](/it/#inscription).
 
 ## Per approfondire
 

@@ -201,4 +201,4 @@ For **inheritance**, Article 17 provides that real estate is taxable in the stat
 
 The practical steps on the French side (consular register, legalisation, social protection) are in our guide to [moving to Dubai from France](/en/moving-to-dubai-from-france/), and the general order of steps in our guide to [moving to Dubai](/en/moving-to-dubai/). To separate your money flows clearly from the day you arrive, see how to [open a bank account in Dubai](/en/open-bank-account-dubai/).
 
-Preparing your departure and want a clean setup on the UAE side? START IN DUBAI supports you from A to Z (company, bank account, visas and Golden Visa, housing, settling your family), with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian). [Request a free first conversation](/en/#inscription).
+Preparing your departure and want a clean setup on the UAE side? Start in Dubai supports you from A to Z (company, bank account, visas and Golden Visa, housing, settling your family), with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian). [Request a free first conversation](/en/#inscription).

@@ -214,7 +214,7 @@ La GDRFA annonce **48 heures** pour le permis de résidence d'un membre de la fa
 - [ ] Pour les parents : relevés bancaires de 3 mois et garantie de 5 000 AED par demande prévue
 - [ ] Pour un nouveau-né : rendez-vous au consulat pris dès la naissance
 
-START IN DUBAI peut préparer et suivre les visas de toute votre famille, avec un seul interlocuteur qui parle votre langue : voir notre [accompagnement visas et Golden Visa](/services/golden-visa-visas-dubai/). Pour en parler, demandez un [premier échange gratuit](/#inscription).
+Start in Dubai peut préparer et suivre les visas de toute votre famille, avec un seul interlocuteur qui parle votre langue : voir notre [accompagnement visas et Golden Visa](/services/golden-visa-visas-dubai/). Pour en parler, demandez un [premier échange gratuit](/#inscription).
 
 ## Pour aller plus loin
 

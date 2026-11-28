@@ -103,7 +103,7 @@ Pour un **compte de société**, ajoutez en général :
 
 ## Pourquoi un seul interlocuteur
 
-Le dossier bancaire reprend tout ce qui a été fait avant : la licence, l’activité déclarée, le visa, l’adresse. Si ces éléments ont été préparés par des prestataires différents, ils se contredisent souvent, et la banque le voit. Avec START IN DUBAI, la même personne suit votre société, votre visa et votre compte, dans votre langue (français, arabe, anglais, espagnol, néerlandais ou italien). Si vous n’avez pas encore créé votre société, commencez par notre [guide de la création de société à Dubaï](/creer-sa-societe-a-dubai/).
+Le dossier bancaire reprend tout ce qui a été fait avant : la licence, l’activité déclarée, le visa, l’adresse. Si ces éléments ont été préparés par des prestataires différents, ils se contredisent souvent, et la banque le voit. Avec Start in Dubai, la même personne suit votre société, votre visa et votre compte, dans votre langue (français, arabe, anglais, espagnol, néerlandais ou italien). Si vous n’avez pas encore créé votre société, commencez par notre [guide de la création de société à Dubaï](/creer-sa-societe-a-dubai/).
 
 ## Les erreurs que nous vous évitons
 

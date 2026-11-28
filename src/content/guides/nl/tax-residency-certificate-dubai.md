@@ -125,4 +125,4 @@ Heeft u een eigen Nederlandse BV, dan komt er een bijkomend punt bij: waar de fe
 
 ## Hulp bij uw vestiging
 
-START IN DUBAI begeleidt u van A tot Z bij uw vestiging in de Emiraten (visum, bankrekening, bedrijf, huisvesting en gezin), met één aanspreekpunt dat Nederlands spreekt. Wij geven geen fiscaal advies over uw Nederlandse of Belgische situatie: daarvoor verwijzen wij u naar een fiscalist. Wilt u uw verhuizing laten verlopen met de juiste papieren, [vraag dan een eerste gratis gesprek aan](/nl/#inscription).
+Start in Dubai begeleidt u van A tot Z bij uw vestiging in de Emiraten (visum, bankrekening, bedrijf, huisvesting en gezin), met één aanspreekpunt dat Nederlands spreekt. Wij geven geen fiscaal advies over uw Nederlandse of Belgische situatie: daarvoor verwijzen wij u naar een fiscalist. Wilt u uw verhuizing laten verlopen met de juiste papieren, [vraag dan een eerste gratis gesprek aan](/nl/#inscription).

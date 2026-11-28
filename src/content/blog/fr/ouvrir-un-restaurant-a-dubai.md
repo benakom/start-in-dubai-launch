@@ -235,4 +235,4 @@ Les visas, examens médicaux, Emirates ID et l'assurance santé s'ajoutent à ce
 9. Les prix du menu sont fixés TTC et le chiffre d'affaires est suivi pour le seuil de TVA.
 10. Le compte bancaire de la société est ouvert, avec un terminal de paiement.
 
-Vous préparez l'ouverture d'un restaurant ou d'un café ? START IN DUBAI vous accompagne de A à Z (société, compte bancaire, visas, installation de votre famille), avec un seul interlocuteur, dans votre langue. [Demander un premier échange gratuit](/#inscription).
+Vous préparez l'ouverture d'un restaurant ou d'un café ? Start in Dubai vous accompagne de A à Z (société, compte bancaire, visas, installation de votre famille), avec un seul interlocuteur, dans votre langue. [Demander un premier échange gratuit](/#inscription).

@@ -105,7 +105,7 @@ Wij sturen u de lijst die bij uw dossier past en controleren elk document vóór
 
 ## Waarom één aanspreekpunt
 
-Een bedrijf oprichten in Dubai is geen enkele stap maar een keten: licentie, locatie, visum, Emirates ID, bank, belastingen en daarna vaak het gezin, de woning en de school. Als elke schakel bij een andere dienstverlener ligt, spreken de dossiers elkaar tegen en lopen de termijnen op. Bij START IN DUBAI volgt één persoon het geheel, in uw taal (Arabisch, Frans, Engels, Spaans, Nederlands of Italiaans). Wij kunnen ook [het openen van uw bankrekeningen](/nl/services/bankrekening-openen-hulp-dubai/) en de verhuizing van uw gezin op ons nemen.
+Een bedrijf oprichten in Dubai is geen enkele stap maar een keten: licentie, locatie, visum, Emirates ID, bank, belastingen en daarna vaak het gezin, de woning en de school. Als elke schakel bij een andere dienstverlener ligt, spreken de dossiers elkaar tegen en lopen de termijnen op. Bij Start in Dubai volgt één persoon het geheel, in uw taal (Arabisch, Frans, Engels, Spaans, Nederlands of Italiaans). Wij kunnen ook [het openen van uw bankrekeningen](/nl/services/bankrekening-openen-hulp-dubai/) en de verhuizing van uw gezin op ons nemen.
 
 ## De fouten die wij u besparen
 

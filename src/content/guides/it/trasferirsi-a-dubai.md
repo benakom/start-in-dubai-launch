@@ -158,7 +158,7 @@ Ogni contratto d'affitto a Dubai deve essere registrato presso il Dubai Land Dep
 
 ### Comprare
 
-Se pensi di comprare, per viverci o per investire, è un altro argomento, con regole e rischi propri. Per l'immobiliare, START IN DUBAI lavora con [Cevitas Real Estate](https://www.cevitas.ae), agenzia autorizzata RERA (ORN 49294).
+Se pensi di comprare, per viverci o per investire, è un altro argomento, con regole e rischi propri. Per l'immobiliare, Start in Dubai lavora con [Cevitas Real Estate](https://www.cevitas.ae), agenzia autorizzata RERA (ORN 49294).
 
 ## Aprire un conto bancario
 
@@ -218,7 +218,7 @@ La tua società può essere registrata in un emirato e tu puoi vivere in un altr
 - Patente convertita o esame programmato
 - Obblighi fiscali regolati nel tuo paese di partenza
 
-START IN DUBAI riunisce tutti questi passaggi in un unico percorso, con un solo interlocutore, nella tua lingua (arabo, francese, inglese, spagnolo, olandese, italiano): società, conto bancario, visti, casa e scuole. Puoi [richiedere un primo colloquio gratuito](/it/#inscription).
+Start in Dubai riunisce tutti questi passaggi in un unico percorso, con un solo interlocutore, nella tua lingua (arabo, francese, inglese, spagnolo, olandese, italiano): società, conto bancario, visti, casa e scuole. Puoi [richiedere un primo colloquio gratuito](/it/#inscription).
 
 ## Per approfondire
 

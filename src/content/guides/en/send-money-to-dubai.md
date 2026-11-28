@@ -139,6 +139,6 @@ A company account in the UAE is not opened the same way as a personal account, a
 
 ## Do you need help?
 
-START IN DUBAI supports people from A to Z (company, bank account, visas, housing, schools), with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian). We do not provide transfers or currency exchange: we help you prepare the account, the documents and the order of steps. If you are planning to move and want the account and the paperwork in the right order, [book a free first call](/en/#inscription).
+Start in Dubai supports people from A to Z (company, bank account, visas, housing, schools), with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian). We do not provide transfers or currency exchange: we help you prepare the account, the documents and the order of steps. If you are planning to move and want the account and the paperwork in the right order, [book a free first call](/en/#inscription).
 
 Last checked on u.ae, the ICP and the Central Bank's rulebook in November 2026. Rules and thresholds can change: the official page remains the reference.

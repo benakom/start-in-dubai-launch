@@ -139,7 +139,7 @@ Estos documentos sirven para visados de trabajo, para patrocinar a tu familia y 
 6. Documentos legalizados (autoridad argentina y embajada de los Emiratos).
 7. Seguro médico desde la llegada.
 
-START IN DUBAI te acompaña de la A a la Z, con un único interlocutor y en español. [Solicita una primera conversación gratuita](/es/#inscription).
+Start in Dubai te acompaña de la A a la Z, con un único interlocutor y en español. [Solicita una primera conversación gratuita](/es/#inscription).
 
 ## Para ir más lejos
 

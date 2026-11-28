@@ -182,4 +182,4 @@ Si el recorrido es el contrario, es decir, quieres trabajar o estudiar en los Em
 5. Revisa la lista vigente de requisitos en la web del organismo antes de pagar tasas.
 6. Presenta la solicitud, conserva los justificantes y responde a cualquier requerimiento en plazo.
 
-Si vas a estudiar o a mudarte y quieres que alguien coordine documentos, visado y cuenta bancaria, START IN DUBAI trabaja con un solo interlocutor en español. Puedes pedir un [primer intercambio gratuito](/es/#inscription), sin compromiso.
+Si vas a estudiar o a mudarte y quieres que alguien coordine documentos, visado y cuenta bancaria, Start in Dubai trabaja con un solo interlocutor en español. Puedes pedir un [primer intercambio gratuito](/es/#inscription), sin compromiso.

@@ -278,4 +278,4 @@ Si votre visa est annulé à la fin du contrat, organisez la suite (nouvel emplo
 7. Vous savez où déposer une plainte (application ou site du **MOHRE**, centre de services) en cas de retard.
 8. Vous avez prévu la suite de votre visa et votre assurance santé.
 
-Vous changez d'emploi, vous créez votre société ou vous préparez l'installation de votre famille après ce départ ? START IN DUBAI vous accompagne de A à Z, avec un seul interlocuteur, dans votre langue : [premier échange gratuit](/#inscription).
+Vous changez d'emploi, vous créez votre société ou vous préparez l'installation de votre famille après ce départ ? Start in Dubai vous accompagne de A à Z, avec un seul interlocuteur, dans votre langue : [premier échange gratuit](/#inscription).

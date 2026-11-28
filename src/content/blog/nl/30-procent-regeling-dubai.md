@@ -126,4 +126,4 @@ De Rijksoverheid vermeldt dat de hogere loonnorm voor 2027 in haar pagina nog ni
 
 ## Nog twijfel? Eerst Dubai goed regelen
 
-Voor wie nog in Dubai woont, speelt de vraag of u er wilt blijven of terugkeert. Onze gids [werken in Dubai](/nl/werken-in-dubai/) geeft de andere kant: loon, contract en kosten. START IN DUBAI begeleidt u van A tot Z bij uw vestiging in de Emiraten, met één aanspreekpunt dat Nederlands spreekt, en geeft geen fiscaal advies over uw terugkeer. [Vraag een eerste gratis gesprek aan](/nl/#inscription).
+Voor wie nog in Dubai woont, speelt de vraag of u er wilt blijven of terugkeert. Onze gids [werken in Dubai](/nl/werken-in-dubai/) geeft de andere kant: loon, contract en kosten. Start in Dubai begeleidt u van A tot Z bij uw vestiging in de Emiraten, met één aanspreekpunt dat Nederlands spreekt, en geeft geen fiscaal advies over uw terugkeer. [Vraag een eerste gratis gesprek aan](/nl/#inscription).

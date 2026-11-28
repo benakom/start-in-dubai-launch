@@ -152,7 +152,7 @@ If you want to compare providers calmly, use our guide on [how to choose a busin
 7. Itemised written quotes from at least two zones.
 8. Corporate tax registration deadline noted.
 
-START IN DUBAI supports entrepreneurs from A to Z (company, bank account, visas and Golden Visa, housing, family and higher education), with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian). [Ask for a free first call](/en/#inscription).
+Start in Dubai supports entrepreneurs from A to Z (company, bank account, visas and Golden Visa, housing, family and higher education), with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian). [Ask for a free first call](/en/#inscription).
 
 ## Go further
 

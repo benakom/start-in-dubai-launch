@@ -124,4 +124,4 @@ L'ufficio ICE di Dubai (Dubai Internet City, Arenco Tower, uffici 506-508) offre
 6. Valuta con il commercialista IVA all'export, esterovestizione e imposta sulle società.
 7. Prepara una prova di dove sono prese le decisioni.
 
-START IN DUBAI ti accompagna nella scelta della licenza, nella costituzione della società, nel conto bancario e nei visti, con un solo interlocutore che parla italiano. [Richiedi un primo colloquio gratuito e senza impegno](/it/#inscription). Per dogana e fisco rivolgiti a uno spedizioniere e a un commercialista: non forniamo consulenza doganale né fiscale.
+Start in Dubai ti accompagna nella scelta della licenza, nella costituzione della società, nel conto bancario e nei visti, con un solo interlocutore che parla italiano. [Richiedi un primo colloquio gratuito e senza impegno](/it/#inscription). Per dogana e fisco rivolgiti a uno spedizioniere e a un commercialista: non forniamo consulenza doganale né fiscale.

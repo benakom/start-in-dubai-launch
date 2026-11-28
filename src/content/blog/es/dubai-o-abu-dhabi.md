@@ -178,4 +178,4 @@ El mejor consejo: pasa unos días en cada ciudad, entre semana, a las horas en q
 
 Si vienes en familia, nuestra guía para [mudarte a Dubái con tu familia](/es/mudarse-a-dubai-con-familia/) detalla los visados de los familiares, los colegios y la vivienda.
 
-¿Dudas entre Dubái y Abu Dhabi para tu proyecto? START IN DUBAI te acompaña de la A a la Z (empresa, cuenta bancaria, visados y Golden Visa, vivienda, instalación de la familia, estudios superiores), con un único interlocutor, en tu idioma. [Pedir una primera conversación gratuita](/es/#inscription).
+¿Dudas entre Dubái y Abu Dhabi para tu proyecto? Start in Dubai te acompaña de la A a la Z (empresa, cuenta bancaria, visados y Golden Visa, vivienda, instalación de la familia, estudios superiores), con un único interlocutor, en tu idioma. [Pedir una primera conversación gratuita](/es/#inscription).

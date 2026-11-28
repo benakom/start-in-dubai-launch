@@ -118,6 +118,6 @@ Here the home country and the employer's country may both claim to tax your sala
 
 ## Do you need help?
 
-START IN DUBAI supports people from A to Z (company, bank account, visas, housing, schools), with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian). We do not give tax advice for your home country: for the departure side, speak to a tax adviser there. If you are planning a move and want to set up your life and company correctly in the UAE, [book a free first call](/en/#inscription).
+Start in Dubai supports people from A to Z (company, bank account, visas, housing, schools), with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian). We do not give tax advice for your home country: for the departure side, speak to a tax adviser there. If you are planning a move and want to set up your life and company correctly in the UAE, [book a free first call](/en/#inscription).
 
 Last checked on the Ministry of Finance and Federal Tax Authority pages in November 2026. Treaties and rules change: the treaty text remains the reference.

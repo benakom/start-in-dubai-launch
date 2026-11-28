@@ -108,7 +108,7 @@ Afhankelijk van de categorie wordt onder meer gevraagd:
 
 ## Waarom één aanspreekpunt
 
-Het visum staat nooit op zichzelf. Het hangt vaak af van een bedrijf, een pand of een baan, en het bepaalt de bankrekening, de huurovereenkomst en de school van de kinderen. Bij START IN DUBAI volgt één persoon uw verblijf en alles wat eruit voortvloeit, in uw taal (Arabisch, Frans, Engels, Spaans, Nederlands of Italiaans). Loopt uw visum via een bedrijf, dan richten wij dat samen met u op: zie onze [gids over een bedrijf oprichten](/nl/bedrijf-oprichten-in-dubai/).
+Het visum staat nooit op zichzelf. Het hangt vaak af van een bedrijf, een pand of een baan, en het bepaalt de bankrekening, de huurovereenkomst en de school van de kinderen. Bij Start in Dubai volgt één persoon uw verblijf en alles wat eruit voortvloeit, in uw taal (Arabisch, Frans, Engels, Spaans, Nederlands of Italiaans). Loopt uw visum via een bedrijf, dan richten wij dat samen met u op: zie onze [gids over een bedrijf oprichten](/nl/bedrijf-oprichten-in-dubai/).
 
 ## De fouten die wij u besparen
 

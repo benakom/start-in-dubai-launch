@@ -109,7 +109,7 @@ Selon la catégorie, on vous demandera notamment :
 
 ## Pourquoi un seul interlocuteur
 
-Le visa n’est jamais isolé. Il dépend souvent d’une société, d’un bien ou d’un emploi, et il conditionne le compte bancaire, le bail et l’école des enfants. Avec START IN DUBAI, une seule personne suit votre résidence et tout ce qui en découle, dans votre langue (français, arabe, anglais, espagnol, néerlandais ou italien). Si votre visa passe par une société, nous la créons avec vous : voir notre [guide de la création de société](/creer-sa-societe-a-dubai/).
+Le visa n’est jamais isolé. Il dépend souvent d’une société, d’un bien ou d’un emploi, et il conditionne le compte bancaire, le bail et l’école des enfants. Avec Start in Dubai, une seule personne suit votre résidence et tout ce qui en découle, dans votre langue (français, arabe, anglais, espagnol, néerlandais ou italien). Si votre visa passe par une société, nous la créons avec vous : voir notre [guide de la création de société](/creer-sa-societe-a-dubai/).
 
 ## Les erreurs que nous vous évitons
 

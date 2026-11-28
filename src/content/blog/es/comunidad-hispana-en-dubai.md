@@ -137,7 +137,7 @@ Si sufres un robo, una estafa o un problema legal, el orden de contacto suele se
 
 ## Qué no vamos a prometerte
 
-START IN DUBAI no gestiona grupos ni comunidades de hispanohablantes, y no tenemos acuerdos de pago con ningún grupo, asociación o cámara. Lo que podemos hacer es acompañarte en los trámites emiratíes con un solo interlocutor y en tu idioma. Si el grupo que has encontrado te ofrece un servicio, compara siempre con la autoridad oficial.
+Start in Dubai no gestiona grupos ni comunidades de hispanohablantes, y no tenemos acuerdos de pago con ningún grupo, asociación o cámara. Lo que podemos hacer es acompañarte en los trámites emiratíes con un solo interlocutor y en tu idioma. Si el grupo que has encontrado te ofrece un servicio, compara siempre con la autoridad oficial.
 
 ## Checklist para tu primer mes
 
@@ -148,6 +148,6 @@ START IN DUBAI no gestiona grupos ni comunidades de hispanohablantes, y no tenem
 5. Revisa la diferencia horaria con tu familia antes de agendar llamadas.
 6. Pregunta a la misión de tu país si ofrece registro de nacionales residentes.
 
-## Cómo te acompaña START IN DUBAI
+## Cómo te acompaña Start in Dubai
 
 Si estás preparando tu llegada, nuestro acompañamiento cubre sociedad, cuenta bancaria, visados y Golden Visa, vivienda e instalación de la familia, con un único interlocutor y en español. [Solicita un primer intercambio gratuito y sin compromiso](/es/#inscription) para ordenar tus pasos.

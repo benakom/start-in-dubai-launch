@@ -192,4 +192,4 @@ Hors examen médical, assurance santé, TVA éventuelle, banque, comptabilité e
 5. **Comparez au moins deux juridictions**, dont une option mainland si vos clients sont locaux.
 6. **Vérifiez chaque montant** sur la grille officielle de la zone quand elle existe.
 
-Vous voulez un budget clair avant de vous lancer ? START IN DUBAI vous accompagne de A à Z (société, compte bancaire, visas, installation de la famille), avec un seul interlocuteur, dans votre langue. [Demander un premier échange gratuit](/#inscription).
+Vous voulez un budget clair avant de vous lancer ? Start in Dubai vous accompagne de A à Z (société, compte bancaire, visas, installation de la famille), avec un seul interlocuteur, dans votre langue. [Demander un premier échange gratuit](/#inscription).

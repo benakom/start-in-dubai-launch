@@ -147,4 +147,4 @@ For the UAE side of personal taxation and residence, see [tax in Dubai](/en/tax-
 6. Get advice in your home country and in the subsidiaries' countries.
 7. Prepare the bank file: owners, origin of funds, purpose.
 
-START IN DUBAI supports company creation from A to Z (licence, bank account, visas and Golden Visa, housing, family and higher education), with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian). You can also read our [company setup service page](/en/services/company-setup-dubai/) or [ask for a free first call](/en/#inscription).
+Start in Dubai supports company creation from A to Z (licence, bank account, visas and Golden Visa, housing, family and higher education), with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian). You can also read our [company setup service page](/en/services/company-setup-dubai/) or [ask for a free first call](/en/#inscription).

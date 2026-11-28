@@ -203,4 +203,4 @@ Ces calculs sont des illustrations. Le montant réel est celui qu'affichent l'IC
 7. Je vérifie aussi mon Emirates ID et mon assurance santé.
 8. En cas de séjour irrégulier long ou de procédure ouverte, je consulte un avocat agréé avant de voyager.
 
-Vous devez changer de visa, créer votre société ou faire venir votre famille sans prendre de risque sur les délais ? START IN DUBAI vous accompagne de A à Z, avec un seul interlocuteur, dans votre langue. [Demander un premier échange gratuit](/#inscription).
+Vous devez changer de visa, créer votre société ou faire venir votre famille sans prendre de risque sur les délais ? Start in Dubai vous accompagne de A à Z, avec un seul interlocuteur, dans votre langue. [Demander un premier échange gratuit](/#inscription).

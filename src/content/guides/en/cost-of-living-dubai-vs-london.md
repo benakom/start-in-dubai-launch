@@ -160,6 +160,6 @@ For a family with two children, school fees can be the largest line in the Dubai
 5. Keep a **cash reserve** for the first three months (see [how much money to move to Dubai](/en/how-much-money-to-move-to-dubai/)).
 6. Visit before you commit, if you can.
 
-START IN DUBAI supports people from A to Z (company, bank account, visas, housing, schools), with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian). We do not give tax advice and do not guarantee any cost or outcome: the figures above are official where cited and estimates where labelled. For property, we work with [Cevitas Real Estate](https://www.cevitas.ae), an RERA-licensed agency (ORN 49294). [Book a free first call](/en/#inscription).
+Start in Dubai supports people from A to Z (company, bank account, visas, housing, schools), with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian). We do not give tax advice and do not guarantee any cost or outcome: the figures above are official where cited and estimates where labelled. For property, we work with [Cevitas Real Estate](https://www.cevitas.ae), an RERA-licensed agency (ORN 49294). [Book a free first call](/en/#inscription).
 
 Last checked on GOV.UK, ONS and the RTA in November 2026.

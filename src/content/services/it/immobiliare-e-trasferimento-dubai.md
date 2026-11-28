@@ -4,7 +4,7 @@ description: "Immobiliare e trasferimento a Dubai: acquisto e gestione con Cevit
 h1: "Immobiliare e trasferimento a Dubai: il tuo acquisto coordinato con il resto del progetto"
 keyword: "immobiliare e trasferimento a dubai"
 secondary: ["comprare casa a dubai per trasferirsi", "proprietario a dubai dall’estero", "acquisto immobile e visto di residenza dubai", "acquisto immobile e conto bancario dubai", "trasferirsi a dubai e comprare casa"]
-intro: "Per l’immobiliare, START IN DUBAI lavora con Cevitas Real Estate, agenzia con licenza RERA (ORN 49294), che si occupa dell’acquisto e della gestione del tuo immobile. Da parte nostra coordiniamo tutto ciò che ruota intorno: visto di residenza o Golden Visa, conto bancario, eventuale società, trasferimento della famiglia. Hai un unico referente per l’insieme, nella tua lingua, che tu viva a Dubai o all’estero."
+intro: "Per l’immobiliare, Start in Dubai lavora con Cevitas Real Estate, agenzia con licenza RERA (ORN 49294), che si occupa dell’acquisto e della gestione del tuo immobile. Da parte nostra coordiniamo tutto ciò che ruota intorno: visto di residenza o Golden Visa, conto bancario, eventuale società, trasferimento della famiglia. Hai un unico referente per l’insieme, nella tua lingua, che tu viva a Dubai o all’estero."
 essentials:
   - "Un unico referente per il tuo progetto immobiliare e per tutto ciò che ne dipende: visto, banca, società, famiglia."
   - "Ricerca, acquisto e gestione del tuo immobile affidati a Cevitas Real Estate, agenzia con licenza RERA (ORN 49294)."
@@ -26,8 +26,8 @@ steps:
 profile: investir
 cluster: investir
 faq:
-  - q: "START IN DUBAI vende immobili?"
-    a: "No. START IN DUBAI non consiglia sulla scelta degli immobili. Ricerca, acquisto e gestione sono affidati al nostro partner Cevitas Real Estate, agenzia con licenza RERA (ORN 49294). Noi coordiniamo il resto del tuo progetto: visto, banca, società e trasferimento."
+  - q: "Start in Dubai vende immobili?"
+    a: "No. Start in Dubai non consiglia sulla scelta degli immobili. Ricerca, acquisto e gestione sono affidati al nostro partner Cevitas Real Estate, agenzia con licenza RERA (ORN 49294). Noi coordiniamo il resto del tuo progetto: visto, banca, società e trasferimento."
   - q: "Quanto costa questa assistenza?"
     a: "Le spese legate all’acquisto (registrazione al Dubai Land Department, onorari dell’agenzia) dipendono da ogni transazione: Cevitas Real Estate te le dettaglia per l’immobile che ti interessa. Per i nostri servizi di trasferimento, il primo colloquio è gratuito e senza impegno, ed è lì che ti presentiamo la nostra proposta."
   - q: "Acquistare un immobile mi dà automaticamente un visto?"
@@ -67,9 +67,9 @@ Puoi vivere in Italia, in Svizzera, in Europa, in Marocco, in Canada, in Africa 
 
 ### Cevitas Real Estate: l’acquisto e la gestione dell’immobile
 
-La scelta dell’immobile, la negoziazione, la transazione e la gestione dopo l’acquisto sono un mestiere a parte, regolamentato a Dubai dalla RERA. Li affidiamo al nostro partner [Cevitas Real Estate](https://www.cevitas.ae), agenzia con licenza RERA (ORN 49294). START IN DUBAI non consiglia sulla scelta degli immobili. Per mettere in affitto un immobile senza essere sul posto, Cevitas presenta il proprio servizio sulla pagina [gestione locativa a Dubai](https://www.cevitas.ae/gestion-locative-dubai).
+La scelta dell’immobile, la negoziazione, la transazione e la gestione dopo l’acquisto sono un mestiere a parte, regolamentato a Dubai dalla RERA. Li affidiamo al nostro partner [Cevitas Real Estate](https://www.cevitas.ae), agenzia con licenza RERA (ORN 49294). Start in Dubai non consiglia sulla scelta degli immobili. Per mettere in affitto un immobile senza essere sul posto, Cevitas presenta il proprio servizio sulla pagina [gestione locativa a Dubai](https://www.cevitas.ae/gestion-locative-dubai).
 
-### START IN DUBAI: tutto ciò che ruota intorno
+### Start in Dubai: tutto ciò che ruota intorno
 
 Ci occupiamo di ciò che dipende dal tuo acquisto o che lo condiziona:
 
@@ -105,7 +105,7 @@ I documenti propri della transazione immobiliare ti vengono richiesti da Cevitas
 
 ## Perché un unico referente
 
-Acquisto, visto, banca e trasferimento si richiamano a vicenda: un ritardo su uno blocca gli altri. Con START IN DUBAI una sola persona tiene il calendario, lavora direttamente con Cevitas Real Estate e ti tiene informato, nella tua lingua (arabo, francese, inglese, spagnolo, olandese o italiano). Per una visione d’insieme dei modi di investire negli Emirati, al di là dell’immobiliare, leggi la nostra guida [investire a Dubai](/it/investire-a-dubai/).
+Acquisto, visto, banca e trasferimento si richiamano a vicenda: un ritardo su uno blocca gli altri. Con Start in Dubai una sola persona tiene il calendario, lavora direttamente con Cevitas Real Estate e ti tiene informato, nella tua lingua (arabo, francese, inglese, spagnolo, olandese o italiano). Per una visione d’insieme dei modi di investire negli Emirati, al di là dell’immobiliare, leggi la nostra guida [investire a Dubai](/it/investire-a-dubai/).
 
 ## Gli errori che ti evitiamo
 

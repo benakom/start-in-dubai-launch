@@ -106,7 +106,7 @@ El Golden Visa es una residencia larga, de 5 o 10 años según la categoría, re
 
 ## ¿Y el sector inmobiliario?
 
-El sector inmobiliario es una de las inversiones más habituales en Dubái, y un inmueble de al menos 2 millones de AED puede dar derecho al Golden Visa. Es un oficio aparte, con sus normas, sus gastos y sus riesgos. START IN DUBAI no asesora sobre la elección de inmuebles: para el sector inmobiliario trabajamos con [Cevitas Real Estate](https://www.cevitas.ae), agencia autorizada por la RERA (ORN 49294).
+El sector inmobiliario es una de las inversiones más habituales en Dubái, y un inmueble de al menos 2 millones de AED puede dar derecho al Golden Visa. Es un oficio aparte, con sus normas, sus gastos y sus riesgos. Start in Dubai no asesora sobre la elección de inmuebles: para el sector inmobiliario trabajamos con [Cevitas Real Estate](https://www.cevitas.ae), agencia autorizada por la RERA (ORN 49294).
 
 ## Ventajas de invertir en los Emiratos Árabes Unidos
 
@@ -148,7 +148,7 @@ El sector inmobiliario es una de las inversiones más habituales en Dubái, y un
 7. **Abre la cuenta bancaria** con un expediente completo: actividad, contratos o presupuestos, origen de los fondos.
 8. **Pon en marcha la contabilidad** y las altas fiscales desde el principio.
 
-Si piensas instalarte, continúa con nuestra guía para [mudarse a Dubái](/es/mudarse-a-dubai/). START IN DUBAI te acompaña de la A a la Z (sociedad, cuenta bancaria, visados, vivienda, colegios), con un único interlocutor y en tu idioma (árabe, francés, inglés, español, neerlandés, italiano). El servicio está abierto: [pide un primer intercambio gratuito](/es/#inscription).
+Si piensas instalarte, continúa con nuestra guía para [mudarse a Dubái](/es/mudarse-a-dubai/). Start in Dubai te acompaña de la A a la Z (sociedad, cuenta bancaria, visados, vivienda, colegios), con un único interlocutor y en tu idioma (árabe, francés, inglés, español, neerlandés, italiano). El servicio está abierto: [pide un primer intercambio gratuito](/es/#inscription).
 
 ## Para ir más lejos
 

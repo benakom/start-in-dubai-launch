@@ -162,4 +162,4 @@ Ce tableau donne des tendances, pas une règle. Une même activité peut bascule
 5. **Sous-estimer les visas.** Un flexi-desk donne en général peu de visas. Si vous prévoyez d’embaucher, dites-le dans la demande de devis.
 6. **Ne regarder que la première année.** Comparez aussi le renouvellement : licence, bureau, carte d’établissement et visas reviennent chaque année ou tous les deux ans.
 
-Vous hésitez encore entre mainland et free zone pour votre projet ? START IN DUBAI vous accompagne de A à Z (société, compte bancaire, visas, installation de la famille), avec un seul interlocuteur, dans votre langue. [Demander un premier échange gratuit](/#inscription).
+Vous hésitez encore entre mainland et free zone pour votre projet ? Start in Dubai vous accompagne de A à Z (société, compte bancaire, visas, installation de la famille), avec un seul interlocuteur, dans votre langue. [Demander un premier échange gratuit](/#inscription).

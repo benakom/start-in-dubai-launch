@@ -202,4 +202,4 @@ Les **donations**, elles, ne sont pas couvertes par la convention. Les règles f
 
 Les démarches pratiques côté France (registre consulaire, légalisation, protection sociale) sont dans notre guide pour [s’installer à Dubaï depuis la France](/s-installer-a-dubai-depuis-la-france/), et l’ordre général des étapes dans notre guide pour [s’installer à Dubaï](/s-installer-a-dubai/). Pour séparer clairement vos flux dès l’arrivée, voyez comment [ouvrir un compte bancaire à Dubaï](/ouvrir-un-compte-bancaire-a-dubai/).
 
-Vous préparez votre départ et voulez une installation propre, côté Émirats ? START IN DUBAI vous accompagne de A à Z (société, compte bancaire, visas et Golden Visa, logement, installation de la famille), avec un seul interlocuteur, dans votre langue. [Demander un premier échange gratuit](/#inscription).
+Vous préparez votre départ et voulez une installation propre, côté Émirats ? Start in Dubai vous accompagne de A à Z (société, compte bancaire, visas et Golden Visa, logement, installation de la famille), avec un seul interlocuteur, dans votre langue. [Demander un premier échange gratuit](/#inscription).

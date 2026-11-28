@@ -14,7 +14,7 @@ const { lang, title, description, path, alternates, jsonld = [], ogType = "artic
 const u = UI[lang], t = LANDING[lang];
 const rtl = lang === "ar";
 const url = abs(path);
-const fullTitle = `${title} | START IN DUBAI`;
+const fullTitle = `${title} | Start in Dubai`;
 const xdef = alternates.find((a) => a.lang === "fr" && a.exists)?.href || path;
 const has = async (c: "services" | "blog") => new Set((await entries(c)).map((e: any) => langOf(e))).has(lang);
 const navItems = [
@@ -40,7 +40,7 @@ const fonts = "https://fonts.googleapis.com/css2?" + (rtl ? "family=Noto+Kufi+Ar
   <link rel="alternate" hreflang="x-default" href={abs(xdef)} />
   <meta name="theme-color" content="#0B0B0B" />
   <meta property="og:type" content={ogType} />
-  <meta property="og:site_name" content="START IN DUBAI" />
+  <meta property="og:site_name" content="Start in Dubai" />
   <meta property="og:title" content={title} />
   <meta property="og:description" content={description} />
   <meta property="og:url" content={url} />
@@ -77,7 +77,7 @@ const fonts = "https://fonts.googleapis.com/css2?" + (rtl ? "family=Noto+Kufi+Ar
     </div>
     <nav class="nav" aria-label={u.menu} data-nav>
       <div class="wrap nav-in">
-        <a class="nav-logo" href={homePath(lang)} aria-label={`START IN DUBAI, ${u.home}`}><img src="/assets/img/logo-256.webp" alt="START IN DUBAI" width="256" height="165" /></a>
+        <a class="nav-logo" href={homePath(lang)} aria-label={`Start in Dubai, ${u.home}`}><img src="/assets/img/logo-256.webp" alt="Start in Dubai" width="256" height="165" /></a>
         <ul class="nav-links" id="nav-links">
           {navItems.map((n) => <li><a href={n.href} aria-current={n.key === nav ? "page" : undefined}>{n.label}</a></li>)}
         </ul>
@@ -91,7 +91,7 @@ const fonts = "https://fonts.googleapis.com/css2?" + (rtl ? "family=Noto+Kufi+Ar
 
   <footer class="foot">
     <div class="wrap foot-in">
-      <img src="/assets/img/logo-384.webp" alt="START IN DUBAI" width="384" height="247" loading="lazy" />
+      <img src="/assets/img/logo-384.webp" alt="Start in Dubai" width="384" height="247" loading="lazy" />
       <p>{navItems.filter((n) => n.key === "services" || n.key === "blog").map((n) => <><a href={n.href}>{n.label}</a> · </>)}<a href={guidesPath(lang)}>{u.allGuides}</a>{Object.entries(u.clusters).map(([k, v]) => <> · <a href={`${guidesPath(lang)}#${k}`}>{v}</a></>)}</p>
       <p set:html={t.t123} />
       <p class="langs">{LANGS.map((l, i) => <>{i > 0 && " · "}<a href={alternates.find((a) => a.lang === l)?.href || homePath(l)} hreflang={l} lang={l} data-lang-link={l} aria-current={l === lang ? "page" : undefined}>{LANG_NAMES[l]}</a></>)}</p>
@@ -106,7 +106,7 @@ const fonts = "https://fonts.googleapis.com/css2?" + (rtl ? "family=Noto+Kufi+Ar
   <div class="tf" id="tf" role="dialog" aria-modal="true" aria-label={t.t125} hidden>
     <div class="tf-progress"><span></span></div>
     <header class="tf-head">
-      <img src="/assets/img/logo-256.webp" alt="START IN DUBAI" width="256" height="165" loading="lazy" />
+      <img src="/assets/img/logo-256.webp" alt="Start in Dubai" width="256" height="165" loading="lazy" />
       <button type="button" class="tf-close" data-close-form aria-label={t.t126}><svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" /></svg></button>
     </header>
     <form class="tf-stage" novalidate autocomplete="on"></form>

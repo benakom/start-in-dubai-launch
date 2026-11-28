@@ -1,4 +1,4 @@
-/* START IN DUBAI : comportements propres aux pages du site (le formulaire et le compte à rebours sont dans app.js). */
+/* Start in Dubai : comportements propres aux pages du site (le formulaire et le compte à rebours sont dans app.js). */
 (() => {
   "use strict";
   const $$ = (s, r = document) => [...r.querySelectorAll(s)];

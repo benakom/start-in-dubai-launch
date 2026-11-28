@@ -201,4 +201,4 @@ Voor **erfenissen** bepaalt artikel 17 dat onroerende goederen belastbaar zijn i
 
 De praktische stappen aan Franse zijde (consulair register, legalisatie, sociale bescherming) staan in onze gids over [emigreren naar Dubai vanuit Frankrijk](/nl/emigreren-naar-dubai-vanuit-frankrijk/), en de algemene volgorde van de stappen in onze gids over [emigreren naar Dubai](/nl/emigreren-naar-dubai/). Om uw geldstromen vanaf de aankomst duidelijk te scheiden, lees hoe u [een bankrekening opent in Dubai](/nl/bankrekening-openen-dubai/).
 
-Bereidt u uw vertrek voor en wilt u een nette vestiging aan Emirati zijde? START IN DUBAI begeleidt u van A tot Z (bedrijf, bankrekening, visa en Golden Visa, huisvesting, verhuizing van uw gezin), met één aanspreekpunt, in uw eigen taal. [Een eerste gratis gesprek aanvragen](/nl/#inscription).
+Bereidt u uw vertrek voor en wilt u een nette vestiging aan Emirati zijde? Start in Dubai begeleidt u van A tot Z (bedrijf, bankrekening, visa en Golden Visa, huisvesting, verhuizing van uw gezin), met één aanspreekpunt, in uw eigen taal. [Een eerste gratis gesprek aanvragen](/nl/#inscription).

@@ -161,4 +161,4 @@ Questa tabella indica tendenze, non una regola. Una stessa attività può passar
 5. **Sottovalutare i visti.** Un flexi-desk dà in genere pochi visti. Se prevedi di assumere, dillo nella richiesta di preventivo.
 6. **Guardare solo il primo anno.** Confronta anche il rinnovo: licenza, ufficio, carta di stabilimento e visti tornano ogni anno o ogni due anni.
 
-Hai ancora dubbi tra mainland e free zone per il tuo progetto? START IN DUBAI ti accompagna dalla A alla Z (società, conto bancario, visti, trasferimento della famiglia), con un solo interlocutore, nella tua lingua. [Richiedi un primo colloquio gratuito](/it/#inscription).
+Hai ancora dubbi tra mainland e free zone per il tuo progetto? Start in Dubai ti accompagna dalla A alla Z (società, conto bancario, visti, trasferimento della famiglia), con un solo interlocutore, nella tua lingua. [Richiedi un primo colloquio gratuito](/it/#inscription).

@@ -190,4 +190,4 @@ Le calendrier de départ (préavis, fin de service, annulation du visa) pèse su
 9. Vous avez calculé la valeur mensuelle nette de chaque offre.
 10. Rien ne vous est facturé pour le recrutement ou le visa.
 
-Pour vérifier le reste du contrat (essai, préavis, licenciement), lisez notre guide du [contrat de travail à Dubaï](/contrat-de-travail-dubai/). Une fois l’offre acceptée, START IN DUBAI peut organiser votre installation de A à Z (visas de la famille, logement, banque, écoles), avec un seul interlocuteur, dans votre langue : [premier échange gratuit](/#inscription).
+Pour vérifier le reste du contrat (essai, préavis, licenciement), lisez notre guide du [contrat de travail à Dubaï](/contrat-de-travail-dubai/). Une fois l’offre acceptée, Start in Dubai peut organiser votre installation de A à Z (visas de la famille, logement, banque, écoles), avec un seul interlocuteur, dans votre langue : [premier échange gratuit](/#inscription).

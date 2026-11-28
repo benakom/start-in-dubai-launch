@@ -130,4 +130,4 @@ Porta al tuo commercialista: la tua residenza attuale e prevista, chi controlla 
 
 Per l'immobile a Dubai, anche tramite una società, ci appoggiamo a [Cevitas Real Estate](https://www.cevitas.ae), agenzia autorizzata RERA (ORN 49294).
 
-START IN DUBAI ti accompagna nella costituzione della società, nel conto bancario, nei visti e nel trasferimento, con un solo interlocutore che parla italiano. [Richiedi un primo colloquio gratuito e senza impegno](/it/#inscription). Per la valutazione fiscale italiana rivolgiti a un commercialista o a un avvocato tributarista: non forniamo consulenza fiscale.
+Start in Dubai ti accompagna nella costituzione della società, nel conto bancario, nei visti e nel trasferimento, con un solo interlocutore che parla italiano. [Richiedi un primo colloquio gratuito e senza impegno](/it/#inscription). Per la valutazione fiscale italiana rivolgiti a un commercialista o a un avvocato tributarista: non forniamo consulenza fiscale.

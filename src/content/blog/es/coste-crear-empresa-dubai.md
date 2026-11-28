@@ -191,4 +191,4 @@ Sin incluir examen médico, seguro médico, IVA eventual, banco, contabilidad ni
 5. **Compara al menos dos jurisdicciones**, entre ellas una opción de mainland si tus clientes son locales.
 6. **Comprueba cada importe** en la tarifa oficial de la zona cuando exista.
 
-¿Quieres un presupuesto claro antes de lanzarte? START IN DUBAI te acompaña de la A a la Z (empresa, cuenta bancaria, visados, instalación de la familia), con un único interlocutor, en tu idioma. [Pedir una primera conversación gratuita](/es/#inscription).
+¿Quieres un presupuesto claro antes de lanzarte? Start in Dubai te acompaña de la A a la Z (empresa, cuenta bancaria, visados, instalación de la familia), con un único interlocutor, en tu idioma. [Pedir una primera conversación gratuita](/es/#inscription).

@@ -106,7 +106,7 @@ Il Golden Visa è una residenza lunga, di 5 o 10 anni a seconda della categoria,
 
 ## E l'immobiliare?
 
-L'immobiliare è uno degli investimenti più comuni a Dubai, e un immobile di almeno 2 milioni di AED può dare diritto al Golden Visa. È un mestiere a parte, con le sue regole, i suoi costi e i suoi rischi. START IN DUBAI non consiglia sulla scelta degli immobili: per l'immobiliare lavoriamo con [Cevitas Real Estate](https://www.cevitas.ae), agenzia autorizzata RERA (ORN 49294).
+L'immobiliare è uno degli investimenti più comuni a Dubai, e un immobile di almeno 2 milioni di AED può dare diritto al Golden Visa. È un mestiere a parte, con le sue regole, i suoi costi e i suoi rischi. Start in Dubai non consiglia sulla scelta degli immobili: per l'immobiliare lavoriamo con [Cevitas Real Estate](https://www.cevitas.ae), agenzia autorizzata RERA (ORN 49294).
 
 ## I vantaggi di investire negli Emirati Arabi Uniti
 
@@ -148,7 +148,7 @@ L'immobiliare è uno degli investimenti più comuni a Dubai, e un immobile di al
 7. **Apri il conto bancario** con un dossier completo: attività, contratti o preventivi, origine dei fondi.
 8. **Imposta la contabilità** e le registrazioni fiscali fin dall'inizio.
 
-Se conti di trasferirti, prosegui con la nostra guida su [come trasferirsi a Dubai](/it/trasferirsi-a-dubai/). START IN DUBAI ti accompagna dall'inizio alla fine (società, conto bancario, visti, alloggio, scuole), con un unico interlocutore, nella tua lingua (arabo, francese, inglese, spagnolo, olandese, italiano). [Richiedi un primo colloquio gratuito](/it/#inscription).
+Se conti di trasferirti, prosegui con la nostra guida su [come trasferirsi a Dubai](/it/trasferirsi-a-dubai/). Start in Dubai ti accompagna dall'inizio alla fine (società, conto bancario, visti, alloggio, scuole), con un unico interlocutore, nella tua lingua (arabo, francese, inglese, spagnolo, olandese, italiano). [Richiedi un primo colloquio gratuito](/it/#inscription).
 
 ## Per approfondire
 

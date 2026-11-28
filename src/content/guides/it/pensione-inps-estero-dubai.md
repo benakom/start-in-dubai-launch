@@ -156,7 +156,7 @@ Tutto questo funziona solo se sei davvero fiscalmente residente negli Emirati. S
 7. **Aprire un conto negli Emirati** per le spese quotidiane: vedi la guida per [aprire un conto bancario a Dubai](/it/aprire-conto-bancario-dubai/).
 8. **Pianificare il resto del progetto** (visto, alloggio, assicurazione) con la guida al [visto di residenza a Dubai](/it/visto-di-residenza-dubai/).
 
-Se vuoi preparare l'intero trasferimento con un solo interlocutore che parla italiano, START IN DUBAI ti accompagna dalla A alla Z (società, conto bancario, visti, alloggio, famiglia). Per parlarne, [richiedi un primo colloquio gratuito e senza impegno](/it/#inscription). Per le questioni fiscali sulla tua pensione, rivolgiti al tuo commercialista o a un consulente fiscale: START IN DUBAI non fornisce consulenza fiscale.
+Se vuoi preparare l'intero trasferimento con un solo interlocutore che parla italiano, Start in Dubai ti accompagna dalla A alla Z (società, conto bancario, visti, alloggio, famiglia). Per parlarne, [richiedi un primo colloquio gratuito e senza impegno](/it/#inscription). Per le questioni fiscali sulla tua pensione, rivolgiti al tuo commercialista o a un consulente fiscale: Start in Dubai non fornisce consulenza fiscale.
 
 ## Per approfondire
 

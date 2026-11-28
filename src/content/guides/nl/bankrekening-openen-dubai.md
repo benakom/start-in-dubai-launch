@@ -180,7 +180,7 @@ Een weigering is niet definitief: een andere bank kan een beter gepresenteerd do
 6. Zodra de rekening is geopend, **werk uw Emirates ID bij** bij elke verlenging.
 7. Bij een geschil dient u eerst een klacht in bij de bank. Leidt dat nergens toe, dan behandelt Sanadak, de onafhankelijke ombudsman die door de Centrale Bank is opgericht, gratis klachten tegen erkende banken en verzekeraars.
 
-Een rekening openen gaat hand in hand met de fiscaliteit van uw verhuizing: lees ook onze gids over de [belasting in Dubai](/nl/belasting-dubai/) en onze complete gids om [naar Dubai te emigreren](/nl/emigreren-naar-dubai/). START IN DUBAI begeleidt u van A tot Z (bedrijf, bankrekening, visa, woning, scholen), met één aanspreekpunt, in uw eigen taal (Arabisch, Frans, Engels, Spaans, Nederlands, Italiaans).
+Een rekening openen gaat hand in hand met de fiscaliteit van uw verhuizing: lees ook onze gids over de [belasting in Dubai](/nl/belasting-dubai/) en onze complete gids om [naar Dubai te emigreren](/nl/emigreren-naar-dubai/). Start in Dubai begeleidt u van A tot Z (bedrijf, bankrekening, visa, woning, scholen), met één aanspreekpunt, in uw eigen taal (Arabisch, Frans, Engels, Spaans, Nederlands, Italiaans).
 
 ## Verder lezen
 

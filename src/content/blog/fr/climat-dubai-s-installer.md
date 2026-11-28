@@ -195,4 +195,4 @@ Quelques repères :
 7. Prévoir des activités d’été en intérieur pour les enfants, ou un départ en juillet-août.
 8. Si vous employez du personnel en extérieur, organiser les horaires autour de la pause de 12 h 30 à 15 h, du 15 juin au 15 septembre.
 
-Vous préparez votre installation et voulez caler la bonne date d’arrivée avec l’école, le logement et les visas ? START IN DUBAI vous accompagne de A à Z, avec un seul interlocuteur, dans votre langue. [Demander un premier échange gratuit](/#inscription).
+Vous préparez votre installation et voulez caler la bonne date d’arrivée avec l’école, le logement et les visas ? Start in Dubai vous accompagne de A à Z, avec un seul interlocuteur, dans votre langue. [Demander un premier échange gratuit](/#inscription).

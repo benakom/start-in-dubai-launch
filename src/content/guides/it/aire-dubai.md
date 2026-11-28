@@ -135,4 +135,4 @@ In sintesi: l'AIRE è necessaria (è un obbligo) ma non è sufficiente. Quello c
 6. **Aggiorna l'indirizzo** se cambi alloggio a Dubai.
 7. **Per l'insieme del percorso**, segui la guida [trasferirsi a Dubai dall'Italia](/it/trasferirsi-a-dubai-dall-italia/).
 
-START IN DUBAI ti accompagna nella parte emiratina del trasferimento (visto di residenza, [apertura di un conto bancario](/it/aprire-conto-bancario-dubai/), alloggio, famiglia) con un solo interlocutore che parla italiano. Per parlarne, [richiedi un primo colloquio gratuito e senza impegno](/it/#inscription). La procedura AIRE si fa sul portale ufficiale, gratuitamente; la valutazione fiscale resta al tuo commercialista.
+Start in Dubai ti accompagna nella parte emiratina del trasferimento (visto di residenza, [apertura di un conto bancario](/it/aprire-conto-bancario-dubai/), alloggio, famiglia) con un solo interlocutore che parla italiano. Per parlarne, [richiedi un primo colloquio gratuito e senza impegno](/it/#inscription). La procedura AIRE si fa sul portale ufficiale, gratuitamente; la valutazione fiscale resta al tuo commercialista.

@@ -158,7 +158,7 @@ Dit netwerk helpt enorm in de eerste maanden, maar blijf kritisch op niet-geveri
 6. Heb ik gecontroleerd wat mijn land van herkomst nog van mij verlangt (belasting, sociale bescherming, pensioen)?
 7. Ben ik enkele dagen ter plaatse geweest, bij voorkeur in de zomer, om te zien of dit tempo bij mij past?
 
-Antwoordt u op de meeste vragen ja, dan is uw project rijp. START IN DUBAI begeleidt u daarna van A tot Z, met één aanspreekpunt, in uw taal (Arabisch, Frans, Engels, Spaans, Nederlands, Italiaans). De dienst is open: [vraag een eerste gratis gesprek aan](/nl/#inscription).
+Antwoordt u op de meeste vragen ja, dan is uw project rijp. Start in Dubai begeleidt u daarna van A tot Z, met één aanspreekpunt, in uw taal (Arabisch, Frans, Engels, Spaans, Nederlands, Italiaans). De dienst is open: [vraag een eerste gratis gesprek aan](/nl/#inscription).
 
 ## Verder lezen
 

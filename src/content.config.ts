@@ -36,7 +36,7 @@ const guides = defineCollection({
 // Articles de blog : même format que les guides, URL /blog/<slug>/ (fr) ou /<langue>/blog/<slug>/.
 const blog = defineCollection({ loader: glob({ pattern: "**/*.md", base: "./src/content/blog" }), schema: guides.schema as any });
 
-// Pages services : ce que START IN DUBAI fait pour vous. URL /services/<slug>/ (fr) ou /<langue>/services/<slug>/.
+// Pages services : ce que Start in Dubai fait pour vous. URL /services/<slug>/ (fr) ou /<langue>/services/<slug>/.
 export const PROFILES = ["investir", "societe", "famille", "etudes"] as const;
 const services = defineCollection({
   loader: glob({ pattern: "**/*.md", base: "./src/content/services" }),

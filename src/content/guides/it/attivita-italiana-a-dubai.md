@@ -110,4 +110,4 @@ Per un negozio la logica è simile ma i permessi alimentari non servono, a meno 
 
 Prepara un business plan realistico con tre scenari di ricavi, un elenco di requisiti per il locale e un preventivo per ogni permesso. Se pensi anche di trasferirti, la guida [trasferirsi a Dubai dall'Italia](/it/trasferirsi-a-dubai-dall-italia/) spiega visto, residenza e tempi.
 
-START IN DUBAI ti accompagna nella costituzione della società, nel conto bancario, nei visti e nell'installazione, con un solo interlocutore che parla italiano. Per capire come procedere con la tua attività, [richiedi un primo colloquio gratuito e senza impegno](/it/#inscription). Per permessi e fisco rivolgiti alle autorità competenti e a un commercialista.
+Start in Dubai ti accompagna nella costituzione della società, nel conto bancario, nei visti e nell'installazione, con un solo interlocutore che parla italiano. Per capire come procedere con la tua attività, [richiedi un primo colloquio gratuito e senza impegno](/it/#inscription). Per permessi e fisco rivolgiti alle autorità competenti e a un commercialista.

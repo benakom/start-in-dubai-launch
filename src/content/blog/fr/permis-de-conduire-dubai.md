@@ -208,7 +208,7 @@ Pour le budget global d’une installation, voiture comprise, voir notre guide d
 5. Si votre permis ne s’échange pas, choisissez une école agréée et demandez la golden chance.
 6. Gardez une marge de budget : 1 050 AED pour un échange, davantage pour la voie de l’école.
 
-START IN DUBAI organise votre installation de A à Z, permis compris : visas, Emirates ID, logement, banque et démarches du quotidien, avec un seul interlocuteur, dans votre langue. Pour la vie sur place, lisez aussi notre guide pour [vivre à Dubaï](/vivre-a-dubai/). [Demander un premier échange gratuit](/#inscription).
+Start in Dubai organise votre installation de A à Z, permis compris : visas, Emirates ID, logement, banque et démarches du quotidien, avec un seul interlocuteur, dans votre langue. Pour la vie sur place, lisez aussi notre guide pour [vivre à Dubaï](/vivre-a-dubai/). [Demander un premier échange gratuit](/#inscription).
 
 ## Pour aller plus loin
 

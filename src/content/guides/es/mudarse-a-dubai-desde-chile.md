@@ -173,6 +173,6 @@ El Acuerdo de Asociación Económica Integral (CEPA) entre Chile y los Emiratos 
 6. Preparar tu seguro médico y tu carnet de conducir.
 7. Guardar el pasaporte, el contrato y las pruebas de días de estancia.
 
-## Cómo te acompaña START IN DUBAI
+## Cómo te acompaña Start in Dubai
 
-START IN DUBAI te acompaña de la A a la Z en los trámites emiratíes (sociedad, cuenta bancaria, visados y Golden Visa, vivienda, instalación de la familia, estudios superiores), con un solo interlocutor y en tu idioma. La situación tributaria chilena debe validarla siempre un contador o asesor de Chile. [Solicita un primer intercambio gratuito y sin compromiso](/es/#inscription).
+Start in Dubai te acompaña de la A a la Z en los trámites emiratíes (sociedad, cuenta bancaria, visados y Golden Visa, vivienda, instalación de la familia, estudios superiores), con un solo interlocutor y en tu idioma. La situación tributaria chilena debe validarla siempre un contador o asesor de Chile. [Solicita un primer intercambio gratuito y sin compromiso](/es/#inscription).

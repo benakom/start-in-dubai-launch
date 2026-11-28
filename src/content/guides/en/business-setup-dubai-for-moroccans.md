@@ -175,7 +175,7 @@ Rather than "which zone is cheapest", ask three questions, which matter for any 
 7. A trip planned for the visa and the bank.
 8. Corporate tax registration deadline noted: within 3 months of incorporation for companies set up since 1 March 2024.
 
-START IN DUBAI supports Moroccans from A to Z (company, bank account, visas and Golden Visa, housing, family and higher education), with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian). You can also read our [company setup service page](/en/services/company-setup-dubai/) or [ask for a free first call](/en/#inscription).
+Start in Dubai supports Moroccans from A to Z (company, bank account, visas and Golden Visa, housing, family and higher education), with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian). You can also read our [company setup service page](/en/services/company-setup-dubai/) or [ask for a free first call](/en/#inscription).
 
 ## Go further
 

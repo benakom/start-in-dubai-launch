@@ -154,6 +154,6 @@ Los van de Nederlandse heffing heeft de Dubaise kant eigen verplichtingen. Een b
 6. Bepaal wat u meldt aan de Belastingdienst en wanneer.
 7. Zet het hele plan op een tijdlijn met de uitschrijving en de aangifte over het emigratiejaar.
 
-## Wat START IN DUBAI kan doen
+## Wat Start in Dubai kan doen
 
-START IN DUBAI begeleidt de Dubaise kant van uw verhuizing: bedrijf, bankrekening, visa, woning, scholen, met één aanspreekpunt, in uw eigen taal (Arabisch, Frans, Engels, Spaans, Nederlands, Italiaans). Wij geven geen Nederlands fiscaal advies en beloven geen belastingresultaat. Wilt u uw plan voor Dubai bespreken, [vraag dan een eerste gratis gesprek aan](/nl/#inscription).
+Start in Dubai begeleidt de Dubaise kant van uw verhuizing: bedrijf, bankrekening, visa, woning, scholen, met één aanspreekpunt, in uw eigen taal (Arabisch, Frans, Engels, Spaans, Nederlands, Italiaans). Wij geven geen Nederlands fiscaal advies en beloven geen belastingresultaat. Wilt u uw plan voor Dubai bespreken, [vraag dan een eerste gratis gesprek aan](/nl/#inscription).

@@ -1,6 +1,6 @@
 ---
 import { srcset } from "../lib/img";
-// Page service : ce que START IN DUBAI fait pour vous, le déroulé, la FAQ commerciale, les guides liés.
+// Page service : ce que Start in Dubai fait pour vous, le déroulé, la FAQ commerciale, les guides liés.
 import { render } from "astro:content";
 import Base from "../layouts/Base.astro";
 import Hero from "./blocks/Hero.astro";
@@ -35,7 +35,7 @@ const image = d.image || CLUSTER_IMG[d.cluster];
 const jsonld = [
   {
     "@context": "https://schema.org", "@type": "Service", name: d.h1, description: d.description, serviceType: d.keyword, url, inLanguage: lang, image: SITE_URL + image,
-    provider: { "@type": "Organization", "@id": `${SITE_URL}/#organization`, name: "START IN DUBAI", url: SITE_URL + "/" },
+    provider: { "@type": "Organization", "@id": `${SITE_URL}/#organization`, name: "Start in Dubai", url: SITE_URL + "/" },
     areaServed: [{ "@type": "City", name: "Dubai" }, { "@type": "Country", name: "United Arab Emirates" }],
     availableLanguage: ["ar", "fr", "en", "es", "nl", "it"],
     hasOfferCatalog: { "@type": "OfferCatalog", name: u.included, itemListElement: d.essentials.map((e: string) => ({ "@type": "Offer", itemOffered: { "@type": "Service", name: e } })) },

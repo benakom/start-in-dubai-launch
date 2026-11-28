@@ -91,7 +91,7 @@ Huurcontracten zijn jaarcontracten. Huren worden per jaar uitgedrukt en vaak in 
 
 Reken bij het betrekken van de woning ook op de borg, de makelaarscommissie als u via een makelaar gaat, de registratie van het huurcontract (Ejari) en de waarborgsom van DEWA voor elektriciteit en water. De eerste maand kost dus aanzienlijk meer dan de volgende.
 
-Overweegt u te kopen in plaats van te huren? Dat is een andere berekening: voor vastgoed werkt START IN DUBAI samen met [Cevitas Real Estate](https://www.cevitas.ae), een makelaarskantoor met RERA-erkenning (ORN 49294).
+Overweegt u te kopen in plaats van te huren? Dat is een andere berekening: voor vastgoed werkt Start in Dubai samen met [Cevitas Real Estate](https://www.cevitas.ae), een makelaarskantoor met RERA-erkenning (ORN 49294).
 
 ### Scholen
 
@@ -159,7 +159,7 @@ Naast het maandbudget kost de verhuizing zelf veel geld. Plan een reserve in voo
 6. de schoolinschrijving van de kinderen;
 7. drie tot zes maanden lopende uitgaven vooruit, om tegenslagen op te vangen.
 
-Voor alle andere stappen van de verhuizing volgt u onze gids om [naar Dubai te emigreren](/nl/emigreren-naar-dubai/). START IN DUBAI kan daarna alles met u coördineren, in uw taal (Arabisch, Frans, Engels, Spaans, Nederlands, Italiaans). [Vraag een eerste gratis gesprek aan](/nl/#inscription).
+Voor alle andere stappen van de verhuizing volgt u onze gids om [naar Dubai te emigreren](/nl/emigreren-naar-dubai/). Start in Dubai kan daarna alles met u coördineren, in uw taal (Arabisch, Frans, Engels, Spaans, Nederlands, Italiaans). [Vraag een eerste gratis gesprek aan](/nl/#inscription).
 
 ## Verder lezen
 

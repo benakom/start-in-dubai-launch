@@ -187,7 +187,7 @@ If you also plan to buy a home, this guide does not cover real estate: our partn
 7. Verified job offer (company name checked, no fee requested).
 8. Health insurance for the period before residence.
 
-START IN DUBAI supports Moroccans from A to Z (company, bank account, visas, housing, schools), with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian). For the rest of the journey, read our general guide to [moving to Dubai](/en/moving-to-dubai/).
+Start in Dubai supports Moroccans from A to Z (company, bank account, visas, housing, schools), with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian). For the rest of the journey, read our general guide to [moving to Dubai](/en/moving-to-dubai/).
 
 ## Go further
 

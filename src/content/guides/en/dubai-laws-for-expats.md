@@ -139,6 +139,6 @@ The UAE reformed several rules in 2020 and 2021, and press coverage reported cha
 - [ ] Learn the rules for what you post online.
 - [ ] Get your Emirates ID: see [Emirates ID](/en/blog/emirates-id/).
 
-Our broader overview of daily life is in [living in Dubai](/en/living-in-dubai/). START IN DUBAI supports people from A to Z (company, bank account, visas, housing, schools), with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian). We are not a law firm and do not give legal advice. For property, we work with [Cevitas Real Estate](https://www.cevitas.ae), an RERA-licensed agency (ORN 49294). [Book a free first call](/en/#inscription).
+Our broader overview of daily life is in [living in Dubai](/en/living-in-dubai/). Start in Dubai supports people from A to Z (company, bank account, visas, housing, schools), with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian). We are not a law firm and do not give legal advice. For property, we work with [Cevitas Real Estate](https://www.cevitas.ae), an RERA-licensed agency (ORN 49294). [Book a free first call](/en/#inscription).
 
 Last checked on u.ae and dubai.ae in November 2026.

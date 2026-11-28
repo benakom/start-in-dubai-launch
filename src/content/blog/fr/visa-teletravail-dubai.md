@@ -193,4 +193,4 @@ Pensez aussi au change : si vous êtes payé en euros ou en francs suisses, votr
 - **Oublier la légalisation** de l'acte de mariage et des actes de naissance avant le départ.
 - **Confondre visa et résidence fiscale** : le visa ne vous fait pas sortir automatiquement du système fiscal de votre pays.
 
-Vous voulez vous installer à Dubaï en télétravail, ou passer ensuite au statut freelance ou à votre propre société ? START IN DUBAI vous accompagne de A à Z (visa, compte bancaire, logement, famille), avec un seul interlocuteur. Pour en parler, [demander un premier échange gratuit](/#inscription).
+Vous voulez vous installer à Dubaï en télétravail, ou passer ensuite au statut freelance ou à votre propre société ? Start in Dubai vous accompagne de A à Z (visa, compte bancaire, logement, famille), avec un seul interlocuteur. Pour en parler, [demander un premier échange gratuit](/#inscription).

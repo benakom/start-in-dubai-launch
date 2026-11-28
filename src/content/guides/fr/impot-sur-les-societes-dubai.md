@@ -180,7 +180,7 @@ En revanche, votre **pays d'origine** peut continuer à vous imposer si vous y r
 5. **Petite entreprise** : vérifiez votre éligibilité au Small Business Relief et choisissez-le dans chaque déclaration.
 6. **Surveillez aussi la TVA** : au-delà de 375 000 AED de ventes taxables, l'enregistrement devient obligatoire. Tout est expliqué dans notre guide de la [TVA à Dubaï](/tva-dubai/).
 
-START IN DUBAI vous accompagne de A à Z (société, compte bancaire, visas, logement, installation de la famille), avec un seul interlocuteur, dans votre langue (arabe, français, anglais, espagnol, néerlandais, italien), et vous oriente vers les bons professionnels pour la comptabilité et le conseil fiscal. Pour en parler, réservez votre [premier échange gratuit](/#inscription).
+Start in Dubai vous accompagne de A à Z (société, compte bancaire, visas, logement, installation de la famille), avec un seul interlocuteur, dans votre langue (arabe, français, anglais, espagnol, néerlandais, italien), et vous oriente vers les bons professionnels pour la comptabilité et le conseil fiscal. Pour en parler, réservez votre [premier échange gratuit](/#inscription).
 
 ## Pour aller plus loin
 

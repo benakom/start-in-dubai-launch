@@ -1,4 +1,4 @@
-/* Réglages de la page de lancement START IN DUBAI. C'est le seul fichier à modifier. */
+/* Réglages de la page de lancement Start in Dubai. C'est le seul fichier à modifier. */
 window.SID_CONFIG = {
   // Ouverture (heure de Dubaï, UTC+4)
   launchDate: "2026-12-15T00:00:00+04:00",

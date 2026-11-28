@@ -155,4 +155,4 @@ Cada persona tramita su propio visado y cada pasaporte tiene sus propias reglas 
 6. Define qué vas a hacer en el viaje: explorar, no trabajar.
 7. Si decides quedarte, planifica la licencia y el visado de residencia **antes** de cualquier actividad.
 
-Si quieres que alguien te acompañe en el paso de explorar a instalarte (empresa, visados, cuenta bancaria), START IN DUBAI trabaja con un solo interlocutor en español. Puedes pedir un [primer intercambio gratuito](/es/#inscription), sin compromiso.
+Si quieres que alguien te acompañe en el paso de explorar a instalarte (empresa, visados, cuenta bancaria), Start in Dubai trabaja con un solo interlocutor en español. Puedes pedir un [primer intercambio gratuito](/es/#inscription), sin compromiso.

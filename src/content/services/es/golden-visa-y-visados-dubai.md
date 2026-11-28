@@ -108,7 +108,7 @@ Según la categoría, se te pedirá en particular:
 
 ## Por qué un único interlocutor
 
-El visado nunca está aislado. Suele depender de una empresa, de un inmueble o de un empleo, y condiciona la cuenta bancaria, el alquiler y el colegio de los hijos. Con START IN DUBAI, una sola persona sigue tu residencia y todo lo que se deriva de ella, en tu idioma (árabe, francés, inglés, español, neerlandés o italiano). Si tu visado pasa por una empresa, la creamos contigo: consulta nuestra [guía para crear una empresa](/es/crear-empresa-en-dubai/).
+El visado nunca está aislado. Suele depender de una empresa, de un inmueble o de un empleo, y condiciona la cuenta bancaria, el alquiler y el colegio de los hijos. Con Start in Dubai, una sola persona sigue tu residencia y todo lo que se deriva de ella, en tu idioma (árabe, francés, inglés, español, neerlandés o italiano). Si tu visado pasa por una empresa, la creamos contigo: consulta nuestra [guía para crear una empresa](/es/crear-empresa-en-dubai/).
 
 ## Los errores que te evitamos
 

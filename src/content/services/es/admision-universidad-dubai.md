@@ -102,7 +102,7 @@ La primera conversación es gratuita, con el estudiante y, si lo desean, con sus
 
 ## Por qué un único interlocutor
 
-Los estudios en Dubái movilizan a la universidad, la GDRFA, un arrendador, una aseguradora y un banco. Para una familia que sigue el expediente a distancia, enseguida resulta difícil. Con START IN DUBAI, una sola persona coordina el conjunto y mantiene informados al estudiante y a los padres, en su idioma (árabe, francés, inglés, español, neerlandés o italiano).
+Los estudios en Dubái movilizan a la universidad, la GDRFA, un arrendador, una aseguradora y un banco. Para una familia que sigue el expediente a distancia, enseguida resulta difícil. Con Start in Dubai, una sola persona coordina el conjunto y mantiene informados al estudiante y a los padres, en su idioma (árabe, francés, inglés, español, neerlandés o italiano).
 
 ## Los errores que te evitamos
 

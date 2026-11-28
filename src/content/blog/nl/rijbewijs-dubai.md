@@ -208,4 +208,4 @@ Voor het totaalbudget van een installatie, auto inbegrepen, zie onze gids over d
 5. Wordt uw rijbewijs niet omgewisseld, kies dan een erkende school en vraag de golden chance.
 6. Houd een budgetmarge: 1.050 AED voor een omwisseling, meer voor de weg via de rijschool.
 
-START IN DUBAI organiseert uw installatie van A tot Z, rijbewijs inbegrepen: visa, Emirates ID, woning, bank en dagelijkse formaliteiten, met één aanspreekpunt, in uw eigen taal. Voor het leven ter plaatse leest u ook onze gids over [wonen in Dubai](/nl/wonen-in-dubai/). [Een gratis eerste gesprek aanvragen](/nl/#inscription).
+Start in Dubai organiseert uw installatie van A tot Z, rijbewijs inbegrepen: visa, Emirates ID, woning, bank en dagelijkse formaliteiten, met één aanspreekpunt, in uw eigen taal. Voor het leven ter plaatse leest u ook onze gids over [wonen in Dubai](/nl/wonen-in-dubai/). [Een gratis eerste gesprek aanvragen](/nl/#inscription).

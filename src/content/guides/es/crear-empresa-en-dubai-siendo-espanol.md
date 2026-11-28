@@ -122,11 +122,11 @@ Si hoy facturas como autónomo en España y piensas pasar a una sociedad en Dub�
 3. **Abrir la empresa sin plan de residencia.** El visado vinculado exige estructura y plazos.
 4. **No registrarse en el impuesto de sociedades.** La multa por retraso es de 10.000 AED.
 5. **Dejar la cuenta bancaria para el final.** Puede ser la parte más lenta.
-6. **No pedir asesoramiento fiscal español.** Ni un despacho emiratí ni START IN DUBAI sustituyen a tu asesor.
+6. **No pedir asesoramiento fiscal español.** Ni un despacho emiratí ni Start in Dubai sustituyen a tu asesor.
 
-## Cómo te acompaña START IN DUBAI
+## Cómo te acompaña Start in Dubai
 
-START IN DUBAI te acompaña de la A a la Z en los trámites emiratíes: creación de la empresa, cuenta bancaria, visados y Golden Visa, vivienda, instalación de la familia, estudios superiores, con un solo interlocutor y en español. Para el inmobiliario, trabajamos con Cevitas Real Estate, agencia autorizada por RERA (ORN 49294): [cevitas.ae](https://www.cevitas.ae). Puedes pedir un [primer intercambio gratuito y sin compromiso](/es/#inscription).
+Start in Dubai te acompaña de la A a la Z en los trámites emiratíes: creación de la empresa, cuenta bancaria, visados y Golden Visa, vivienda, instalación de la familia, estudios superiores, con un solo interlocutor y en español. Para el inmobiliario, trabajamos con Cevitas Real Estate, agencia autorizada por RERA (ORN 49294): [cevitas.ae](https://www.cevitas.ae). Puedes pedir un [primer intercambio gratuito y sin compromiso](/es/#inscription).
 
 ## Para ir más lejos
 

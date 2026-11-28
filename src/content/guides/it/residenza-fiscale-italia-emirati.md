@@ -135,7 +135,7 @@ Se parti, conserva per ogni anno:
 - Credere che **il certificato emiratino** cancelli la residenza italiana.
 - Basarsi su guide **non aggiornate al 2024**, che parlano ancora di domicilio civilistico.
 
-START IN DUBAI ti accompagna nella parte emiratina del trasferimento (visto di residenza, società, conto bancario, alloggio, famiglia) con un solo interlocutore che parla italiano. Per parlarne, [richiedi un primo colloquio gratuito e senza impegno](/it/#inscription). Per tutto ciò che riguarda la residenza fiscale italiana, fai validare la tua situazione da un commercialista o da un fiscalista italiano: START IN DUBAI non fornisce consulenza fiscale. Per il quadro d'insieme del trasferimento, leggi [trasferirsi a Dubai dall'Italia](/it/trasferirsi-a-dubai-dall-italia/).
+Start in Dubai ti accompagna nella parte emiratina del trasferimento (visto di residenza, società, conto bancario, alloggio, famiglia) con un solo interlocutore che parla italiano. Per parlarne, [richiedi un primo colloquio gratuito e senza impegno](/it/#inscription). Per tutto ciò che riguarda la residenza fiscale italiana, fai validare la tua situazione da un commercialista o da un fiscalista italiano: Start in Dubai non fornisce consulenza fiscale. Per il quadro d'insieme del trasferimento, leggi [trasferirsi a Dubai dall'Italia](/it/trasferirsi-a-dubai-dall-italia/).
 
 ## Per approfondire
 

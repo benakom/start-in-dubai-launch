@@ -154,4 +154,4 @@ Be careful with packages that advertise a "Green Visa" for one flat price. They 
 - [ ] I know how my family will be sponsored and what documents are needed
 - [ ] I have checked my tax position in my home country
 
-START IN DUBAI helps you choose between the freelance permit, the Green Visa, the Golden Visa and a company, then handle the bank, housing and schooling, in your language (Arabic, French, English, Spanish, Dutch, Italian). [Ask for a free first call](/en/#inscription).
+Start in Dubai helps you choose between the freelance permit, the Green Visa, the Golden Visa and a company, then handle the bank, housing and schooling, in your language (Arabic, French, English, Spanish, Dutch, Italian). [Ask for a free first call](/en/#inscription).

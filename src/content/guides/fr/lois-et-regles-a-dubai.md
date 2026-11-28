@@ -179,7 +179,7 @@ Ajoutez dans votre téléphone le numéro du consulat de votre pays. Pour les Fr
 7. Quitter le pays avec une dette en cours sans l’avoir réglée ou négociée.
 8. Oublier que Sharjah applique ses propres règles sur l’alcool.
 
-Ces règles font partie de la vie à Dubaï, au même titre que le climat ou le coût du logement : notre guide pour [vivre à Dubaï](/vivre-a-dubai/) fait le point sur le reste du quotidien, et notre guide pour [s’installer à Dubaï](/s-installer-a-dubai/) sur les démarches. START IN DUBAI vous accompagne de A à Z dans votre installation (visas, société, compte bancaire, logement, famille), avec un seul interlocuteur dans votre langue : réservez un [premier échange gratuit](/#inscription).
+Ces règles font partie de la vie à Dubaï, au même titre que le climat ou le coût du logement : notre guide pour [vivre à Dubaï](/vivre-a-dubai/) fait le point sur le reste du quotidien, et notre guide pour [s’installer à Dubaï](/s-installer-a-dubai/) sur les démarches. Start in Dubai vous accompagne de A à Z dans votre installation (visas, société, compte bancaire, logement, famille), avec un seul interlocuteur dans votre langue : réservez un [premier échange gratuit](/#inscription).
 
 ## Pour aller plus loin
 

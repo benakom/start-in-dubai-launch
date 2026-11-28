@@ -178,4 +178,4 @@ On timing, u.ae states that a claim for rights due is not heard **after one year
 
 If you are still looking for a job, our guide to the [job seeker visa](/en/job-seeker-visa-dubai/) explains the visit route and its limits.
 
-START IN DUBAI helps you plan your move once your contract is signed: residence, bank, housing and schooling, in your language (Arabic, French, English, Spanish, Dutch, Italian). [Ask for a free first call](/en/#inscription).
+Start in Dubai helps you plan your move once your contract is signed: residence, bank, housing and schooling, in your language (Arabic, French, English, Spanish, Dutch, Italian). [Ask for a free first call](/en/#inscription).

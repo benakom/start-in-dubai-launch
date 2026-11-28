@@ -165,4 +165,4 @@ Se il tuo visto è stato annullato in questo modo, una procedura permette di chi
 - **Restare più di 180 giorni fuori** con un visto classico, senza verificare se si applica un'eccezione.
 - **Confondere residenza e residenza fiscale**: avere un visto non basta a non essere più tassati nel tuo paese. Leggi la nostra guida sulle [tasse a Dubai](/it/tasse-dubai/).
 
-START IN DUBAI ti accompagna dall'inizio alla fine (società, conto bancario, visti, casa, scuole), con un solo interlocutore, nella tua lingua (arabo, francese, inglese, spagnolo, olandese, italiano).
+Start in Dubai ti accompagna dall'inizio alla fine (società, conto bancario, visti, casa, scuole), con un solo interlocutore, nella tua lingua (arabo, francese, inglese, spagnolo, olandese, italiano).

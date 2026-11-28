@@ -153,4 +153,4 @@ Keep scans and the original documents in one folder, with the dates of each atte
 - **Assuming experience is optional.** The KHDA states that new teachers must meet its experience requirements. Check them for your phase.
 - **Comparing salaries without the package.** Housing, insurance and school fees change the real value.
 
-START IN DUBAI helps you plan your move once you have a school offer: residence, bank, housing and your children's school, in your language (Arabic, French, English, Spanish, Dutch, Italian). [Ask for a free first call](/en/#inscription).
+Start in Dubai helps you plan your move once you have a school offer: residence, bank, housing and your children's school, in your language (Arabic, French, English, Spanish, Dutch, Italian). [Ask for a free first call](/en/#inscription).

@@ -114,7 +114,7 @@ Dubai's private schools are regulated by the KHDA, and the KHDA directory publis
 
 ## Buying property
 
-Property rules for non-citizens differ between emirates and between areas. We could not confirm Sharjah's current rules from an official source for this page, so check before any purchase. For property in Dubai and the UAE, START IN DUBAI works with [Cevitas Real Estate](https://www.cevitas.ae), an RERA-licensed agency (ORN 49294).
+Property rules for non-citizens differ between emirates and between areas. We could not confirm Sharjah's current rules from an official source for this page, so check before any purchase. For property in Dubai and the UAE, Start in Dubai works with [Cevitas Real Estate](https://www.cevitas.ae), an RERA-licensed agency (ORN 49294).
 
 ## How to choose: six questions
 
@@ -125,6 +125,6 @@ Property rules for non-citizens differ between emirates and between areas. We co
 5. Which **local rules** matter to you (public conduct, alcohol, dress)? Read the official guidance.
 6. Do you want a **trial period**? Rent short-term in one emirate before you sign an annual lease: leases are annual and cheques are post-dated, so a wrong choice is expensive.
 
-START IN DUBAI supports people from A to Z (company, bank account, visas, housing, schools), with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian). We do not guarantee any cost or outcome. [Book a free first call](/en/#inscription).
+Start in Dubai supports people from A to Z (company, bank account, visas, housing, schools), with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian). We do not guarantee any cost or outcome. [Book a free first call](/en/#inscription).
 
 Last checked on u.ae in November 2026.

@@ -197,7 +197,7 @@ Si tu proyecto es vivir seis meses aquí y seis meses allí, elige tu visado en 
 7. **Abrir una cuenta bancaria local** para recibir tu pensión y pagar el alquiler: consulta nuestra guía para [vivir en Dubái](/es/vivir-en-dubai/) en el día a día.
 8. **Planificar tus estancias en tu país** para respetar la regla de los 180 días.
 
-¿Estás preparando tu jubilación en los Emiratos? START IN DUBAI te acompaña de la A a la Z (visado, cuenta bancaria, vivienda, instalación), con un único interlocutor que habla tu idioma. Para hablar de ello, [pide una primera conversación gratuita](/es/#inscription).
+¿Estás preparando tu jubilación en los Emiratos? Start in Dubai te acompaña de la A a la Z (visado, cuenta bancaria, vivienda, instalación), con un único interlocutor que habla tu idioma. Para hablar de ello, [pide una primera conversación gratuita](/es/#inscription).
 
 ## Para ir más lejos
 

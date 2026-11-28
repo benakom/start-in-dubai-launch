@@ -1,4 +1,4 @@
-/* START IN DUBAI : inscription à la newsletter (bandeau au-dessus du pied de page, toutes les pages).
+/* Start in Dubai : inscription à la newsletter (bandeau au-dessus du pied de page, toutes les pages).
    Envoi vers /api/newsletter (relais Cloudflare -> Brevo, double confirmation dans la langue de la page).
    Chargé par site.js après le chargement de la page. */
 (() => {
@@ -7,29 +7,29 @@
   window.__sidNl = true;
   const LANG = (document.documentElement.lang || "fr").slice(0, 2);
   const T = {
-    fr: { t: "Les guides START IN DUBAI dans votre boîte mail", s: "Nos nouveaux guides et les changements de règles importants, vérifiés sur les sources officielles. Pas de spam, désinscription en un clic.",
+    fr: { t: "Les guides Start in Dubai dans votre boîte mail", s: "Nos nouveaux guides et les changements de règles importants, vérifiés sur les sources officielles. Pas de spam, désinscription en un clic.",
       ph: "Votre adresse e-mail", b: "Je m'inscris", ok: "Merci ! Un e-mail de confirmation vient de partir : cliquez sur le lien qu'il contient pour valider votre inscription.",
-      e: "Cette adresse e-mail n'est pas valide.", f: "L'inscription n'a pas abouti. Réessayez dans un instant.", c: "Inscription confirmée : bienvenue chez START IN DUBAI !",
+      e: "Cette adresse e-mail n'est pas valide.", f: "L'inscription n'a pas abouti. Réessayez dans un instant.", c: "Inscription confirmée : bienvenue chez Start in Dubai !",
       l: "Vos données servent uniquement à vous envoyer nos e-mails.", sending: "Envoi…" },
-    en: { t: "START IN DUBAI guides in your inbox", s: "Our new guides and important rule changes, checked against official sources. No spam, unsubscribe in one click.",
+    en: { t: "Start in Dubai guides in your inbox", s: "Our new guides and important rule changes, checked against official sources. No spam, unsubscribe in one click.",
       ph: "Your email address", b: "Subscribe", ok: "Thank you! A confirmation email is on its way: click the link inside to confirm your subscription.",
-      e: "This email address is not valid.", f: "The subscription failed. Please try again in a moment.", c: "Subscription confirmed: welcome to START IN DUBAI!",
+      e: "This email address is not valid.", f: "The subscription failed. Please try again in a moment.", c: "Subscription confirmed: welcome to Start in Dubai!",
       l: "Your data is used only to send you our emails.", sending: "Sending…" },
-    ar: { t: "أدلة START IN DUBAI في بريدك الإلكتروني", s: "أدلتنا الجديدة وتغييرات القواعد المهمة، مراجَعة وفق المصادر الرسمية. بدون رسائل مزعجة، وإلغاء الاشتراك بنقرة واحدة.",
+    ar: { t: "أدلة Start in Dubai في بريدك الإلكتروني", s: "أدلتنا الجديدة وتغييرات القواعد المهمة، مراجَعة وفق المصادر الرسمية. بدون رسائل مزعجة، وإلغاء الاشتراك بنقرة واحدة.",
       ph: "بريدك الإلكتروني", b: "اشترك", ok: "شكرًا! أرسلنا إليك رسالة تأكيد: انقر على الرابط الموجود فيها لتأكيد اشتراكك.",
-      e: "عنوان البريد الإلكتروني غير صالح.", f: "تعذّر الاشتراك. حاول مرة أخرى بعد قليل.", c: "تم تأكيد اشتراكك: مرحبًا بك في START IN DUBAI!",
+      e: "عنوان البريد الإلكتروني غير صالح.", f: "تعذّر الاشتراك. حاول مرة أخرى بعد قليل.", c: "تم تأكيد اشتراكك: مرحبًا بك في Start in Dubai!",
       l: "تُستخدم بياناتك فقط لإرسال رسائلنا إليك.", sending: "جارٍ الإرسال…" },
-    es: { t: "Las guías de START IN DUBAI en su bandeja de entrada", s: "Nuestras nuevas guías y los cambios de normas importantes, verificados en fuentes oficiales. Sin spam, baja con un clic.",
+    es: { t: "Las guías de Start in Dubai en su bandeja de entrada", s: "Nuestras nuevas guías y los cambios de normas importantes, verificados en fuentes oficiales. Sin spam, baja con un clic.",
       ph: "Su dirección de email", b: "Suscribirme", ok: "¡Gracias! Le hemos enviado un email de confirmación: haga clic en el enlace para validar su suscripción.",
-      e: "Este email no es válido.", f: "La suscripción no se ha completado. Inténtelo de nuevo en un momento.", c: "Suscripción confirmada: ¡bienvenido a START IN DUBAI!",
+      e: "Este email no es válido.", f: "La suscripción no se ha completado. Inténtelo de nuevo en un momento.", c: "Suscripción confirmada: ¡bienvenido a Start in Dubai!",
       l: "Sus datos solo se usan para enviarle nuestros emails.", sending: "Enviando…" },
-    nl: { t: "De gidsen van START IN DUBAI in uw mailbox", s: "Onze nieuwe gidsen en belangrijke regelwijzigingen, gecontroleerd aan de hand van officiële bronnen. Geen spam, uitschrijven met één klik.",
+    nl: { t: "De gidsen van Start in Dubai in uw mailbox", s: "Onze nieuwe gidsen en belangrijke regelwijzigingen, gecontroleerd aan de hand van officiële bronnen. Geen spam, uitschrijven met één klik.",
       ph: "Uw e-mailadres", b: "Inschrijven", ok: "Bedankt! Er is een bevestigingsmail onderweg: klik op de link erin om uw inschrijving te bevestigen.",
-      e: "Dit e-mailadres is ongeldig.", f: "De inschrijving is mislukt. Probeer het zo opnieuw.", c: "Inschrijving bevestigd: welkom bij START IN DUBAI!",
+      e: "Dit e-mailadres is ongeldig.", f: "De inschrijving is mislukt. Probeer het zo opnieuw.", c: "Inschrijving bevestigd: welkom bij Start in Dubai!",
       l: "Uw gegevens worden alleen gebruikt om u onze e-mails te sturen.", sending: "Verzenden…" },
-    it: { t: "Le guide di START IN DUBAI nella Sua casella email", s: "Le nostre nuove guide e i cambiamenti importanti delle regole, verificati sulle fonti ufficiali. Niente spam, disiscrizione con un clic.",
+    it: { t: "Le guide di Start in Dubai nella Sua casella email", s: "Le nostre nuove guide e i cambiamenti importanti delle regole, verificati sulle fonti ufficiali. Niente spam, disiscrizione con un clic.",
       ph: "Il Suo indirizzo email", b: "Mi iscrivo", ok: "Grazie! Le abbiamo inviato un'email di conferma: clicchi sul link per confermare l'iscrizione.",
-      e: "Questa email non è valida.", f: "L'iscrizione non è andata a buon fine. Riprovi tra un attimo.", c: "Iscrizione confermata: benvenuto in START IN DUBAI!",
+      e: "Questa email non è valida.", f: "L'iscrizione non è andata a buon fine. Riprovi tra un attimo.", c: "Iscrizione confermata: benvenuto in Start in Dubai!",
       l: "I Suoi dati servono solo a inviarLe le nostre email.", sending: "Invio…" },
   };
   const t = T[LANG] || T.en;

@@ -149,7 +149,7 @@ Quanto ai costi di una società, per cifre aggiornate leggi l'articolo sul [cost
 7. **Conservare la documentazione** ogni anno.
 8. **Evitare scorciatoie**: nessuna promessa del tipo «zero tasse» resiste a una verifica sui fatti.
 
-START IN DUBAI ti accompagna nella costituzione della società, nel conto bancario, nei visti e nel trasferimento, con un solo interlocutore che parla italiano. Per parlarne, [richiedi un primo colloquio gratuito e senza impegno](/it/#inscription). Per la valutazione fiscale italiana rivolgiti al tuo commercialista: START IN DUBAI non fornisce consulenza fiscale.
+Start in Dubai ti accompagna nella costituzione della società, nel conto bancario, nei visti e nel trasferimento, con un solo interlocutore che parla italiano. Per parlarne, [richiedi un primo colloquio gratuito e senza impegno](/it/#inscription). Per la valutazione fiscale italiana rivolgiti al tuo commercialista: Start in Dubai non fornisce consulenza fiscale.
 
 ## Per approfondire
 

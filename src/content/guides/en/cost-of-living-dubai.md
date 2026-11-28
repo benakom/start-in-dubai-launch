@@ -91,7 +91,7 @@ Leases are annual. Rents are quoted per year and often paid in 1 to 4 cheques. H
 
 When you move in, also budget for the security deposit, the agency commission if you use an agent, lease registration (Ejari) and the DEWA deposit for electricity and water. The first month therefore costs noticeably more than the following ones.
 
-If you are thinking of buying rather than renting, that is a different calculation: for real estate, START IN DUBAI works with [Cevitas Real Estate](https://www.cevitas.ae), an RERA-licensed agency (ORN 49294).
+If you are thinking of buying rather than renting, that is a different calculation: for real estate, Start in Dubai works with [Cevitas Real Estate](https://www.cevitas.ae), an RERA-licensed agency (ORN 49294).
 
 ### Schools
 
@@ -159,7 +159,7 @@ Beyond the monthly budget, settling in itself is costly. Set aside a reserve for
 6. children's school registration;
 7. three to six months of everyday expenses in advance, to cope with the unexpected.
 
-For all the other steps of settling in, follow our guide to [moving to Dubai](/en/moving-to-dubai/). START IN DUBAI can then coordinate everything with you, in your language (Arabic, French, English, Spanish, Dutch, Italian): [Ask for a free first call](/en/#inscription).
+For all the other steps of settling in, follow our guide to [moving to Dubai](/en/moving-to-dubai/). Start in Dubai can then coordinate everything with you, in your language (Arabic, French, English, Spanish, Dutch, Italian): [Ask for a free first call](/en/#inscription).
 
 ## Go further
 

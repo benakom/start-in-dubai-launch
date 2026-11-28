@@ -154,9 +154,9 @@ Para invocar el convenio, normalmente necesitas el certificado de residencia fis
 6. Conserva pruebas durante varios años.
 7. Valida el resultado con un asesor fiscal español.
 
-## Cómo te acompaña START IN DUBAI
+## Cómo te acompaña Start in Dubai
 
-START IN DUBAI te acompaña en los trámites emiratíes (empresa, cuenta bancaria, visados y Golden Visa, instalación de la familia), con un solo interlocutor y en tu idioma. Para la fiscalidad española, pide siempre a un asesor español que valide tu caso. Tu [primer intercambio gratuito y sin compromiso](/es/#inscription) sirve para ordenar los pasos en los Emiratos. Para ver los trámites de la mudanza, consulta [mudarse a Dubái](/es/mudarse-a-dubai/).
+Start in Dubai te acompaña en los trámites emiratíes (empresa, cuenta bancaria, visados y Golden Visa, instalación de la familia), con un solo interlocutor y en tu idioma. Para la fiscalidad española, pide siempre a un asesor español que valide tu caso. Tu [primer intercambio gratuito y sin compromiso](/es/#inscription) sirve para ordenar los pasos en los Emiratos. Para ver los trámites de la mudanza, consulta [mudarse a Dubái](/es/mudarse-a-dubai/).
 
 ## Para ir más lejos
 

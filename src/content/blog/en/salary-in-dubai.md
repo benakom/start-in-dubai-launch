@@ -189,4 +189,4 @@ Recruitment and visa costs are the employer's responsibility: they cannot be neg
 6. Your tax residence in your home country is clarified.
 7. No recruitment or visa fee is asked of you.
 
-Do you have an offer and are you preparing your move? START IN DUBAI supports you from A to Z (visas, housing, bank, family relocation), with a single point of contact, in your language. [Request a free first call](/en/#inscription).
+Do you have an offer and are you preparing your move? Start in Dubai supports you from A to Z (visas, housing, bank, family relocation), with a single point of contact, in your language. [Request a free first call](/en/#inscription).

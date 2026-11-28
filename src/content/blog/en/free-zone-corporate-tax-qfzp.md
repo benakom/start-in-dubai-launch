@@ -197,4 +197,4 @@ If your business sells to the UAE market, our comparison of [mainland vs free zo
 7. Register for corporate tax on time.
 8. Confirm everything with a tax adviser before you rely on 0%.
 
-START IN DUBAI supports company setup from A to Z, with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian). [Ask for a free first call](/en/#inscription).
+Start in Dubai supports company setup from A to Z, with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian). [Ask for a free first call](/en/#inscription).

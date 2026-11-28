@@ -174,6 +174,6 @@ If you decide to go, cancel what needs cancelling: the lease and its cheques, ut
 - **Forgetting the family** and the rent cheques.
 - **Believing a recruiter or an agent** who promises a visa for a fee. Our guide to [working in Dubai](/en/working-in-dubai/) lists the checks.
 
-START IN DUBAI supports people from A to Z (company, bank account, visas, housing, schools), with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian). We are not a law firm: for an unpaid-wages dispute, use MOHRE. If you are rethinking your visa route, [book a free first call](/en/#inscription).
+Start in Dubai supports people from A to Z (company, bank account, visas, housing, schools), with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian). We are not a law firm: for an unpaid-wages dispute, use MOHRE. If you are rethinking your visa route, [book a free first call](/en/#inscription).
 
 Last checked on ICP, GDRFA, u.ae in November 2026. Rules can change: your own residence record is the reference.

@@ -252,4 +252,4 @@ Faire venir les **grands-parents** est possible dans certains cas, avec des cond
 7. Pour un enfant de 3 à 6 ans, le contrat est signé sur le portail du KHDA.
 8. Vous savez comment retirer votre enfant et quel montant serait retenu.
 
-Vous préparez l’installation de votre famille à Dubaï ? START IN DUBAI vous accompagne de A à Z (visas, logement, installation de la famille, choix des écoles), avec un seul interlocuteur, dans votre langue. [Demander un premier échange gratuit](/#inscription).
+Vous préparez l’installation de votre famille à Dubaï ? Start in Dubai vous accompagne de A à Z (visas, logement, installation de la famille, choix des écoles), avec un seul interlocuteur, dans votre langue. [Demander un premier échange gratuit](/#inscription).

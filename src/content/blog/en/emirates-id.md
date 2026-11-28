@@ -200,4 +200,4 @@ Note that a residence visa is also cancelled if you stay outside the UAE for mor
 6. UAEICP app installed and UAE Pass account created.
 7. Reminder in your calendar six months before expiry.
 
-Are you arriving in Dubai and want your visa, Emirates ID, bank account and home to follow one another without wasted time? START IN DUBAI takes care of it with you, with a single point of contact. To begin, [request a free first call](/en/#inscription).
+Are you arriving in Dubai and want your visa, Emirates ID, bank account and home to follow one another without wasted time? Start in Dubai takes care of it with you, with a single point of contact. To begin, [request a free first call](/en/#inscription).

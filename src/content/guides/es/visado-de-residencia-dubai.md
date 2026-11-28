@@ -165,7 +165,7 @@ Si tu visado se ha cancelado de este modo, un procedimiento permite solicitar un
 - **Permanecer más de 180 días fuera** con un visado clásico, sin comprobar si se aplica una excepción.
 - **Confundir residencia y residencia fiscal**: tener un visado no basta para dejar de tributar en tu país. Lee nuestra guía sobre los [impuestos en Dubái](/es/impuestos-dubai/).
 
-START IN DUBAI te acompaña de la A a la Z (empresa, cuenta bancaria, visados, vivienda, colegios), con un solo interlocutor, en tu idioma (árabe, francés, inglés, español, neerlandés, italiano).
+Start in Dubai te acompaña de la A a la Z (empresa, cuenta bancaria, visados, vivienda, colegios), con un solo interlocutor, en tu idioma (árabe, francés, inglés, español, neerlandés, italiano).
 
 ## Para ir más lejos
 

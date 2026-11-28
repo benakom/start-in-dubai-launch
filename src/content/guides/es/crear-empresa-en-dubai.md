@@ -194,7 +194,7 @@ Puedes iniciar la creación desde Madrid, Ciudad de México, Buenos Aires, Bogot
 
 Si tu proyecto incluye también instalarte, lee asimismo nuestra guía para [mudarse a Dubái](/es/mudarse-a-dubai/): la vivienda, los colegios y la vida diaria se organizan en paralelo a la empresa.
 
-START IN DUBAI acompaña este recorrido de la A a la Z (empresa, cuenta bancaria, visados, vivienda, colegios), con un solo interlocutor, en tu idioma (árabe, francés, inglés, español, neerlandés, italiano). El servicio está abierto: [pide un primer intercambio gratuito](/es/#inscription).
+Start in Dubai acompaña este recorrido de la A a la Z (empresa, cuenta bancaria, visados, vivienda, colegios), con un solo interlocutor, en tu idioma (árabe, francés, inglés, español, neerlandés, italiano). El servicio está abierto: [pide un primer intercambio gratuito](/es/#inscription).
 
 ## Errores que evitar
 

@@ -125,4 +125,4 @@ Een paspoort of ID-kaart vraagt u aan bij het consulaat in uw huidige land; verg
 
 ## Hulp bij uw verhuizing, in beide richtingen
 
-START IN DUBAI begeleidt u van A tot Z bij uw vestiging in de Emiraten (visum, bankrekening, huisvesting, vestiging), met één aanspreekpunt dat Nederlands spreekt. Wij geven geen fiscaal of juridisch advies over uw terugkeer naar Nederland: daarvoor verwijzen wij naar de overheid of een fiscalist. Staat u nog voor de keuze om in Dubai te blijven of terug te gaan, [vraag dan een eerste gratis gesprek aan](/nl/#inscription).
+Start in Dubai begeleidt u van A tot Z bij uw vestiging in de Emiraten (visum, bankrekening, huisvesting, vestiging), met één aanspreekpunt dat Nederlands spreekt. Wij geven geen fiscaal of juridisch advies over uw terugkeer naar Nederland: daarvoor verwijzen wij naar de overheid of een fiscalist. Staat u nog voor de keuze om in Dubai te blijven of terug te gaan, [vraag dan een eerste gratis gesprek aan](/nl/#inscription).

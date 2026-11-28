@@ -164,7 +164,7 @@ Beaucoup de Français de Dubaï ont une deuxième nationalité. Sur place, vous 
 7. Point fiscal : date de départ déclarée en France, revenus français restants.
 8. Contacts utiles enregistrés : France Consulaire, 999, votre école, votre médecin.
 
-START IN DUBAI accompagne les Français et tous les francophones de A à Z (société, compte bancaire, visas et Golden Visa, logement, installation de la famille, études), avec un seul interlocuteur qui parle votre langue. Pour en parler, réservez un [premier échange gratuit](/#inscription).
+Start in Dubai accompagne les Français et tous les francophones de A à Z (société, compte bancaire, visas et Golden Visa, logement, installation de la famille, études), avec un seul interlocuteur qui parle votre langue. Pour en parler, réservez un [premier échange gratuit](/#inscription).
 
 ## Pour aller plus loin
 

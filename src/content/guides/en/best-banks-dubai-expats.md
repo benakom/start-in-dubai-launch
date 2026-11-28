@@ -138,6 +138,6 @@ If the bank asks where your funds come from, answer with documents (payslips, sa
 
 ## Do you need help?
 
-START IN DUBAI supports people from A to Z (company, bank account, visas, housing, schools), with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian). We do not guarantee that any bank will accept an application, because the bank decides. If you want to prepare your documents and avoid the common refusal reasons, [book a free first call](/en/#inscription).
+Start in Dubai supports people from A to Z (company, bank account, visas, housing, schools), with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian). We do not guarantee that any bank will accept an application, because the bank decides. If you want to prepare your documents and avoid the common refusal reasons, [book a free first call](/en/#inscription).
 
 Last checked on u.ae and the Central Bank's rulebook in November 2026. Bank tariffs and policies change: always read the bank's current terms.

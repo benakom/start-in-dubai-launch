@@ -178,4 +178,4 @@ Il miglior consiglio: trascorri qualche giorno in ciascuna città, in settimana,
 
 Se arrivi con la famiglia, la nostra guida per [trasferirsi a Dubai con la famiglia](/it/trasferirsi-a-dubai-con-la-famiglia/) dettaglia i visti dei familiari, le scuole e l'alloggio.
 
-Hai dubbi tra Dubai e Abu Dhabi per il tuo progetto? START IN DUBAI ti accompagna dalla A alla Z (società, conto bancario, visti e Golden Visa, alloggio, trasferimento della famiglia, studi superiori), con un solo interlocutore, nella tua lingua. [Richiedi un primo colloquio gratuito](/it/#inscription).
+Hai dubbi tra Dubai e Abu Dhabi per il tuo progetto? Start in Dubai ti accompagna dalla A alla Z (società, conto bancario, visti e Golden Visa, alloggio, trasferimento della famiglia, studi superiori), con un solo interlocutore, nella tua lingua. [Richiedi un primo colloquio gratuito](/it/#inscription).

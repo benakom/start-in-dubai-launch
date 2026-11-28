@@ -153,4 +153,4 @@ Bent u Belg of Fransman en zoekt u uw eigen ambassade? Deze pagina gaat over de 
 - **Een toeristenvisum gebruiken** als bewijs van verblijf voor een verklaring van woonplaats.
 - **Gevoelige gegevens appen**: dat raadt NederlandWereldwijd uitdrukkelijk af.
 
-START IN DUBAI begeleidt u bij uw installatie van A tot Z: visum, Emirates ID, bank, woning en alledaagse formaliteiten, met één aanspreekpunt, in uw eigen taal. Voor de woning werken we samen met Cevitas Real Estate (RERA-erkend, ORN 49294, [www.cevitas.ae](https://www.cevitas.ae)). Ook de stappen na aankomst staan in onze gids over [wonen in Dubai](/nl/wonen-in-dubai/). [Een gratis eerste gesprek aanvragen](/nl/#inscription).
+Start in Dubai begeleidt u bij uw installatie van A tot Z: visum, Emirates ID, bank, woning en alledaagse formaliteiten, met één aanspreekpunt, in uw eigen taal. Voor de woning werken we samen met Cevitas Real Estate (RERA-erkend, ORN 49294, [www.cevitas.ae](https://www.cevitas.ae)). Ook de stappen na aankomst staan in onze gids over [wonen in Dubai](/nl/wonen-in-dubai/). [Een gratis eerste gesprek aanvragen](/nl/#inscription).

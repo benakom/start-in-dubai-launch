@@ -192,7 +192,7 @@ Cada país tiene sus propios criterios (hogar, duración de la estancia, centro 
 6. **En zona franca**: no cuentes con el 0 % sin haber verificado cada condición del régimen cualificado.
 7. **Abre una cuenta local** para separar claramente tus flujos: consulta nuestra guía para [abrir una cuenta bancaria en Dubái](/es/abrir-cuenta-bancaria-dubai/).
 
-Antes de lanzarte, nuestra guía para [mudarse a Dubái](/es/mudarse-a-dubai/) te da el orden de los pasos, y la del [Golden Visa](/es/golden-visa-dubai/) te ayuda a elegir tu residencia. START IN DUBAI te acompaña de la A a la Z (empresa, cuenta bancaria, visados, vivienda, colegios), con un solo interlocutor, en tu idioma (árabe, francés, inglés, español, neerlandés, italiano). Para las cuestiones fiscales propias de tu país de origen, pide siempre a un asesor fiscal de ese país que valide tu situación.
+Antes de lanzarte, nuestra guía para [mudarse a Dubái](/es/mudarse-a-dubai/) te da el orden de los pasos, y la del [Golden Visa](/es/golden-visa-dubai/) te ayuda a elegir tu residencia. Start in Dubai te acompaña de la A a la Z (empresa, cuenta bancaria, visados, vivienda, colegios), con un solo interlocutor, en tu idioma (árabe, francés, inglés, español, neerlandés, italiano). Para las cuestiones fiscales propias de tu país de origen, pide siempre a un asesor fiscal de ese país que valide tu situación.
 
 ## Para ir más lejos
 

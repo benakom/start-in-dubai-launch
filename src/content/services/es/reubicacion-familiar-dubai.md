@@ -107,7 +107,7 @@ Tras una primera conversación gratuita, establecemos un plan de instalación co
 
 ## Por qué un único interlocutor
 
-El visado de la familia depende del alquiler, el alquiler depende del Emirates ID, el colegio pide el visado y la cuenta bancaria pide todo lo demás. Con varios proveedores, nadie lleva el conjunto. Con START IN DUBAI, una sola persona coordina cada paso, en tu idioma (árabe, francés, inglés, español, neerlandés o italiano). Si tu visado pasa por una empresa o un Golden Visa, también lo tramitamos: consulta nuestro servicio de [Golden Visa y visados de residencia](/es/services/golden-visa-y-visados-dubai/).
+El visado de la familia depende del alquiler, el alquiler depende del Emirates ID, el colegio pide el visado y la cuenta bancaria pide todo lo demás. Con varios proveedores, nadie lleva el conjunto. Con Start in Dubai, una sola persona coordina cada paso, en tu idioma (árabe, francés, inglés, español, neerlandés o italiano). Si tu visado pasa por una empresa o un Golden Visa, también lo tramitamos: consulta nuestro servicio de [Golden Visa y visados de residencia](/es/services/golden-visa-y-visados-dubai/).
 
 ## Los errores que te evitamos
 

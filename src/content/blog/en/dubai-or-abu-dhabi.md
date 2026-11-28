@@ -178,4 +178,4 @@ The best advice: spend a few days in each city, on weekdays, at the times when y
 
 If you are coming with your family, our guide to [moving to Dubai with your family](/en/moving-to-dubai-with-family/) details relatives' visas, schools and housing.
 
-Hesitating between Dubai and Abu Dhabi for your project? START IN DUBAI supports you from A to Z (company, bank account, visas and Golden Visa, housing, settling your family, higher education), with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian). [Request a free first conversation](/en/#inscription).
+Hesitating between Dubai and Abu Dhabi for your project? Start in Dubai supports you from A to Z (company, bank account, visas and Golden Visa, housing, settling your family, higher education), with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian). [Request a free first conversation](/en/#inscription).

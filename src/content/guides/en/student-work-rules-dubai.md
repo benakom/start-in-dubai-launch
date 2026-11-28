@@ -148,6 +148,6 @@ If you are studying on a tight budget, our guides to [cheap universities](/en/ch
 6. **Keep to the permit**: three months, the role stated, the hours in the contract.
 7. **Renew or stop** when it ends: do not continue working without a valid permit.
 
-START IN DUBAI supports people from A to Z (company, bank account, visas, housing, schools, higher education), with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian). We do not guarantee any permit or outcome. [Book a free first call](/en/#inscription).
+Start in Dubai supports people from A to Z (company, bank account, visas, housing, schools, higher education), with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian). We do not guarantee any permit or outcome. [Book a free first call](/en/#inscription).
 
 Last checked on MOHRE, u.ae and dubai.ae in November 2026.

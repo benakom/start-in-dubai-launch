@@ -201,7 +201,7 @@ Attention : un visa de résidence est aussi annulé si vous restez plus de 180 j
 6. Application UAEICP installée et compte UAE Pass créé.
 7. Rappel dans votre agenda six mois avant l'expiration.
 
-Vous arrivez à Dubaï et voulez que visa, Emirates ID, compte bancaire et logement s'enchaînent sans perte de temps ? START IN DUBAI s'en charge avec vous, avec un seul interlocuteur. Pour commencer, [demander un premier échange gratuit](/#inscription).
+Vous arrivez à Dubaï et voulez que visa, Emirates ID, compte bancaire et logement s'enchaînent sans perte de temps ? Start in Dubai s'en charge avec vous, avec un seul interlocuteur. Pour commencer, [demander un premier échange gratuit](/#inscription).
 
 ## Pour aller plus loin
 

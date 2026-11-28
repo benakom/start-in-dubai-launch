@@ -177,4 +177,4 @@ La ley n.º 11 de 2013 (art. 23) prevé una multa **de 500 a 150.000 AED** para 
 6. Franceses: decide entre póliza local más FrancExpat, u oferta dedicada a los Emiratos.
 7. Anota la fecha de vencimiento y renueva antes del visado.
 
-El seguro de la familia es uno de los puntos que START IN DUBAI organiza por ti en el momento de la instalación, junto con los visados, la vivienda y la inscripción de los niños, en un solo recorrido y en tu idioma. Si te instalas con niños, lee también nuestra guía para [mudarse a Dubái con la familia](/es/mudarse-a-dubai-con-familia/). [Solicita una primera conversación gratuita](/es/#inscription).
+El seguro de la familia es uno de los puntos que Start in Dubai organiza por ti en el momento de la instalación, junto con los visados, la vivienda y la inscripción de los niños, en un solo recorrido y en tu idioma. Si te instalas con niños, lee también nuestra guía para [mudarse a Dubái con la familia](/es/mudarse-a-dubai-con-familia/). [Solicita una primera conversación gratuita](/es/#inscription).

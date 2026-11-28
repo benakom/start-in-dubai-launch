@@ -192,4 +192,4 @@ Piensa también en el cambio: si cobras en euros o en francos suizos, tus ingres
 - **Olvidar la legalización** del certificado de matrimonio y de los certificados de nacimiento antes de la salida.
 - **Confundir visado y residencia fiscal**: el visado no te saca automáticamente del sistema fiscal de tu país.
 
-¿Quieres instalarte en Dubái teletrabajando, o pasar después al estatus freelance o a tu propia empresa? START IN DUBAI te acompaña de la A a la Z (visado, cuenta bancaria, vivienda, familia), con un único interlocutor y en tu idioma (árabe, francés, inglés, español, neerlandés, italiano). Para hablarlo, [solicita una primera conversación gratuita](/es/#inscription).
+¿Quieres instalarte en Dubái teletrabajando, o pasar después al estatus freelance o a tu propia empresa? Start in Dubai te acompaña de la A a la Z (visado, cuenta bancaria, vivienda, familia), con un único interlocutor y en tu idioma (árabe, francés, inglés, español, neerlandés, italiano). Para hablarlo, [solicita una primera conversación gratuita](/es/#inscription).
