@@ -149,3 +149,8 @@ Real estate is one of the most common investments in Dubai, and a property worth
 8. **Set up accounting** and tax registrations from the start.
 
 If you plan to move, follow on with our guide to [moving to Dubai](/en/moving-to-dubai/). START IN DUBAI supports you from A to Z (company, bank account, visas, housing, schools), with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian). [Ask for a free first call](/en/#inscription).
+
+## Go further
+
+- [Calculate the return on a Dubai property investment (free offplansimulator.com calculator)](https://www.offplansimulator.com/dubai-off-plan-roi-calculator)
+- [Non-resident mortgage calculator for Dubai (offplansimulator.com)](https://www.offplansimulator.com/non-resident-mortgage-calculator-dubai)

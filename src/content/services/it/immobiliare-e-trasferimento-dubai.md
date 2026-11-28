@@ -49,6 +49,7 @@ related: ["investir-a-dubai", "golden-visa-dubai", "s-installer-a-dubai", "ouvri
 order: 6
 key: "immobilier-dubai"
 updated: 2026-11-28
+image: "/assets/photos/immobilier-dubai.webp"
 ---
 
 ## Per chi è questa assistenza
@@ -115,3 +116,9 @@ Acquisto, visto, banca e trasferimento si richiamano a vicenda: un ritardo su un
 - **Gestire ogni fornitore separatamente**, con documenti e calendari che si contraddicono.
 
 Hai un progetto immobiliare legato al tuo trasferimento? [Richiedi un primo colloquio gratuito](/it/#inscription).
+
+## Per approfondire
+
+- [Calcola il rendimento di un investimento immobiliare a Dubai (simulatore gratuito offplansimulator.com, in inglese)](https://www.offplansimulator.com/dubai-off-plan-roi-calculator)
+- [Simulatore di mutuo a Dubai per non residenti (offplansimulator.com, in inglese)](https://www.offplansimulator.com/non-resident-mortgage-calculator-dubai)
+- [Calcolatore gratuito: il tuo immobile dà diritto al Golden Visa? (offplansimulator.com, in inglese)](https://www.offplansimulator.com/golden-visa-property-calculator)

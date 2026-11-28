@@ -191,3 +191,4 @@ El Golden Visa es solo una pieza de tu proyecto. Si buscas también una inversi�
 - [Green Visa de los Emiratos: quién puede obtenerlo y qué pide la ICP](/es/blog/green-visa-emiratos/)
 - [Visado de negocios para Dubái: cuál existe de verdad y qué permite](/es/blog/visado-de-negocios-dubai/)
 - [Golden Visa de Dubái para españoles y latinoamericanos: qué cambia según tu país de origen](/es/golden-visa-dubai-espanoles-latinos/)
+- [Calculadora gratuita: ¿tu inmueble da derecho a la Golden Visa? (offplansimulator.com, en inglés)](https://www.offplansimulator.com/golden-visa-property-calculator)

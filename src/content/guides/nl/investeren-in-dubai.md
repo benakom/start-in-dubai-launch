@@ -149,3 +149,8 @@ Vastgoed is een van de meest gebruikelijke investeringen in Dubai, en een woning
 8. **Zet de boekhouding** en de fiscale registraties meteen op.
 
 Gaat u verhuizen, ga dan verder met onze gids om [naar Dubai te emigreren](/nl/emigreren-naar-dubai/). START IN DUBAI begeleidt u van A tot Z (bedrijf, bankrekening, visa, woning, scholen), met één aanspreekpunt, in uw taal (Arabisch, Frans, Engels, Spaans, Nederlands, Italiaans). De dienst is open: [vraag een eerste gratis gesprek aan](/nl/#inscription).
+
+## Verder lezen
+
+- [Bereken het rendement van een vastgoedinvestering in Dubai (gratis tool van offplansimulator.com, in het Engels)](https://www.offplansimulator.com/dubai-off-plan-roi-calculator)
+- [Hypotheekcalculator voor niet-ingezetenen in Dubai (offplansimulator.com, in het Engels)](https://www.offplansimulator.com/non-resident-mortgage-calculator-dubai)

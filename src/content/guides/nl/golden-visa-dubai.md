@@ -189,3 +189,4 @@ Het Golden Visa is slechts een onderdeel van uw project. Wilt u ook investeren, 
 ## Verder lezen
 
 - [Werkvisum voor Dubai: zo verloopt de aanvraag van werkvergunning tot verblijfsvisum](/nl/werkvisum-dubai/)
+- [Gratis rekentool: geeft uw woning recht op een Golden Visa? (offplansimulator.com, in het Engels)](https://www.offplansimulator.com/golden-visa-property-calculator)

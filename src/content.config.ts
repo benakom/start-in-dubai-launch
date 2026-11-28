@@ -57,6 +57,8 @@ const services = defineCollection({
     order: z.number().default(100),
     key: z.string().optional(),
     image: z.string().optional(),
+    imageAlt: z.string().optional(),
+    imageCredit: z.string().optional(),
     updated: z.coerce.date(),
     draft: z.boolean().default(false),
   }),

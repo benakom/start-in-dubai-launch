@@ -48,6 +48,9 @@ sources:
 related: ["investir-a-dubai", "golden-visa-dubai", "s-installer-a-dubai", "ouvrir-un-compte-bancaire-a-dubai", "impots-dubai"]
 order: 6
 updated: 2026-11-28
+image: "/assets/photos/immobilier-dubai.webp"
+imageAlt: "Les tours résidentielles de Dubai Marina et leur piscine au bord de l'eau"
+imageCredit: "Photo : Nick Fewings / Unsplash"
 ---
 
 ## Pour qui est cet accompagnement
@@ -114,3 +117,9 @@ L’achat, le visa, la banque et l’installation se répondent : un retard sur 
 - **Gérer chaque prestataire séparément**, avec des documents et des calendriers qui se contredisent.
 
 Vous avez un projet immobilier lié à votre installation ? [Demander un premier échange gratuit](/#inscription).
+
+## Pour aller plus loin
+
+- [Calculer le rendement d’un investissement immobilier à Dubaï (simulateur gratuit offplansimulator.com)](https://www.offplansimulator.com/fr/calculateur-roi-dubai)
+- [Simuler un crédit immobilier à Dubaï quand on n’est pas résident (offplansimulator.com)](https://www.offplansimulator.com/fr/credit-immobilier-non-resident-dubai)
+- [Simulateur gratuit : votre bien immobilier ouvre-t-il droit au Golden Visa ? (offplansimulator.com)](https://www.offplansimulator.com/fr/calcul-golden-visa-immobilier-dubai)

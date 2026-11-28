@@ -149,3 +149,8 @@ L'immobiliare è uno degli investimenti più comuni a Dubai, e un immobile di al
 8. **Imposta la contabilità** e le registrazioni fiscali fin dall'inizio.
 
 Se conti di trasferirti, prosegui con la nostra guida su [come trasferirsi a Dubai](/it/trasferirsi-a-dubai/). START IN DUBAI ti accompagna dall'inizio alla fine (società, conto bancario, visti, alloggio, scuole), con un unico interlocutore, nella tua lingua (arabo, francese, inglese, spagnolo, olandese, italiano). [Richiedi un primo colloquio gratuito](/it/#inscription).
+
+## Per approfondire
+
+- [Calcola il rendimento di un investimento immobiliare a Dubai (simulatore gratuito offplansimulator.com, in inglese)](https://www.offplansimulator.com/dubai-off-plan-roi-calculator)
+- [Simulatore di mutuo a Dubai per non residenti (offplansimulator.com, in inglese)](https://www.offplansimulator.com/non-resident-mortgage-calculator-dubai)

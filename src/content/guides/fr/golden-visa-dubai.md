@@ -194,3 +194,4 @@ Le Golden Visa n'est qu'une pièce de votre projet. Si vous visez aussi un inves
 - [Green visa Dubaï : la résidence de 5 ans sans parrain, pour qui et à quelles conditions](/green-visa-dubai/)
 - [Visa Dubaï : quel visa pour quelle situation (entrée, résidence, Green et Golden Visa)](/visa-dubai/)
 - [Visa de recherche d'emploi à Dubaï : qui peut le demander, pour combien de temps et à quel prix](/visa-recherche-emploi-dubai/)
+- [Simulateur gratuit : votre bien immobilier ouvre-t-il droit au Golden Visa ? (offplansimulator.com)](https://www.offplansimulator.com/fr/calcul-golden-visa-immobilier-dubai)

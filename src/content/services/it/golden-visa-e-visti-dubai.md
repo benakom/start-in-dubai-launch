@@ -56,6 +56,7 @@ related: ["golden-visa-dubai", "visa-residence-dubai", "s-installer-a-dubai-en-f
 order: 2
 key: "golden-visa-visas-dubai"
 updated: 2026-11-28
+image: "/assets/photos/golden-visa-visas-dubai.webp"
 ---
 
 ## Per chi è questa assistenza
@@ -119,3 +120,7 @@ Il visto non è mai isolato. Dipende spesso da una società, da un immobile o da
 - **Confondere Golden Visa e cittadinanza.** È un permesso di soggiorno, non un passaporto: la nostra guida [investire a Dubai](/it/investire-a-dubai/) rimette ogni via al suo posto.
 
 Vuoi sapere a quale residenza hai diritto? [Richiedi un primo colloquio gratuito](/it/#inscription).
+
+## Per approfondire
+
+- [Calcolatore gratuito: il tuo immobile dà diritto al Golden Visa? (offplansimulator.com, in inglese)](https://www.offplansimulator.com/golden-visa-property-calculator)

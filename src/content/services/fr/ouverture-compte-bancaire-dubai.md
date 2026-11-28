@@ -48,6 +48,9 @@ sources:
 related: ["ouvrir-un-compte-bancaire-a-dubai", "creer-sa-societe-a-dubai", "visa-residence-dubai", "societe-offshore-dubai", "impots-dubai"]
 order: 3
 updated: 2026-11-28
+image: "/assets/photos/ouverture-compte-bancaire-dubai.webp"
+imageAlt: "Une personne règle en ligne avec sa carte bancaire, devant son ordinateur"
+imageCredit: "Photo : rupixen / Unsplash"
 ---
 
 ## Pour qui est cet accompagnement

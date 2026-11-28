@@ -33,7 +33,7 @@ const image = d.image || CLUSTER_IMG[d.cluster];
 
 const jsonld = [
   {
-    "@context": "https://schema.org", "@type": "Service", name: d.h1, description: d.description, serviceType: d.keyword, url, inLanguage: lang,
+    "@context": "https://schema.org", "@type": "Service", name: d.h1, description: d.description, serviceType: d.keyword, url, inLanguage: lang, image: SITE_URL + image,
     provider: { "@type": "Organization", "@id": `${SITE_URL}/#organization`, name: "START IN DUBAI", url: SITE_URL + "/" },
     areaServed: [{ "@type": "City", name: "Dubai" }, { "@type": "Country", name: "United Arab Emirates" }],
     availableLanguage: ["ar", "fr", "en", "es", "nl", "it"],
@@ -57,6 +57,12 @@ const jsonld = [
 
   <section class="sec" aria-labelledby="inc-t">
     <div class="wrap">
+      {d.image && d.imageAlt && (
+        <figure class="cover svc-cover">
+          <img src={d.image} alt={d.imageAlt} width="1200" height="800" decoding="async" />
+          {d.imageCredit && <figcaption>{d.imageCredit}</figcaption>}
+        </figure>
+      )}
       <p class="eyebrow center">{u.servicesEyebrow}</p>
       <h2 id="inc-t" class="center">{u.included}</h2>
       <ul class="incl">{d.essentials.map((e: string) => <li class="rv">{e}</li>)}</ul>

@@ -55,6 +55,9 @@ sources:
 related: ["etudier-a-dubai", "visa-etudiant-dubai", "cout-de-la-vie-dubai", "vivre-a-dubai", "travailler-a-dubai"]
 order: 5
 updated: 2026-11-28
+image: "/assets/photos/etudes-superieures-dubai.webp"
+imageAlt: "Le campus d'une université internationale à Dubaï"
+imageCredit: "Photo : Mohammed Ayman / Unsplash"
 ---
 
 ## Pour qui est cet accompagnement

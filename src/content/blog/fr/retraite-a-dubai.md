@@ -199,3 +199,7 @@ Si votre projet est de vivre six mois ici et six mois là-bas, choisissez votre 
 8. **Planifier vos séjours au pays** pour respecter la règle des 180 jours.
 
 Vous préparez votre retraite aux Émirats ? START IN DUBAI vous accompagne de A à Z (visa, compte bancaire, logement, installation), avec un seul interlocuteur qui parle votre langue. Pour en parler, [demander un premier échange gratuit](/#inscription).
+
+## Pour aller plus loin
+
+- [Simulateur gratuit : votre bien immobilier ouvre-t-il droit au Golden Visa ? (offplansimulator.com)](https://www.offplansimulator.com/fr/calcul-golden-visa-immobilier-dubai)

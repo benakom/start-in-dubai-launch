@@ -55,6 +55,9 @@ sources:
 related: ["s-installer-a-dubai-en-famille", "ecoles-francaises-dubai", "s-installer-a-dubai", "cout-de-la-vie-dubai", "vivre-a-dubai"]
 order: 4
 updated: 2026-11-28
+image: "/assets/photos/installation-famille-dubai.webp"
+imageAlt: "Des familles pique-niquent sur la pelouse d'un parc de Dubaï, face aux tours"
+imageCredit: "Photo : Julius Yls / Unsplash"
 ---
 
 ## Pour qui est ce service de relocation

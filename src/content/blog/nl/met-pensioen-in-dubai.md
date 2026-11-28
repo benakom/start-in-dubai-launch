@@ -200,3 +200,7 @@ Is uw plan zes maanden hier en zes maanden daar te leven, kies dan uw visum daar
 8. **Uw verblijven in het thuisland plannen** om de regel van 180 dagen na te leven.
 
 Bereidt u uw pensioen in de Emiraten voor? START IN DUBAI begeleidt u van A tot Z (visum, bankrekening, huisvesting, vestiging), met één aanspreekpunt dat uw taal spreekt. Om erover te praten, [vraag een eerste gratis gesprek aan](/nl/#inscription).
+
+## Verder lezen
+
+- [Gratis rekentool: geeft uw woning recht op een Golden Visa? (offplansimulator.com, in het Engels)](https://www.offplansimulator.com/golden-visa-property-calculator)

@@ -185,3 +185,7 @@ Una volta emesso il tuo Golden Visa, puoi sponsorizzare coniuge, figli e genitor
 6. Tieni presente la questione fiscale nel tuo paese d'origine prima di trasferirti.
 
 Il Golden Visa è solo un tassello del tuo progetto. Se punti anche a un investimento, la nostra guida per [investire a Dubai](/it/investire-a-dubai/) ti aiuta a scegliere la via giusta. START IN DUBAI ti accompagna dall'inizio alla fine (società, conto bancario, visti, casa, scuole), con un solo interlocutore, nella tua lingua (arabo, francese, inglese, spagnolo, olandese, italiano).
+
+## Per approfondire
+
+- [Calcolatore gratuito: il tuo immobile dà diritto al Golden Visa? (offplansimulator.com, in inglese)](https://www.offplansimulator.com/golden-visa-property-calculator)

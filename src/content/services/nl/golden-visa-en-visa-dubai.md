@@ -56,6 +56,7 @@ related: ["golden-visa-dubai", "visa-residence-dubai", "s-installer-a-dubai-en-f
 order: 2
 updated: 2026-11-28
 key: "golden-visa-visas-dubai"
+image: "/assets/photos/golden-visa-visas-dubai.webp"
 ---
 
 ## Voor wie is deze begeleiding
@@ -119,3 +120,7 @@ Het visum staat nooit op zichzelf. Het hangt vaak af van een bedrijf, een pand o
 - **Golden Visa en nationaliteit door elkaar halen.** Het is een verblijfstitel, geen paspoort: onze gids [investeren in Dubai](/nl/investeren-in-dubai/) zet elke route op zijn plaats.
 
 Wilt u weten op welk verblijf u recht hebt? [Een gratis eerste gesprek aanvragen](/nl/#inscription).
+
+## Verder lezen
+
+- [Gratis rekentool: geeft uw woning recht op een Golden Visa? (offplansimulator.com, in het Engels)](https://www.offplansimulator.com/golden-visa-property-calculator)

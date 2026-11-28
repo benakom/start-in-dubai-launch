@@ -49,6 +49,7 @@ related: ["investir-a-dubai", "golden-visa-dubai", "s-installer-a-dubai", "ouvri
 order: 6
 key: "immobilier-dubai"
 updated: 2026-11-28
+image: "/assets/photos/immobilier-dubai.webp"
 ---
 
 ## Who this support is for
@@ -115,3 +116,9 @@ The purchase, the visa, the bank and the relocation respond to each other: a del
 - **Managing each provider separately**, with documents and schedules that contradict each other.
 
 Do you have a property project linked to your relocation? [Request a free first conversation](/en/#inscription).
+
+## Go further
+
+- [Calculate the return on a Dubai property investment (free offplansimulator.com calculator)](https://www.offplansimulator.com/dubai-off-plan-roi-calculator)
+- [Non-resident mortgage calculator for Dubai (offplansimulator.com)](https://www.offplansimulator.com/non-resident-mortgage-calculator-dubai)
+- [Free calculator: does your property qualify for the Golden Visa? (offplansimulator.com)](https://www.offplansimulator.com/golden-visa-property-calculator)

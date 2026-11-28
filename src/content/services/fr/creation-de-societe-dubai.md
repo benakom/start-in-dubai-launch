@@ -51,6 +51,9 @@ sources:
 related: ["creer-sa-societe-a-dubai", "zone-franche-dubai", "societe-offshore-dubai", "freelance-dubai", "impots-dubai"]
 order: 1
 updated: 2026-11-28
+image: "/assets/photos/creation-de-societe-dubai.webp"
+imageAlt: "Les tours de bureaux de Sheikh Zayed Road, le quartier d'affaires de Dubaï"
+imageCredit: "Photo : Darcey Beau / Unsplash"
 ---
 
 ## Pour qui est cet accompagnement

@@ -190,3 +190,4 @@ The Golden Visa is only one piece of your project. If you also plan to invest, o
 
 - [Dubai tourist visa extension: how to extend, what it costs and what to avoid](/en/blog/dubai-tourist-visa-extension/)
 - [UAE Green Visa for freelancers: income rule, permit, documents and steps](/en/uae-green-visa-freelancers/)
+- [Free calculator: does your property qualify for the Golden Visa? (offplansimulator.com)](https://www.offplansimulator.com/golden-visa-property-calculator)

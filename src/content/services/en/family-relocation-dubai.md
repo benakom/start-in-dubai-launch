@@ -56,6 +56,7 @@ related: ["s-installer-a-dubai-en-famille", "ecoles-francaises-dubai", "s-instal
 order: 4
 key: "installation-famille-dubai"
 updated: 2026-11-28
+image: "/assets/photos/installation-famille-dubai.webp"
 ---
 
 ## Who this relocation service is for

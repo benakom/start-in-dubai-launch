@@ -56,6 +56,7 @@ related: ["etudier-a-dubai", "visa-etudiant-dubai", "cout-de-la-vie-dubai", "viv
 order: 5
 updated: 2026-11-28
 key: "etudes-superieures-dubai"
+image: "/assets/photos/etudes-superieures-dubai.webp"
 ---
 
 ## Para quién es este servicio

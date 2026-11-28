@@ -198,3 +198,7 @@ Se il tuo progetto è vivere sei mesi qui e sei mesi là, scegli il visto di con
 8. **Pianificare i soggiorni nel tuo Paese** per rispettare la regola dei 180 giorni.
 
 Stai preparando la tua pensione negli Emirati? START IN DUBAI ti accompagna dalla A alla Z (visto, conto bancario, alloggio, trasferimento), con un solo interlocutore che parla la tua lingua. Per parlarne, [richiedi un primo colloquio gratuito](/it/#inscription).
+
+## Per approfondire
+
+- [Calcolatore gratuito: il tuo immobile dà diritto al Golden Visa? (offplansimulator.com, in inglese)](https://www.offplansimulator.com/golden-visa-property-calculator)

@@ -56,6 +56,7 @@ related: ["golden-visa-dubai", "visa-residence-dubai", "s-installer-a-dubai-en-f
 order: 2
 key: "golden-visa-visas-dubai"
 updated: 2026-11-28
+image: "/assets/photos/golden-visa-visas-dubai.webp"
 ---
 
 ## Who this support is for
@@ -119,3 +120,7 @@ The visa is never isolated. It often depends on a company, a property or a job, 
 - **Confusing the Golden Visa with citizenship.** It is a residence permit, not a passport: our guide to [investing in Dubai](/en/invest-in-dubai/) puts each route in its place.
 
 Want to know which residence you are entitled to? [Request a free first conversation](/en/#inscription).
+
+## Go further
+
+- [Free calculator: does your property qualify for the Golden Visa? (offplansimulator.com)](https://www.offplansimulator.com/golden-visa-property-calculator)

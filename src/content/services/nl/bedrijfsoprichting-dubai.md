@@ -52,6 +52,7 @@ related: ["creer-sa-societe-a-dubai", "zone-franche-dubai", "societe-offshore-du
 order: 1
 updated: 2026-11-28
 key: "creation-de-societe-dubai"
+image: "/assets/photos/creation-de-societe-dubai.webp"
 ---
 
 ## Voor wie is deze begeleiding

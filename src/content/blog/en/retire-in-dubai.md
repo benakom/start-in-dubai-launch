@@ -198,3 +198,7 @@ If your plan is to live six months here and six months there, choose your visa a
 8. **Plan your stays at home** to respect the 180-day rule.
 
 Preparing your retirement in the UAE? START IN DUBAI supports you from A to Z (visa, bank account, housing, settling in), with a single point of contact who speaks your language. To talk about it, [request a free first conversation](/en/#inscription).
+
+## Go further
+
+- [Free calculator: does your property qualify for the Golden Visa? (offplansimulator.com)](https://www.offplansimulator.com/golden-visa-property-calculator)

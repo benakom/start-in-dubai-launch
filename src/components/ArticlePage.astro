@@ -36,7 +36,9 @@ const more = guides.filter((g) => g.data.cluster === d.cluster && !related.inclu
 const cards = [...related, ...more].slice(0, 6);
 const services = (await entries("services")).filter((s: any) => langOf(s) === lang);
 const service = services.find((s: any) => s.data.cluster === d.cluster) || services[0];
-const posts = coll === "blog" ? (await entries("blog")).filter((b: any) => langOf(b) === lang && b.id !== entry.id).slice(0, 3) : [];
+const langPosts = (await entries("blog")).filter((b: any) => langOf(b) === lang && b.id !== entry.id);
+// Maillage du blog : d'abord les articles du même thème, puis les plus récents ; aussi sous les guides.
+const posts = [...langPosts.filter((b: any) => b.data.cluster === d.cluster), ...langPosts.filter((b: any) => b.data.cluster !== d.cluster)].slice(0, coll === "blog" ? 6 : 3);
 const image = d.image || CLUSTER_IMG[d.cluster];
 const updated = d.updated.toISOString().slice(0, 10);
 const toc = headings.filter((h) => h.depth === 2).map((h) => ({ slug: h.slug, text: h.text }));

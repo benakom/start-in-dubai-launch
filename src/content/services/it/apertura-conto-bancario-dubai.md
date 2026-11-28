@@ -49,6 +49,7 @@ related: ["ouvrir-un-compte-bancaire-a-dubai", "creer-sa-societe-a-dubai", "visa
 order: 3
 key: "ouverture-compte-bancaire-dubai"
 updated: 2026-11-28
+image: "/assets/photos/ouverture-compte-bancaire-dubai.webp"
 ---
 
 ## Per chi è questa assistenza

@@ -49,6 +49,7 @@ related: ["investir-a-dubai", "golden-visa-dubai", "s-installer-a-dubai", "ouvri
 order: 6
 updated: 2026-11-28
 key: "immobilier-dubai"
+image: "/assets/photos/immobilier-dubai.webp"
 ---
 
 ## Voor wie is deze begeleiding
@@ -115,3 +116,9 @@ Aankoop, visum, bank en installatie hangen samen: een vertraging bij het ene blo
 - **Elke dienstverlener apart beheren**, met documenten en planningen die elkaar tegenspreken.
 
 Hebt u een vastgoedproject dat met uw verhuizing samenhangt? [Een gratis eerste gesprek aanvragen](/nl/#inscription).
+
+## Verder lezen
+
+- [Bereken het rendement van een vastgoedinvestering in Dubai (gratis tool van offplansimulator.com, in het Engels)](https://www.offplansimulator.com/dubai-off-plan-roi-calculator)
+- [Hypotheekcalculator voor niet-ingezetenen in Dubai (offplansimulator.com, in het Engels)](https://www.offplansimulator.com/non-resident-mortgage-calculator-dubai)
+- [Gratis rekentool: geeft uw woning recht op een Golden Visa? (offplansimulator.com, in het Engels)](https://www.offplansimulator.com/golden-visa-property-calculator)

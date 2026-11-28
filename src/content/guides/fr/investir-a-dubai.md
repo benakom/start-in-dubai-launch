@@ -154,3 +154,5 @@ Si vous comptez vous installer, enchaînez avec notre guide pour [s’installer 
 ## Pour aller plus loin
 
 - [Testament et héritage à Dubaï : ce que tout expatrié devrait régler](/blog/testament-expatrie-dubai/)
+- [Calculer le rendement d’un investissement immobilier à Dubaï (simulateur gratuit offplansimulator.com)](https://www.offplansimulator.com/fr/calculateur-roi-dubai)
+- [Simuler un crédit immobilier à Dubaï quand on n’est pas résident (offplansimulator.com)](https://www.offplansimulator.com/fr/credit-immobilier-non-resident-dubai)

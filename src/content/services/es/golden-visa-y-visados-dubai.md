@@ -56,6 +56,7 @@ related: ["golden-visa-dubai", "visa-residence-dubai", "s-installer-a-dubai-en-f
 order: 2
 updated: 2026-11-28
 key: "golden-visa-visas-dubai"
+image: "/assets/photos/golden-visa-visas-dubai.webp"
 ---
 
 ## Para quién es este servicio
@@ -119,3 +120,7 @@ El visado nunca está aislado. Suele depender de una empresa, de un inmueble o d
 - **Confundir Golden Visa y nacionalidad.** Es un permiso de residencia, no un pasaporte: nuestra guía [invertir en Dubái](/es/invertir-en-dubai/) pone cada vía en su sitio.
 
 ¿Quieres saber a qué residencia tienes derecho? [Pide una primera conversación gratuita](/es/#inscription).
+
+## Para ir más lejos
+
+- [Calculadora gratuita: ¿tu inmueble da derecho a la Golden Visa? (offplansimulator.com, en inglés)](https://www.offplansimulator.com/golden-visa-property-calculator)

@@ -55,6 +55,9 @@ sources:
 related: ["golden-visa-dubai", "visa-residence-dubai", "s-installer-a-dubai-en-famille", "investir-a-dubai", "creer-sa-societe-a-dubai"]
 order: 2
 updated: 2026-11-28
+image: "/assets/photos/golden-visa-visas-dubai.webp"
+imageAlt: "Voyageurs avec leurs valises dans une station de métro de Dubaï"
+imageCredit: "Photo : Ashim D’Silva / Unsplash"
 ---
 
 ## Pour qui est cet accompagnement
@@ -118,3 +121,7 @@ Le visa n’est jamais isolé. Il dépend souvent d’une société, d’un bien
 - **Confondre Golden Visa et nationalité.** C’est un titre de séjour, pas un passeport : notre guide [investir à Dubaï](/investir-a-dubai/) remet chaque voie à sa place.
 
 Vous voulez savoir à quelle résidence vous avez droit ? [Demander un premier échange gratuit](/#inscription).
+
+## Pour aller plus loin
+
+- [Simulateur gratuit : votre bien immobilier ouvre-t-il droit au Golden Visa ? (offplansimulator.com)](https://www.offplansimulator.com/fr/calcul-golden-visa-immobilier-dubai)
