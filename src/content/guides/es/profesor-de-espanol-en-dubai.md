@@ -43,6 +43,9 @@ sources:
 related: ["travailler-a-dubai", "visa-residence-dubai", "freelance-dubai", "cout-de-la-vie-dubai", "etudier-a-dubai"]
 order: 70
 key: "es-profesor-de-espanol-en-dubai"
+image: "/assets/photos/es-profesor-de-espanol-en-dubai.webp"
+imageAlt: "Sesión de formación en un aula de la American University in Dubai"
+imageCredit: "Foto: Reda Kerbush, CC BY-SA 4.0, Wikimedia Commons"
 ---
 
 ## Profesor de español en Dubái: las tres rutas posibles

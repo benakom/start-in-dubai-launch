@@ -46,6 +46,9 @@ sources:
 related: ["creer-sa-societe-a-dubai", "zone-franche-dubai", "impots-dubai", "ouvrir-un-compte-bancaire-a-dubai", "visa-residence-dubai"]
 order: 55
 key: "nl-bedrijf-oprichten-dubai-als-nederlander"
+image: "/assets/photos/nl-bedrijf-oprichten-dubai-als-nederlander.webp"
+imageAlt: "Alserkal Avenue in Al Quoz, Dubai: loodsen die zijn omgebouwd tot galeries, studio's en kantoren"
+imageCredit: "Foto: Fuzheado, CC0, Wikimedia Commons"
 ---
 
 ## Wat is anders als u Nederlander bent?

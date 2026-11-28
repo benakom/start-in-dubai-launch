@@ -39,6 +39,9 @@ sources:
 related: ["impots-dubai", "visa-residence-dubai", "travailler-a-dubai", "s-installer-a-dubai", "cout-de-la-vie-dubai"]
 order: 62
 key: "nl-30-procent-regeling-dubai"
+image: "/assets/photos/nl-30-procent-regeling-dubai.webp"
+imageAlt: "Kantoor hoog in een toren in Dubai, met uitzicht over de stad"
+imageCredit: "Foto: Titoni Thomas, CC BY-SA 3.0, Wikimedia Commons"
 ---
 
 ## Wat is de 30%-regeling en waarom zoekt u het in combinatie met Dubai?

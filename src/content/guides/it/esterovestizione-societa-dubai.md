@@ -41,6 +41,9 @@ sources:
 related: ["creer-sa-societe-a-dubai", "societe-offshore-dubai", "impots-dubai", "zone-franche-dubai", "freelance-dubai"]
 order: 57
 key: "it-esterovestizione-societa-dubai"
+image: "/assets/photos/it-esterovestizione-societa-dubai.webp"
+imageAlt: "Il Dubai Water Canal e le torri di Business Bay al tramonto"
+imageCredit: "Foto: Iwona Rege, CC BY-SA 4.0, Wikimedia Commons"
 ---
 
 ## Cos'è l'esterovestizione e perché riguarda le società a Dubai

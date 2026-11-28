@@ -43,6 +43,9 @@ sources:
 related: ["creer-sa-societe-a-dubai", "licence-commerciale-dubai", "societe-mainland-dubai", "visa-residence-dubai", "tva-dubai"]
 order: 72
 key: "it-attivita-italiana-a-dubai"
+image: "/assets/photos/it-attivita-italiana-a-dubai.webp"
+imageAlt: "Un caffè di Alserkal Avenue, a Dubai, all'ora di chiusura"
+imageCredit: "Foto: Pravichris, CC BY-SA 4.0, Wikimedia Commons"
 ---
 
 ## Aprire un'attività italiana a Dubai: da cosa dipende

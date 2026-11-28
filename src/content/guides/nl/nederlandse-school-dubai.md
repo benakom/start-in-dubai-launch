@@ -41,6 +41,9 @@ sources:
 related: ["ecoles-francaises-dubai", "s-installer-a-dubai-en-famille", "etudier-a-dubai", "cout-de-la-vie-dubai", "vivre-a-dubai"]
 order: 61
 key: "nl-nederlandse-school-dubai"
+image: "/assets/photos/nl-nederlandse-school-dubai.webp"
+imageAlt: "Binnenplaats van de historische Al Ahmadiya-school in Deira, de eerste school van Dubai en nu een museum"
+imageCredit: "Foto: CultureArts, CC BY-SA 3.0, Wikimedia Commons"
 ---
 
 ## Nederlandse school in Dubai: het eerlijke antwoord

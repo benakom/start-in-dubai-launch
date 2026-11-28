@@ -43,6 +43,9 @@ sources:
 related: ["freelance-dubai", "creer-sa-societe-a-dubai", "impots-dubai", "travailler-a-dubai", "societe-offshore-dubai"]
 order: 56
 key: "it-partita-iva-dubai"
+image: "/assets/photos/it-partita-iva-dubai.webp"
+imageAlt: "Gallerie di negozi e palme all'interno del Dubai Mall"
+imageCredit: "Foto: Marek Ślusarczyk (Tupungato), CC BY 3.0, Wikimedia Commons"
 ---
 
 ## Partita IVA a Dubai: nessuna partita IVA, ma licenza e TRN

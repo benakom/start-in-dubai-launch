@@ -41,6 +41,9 @@ sources:
 related: ["residence-fiscale-dubai", "impots-dubai", "s-installer-a-dubai", "societe-offshore-dubai", "ouvrir-un-compte-bancaire-a-dubai"]
 order: 74
 key: "it-accertamento-fiscale-residente-dubai"
+image: "/assets/photos/it-accertamento-fiscale-residente-dubai.webp"
+imageAlt: "Lo skyline di Dubai visto da Dubai Creek Harbour in una mattina di foschia"
+imageCredit: "Foto: Lxs, CC BY 4.0, Wikimedia Commons"
 ---
 
 ## Accertamento fiscale a un residente a Dubai: la premessa

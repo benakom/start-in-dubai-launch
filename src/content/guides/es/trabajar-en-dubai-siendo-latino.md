@@ -45,6 +45,9 @@ sources:
 related: ["travailler-a-dubai", "visa-residence-dubai", "freelance-dubai", "cout-de-la-vie-dubai", "impots-dubai"]
 order: 60
 key: "es-trabajar-en-dubai-siendo-latino"
+image: "/assets/photos/es-trabajar-en-dubai-siendo-latino.webp"
+imageAlt: "Tren del metro de Dubái detenido en el andén de la estación Oud Metha, en la línea verde"
+imageCredit: "Foto: Ravi Dwivedi, CC BY-SA 4.0, Wikimedia Commons"
 ---
 
 ## Trabajos en Dubái para latinos: lo esencial antes de empezar

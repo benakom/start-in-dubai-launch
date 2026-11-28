@@ -47,6 +47,9 @@ sources:
 related: ["freelance-dubai", "impots-dubai", "creer-sa-societe-a-dubai", "visa-residence-dubai"]
 order: 64
 key: "es-autonomo-espanol-en-dubai"
+image: "/assets/photos/es-autonomo-espanol-en-dubai.webp"
+imageAlt: "Edificios del Dubai Design District (d3) al atardecer, con el Burj Khalifa al fondo"
+imageCredit: "Foto: Leakingh, CC BY-SA 4.0, Wikimedia Commons"
 ---
 
 ## Autónomo español en Dubái: lo que cambia y lo que no

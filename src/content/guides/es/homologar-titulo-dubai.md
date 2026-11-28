@@ -49,6 +49,9 @@ sources:
 related: ["etudier-a-dubai", "visa-etudiant-dubai", "travailler-a-dubai", "s-installer-a-dubai", "vivre-a-dubai"]
 order: 80
 key: "es-homologar-titulo-dubai"
+image: "/assets/photos/es-homologar-titulo-dubai.webp"
+imageAlt: "Edificio del campus de la University of Wollongong in Dubai (UOWD)"
+imageCredit: "Foto: Jynorkh, CC BY-SA 4.0, Wikimedia Commons"
 ---
 
 ## Homologar un título de Dubái: las dos fases

@@ -45,6 +45,9 @@ sources:
 related: ["s-installer-a-dubai", "impots-dubai", "residence-fiscale-dubai", "vivre-a-dubai", "ouvrir-un-compte-bancaire-a-dubai"]
 order: 62
 key: "it-rientro-in-italia-dopo-dubai"
+image: "/assets/photos/it-rientro-in-italia-dopo-dubai.webp"
+imageAlt: "Area d'imbarco della Terminal 3 di Dubai International Airport"
+imageCredit: "Foto: Kgbo, CC BY-SA 4.0, Wikimedia Commons"
 ---
 
 ## Rientro in Italia dopo Dubai: da dove cominciare

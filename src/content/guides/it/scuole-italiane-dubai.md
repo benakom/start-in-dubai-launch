@@ -43,6 +43,9 @@ sources:
 related: ["s-installer-a-dubai-en-famille", "ecoles-francaises-dubai", "ecoles-internationales-dubai", "visa-famille-dubai", "cout-de-la-vie-dubai"]
 order: 64
 key: "it-scuole-italiane-dubai"
+image: "/assets/photos/it-scuole-italiane-dubai.webp"
+imageAlt: "Lezione in una serra didattica della Arbor School, una scuola internazionale di Dubai"
+imageCredit: "Foto: DSilman, CC BY-SA 4.0, Wikimedia Commons"
 ---
 
 ## Scuole italiane a Dubai: la risposta onesta

@@ -43,6 +43,9 @@ sources:
 related: ["impots-dubai", "residence-fiscale-dubai", "ouvrir-un-compte-bancaire-a-dubai", "investir-a-dubai", "s-installer-a-dubai"]
 order: 74
 key: "it-crypto-dubai-italiani-tasse"
+image: "/assets/photos/it-crypto-dubai-italiani-tasse.webp"
+imageAlt: "Un treno della metropolitana di Dubai entra nella stazione World Trade Centre, con il Museum of the Future sullo sfondo"
+imageCredit: "Foto: Tim Wu, CC BY-SA 4.0, Wikimedia Commons"
 ---
 
 ## Crypto a Dubai: perché l'Italia continua a contare

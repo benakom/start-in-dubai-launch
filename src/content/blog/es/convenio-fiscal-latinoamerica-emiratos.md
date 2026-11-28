@@ -41,6 +41,9 @@ sources:
 related: ["impots-dubai", "residence-fiscale-dubai", "s-installer-a-dubai", "creer-sa-societe-a-dubai", "visa-residence-dubai"]
 order: 62
 key: "es-convenio-fiscal-latinoamerica-emiratos"
+image: "/assets/photos/es-convenio-fiscal-latinoamerica-emiratos.webp"
+imageAlt: "Rascacielos de Abu Dabi al atardecer, desde la Corniche"
+imageCredit: "Foto: FritzDaCat, CC BY-SA 3.0, Wikimedia Commons"
 ---
 
 ## Estado de cada convenio de un vistazo

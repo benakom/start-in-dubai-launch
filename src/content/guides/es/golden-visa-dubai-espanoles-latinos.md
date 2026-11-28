@@ -47,6 +47,9 @@ sources:
 related: ["golden-visa-dubai", "visa-residence-dubai", "impots-dubai", "investir-a-dubai", "creer-sa-societe-a-dubai"]
 order: 62
 key: "es-golden-visa-dubai-espanoles-latinos"
+image: "/assets/photos/es-golden-visa-dubai-espanoles-latinos.webp"
+imageAlt: "Atardecer en Dubai Creek Harbour, con palmeras y el perfil de Dubái a contraluz"
+imageCredit: "Foto: SHARON VISHAKHAM, CC BY-SA 4.0, Wikimedia Commons"
 ---
 
 ## Golden Visa de Dubái: una sola norma, cuatro puntos de partida

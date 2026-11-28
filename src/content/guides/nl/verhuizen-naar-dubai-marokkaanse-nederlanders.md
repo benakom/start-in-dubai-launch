@@ -44,6 +44,9 @@ sources:
 related: ["s-installer-a-dubai-depuis-le-maroc", "s-installer-a-dubai-depuis-la-belgique", "s-installer-a-dubai", "residence-fiscale-dubai", "s-installer-a-dubai-en-famille"]
 order: 62
 key: "nl-verhuizen-naar-dubai-marokkaanse-nederlanders"
+image: "/assets/photos/nl-verhuizen-naar-dubai-marokkaanse-nederlanders.webp"
+imageAlt: "Overdekte steeg met houten bogen in de textielsoek van Bur Dubai"
+imageCredit: "Foto: Chris Waits, CC BY 2.0, Wikimedia Commons"
 ---
 
 ## Verhuizen naar Dubai als Marokkaanse Nederlander of Marokkaanse Belg

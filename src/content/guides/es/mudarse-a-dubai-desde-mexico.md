@@ -44,6 +44,9 @@ sources:
 related: ["s-installer-a-dubai", "visa-residence-dubai", "impots-dubai", "cout-de-la-vie-dubai", "ouvrir-un-compte-bancaire-a-dubai"]
 order: 9
 key: "es-mudarse-a-dubai-desde-mexico"
+image: "/assets/photos/es-mudarse-a-dubai-desde-mexico.webp"
+imageAlt: "Pasajeros en las cintas transportadoras de la Terminal 3 del aeropuerto internacional de Dubái, entre palmeras decorativas"
+imageCredit: "Foto: Chris Olszewski, CC BY-SA 4.0, Wikimedia Commons"
 ---
 
 ## Mudarse a Dubái desde México: lo propio de la salida de México

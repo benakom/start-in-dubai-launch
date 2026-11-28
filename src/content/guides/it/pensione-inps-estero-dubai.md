@@ -43,6 +43,9 @@ sources:
 related: ["impots-dubai", "visa-residence-dubai", "golden-visa-dubai", "cout-de-la-vie-dubai", "ouvrir-un-compte-bancaire-a-dubai"]
 order: 55
 key: "it-pensione-inps-estero-dubai"
+image: "/assets/photos/it-pensione-inps-estero-dubai.webp"
+imageAlt: "Un vialetto del Creek Park di Dubai al tramonto"
+imageCredit: "Foto: Ahmad3027, CC BY-SA 4.0, Wikimedia Commons"
 ---
 
 ## La tua pensione INPS può essere pagata a Dubai?

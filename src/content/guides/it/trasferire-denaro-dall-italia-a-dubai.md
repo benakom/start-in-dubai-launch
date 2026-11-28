@@ -41,6 +41,9 @@ sources:
 related: ["transferer-de-l-argent-a-dubai", "ouvrir-un-compte-bancaire-a-dubai", "cout-de-la-vie-dubai", "impots-dubai", "s-installer-a-dubai"]
 order: 73
 key: "it-trasferire-denaro-dall-italia-a-dubai"
+image: "/assets/photos/it-trasferire-denaro-dall-italia-a-dubai.webp"
+imageAlt: "La Deira Clock Tower illuminata di sera, nel quartiere di Deira a Dubai"
+imageCredit: "Foto: CivArmy, CC BY 4.0, Wikimedia Commons"
 ---
 
 ## Trasferire denaro dall'Italia a Dubai: le tre strade

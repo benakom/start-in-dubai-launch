@@ -45,6 +45,9 @@ sources:
 related: ["impots-dubai", "investir-a-dubai", "creer-sa-societe-a-dubai", "s-installer-a-dubai"]
 order: 53
 key: "nl-box-3-dubai"
+image: "/assets/photos/nl-box-3-dubai.webp"
+imageAlt: "Jachten in de haven van Dubai Marina, met woontorens op de achtergrond"
+imageCredit: "Foto: Stzeman, CC BY-SA 3.0, Wikimedia Commons"
 ---
 
 ## Box 3 en Dubai: waar het om draait

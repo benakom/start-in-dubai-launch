@@ -45,6 +45,9 @@ sources:
 related: ["travailler-a-dubai", "visa-residence-dubai", "cout-de-la-vie-dubai", "s-installer-a-dubai"]
 order: 63
 key: "es-estafas-trabajo-dubai"
+image: "/assets/photos/es-estafas-trabajo-dubai.webp"
+imageAlt: "Coche patrulla de la Policía de Dubái aparcado"
+imageCredit: "Foto: Reubentg, dominio público, Wikimedia Commons"
 ---
 
 ## Estafas de trabajo en Dubái: lo que debes saber antes de aceptar

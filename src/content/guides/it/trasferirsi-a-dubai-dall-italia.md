@@ -44,6 +44,9 @@ sources:
 related: ["s-installer-a-dubai", "visa-residence-dubai", "impots-dubai", "golden-visa-dubai", "s-installer-a-dubai-en-famille"]
 order: 50
 key: "it-trasferirsi-a-dubai-dall-italia"
+image: "/assets/photos/it-trasferirsi-a-dubai-dall-italia.webp"
+imageAlt: "Abra ormeggiate sul Dubai Creek al tramonto, con le bandiere degli Emirati"
+imageCredit: "Foto: Phil6007, CC BY-SA 4.0, Wikimedia Commons"
 ---
 
 ## Trasferirsi a Dubai dall'Italia: tre cose diverse da non confondere

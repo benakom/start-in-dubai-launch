@@ -41,6 +41,9 @@ sources:
 related: ["s-installer-a-dubai", "francais-a-dubai", "vivre-a-dubai", "s-installer-a-dubai-en-famille", "creer-sa-societe-a-dubai"]
 order: 63
 key: "it-comunita-italiana-dubai"
+image: "/assets/photos/it-comunita-italiana-dubai.webp"
+imageAlt: "The Walk a JBR, Dubai, la sera, con la ruota panoramica Ain Dubai sullo sfondo"
+imageCredit: "Foto: Aidan-dubai2024, CC BY-SA 4.0, Wikimedia Commons"
 ---
 
 ## La comunità italiana a Dubai: come è organizzata, e cosa non lo è

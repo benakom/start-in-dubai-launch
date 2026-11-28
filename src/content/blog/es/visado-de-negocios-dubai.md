@@ -43,6 +43,9 @@ sources:
 related: ["visa-residence-dubai", "golden-visa-dubai", "creer-sa-societe-a-dubai", "travailler-a-dubai"]
 order: 80
 key: "es-visado-de-negocios-dubai"
+image: "/assets/photos/es-visado-de-negocios-dubai.webp"
+imageAlt: "Visitantes en la feria profesional The Big 5, en Dubái"
+imageCredit: "Foto: JessS83, CC BY-SA 4.0, Wikimedia Commons"
 ---
 
 ## ¿Existe un visado de negocios para Dubái?

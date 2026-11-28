@@ -43,6 +43,9 @@ sources:
 related: ["creer-sa-societe-a-dubai", "impots-dubai", "societe-offshore-dubai", "zone-franche-dubai", "s-installer-a-dubai-depuis-la-france"]
 order: 80
 key: "es-empresa-en-dubai-residente-en-espana"
+image: "/assets/photos/es-empresa-en-dubai-residente-en-espana.webp"
+imageAlt: "El Dubai Water Canal por la noche, con su paseo y las torres iluminadas"
+imageCredit: "Foto: Vicharam, CC BY-SA 4.0, Wikimedia Commons"
 ---
 
 ## El riesgo que los folletos no cuentan

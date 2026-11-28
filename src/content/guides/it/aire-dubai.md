@@ -41,6 +41,9 @@ sources:
 related: ["s-installer-a-dubai", "impots-dubai", "visa-residence-dubai", "s-installer-a-dubai-en-famille", "ouvrir-un-compte-bancaire-a-dubai"]
 order: 51
 key: "it-aire-dubai"
+image: "/assets/photos/it-aire-dubai.webp"
+imageAlt: "Il Dubai Creek con le abra e la riva di Bur Dubai"
+imageCredit: "Foto: Vincent Eisfeld, CC BY-SA 4.0, Wikimedia Commons"
 ---
 
 ## AIRE a Dubai: la regola in breve

@@ -39,6 +39,9 @@ sources:
 related: ["travailler-a-dubai", "contrat-de-travail-dubai", "visa-recherche-emploi-dubai", "visa-residence-dubai", "lois-et-regles-a-dubai"]
 order: 70
 key: "it-truffe-lavoro-dubai"
+image: "/assets/photos/it-truffe-lavoro-dubai.webp"
+imageAlt: "Un treno della metropolitana di Dubai in stazione sulla linea rossa"
+imageCredit: "Foto: Shahroozporia, CC BY-SA 3.0, Wikimedia Commons"
 ---
 
 ## Offerte di lavoro false a Dubai: perché sono un rischio reale

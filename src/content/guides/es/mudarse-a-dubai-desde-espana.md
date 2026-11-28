@@ -46,6 +46,9 @@ sources:
 related: ["s-installer-a-dubai", "visa-residence-dubai", "impots-dubai", "s-installer-a-dubai-depuis-la-france", "cout-de-la-vie-dubai"]
 order: 50
 key: "es-mudarse-a-dubai-desde-espana"
+image: "/assets/photos/es-mudarse-a-dubai-desde-espana.webp"
+imageAlt: "Abra con pasajeros cruzando la ría de Dubái (Dubai Creek), con las torres de Deira al fondo"
+imageCredit: "Foto: CT Cooper, dominio público, Wikimedia Commons"
 ---
 
 ## Mudarse a Dubái desde España: los pasos en orden

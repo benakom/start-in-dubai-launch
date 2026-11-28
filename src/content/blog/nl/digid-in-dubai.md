@@ -41,6 +41,9 @@ sources:
 related: ["impots-dubai", "s-installer-a-dubai", "vivre-a-dubai", "cout-de-la-vie-dubai", "visa-residence-dubai"]
 order: 71
 key: "nl-digid-in-dubai"
+image: "/assets/photos/nl-digid-in-dubai.webp"
+imageAlt: "Liften en roltrappen in het Museum of the Future in Dubai"
+imageCredit: "Foto: Saaremees, CC BY-SA 4.0, Wikimedia Commons"
 ---
 
 ## DigiD in Dubai: waarom het de moeite loont

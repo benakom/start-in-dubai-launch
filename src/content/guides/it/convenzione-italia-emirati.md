@@ -43,6 +43,9 @@ sources:
 related: ["impots-dubai", "visa-residence-dubai", "s-installer-a-dubai", "societe-offshore-dubai", "golden-visa-dubai"]
 order: 52
 key: "it-convenzione-italia-emirati"
+image: "/assets/photos/it-convenzione-italia-emirati.webp"
+imageAlt: "Abu Dhabi vista dai giardini di Qasr Al Watan, con le fontane in primo piano"
+imageCredit: "Foto: EditQ, CC0, Wikimedia Commons"
 ---
 
 ## La convenzione Italia-Emirati in breve

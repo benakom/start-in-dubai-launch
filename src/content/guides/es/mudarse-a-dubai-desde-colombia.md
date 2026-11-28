@@ -44,6 +44,9 @@ sources:
 related: ["s-installer-a-dubai", "visa-residence-dubai", "impots-dubai", "cout-de-la-vie-dubai", "travailler-a-dubai"]
 order: 11
 key: "es-mudarse-a-dubai-desde-colombia"
+image: "/assets/photos/es-mudarse-a-dubai-desde-colombia.webp"
+imageAlt: "Taxis de Dubái en fila a la salida de la Terminal 2 del aeropuerto internacional"
+imageCredit: "Foto: Ravi Dwivedi, CC BY-SA 4.0, Wikimedia Commons"
 ---
 
 ## Mudarse a Dubái desde Colombia: lo propio de la salida de Colombia

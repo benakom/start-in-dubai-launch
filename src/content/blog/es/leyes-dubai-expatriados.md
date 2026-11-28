@@ -37,6 +37,9 @@ sources:
 related: ["lois-et-regles-a-dubai", "vivre-a-dubai", "s-installer-a-dubai", "visa-residence-dubai", "travailler-a-dubai"]
 order: 64
 key: "es-leyes-dubai-expatriados"
+image: "/assets/photos/es-leyes-dubai-expatriados.webp"
+imageAlt: "El Ruler's Court, sede del Diwan del gobernante, en Bur Dubái"
+imageCredit: "Foto: trolvag, CC BY-SA 3.0, Wikimedia Commons"
 ---
 
 ## La regla de fondo: la ley local se aplica a todos

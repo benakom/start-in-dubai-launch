@@ -41,6 +41,9 @@ sources:
 related: ["s-installer-a-dubai", "vivre-a-dubai", "impots-dubai", "visa-residence-dubai", "travailler-a-dubai"]
 order: 64
 key: "nl-terugkeren-naar-nederland-vanuit-dubai"
+image: "/assets/photos/nl-terugkeren-naar-nederland-vanuit-dubai.webp"
+imageAlt: "Vliegtuigen bij de gates, gezien door de glazen gevel van Terminal 3 op Dubai International Airport"
+imageCredit: "Foto: Kgbo, CC BY-SA 4.0, Wikimedia Commons"
 ---
 
 ## Terugkeren naar Nederland: waar begint u?

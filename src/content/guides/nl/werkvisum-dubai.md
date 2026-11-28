@@ -43,6 +43,9 @@ sources:
 related: ["travailler-a-dubai", "visa-residence-dubai", "s-installer-a-dubai", "vivre-a-dubai", "visa-famille-dubai"]
 order: 60
 key: "nl-werkvisum-dubai"
+image: "/assets/photos/nl-werkvisum-dubai.webp"
+imageAlt: "Het amfitheater en de kantoren van Dubai Internet City"
+imageCredit: "Foto: Nowitscorrect, CC BY-SA 4.0, Wikimedia Commons"
 ---
 
 ## Werkvisum Dubai: de aanvraag ligt bij uw werkgever

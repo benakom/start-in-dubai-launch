@@ -43,6 +43,9 @@ sources:
 related: ["creer-sa-societe-a-dubai", "zone-franche-dubai", "ouvrir-un-compte-bancaire-a-dubai", "impots-dubai", "freelance-dubai"]
 order: 55
 key: "es-crear-empresa-en-dubai-desde-latinoamerica"
+image: "/assets/photos/es-crear-empresa-en-dubai-desde-latinoamerica.webp"
+imageAlt: "Parque y torres de Jumeirah Lakes Towers (JLT), en la zona franca DMCC de Dubái"
+imageCredit: "Foto: Guilhem Vellut, CC BY 2.0, Wikimedia Commons"
 ---
 
 ## Crear empresa en Dubái desde Latinoamérica: qué es igual y qué cambia

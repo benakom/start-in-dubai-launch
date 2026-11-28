@@ -45,6 +45,9 @@ sources:
 related: ["travailler-a-dubai", "impots-dubai", "vivre-a-dubai", "s-installer-a-dubai-en-famille", "s-installer-a-dubai"]
 order: 66
 key: "nl-testament-en-erfrecht-dubai"
+image: "/assets/photos/nl-testament-en-erfrecht-dubai.webp"
+imageAlt: "Al Fahidi Fort, het oudste bestaande gebouw van Dubai"
+imageCredit: "Foto: Jasonbalaba, CC BY-SA 4.0, Wikimedia Commons"
 ---
 
 ## Waarom een testament belangrijk is als u in Dubai woont

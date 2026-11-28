@@ -41,6 +41,9 @@ sources:
 related: ["residence-fiscale-dubai", "impots-dubai", "s-installer-a-dubai", "visa-residence-dubai", "creer-sa-societe-a-dubai"]
 order: 54
 key: "nl-tax-residency-certificate-dubai"
+image: "/assets/photos/nl-tax-residency-certificate-dubai.webp"
+imageAlt: "Abu Dhabi gezien vanaf het terrein van Qasr Al Watan"
+imageCredit: "Foto: EditQ, CC0, Wikimedia Commons"
 ---
 
 ## Wat is een tax residency certificate in Dubai?

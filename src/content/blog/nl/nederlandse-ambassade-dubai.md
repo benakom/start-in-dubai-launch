@@ -43,6 +43,9 @@ sources:
 related: ["vivre-a-dubai", "s-installer-a-dubai", "s-installer-a-dubai-en-famille", "visa-residence-dubai", "cout-de-la-vie-dubai"]
 order: 70
 key: "nl-nederlandse-ambassade-dubai"
+image: "/assets/photos/nl-nederlandse-ambassade-dubai.webp"
+imageAlt: "Kantoortorens aan de Corniche van Abu Dhabi"
+imageCredit: "Foto: giggel, CC BY 3.0, Wikimedia Commons"
 ---
 
 ## Nederlandse ambassade in Dubai: de ambassade zit in Abu Dhabi

@@ -41,6 +41,9 @@ sources:
 related: ["s-installer-a-dubai", "impots-dubai", "vivre-a-dubai", "visa-residence-dubai"]
 order: 51
 key: "nl-uitschrijven-nederland-dubai"
+image: "/assets/photos/nl-uitschrijven-nederland-dubai.webp"
+imageAlt: "Vroege ochtend bij Terminal 2 van Dubai International Airport, met taxi's langs de stoep"
+imageCredit: "Foto: Ravi Dwivedi, CC BY-SA 4.0, Wikimedia Commons"
 ---
 
 ## Uitschrijven uit Nederland voor Dubai: wat de regel zegt

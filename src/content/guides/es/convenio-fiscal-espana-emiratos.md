@@ -43,6 +43,9 @@ sources:
 related: ["impots-dubai", "s-installer-a-dubai-depuis-la-france", "creer-sa-societe-a-dubai", "s-installer-a-dubai", "freelance-dubai"]
 order: 60
 key: "es-convenio-fiscal-espana-emiratos"
+image: "/assets/photos/es-convenio-fiscal-espana-emiratos.webp"
+imageAlt: "Jardines de Qasr Al Watan, el palacio presidencial de los Emiratos en Abu Dabi, con los rascacielos de la ciudad al fondo"
+imageCredit: "Foto: Renek78, CC BY-SA 4.0, Wikimedia Commons"
 ---
 
 ## El convenio España-Emiratos en un minuto

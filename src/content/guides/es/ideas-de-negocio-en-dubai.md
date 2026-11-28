@@ -39,6 +39,9 @@ sources:
 related: ["creer-sa-societe-a-dubai", "licence-commerciale-dubai", "zone-franche-dubai", "freelance-dubai", "ouvrir-un-compte-bancaire-a-dubai"]
 order: 75
 key: "es-ideas-de-negocio-en-dubai"
+image: "/assets/photos/es-ideas-de-negocio-en-dubai.webp"
+imageAlt: "Una tienda del zoco de los tejidos de Bur Dubái"
+imageCredit: "Foto: Iwona Rege, CC BY-SA 4.0, Wikimedia Commons"
 ---
 
 ## Ideas de negocio en Dubái: empieza por la actividad, no por la moda

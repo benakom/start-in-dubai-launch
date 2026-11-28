@@ -53,10 +53,12 @@ def main():
     a.add_argument("--slug", required=True); a.add_argument("--alt", required=True)
     a.add_argument("--credit", default="Photo : Freepik"); a.add_argument("--n", type=int, default=1)
     a.add_argument("--focus", type=float, default=0.5)
+    a.add_argument("--lang", default="fr")  # page écrite directement dans une autre langue (pas de version française)
     o = a.parse_args()
-    fr = os.path.join(ROOT, "src/content", o.coll, "fr", o.slug + ".md")
+    fr = os.path.join(ROOT, "src/content", o.coll, o.lang, o.slug + ".md")
     if not os.path.exists(fr): sys.exit(f"page introuvable : {fr}")
-    name = o.slug if o.n == 1 else f"{o.slug}-{o.n}"
+    base = o.slug if o.lang == "fr" else (f"{o.lang}-{o.slug}" if o.slug.isascii() else f"{o.lang}-" + __import__("hashlib").md5(o.slug.encode()).hexdigest()[:10])
+    name = base if o.n == 1 else f"{base}-{o.n}"
     out = os.path.join(ROOT, "public/assets/photos", name + ".webp")
     os.makedirs(os.path.dirname(out), exist_ok=True)
     size = to_webp(fetch(o.url), out, o.focus)
@@ -64,7 +66,7 @@ def main():
     if o.n == 1:
         set_fm(fr, {"image": web, "imageAlt": o.alt, "imageCredit": o.credit})
         tr = 0
-        for p in glob.glob(os.path.join(ROOT, "src/content", o.coll, "*", "*.md")):
+        for p in (glob.glob(os.path.join(ROOT, "src/content", o.coll, "*", "*.md")) if o.lang == "fr" else []):
             if "/fr/" in p: continue
             if re.search(rf'^key:\s*"?{re.escape(o.slug)}"?\s*$', open(p, encoding="utf-8").read(), re.M):
                 set_fm(p, {"image": web}); tr += 1

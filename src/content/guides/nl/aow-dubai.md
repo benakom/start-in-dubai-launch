@@ -43,6 +43,9 @@ sources:
 related: ["impots-dubai", "s-installer-a-dubai", "vivre-a-dubai", "golden-visa-dubai"]
 order: 52
 key: "nl-aow-dubai"
+image: "/assets/photos/nl-aow-dubai.webp"
+imageAlt: "Wandelpad tussen de palmen in Zabeel Park, Dubai"
+imageCredit: "Foto: Radosław Botev, CC BY 3.0 pl, Wikimedia Commons"
 ---
 
 ## AOW en Dubai: wat verandert er als u emigreert?

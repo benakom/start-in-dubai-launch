@@ -39,6 +39,9 @@ sources:
 related: ["residence-fiscale-dubai", "impots-dubai", "s-installer-a-dubai-depuis-la-france", "s-installer-a-dubai", "creer-sa-societe-a-dubai"]
 order: 61
 key: "es-residencia-fiscal-dubai-espana"
+image: "/assets/photos/es-residencia-fiscal-dubai-espana.webp"
+imageAlt: "Fuente y palmeras en The Walk, en la zona residencial de Dubai Marina"
+imageCredit: "Foto: Philosographer, CC BY-SA 4.0, Wikimedia Commons"
 ---
 
 ## La respuesta corta: dos países, dos pruebas

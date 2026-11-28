@@ -43,6 +43,9 @@ sources:
 related: ["impots-dubai", "s-installer-a-dubai", "visa-residence-dubai", "societe-offshore-dubai", "freelance-dubai"]
 order: 53
 key: "it-residenza-fiscale-italia-emirati"
+image: "/assets/photos/it-residenza-fiscale-italia-emirati.webp"
+imageAlt: "The Walk, la passeggiata residenziale di Jumeirah Beach Residence a Dubai Marina"
+imageCredit: "Foto: Fabio Achilli, CC BY 2.0, Wikimedia Commons"
 ---
 
 ## Residenza fiscale Italia-Emirati: la regola dei 183 giorni non basta

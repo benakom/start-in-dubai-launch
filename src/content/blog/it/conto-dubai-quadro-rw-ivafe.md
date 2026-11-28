@@ -41,6 +41,9 @@ sources:
 related: ["ouvrir-un-compte-bancaire-a-dubai", "impots-dubai", "residence-fiscale-dubai", "transferer-de-l-argent-a-dubai", "societe-offshore-dubai"]
 order: 72
 key: "it-conto-dubai-quadro-rw-ivafe"
+image: "/assets/photos/it-conto-dubai-quadro-rw-ivafe.webp"
+imageAlt: "Schermo di uno sportello automatico della Dubai Islamic Bank, a Dubai"
+imageCredit: "Foto: Bjoertvedt, CC BY-SA 3.0, Wikimedia Commons"
 ---
 
 ## Conto a Dubai e quadro RW: la domanda giusta è "sono residente?"

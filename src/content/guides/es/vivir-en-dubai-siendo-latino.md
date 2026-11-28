@@ -49,6 +49,9 @@ sources:
 related: ["vivre-a-dubai", "s-installer-a-dubai", "cout-de-la-vie-dubai", "s-installer-a-dubai-en-famille", "visa-residence-dubai"]
 order: 65
 key: "es-vivir-en-dubai-siendo-latino"
+image: "/assets/photos/es-vivir-en-dubai-siendo-latino.webp"
+imageAlt: "Fuegos artificiales sobre Global Village, en Dubái, con visitantes paseando por la noche"
+imageCredit: "Foto: Iarjunphotography, CC BY-SA 4.0, Wikimedia Commons"
 ---
 
 ## Vivir en Dubái siendo latino: qué es igual y qué cambia

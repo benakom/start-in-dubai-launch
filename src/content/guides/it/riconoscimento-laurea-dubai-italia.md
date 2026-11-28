@@ -45,6 +45,9 @@ sources:
 related: ["etudier-a-dubai", "visa-etudiant-dubai", "s-installer-a-dubai", "visa-residence-dubai", "s-installer-a-dubai-en-famille"]
 order: 62
 key: "it-riconoscimento-laurea-dubai-italia"
+image: "/assets/photos/it-riconoscimento-laurea-dubai-italia.webp"
+imageAlt: "Scaffali e sale di lettura della Mohammed Bin Rashid Library di Dubai"
+imageCredit: "Foto: Aadubai, CC BY-SA 4.0, Wikimedia Commons"
 ---
 
 ## Riconoscimento del titolo di studio: da dove cominciare

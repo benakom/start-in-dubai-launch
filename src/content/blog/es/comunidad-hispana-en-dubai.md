@@ -37,6 +37,9 @@ sources:
 related: ["vivre-a-dubai", "s-installer-a-dubai", "cout-de-la-vie-dubai", "travailler-a-dubai", "lois-et-regles-a-dubai"]
 order: 63
 key: "es-comunidad-hispana-en-dubai"
+image: "/assets/photos/es-comunidad-hispana-en-dubai.webp"
+imageAlt: "Gente en Kite Beach, en Jumeirah, con cometas de kitesurf en el cielo"
+imageCredit: "Foto: MaryJaneB, CC BY-SA 4.0, Wikimedia Commons"
 ---
 
 ## Lo que sabemos del tamaño de la comunidad (y lo que no)

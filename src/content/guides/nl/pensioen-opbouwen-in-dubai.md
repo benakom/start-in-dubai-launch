@@ -43,6 +43,9 @@ sources:
 related: ["travailler-a-dubai", "impots-dubai", "vivre-a-dubai", "cout-de-la-vie-dubai", "s-installer-a-dubai"]
 order: 56
 key: "nl-pensioen-opbouwen-in-dubai"
+image: "/assets/photos/nl-pensioen-opbouwen-in-dubai.webp"
+imageAlt: "Uitzicht vanaf de Dubai Frame over Zabeel Park en het centrum van Dubai"
+imageCredit: "Foto: Saaremees, CC BY-SA 4.0, Wikimedia Commons"
 ---
 
 ## Pensioen opbouwen in Dubai: het eerlijke antwoord

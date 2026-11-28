@@ -48,6 +48,9 @@ sources:
 related: ["s-installer-a-dubai", "visa-residence-dubai", "impots-dubai", "creer-sa-societe-a-dubai", "cout-de-la-vie-dubai"]
 order: 50
 key: "nl-emigreren-naar-dubai-vanuit-nederland"
+image: "/assets/photos/nl-emigreren-naar-dubai-vanuit-nederland.webp"
+imageAlt: "Reizigers bij de gates van Terminal 3 op Dubai International Airport"
+imageCredit: "Foto: Kgbo, CC BY-SA 4.0, Wikimedia Commons"
 ---
 
 ## Emigreren naar Dubai vanuit Nederland: twee kanten, één volgorde

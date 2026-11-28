@@ -42,6 +42,9 @@ sources:
 related: ["impots-dubai", "s-installer-a-dubai", "creer-sa-societe-a-dubai", "ouvrir-un-compte-bancaire-a-dubai", "golden-visa-dubai"]
 order: 60
 key: "nl-belastingverdrag-nederland-vae"
+image: "/assets/photos/nl-belastingverdrag-nederland-vae.webp"
+imageAlt: "De skyline van Abu Dhabi gezien vanaf de Corniche"
+imageCredit: "Foto: giggel, CC BY 3.0, Wikimedia Commons"
 ---
 
 ## Bestaat het belastingverdrag Nederland VAE?

@@ -41,6 +41,9 @@ sources:
 related: ["impots-dubai", "s-installer-a-dubai", "vivre-a-dubai", "cout-de-la-vie-dubai", "visa-residence-dubai"]
 order: 72
 key: "nl-belastingaangifte-emigratie-dubai"
+image: "/assets/photos/nl-belastingaangifte-emigratie-dubai.webp"
+imageAlt: "Leestafels en boekenwanden in de Mohammed Bin Rashid Library in Dubai"
+imageCredit: "Foto: Vicharam, CC BY-SA 4.0, Wikimedia Commons"
 ---
 
 ## Wat is de M-aangifte?

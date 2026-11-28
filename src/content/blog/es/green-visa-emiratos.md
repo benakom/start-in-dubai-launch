@@ -41,6 +41,9 @@ sources:
 related: ["visa-residence-dubai", "freelance-dubai", "golden-visa-dubai", "travailler-a-dubai"]
 order: 62
 key: "es-green-visa-emiratos"
+image: "/assets/photos/es-green-visa-emiratos.webp"
+imageAlt: "Vista aérea del centro de Dubái, con Sheikh Zayed Road y sus torres"
+imageCredit: "Foto: Xiaotong Gao, CC BY-SA 3.0, Wikimedia Commons"
 ---
 
 ## Green Visa de los Emiratos en breve

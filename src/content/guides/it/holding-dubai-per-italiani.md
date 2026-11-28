@@ -43,6 +43,9 @@ sources:
 related: ["creer-sa-societe-a-dubai", "impot-sur-les-societes-dubai", "societe-offshore-dubai", "zone-franche-dubai", "impots-dubai"]
 order: 70
 key: "it-holding-dubai-per-italiani"
+image: "/assets/photos/it-holding-dubai-per-italiani.webp"
+imageAlt: "Il lungomare di Al Maryah Island, ad Abu Dhabi"
+imageCredit: "Foto: MAVARIZ, CC BY-SA 4.0, Wikimedia Commons"
 ---
 
 ## Holding a Dubai per italiani: a chi serve davvero

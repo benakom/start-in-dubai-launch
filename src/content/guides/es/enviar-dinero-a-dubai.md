@@ -45,6 +45,9 @@ sources:
 related: ["ouvrir-un-compte-bancaire-a-dubai", "cout-de-la-vie-dubai", "impots-dubai", "residence-fiscale-dubai", "travailler-a-dubai"]
 order: 70
 key: "es-enviar-dinero-a-dubai"
+image: "/assets/photos/es-enviar-dinero-a-dubai.webp"
+imageAlt: "Calle comercial de Deira por la noche, con tiendas y rótulos iluminados"
+imageCredit: "Foto: Guilhem Vellut, CC BY 2.0, Wikimedia Commons"
 ---
 
 ## Enviar dinero a Dubái: lo esencial antes de pagar

@@ -44,6 +44,9 @@ sources:
 related: ["s-installer-a-dubai", "visa-residence-dubai", "impots-dubai", "cout-de-la-vie-dubai", "ouvrir-un-compte-bancaire-a-dubai"]
 order: 10
 key: "es-mudarse-a-dubai-desde-argentina"
+image: "/assets/photos/es-mudarse-a-dubai-desde-argentina.webp"
+imageAlt: "Tren del metro de Dubái en la línea verde, cerca de la estación Dubai Healthcare City"
+imageCredit: "Foto: Rob Dammers, CC BY 2.0, Wikimedia Commons"
 ---
 
 ## Mudarse a Dubái desde Argentina: lo propio de la salida de Argentina

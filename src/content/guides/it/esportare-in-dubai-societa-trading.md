@@ -43,6 +43,9 @@ sources:
 related: ["creer-sa-societe-a-dubai", "licence-commerciale-dubai", "zone-franche-dubai", "societe-mainland-dubai", "tva-dubai"]
 order: 71
 key: "it-esportare-in-dubai-societa-trading"
+image: "/assets/photos/it-esportare-in-dubai-societa-trading.webp"
+imageAlt: "Dhow da carico ormeggiati al molo del Dubai Creek"
+imageCredit: "Foto: calflier001, CC BY-SA 2.0, Wikimedia Commons"
 ---
 
 ## Esportare a Dubai: le due strade

@@ -43,6 +43,9 @@ sources:
 related: ["s-installer-a-dubai", "vivre-a-dubai", "s-installer-a-dubai-en-famille", "impots-dubai", "cout-de-la-vie-dubai"]
 order: 63
 key: "nl-nederlanders-in-dubai"
+image: "/assets/photos/nl-nederlanders-in-dubai.webp"
+imageAlt: "Zonsondergang op het strand bij Jumeirah Beach Residence in Dubai"
+imageCredit: "Foto: Guilhem Vellut, CC BY 2.0, Wikimedia Commons"
 ---
 
 ## Nederlanders in Dubai: waar u mee te maken krijgt

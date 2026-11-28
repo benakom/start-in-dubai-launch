@@ -43,6 +43,9 @@ sources:
 related: ["creer-sa-societe-a-dubai", "zone-franche-dubai", "societe-offshore-dubai", "impots-dubai", "ouvrir-un-compte-bancaire-a-dubai"]
 order: 65
 key: "es-empresas-espanolas-en-dubai"
+image: "/assets/photos/es-empresas-espanolas-en-dubai.webp"
+imageAlt: "Expositores y visitantes en un estand de la feria The Big 5 de Dubái"
+imageCredit: "Foto: JessS83, CC BY-SA 4.0, Wikimedia Commons"
 ---
 
 ## Empresas españolas en Dubái: lo que se sabe y lo que no

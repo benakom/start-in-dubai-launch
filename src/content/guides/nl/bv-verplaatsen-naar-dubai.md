@@ -44,6 +44,9 @@ sources:
 related: ["creer-sa-societe-a-dubai", "impots-dubai", "zone-franche-dubai", "societe-offshore-dubai", "visa-residence-dubai"]
 order: 62
 key: "nl-bv-verplaatsen-naar-dubai"
+image: "/assets/photos/nl-bv-verplaatsen-naar-dubai.webp"
+imageAlt: "Wolkenkrabbers van Business Bay langs het Dubai Water Canal"
+imageCredit: "Foto: Sergei Gussev, CC BY 2.0, Wikimedia Commons"
 ---
 
 ## Eerst dit: waarom dit geen doe-het-zelf-onderwerp is

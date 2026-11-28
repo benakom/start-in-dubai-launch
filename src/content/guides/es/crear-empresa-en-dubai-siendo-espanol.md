@@ -47,6 +47,9 @@ sources:
 related: ["creer-sa-societe-a-dubai", "zone-franche-dubai", "ouvrir-un-compte-bancaire-a-dubai", "impots-dubai", "freelance-dubai"]
 order: 70
 key: "es-crear-empresa-en-dubai-siendo-espanol"
+image: "/assets/photos/es-crear-empresa-en-dubai-siendo-espanol.webp"
+imageAlt: "Torres de oficinas de Business Bay, en Dubái: The Bay Gate, One Business Bay y The Prism"
+imageCredit: "Foto: giggel, CC BY 3.0, Wikimedia Commons"
 ---
 
 ## Crear una empresa en Dubái siendo español: lo que cambia por tu nacionalidad

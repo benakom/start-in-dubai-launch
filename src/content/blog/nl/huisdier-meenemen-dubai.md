@@ -39,6 +39,9 @@ sources:
 related: ["vivre-a-dubai", "s-installer-a-dubai", "s-installer-a-dubai-en-famille", "visa-residence-dubai", "cout-de-la-vie-dubai"]
 order: 73
 key: "nl-huisdier-meenemen-dubai"
+image: "/assets/photos/nl-huisdier-meenemen-dubai.webp"
+imageAlt: "Een kat rust op een muurtje in Dubai"
+imageCredit: "Foto: Darafsh, CC BY-SA 3.0, Wikimedia Commons"
 ---
 
 ## Mag u uw hond of kat meenemen naar Dubai?

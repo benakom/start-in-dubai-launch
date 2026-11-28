@@ -42,6 +42,9 @@ sources:
 related: ["s-installer-a-dubai", "visa-residence-dubai", "impots-dubai", "cout-de-la-vie-dubai", "ouvrir-un-compte-bancaire-a-dubai"]
 order: 70
 key: "es-mudarse-a-dubai-desde-chile"
+image: "/assets/photos/es-mudarse-a-dubai-desde-chile.webp"
+imageAlt: "Avión de Emirates en la plataforma del aeropuerto internacional de Dubái, visto desde la Terminal 3"
+imageCredit: "Foto: Kgbo, CC BY-SA 4.0, Wikimedia Commons"
 ---
 
 ## Lo esencial si vienes de Chile
