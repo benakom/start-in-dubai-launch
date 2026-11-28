@@ -223,7 +223,7 @@
   /* ---------------------------------------------------------------- navigation */
   function show(n, instant) {
     const old = els[idx], nw = els[n], fwd = n >= idx;
-    if (old && old !== nw) { old.classList.remove("is-on"); old.classList.toggle("is-up", fwd); }
+    if (old && old !== nw) { clearVerify(old); old.classList.remove("is-on"); old.classList.toggle("is-up", fwd); }
     nw.style.transition = "none"; nw.classList.toggle("is-up", !fwd && !instant); void nw.offsetWidth; nw.style.transition = "";
     nw.classList.remove("is-up"); nw.classList.add("is-on");
     idx = n;
@@ -286,6 +286,24 @@
     return true;
   }
 
+  /* ---------------------------------------------------------------- vérification de l'e-mail (code à 6 chiffres) */
+  const getVerify = () => window.sidVerify ? Promise.resolve(window.sidVerify) : (window.__sidVerifyP ||= new Promise((res, rej) => {
+    const sc = document.createElement("script"); sc.src = "/assets/verify.js?v=1"; sc.onload = () => res(window.sidVerify); sc.onerror = rej; document.head.append(sc);
+  }));
+  function clearVerify(step) { if (!step) return; step.classList.remove("verifying"); $(".sv-host", step)?.remove(); }
+  async function startVerify(email) {
+    const step = els[idx], inner = $(".step-in", step);
+    clearVerify(step);
+    const host = el("div", "sv-host"); inner.append(host);
+    step.classList.add("verifying");
+    try {
+      const v = await getVerify();
+      v.mount(host, { email, lang: LANG, theme: "light",
+        onVerified: (proof) => { data.emailProof = proof; data.emailProofFor = email; clearVerify(step); submit(); },
+        onBack: () => { clearVerify(step); $("input[name=email]", step)?.focus(); } });
+    } catch { clearVerify(step); err(tr("err_send")); }
+  }
+
   /* ---------------------------------------------------------------- envoi */
   // Ligne de la table « leads » de Cevitas : Cevitas la pousse ensuite dans Oleadoo (canal = source, tag en tête des notes).
   function crmRow(p) {
@@ -294,6 +312,7 @@
     const notes = [
       `Tag : ${tag}`,
       "Demande d'accompagnement (site startindubai.com)",
+      p.emailVerified ? "E-mail vérifié par code" : null,
       p.country ? `Pays : ${p.country}` : null,
       p.siteLang && p.siteLang !== "fr" ? `Langue du site : ${p.siteLang}` : null,
       p.horizon ? `Horizon : ${p.horizon}` : null,
@@ -348,7 +367,7 @@
     try {
       fetch("/api/lead", { method: "POST", headers: { "content-type": "application/json" }, keepalive: true,
         body: JSON.stringify({ name: p.firstName, email: p.email, phone: p.phone, lang: p.siteLang, project: [p.profileLabel, (p.needsLabels || []).join(", ")].filter(Boolean).join(" · "),
-          when: p.horizon || "", source: p.source || "start-in-dubai", page: location.pathname }) }).catch(() => {});
+          when: p.horizon || "", source: p.source || "start-in-dubai", page: location.pathname, proof: p.emailProof || "" }) }).catch(() => {});
     } catch { /* jamais bloquant */ }
   }
 
@@ -367,6 +386,8 @@
     if (!validate()) return;
     const ok = $(".ok", els[idx]);
     if (honeypot && honeypot.value) { finish(); return; }
+    const mail = data.email.trim().toLowerCase();
+    if (!data.emailProof || data.emailProofFor !== mail) { startVerify(mail); return; }
     const q = new URLSearchParams(location.search);
     const { profile, profileLabel } = profileOf();
     const payload = {
@@ -374,7 +395,7 @@
       profile, profileLabel, profileFromPage: !!preset,
       needs: data.needs, needsLabels: data.needs.map((n) => FR[n]), siteLang: LANG,
       country: data.iso === "OTHER" ? "Autre pays (" + (data.phoneIntl || "").slice(0, 4) + ")" : regionName(data.iso, "fr"),
-      horizon: FR[data.horizon] || data.horizon, message: data.message.trim(), consent: true,
+      horizon: FR[data.horizon] || data.horizon, message: data.message.trim(), consent: true, emailVerified: true, emailProof: data.emailProof,
       source: (C.crm && C.crm.source) || "start-in-dubai", tag: (C.crm && C.crm.tag) || "Start in Dubai", page: location.href.split("#")[0], referrer: document.referrer || "",
       utm: Object.fromEntries([...q.entries()].filter(([k]) => k.startsWith("utm_"))),
       language: navigator.language || "", launchDate: LAUNCH_ISO, submittedAt: new Date().toISOString(),
@@ -445,6 +466,7 @@
     if (tf.hidden) return;
     const t = e.target, s = STEPS[idx];
     if (e.key === "Escape") { e.preventDefault(); close(); return; }
+    if (els[idx] && els[idx].classList.contains("verifying")) return;
     if (e.key === "Enter") {
       if (t.tagName === "TEXTAREA" && e.shiftKey) return;
       if (t.classList && (t.classList.contains("ok") || t.classList.contains("tf-close") || t.closest(".tf-nav") || t.dataset.share != null)) return; // le bouton gère lui-même

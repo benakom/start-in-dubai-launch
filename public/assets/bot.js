@@ -117,6 +117,7 @@ body:has(.sticky.is-on) .sb{bottom:calc(92px + env(safe-area-inset-bottom))}
 .sb-chips{display:flex;flex-wrap:wrap;gap:8px;margin:2px 0 12px}
 .sb-chips button{padding:9px 13px;border:1.5px solid var(--sb-red);border-radius:999px;background:#fff;color:var(--sb-red);font:inherit;font-size:14px;font-weight:700;cursor:pointer;transition:background .15s,color .15s}
 .sb-chips button:hover,.sb-chips button:focus-visible{background:var(--sb-red);color:#fff;outline:none}
+.sb .sv-host{margin:2px 0 6px;padding:14px;border-radius:14px;background:#fff;color:#111;box-shadow:0 1px 2px rgba(0,0,0,.06)}
 .sb-form{margin:2px 0 6px;padding:14px;border-radius:14px;background:#fff;box-shadow:0 1px 2px rgba(0,0,0,.06);animation:sbIn .25s ease both}
 .sb-form label{display:block;margin:0 0 10px;font-size:12.5px;font-weight:700;color:#333}
 .sb-form input{display:block;width:100%;margin-top:5px;padding:11px 12px;border:1.5px solid var(--sb-line);border-radius:10px;font:inherit;font-size:16px;color:var(--sb-ink);background:#fff}
@@ -255,9 +256,10 @@ body:has(.sticky.is-on) .sb{bottom:calc(92px + env(safe-area-inset-bottom))}
       if (!intl || d.length < 8 || d.length > 15) { err.textContent = t.ePhone; iPhone.focus(); return; }
       if (mail && !/^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(mail)) { err.textContent = t.eEmail; iMail.focus(); return; }
       if (hp.value) { done(name, f); return; }
+      const go = async (proof) => {
       send.disabled = true; send.textContent = t.sending;
       try {
-        await sendLead({ name, phone: "+" + d, email: mail, news: cb.checked });
+        await sendLead({ name, phone: "+" + d, email: mail, news: cb.checked, proof });
         window.gtag?.("event", "generate_lead", { lead_source: "bot", project: FR.p[state.project] });
         window.fbq?.("track", "Lead", { content_name: TAG });
         store.set("sid_bot_lead", { name, at: new Date().toISOString() });
@@ -267,8 +269,24 @@ body:has(.sticky.is-on) .sb{bottom:calc(92px + env(safe-area-inset-bottom))}
         err.textContent = t.eSend;
         send.disabled = false; send.textContent = t.send;
       }
+      };
+      if (!mail) { go(null); return; }
+      // e-mail renseigné : il est vérifié par un code avant l'envoi
+      f.hidden = true;
+      const host = el("div", "sv-host"); body.append(host); down();
+      try {
+        const v = await getVerify();
+        v.mount(host, { email: mail, lang: LANG, theme: "compact",
+          onVerified: (proof) => { host.remove(); f.hidden = false; go(proof); },
+          onBack: () => { host.remove(); f.hidden = false; iMail.focus(); down(); } });
+        setTimeout(down, 80);
+      } catch (ex) { host.remove(); f.hidden = false; err.textContent = t.eSend; }
     });
   }
+
+  const getVerify = () => window.sidVerify ? Promise.resolve(window.sidVerify) : (window.__sidVerifyP ||= new Promise((res, rej) => {
+    const sc = document.createElement("script"); sc.src = "/assets/verify.js?v=1"; sc.onload = () => res(window.sidVerify); sc.onerror = rej; document.head.append(sc);
+  }));
 
   async function done(name, f) {
     f.remove();
@@ -288,7 +306,7 @@ body:has(.sticky.is-on) .sb{bottom:calc(92px + env(safe-area-inset-bottom))}
       phone: p.phone,
       interest: [TAG, project, when].filter(Boolean).join(" · ").slice(0, 500),
       notes: [`Tag : ${TAG}`, "Assistant du site startindubai.com", project && `Projet : ${project}`, when && `Échéance : ${when}`,
-        `Langue du site : ${LANG}`, `Page : ${location.pathname}`].filter(Boolean).join(" · ").slice(0, 2000),
+        `Langue du site : ${LANG}`, `Page : ${location.pathname}`, p.proof ? "E-mail vérifié par code" : null].filter(Boolean).join(" · ").slice(0, 2000),
       source: SOURCE,
       language: LANG,
       utm_source: q.get("utm_source"), utm_medium: q.get("utm_medium"), utm_campaign: q.get("utm_campaign"),
@@ -300,9 +318,9 @@ body:has(.sticky.is-on) .sb{bottom:calc(92px + env(safe-area-inset-bottom))}
     const auth = { apikey: crm.publishableKey, Authorization: "Bearer " + crm.publishableKey, "Content-Type": "application/json" };
     const r = await fetch(base + "/rest/v1/leads", { method: "POST", headers: { ...auth, Prefer: "return=minimal" }, body: JSON.stringify(row), keepalive: true });
     if (!r.ok) throw new Error("CRM HTTP " + r.status + " " + (await r.text().catch(() => "")));
-    if (p.email) fetch("/api/lead", { method: "POST", headers: { "content-type": "application/json" }, keepalive: true,
+    if (p.email && p.proof) fetch("/api/lead", { method: "POST", headers: { "content-type": "application/json" }, keepalive: true,
       body: JSON.stringify({ name: p.name, email: p.email, phone: p.phone, lang: LANG, project: [FR.p[state.project], t.p[state.project]].filter(Boolean)[0] || "",
-        when: FR.w[state.when] || "", source: SOURCE, page: location.pathname, news: !!p.news }) }).catch(() => {});
+        when: FR.w[state.when] || "", source: SOURCE, page: location.pathname, news: !!p.news, proof: p.proof || "" }) }).catch(() => {});
     if (crm.notifyEmail) fetch(base + "/functions/v1/send-lead-email", { method: "POST", headers: auth, body: JSON.stringify(row), keepalive: true }).catch(() => {});
     const hook = (C.leadWebhookUrl || "").trim();
     if (hook) fetch(hook, { method: "POST", mode: "no-cors", headers: { "Content-Type": "text/plain;charset=UTF-8" }, body: JSON.stringify({ ...row, tag: TAG }), keepalive: true }).catch(() => {});

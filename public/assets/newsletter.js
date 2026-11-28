@@ -1,5 +1,5 @@
 /* Start in Dubai : inscription à la newsletter (bandeau au-dessus du pied de page, toutes les pages).
-   Envoi vers /api/newsletter (relais Cloudflare -> Brevo, double confirmation dans la langue de la page).
+   L'adresse est vérifiée par un code à 6 chiffres (verify.js), puis envoyée à /api/newsletter (relais Cloudflare -> Brevo).
    Chargé par site.js après le chargement de la page. */
 (() => {
   "use strict";
@@ -33,6 +33,9 @@
       l: "I Suoi dati servono solo a inviarLe le nostre email.", sending: "Invio…" },
   };
   const t = T[LANG] || T.en;
+  const getVerify = () => window.sidVerify ? Promise.resolve(window.sidVerify) : (window.__sidVerifyP ||= new Promise((res, rej) => {
+    const sc = document.createElement("script"); sc.src = "/assets/verify.js?v=1"; sc.onload = () => res(window.sidVerify); sc.onerror = rej; document.head.append(sc);
+  }));
 
   const css = `
 .snl{background:#0B0B0B;color:#fff;padding:44px 0 40px;position:relative}
@@ -71,17 +74,27 @@
       msg.className = "snl-msg"; msg.textContent = "";
       const email = inp.value.trim().toLowerCase();
       if (!/^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(email)) { msg.classList.add("err"); msg.textContent = t.e; inp.focus(); return; }
+      if (f.website.value) { msg.classList.add("ok"); msg.textContent = t.c; return; } // piège à robots
       btn.disabled = true; btn.textContent = t.sending;
-      try {
-        const r = await fetch("/api/newsletter", { method: "POST", headers: { "content-type": "application/json" },
-          body: JSON.stringify({ email, lang: LANG, source: "newsletter-site", page: location.pathname, website: f.website.value }) });
-        if (!r.ok) throw new Error("HTTP " + r.status);
-        msg.classList.add("ok"); msg.textContent = t.ok; inp.value = "";
-        window.gtag?.("event", "sign_up", { method: "newsletter" });
-        window.fbq?.("track", "Subscribe");
-      } catch (ex) {
-        msg.classList.add("err"); msg.textContent = t.f;
-      } finally { btn.disabled = false; btn.textContent = t.b; }
+      let v;
+      try { v = await getVerify(); } catch { msg.classList.add("err"); msg.textContent = t.f; btn.disabled = false; btn.textContent = t.b; return; }
+      btn.disabled = false; btn.textContent = t.b;
+      // étape code : le formulaire laisse la place à la saisie du code envoyé par e-mail
+      f.hidden = true;
+      const host = document.createElement("div"); host.className = "sv-host"; f.after(host);
+      v.mount(host, { email, lang: LANG, theme: "dark",
+        onBack: () => { host.remove(); f.hidden = false; inp.focus(); },
+        onVerified: async (proof) => {
+          host.remove(); f.hidden = false;
+          try {
+            const r = await fetch("/api/newsletter", { method: "POST", headers: { "content-type": "application/json" },
+              body: JSON.stringify({ email, lang: LANG, source: "newsletter-site", page: location.pathname, proof }) });
+            if (!r.ok) throw new Error("HTTP " + r.status);
+            msg.classList.add("ok"); msg.textContent = t.c; inp.value = "";
+            window.gtag?.("event", "sign_up", { method: "newsletter" });
+            window.fbq?.("track", "Subscribe");
+          } catch (ex) { msg.classList.add("err"); msg.textContent = t.f; }
+        } });
     });
   }
 
