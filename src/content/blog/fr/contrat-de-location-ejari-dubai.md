@@ -50,9 +50,9 @@ sources:
     url: "https://www.gdrfad.gov.ae/en/services/95222a46-56f2-11ea-0320-0050569629e8"
 related: ["s-installer-a-dubai", "visa-famille-dubai", "cout-de-la-vie-dubai", "demenagement-dubai", "s-installer-a-dubai-en-famille"]
 order: 60
-photo_brief:
-  - "COUVERTURE : un locataire signe un contrat de location au comptoir d’un centre de services immobiliers à Dubaï, Emirates ID posée sur le bureau | tenant signing tenancy contract real estate office Dubai"
-  - "SECTION Comment enregistrer son Ejari : les canaux officiels : une personne qui utilise une application gouvernementale sur son smartphone dans un appartement vide le jour de l’emménagement, cartons au sol | person using smartphone app moving day empty apartment Dubai"
+image: "/assets/photos/contrat-de-location-ejari-dubai.webp"
+imageAlt: "Deux personnes relisent un contrat avant de le signer, sur un bureau"
+imageCredit: "Photo : Amina Atar / Unsplash"
 ---
 
 ## Ejari à Dubaï : de quoi parle-t-on ?
@@ -103,7 +103,7 @@ Les recherches « ejari prix » renvoient souvent à des montants plus élevés 
 
 ## Comment enregistrer son Ejari : les canaux officiels
 
-<!-- PHOTO 2 -->
+<figure><img src="/assets/photos/contrat-de-location-ejari-dubai-2.webp" alt="Un couple consulte une tablette au milieu des cartons du déménagement" width="1200" height="800" loading="lazy" decoding="async" /><figcaption>Un couple consulte une tablette au milieu des cartons du déménagement · Photo : Vitaly Gariev / Unsplash</figcaption></figure>
 
 Le DLD propose trois canaux. Le bon choix dépend surtout de qui gère le logement.
 

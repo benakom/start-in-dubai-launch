@@ -48,9 +48,9 @@ sources:
     url: "https://www.rta.ae/wps/portal/rta/ae/home/rta-services/service-details?serviceId=121"
 related: ["s-installer-a-dubai", "visa-residence-dubai", "ouvrir-un-compte-bancaire-a-dubai", "cout-de-la-vie-dubai", "demenagement-dubai"]
 order: 60
-photo_brief:
-  - "COUVERTURE : une personne qui arrive au hall des arrivées de l'aéroport de Dubaï (DXB) avec ses valises et son passeport | Dubai airport arrivals hall traveler luggage"
-  - "SECTION Semaines 2 et 3 : se loger, Ejari et DEWA : un locataire qui reçoit les clés d'un appartement dans un immeuble résidentiel de Dubaï | tenant receiving apartment keys Dubai"
+image: "/assets/photos/checklist-30-premiers-jours-dubai.webp"
+imageAlt: "Des voyageurs et leurs chariots à bagages dans le terminal 3 de l'aéroport de Dubaï"
+imageCredit: "Photo : wei / Unsplash"
 ---
 
 ## Les premiers jours à Dubaï : la règle qui commande tout
@@ -152,7 +152,7 @@ Avec l'Emirates ID original, enregistrez une ligne de résident chez l'opérateu
 
 ## Semaines 2 et 3 : se loger, Ejari et DEWA
 
-<!-- PHOTO 2 -->
+<figure><img src="/assets/photos/checklist-30-premiers-jours-dubai-2.webp" alt="Une main tend les clés d'un logement sur le pas de la porte" width="1200" height="800" loading="lazy" decoding="async" /><figcaption>Une main tend les clés d'un logement sur le pas de la porte · Photo : Jakub Żerdzicki / Unsplash</figcaption></figure>
 
 ### Le bail et l'Ejari
 

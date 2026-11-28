@@ -48,9 +48,9 @@ sources:
     url: "https://tax.gov.ae/DataFolder/Files/Pdf/Executive%20Regulation%20of%20Federal%20Decree%20Law%20No%208%20of%202017%20-%20Publish-new-2.pdf"
 related: ["societe-mainland-dubai", "licence-commerciale-dubai", "creer-sa-societe-a-dubai", "tva-dubai", "contrat-de-travail-dubai"]
 order: 55
-photo_brief:
-  - "COUVERTURE : la salle et le comptoir d'un petit café-restaurant de quartier à Dubaï, avec la cuisine ouverte en arrière-plan et le personnel au travail | small cafe restaurant counter open kitchen Dubai"
-  - "SECTION L'accord de la municipalité de Dubaï : un inspecteur ou un chef en tenue qui contrôle une cuisine professionnelle en inox (plans de travail, chambre froide, bacs étiquetés) | commercial restaurant kitchen inspection stainless steel Dubai"
+image: "/assets/photos/ouvrir-un-restaurant-a-dubai.webp"
+imageAlt: "Un employé prépare des commandes derrière le comptoir d'un café"
+imageCredit: "Photo : Rumman Amin / Unsplash"
 ---
 
 ## Ouvrir un restaurant à Dubaï : ce qu'il faut savoir avant de signer un bail
@@ -111,7 +111,7 @@ Vous choisissez l'activité, la forme juridique et le nom commercial sur la plat
 
 Avant de signer, vérifiez que le local peut accueillir une cuisine : extraction des fumées, évacuation des eaux grasses, alimentation électrique, accès pour les livraisons et les déchets. Le bail doit ensuite être enregistré sur Ejari. Un bail signé pour un local inadapté à la restauration est l'erreur la plus coûteuse d'un projet.
 
-<!-- PHOTO 2 -->
+<figure><img src="/assets/photos/ouvrir-un-restaurant-a-dubai-2.webp" alt="Un chef au travail devant les fourneaux d'une cuisine professionnelle en inox" width="1200" height="800" loading="lazy" decoding="async" /><figcaption>Un chef au travail devant les fourneaux d'une cuisine professionnelle en inox · Photo : Ahmet Safa Türkyılmaz / Unsplash</figcaption></figure>
 
 ### 3. L'accord de la municipalité de Dubaï
 

@@ -44,9 +44,9 @@ sources:
     url: "https://u.ae/en/information-and-services/jobs/Workplace-regulations/insurance/unemployment-insurance-scheme"
 related: ["contrat-de-travail-dubai", "cout-de-la-vie-dubai", "travailler-a-dubai", "visa-famille-dubai", "ecoles-internationales-dubai"]
 order: 62
-photo_brief:
-  - "COUVERTURE : un couple assis à une table de cuisine dans un appartement de Dubaï, qui compare deux offres d’emploi imprimées avec une calculatrice | couple comparing job offer documents apartment Dubai"
-  - "SECTION Scolarité, billets, assurance de la famille : un parent qui dépose ses enfants en uniforme devant une école internationale à Dubaï | parents dropping children international school Dubai morning"
+image: "/assets/photos/negocier-son-package-expatrie-dubai.webp"
+imageAlt: "Un couple lit un document ensemble dans sa cuisine"
+imageCredit: "Photo : Vitaly Gariev / Unsplash"
 ---
 
 À Dubaï, on ne compare pas des salaires, on compare des **packages**. Deux offres affichant le même total peuvent donner des niveaux de vie, et des sommes de fin de contrat, très différents. Notre article sur le [salaire à Dubaï](/blog/salaire-a-dubai/) explique comment savoir si une rémunération est bonne. Celui-ci va plus loin sur une question : **comment construire et négocier son package d’expatrié**, élément par élément, avec une méthode de comparaison chiffrée.
@@ -97,7 +97,7 @@ Comparez l’indemnité de logement aux loyers réels du quartier où vous compt
 
 Selon u.ae, **à Dubaï, l’employeur doit assurer ses salariés**, et **le parrain doit assurer les personnes qu’il parraine**. Si vous faites venir votre conjoint et vos enfants, leur assurance est donc à votre charge, sauf si le package l’inclut. Demandez aussi le niveau de couverture : réseau de cliniques, maternité, soins dentaires, soins dans votre pays d’origine. Notre article sur l’[assurance santé à Dubaï](/blog/assurance-sante-dubai/) détaille ce qu’il faut regarder dans un contrat.
 
-<!-- PHOTO 2 -->
+<figure><img src="/assets/photos/negocier-son-package-expatrie-dubai-2.webp" alt="Une fillette souriante, son sac à dos d'écolière sur les épaules" width="1200" height="800" loading="lazy" decoding="async" /><figcaption>Une fillette souriante, son sac à dos d'écolière sur les épaules · Photo : Rajesh Rajput / Unsplash</figcaption></figure>
 
 ### Scolarité, billets, assurance de la famille : les éléments qui pèsent pour une famille
 

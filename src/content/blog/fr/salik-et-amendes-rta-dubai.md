@@ -52,9 +52,9 @@ sources:
     url: "https://moi.gov.ae/en/media.center/News/News2K2015325.aspx"
 related: ["vivre-a-dubai", "lois-et-regles-a-dubai", "cout-de-la-vie-dubai", "s-installer-a-dubai"]
 order: 64
-photo_brief:
-  - "COUVERTURE : un portique de péage Salik au-dessus de Sheikh Zayed Road avec la circulation dessous | Salik toll gate Sheikh Zayed Road Dubai traffic"
-  - "SECTION Les amendes de circulation : police et RTA : un conducteur consulte une application d’amendes sur son téléphone, garé, à l’intérieur d’une voiture à Dubaï | driver checking traffic fines smartphone app parked car Dubai"
+image: "/assets/photos/salik-et-amendes-rta-dubai.webp"
+imageAlt: "Les échangeurs autoroutiers de Downtown Dubaï, au pied de Burj Khalifa"
+imageCredit: "Photo : David Rodrigo / Unsplash"
 ---
 
 ## Salik : comment fonctionne le péage de Dubaï
@@ -122,7 +122,7 @@ En pratique, pour un véhicule non enregistré, la presse émirienne décrit l�
 
 ## Les amendes de circulation : police et RTA
 
-<!-- PHOTO 2 -->
+<figure><img src="/assets/photos/salik-et-amendes-rta-dubai-2.webp" alt="Un conducteur consulte son téléphone, assis dans sa voiture à l'arrêt, portière ouverte" width="1200" height="800" loading="lazy" decoding="async" /><figcaption>Un conducteur consulte son téléphone, assis dans sa voiture à l'arrêt, portière ouverte · Photo : sammy swae / Unsplash</figcaption></figure>
 
 ### Le cadre légal
 

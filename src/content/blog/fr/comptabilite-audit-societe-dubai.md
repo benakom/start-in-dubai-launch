@@ -50,9 +50,9 @@ sources:
     url: "https://www.jafza.ae/resource-centre/guides/audit-report-submission-fze-fzco/"
 related: ["impot-sur-les-societes-dubai", "tva-dubai", "creer-sa-societe-a-dubai", "zone-franche-dubai", "societe-mainland-dubai"]
 order: 70
-photo_brief:
-  - "COUVERTURE : une comptable qui classe des factures et des relevés bancaires sur un bureau, ordinateur ouvert sur un logiciel de comptabilité, dans un bureau de Business Bay ou de JLT | accountant reviewing invoices office Dubai"
-  - "SECTION Audit obligatoire : qui doit faire auditer ses comptes ? : deux auditeurs en réunion avec un dirigeant autour de classeurs et d'un rapport financier imprimé, dans une salle de réunion de tour de bureaux à Dubaï | auditors meeting financial report Dubai office"
+image: "/assets/photos/comptabilite-audit-societe-dubai.webp"
+imageAlt: "Une personne fait ses comptes à son bureau, calculatrice et carnet ouverts"
+imageCredit: "Photo : Jakub Żerdzicki / Unsplash"
 ---
 
 ## Comptabilité d'une société à Dubaï : ce que la loi impose à tout le monde
@@ -103,7 +103,7 @@ En pratique, une société qui démarre gagne à tenir dès le premier mois une 
 
 ## Audit obligatoire : qui doit faire auditer ses comptes ?
 
-<!-- PHOTO 2 -->
+<figure><img src="/assets/photos/comptabilite-audit-societe-dubai-2.webp" alt="Trois collègues passent en revue des documents en réunion" width="1200" height="800" loading="lazy" decoding="async" /><figcaption>Trois collègues passent en revue des documents en réunion · Photo : Vitaly Gariev / Unsplash</figcaption></figure>
 
 C'est la question qui crée le plus de confusion, parce que **trois sources de règles se superposent** : la loi sur les sociétés, la loi fiscale et le règlement de votre zone franche. Une seule qui l'exige suffit à rendre l'audit obligatoire.
 

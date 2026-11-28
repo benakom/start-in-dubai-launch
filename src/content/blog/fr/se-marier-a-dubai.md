@@ -46,9 +46,9 @@ sources:
     url: "https://www.fh2mre.ma/?p=18904"
 related: ["legalisation-documents-dubai", "visa-famille-dubai", "s-installer-a-dubai-en-famille", "lois-et-regles-a-dubai", "francais-a-dubai"]
 order: 60
-photo_brief:
-  - "COUVERTURE : un couple signant son certificat de mariage au guichet d’un tribunal ou d’un bureau officiel aux Émirats, alliances visibles, sans visage de face | couple signing marriage certificate court office UAE"
-  - "SECTION Après le mariage : faire reconnaître l’acte dans votre pays : des documents officiels (acte de mariage, passeports, tampons de légalisation) posés sur un bureau | marriage certificate passports attestation stamps documents desk"
+image: "/assets/photos/se-marier-a-dubai.webp"
+imageAlt: "Les mariés signent leur acte de mariage, alliance au doigt"
+imageCredit: "Photo : Fotógrafo Samuel Cruz / Unsplash"
 ---
 
 ## Se marier à Dubaï : les trois cadres possibles
@@ -161,7 +161,7 @@ Le parcours : demande électronique et paiement sur le site des tribunaux de Dub
 
 Ailleurs, selon u.ae, Abu Dhabi et Ras Al Khaimah ont leurs propres tribunaux, Sharjah, Fujairah, Ajman et Umm Al Quwain relèvent des tribunaux fédéraux (Ajman propose aussi son propre service), et le système **e-Zawaj** du ministère de la Justice permet de déposer la demande, de prendre rendez-vous et de payer en ligne.
 
-<!-- PHOTO 2 -->
+<figure><img src="/assets/photos/se-marier-a-dubai-2.webp" alt="Un tampon officiel posé sur un bureau, à côté d'une enveloppe" width="1200" height="800" loading="lazy" decoding="async" /><figcaption>Un tampon officiel posé sur un bureau, à côté d'une enveloppe · Photo : Raymond Petrik / Unsplash</figcaption></figure>
 
 ## Après le mariage : faire reconnaître l’acte dans votre pays
 

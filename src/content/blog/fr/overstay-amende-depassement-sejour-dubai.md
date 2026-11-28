@@ -44,9 +44,9 @@ sources:
     url: "https://www.wam.ae/en/article/b5ykyyj-grace-period-for-violators-extended-31st-december"
 related: ["visa-dubai", "visa-residence-dubai", "visa-recherche-emploi-dubai", "lois-et-regles-a-dubai", "contrat-de-travail-dubai"]
 order: 62
-photo_brief:
-  - "COUVERTURE : un voyageur qui présente son passeport au comptoir du contrôle des passeports, au départ de l'aéroport international de Dubaï (DXB) | Dubai airport passport control departure"
-  - "SECTION Vérifier et payer son amende : une personne qui consulte sur son téléphone une application de services gouvernementaux, avec un passeport posé sur la table, dans un appartement à Dubaï | person checking government app on smartphone with passport Dubai"
+image: "/assets/photos/overstay-amende-depassement-sejour-dubai.webp"
+imageAlt: "Gros plan d'un passeport ouvert, couvert de tampons d'entrée et de sortie"
+imageCredit: "Photo : Kit / Unsplash"
 ---
 
 ## Overstay à Dubaï : de quoi parle-t-on ?
@@ -93,7 +93,7 @@ Pour un visa de visite ou touristique, les sources officielles consultées appli
 
 La solution, si vous devez rester plus longtemps, est de **prolonger le visa avant son expiration**, depuis les Émirats. Selon le type de visa, la demande passe par l'ICP ou la GDRFA, souvent par l'agence de voyage, la compagnie aérienne ou l'hôte qui a demandé le visa. Les conditions et les frais figurent sur la fiche de service correspondante. Si vous cherchez du travail sur place, il existe un visa dédié : voir notre guide du [visa de recherche d'emploi à Dubaï](/visa-recherche-emploi-dubai/).
 
-<!-- PHOTO 2 -->
+<figure><img src="/assets/photos/overstay-amende-depassement-sejour-dubai-2.webp" alt="Une femme vérifie une démarche sur son smartphone" width="1200" height="800" loading="lazy" decoding="async" /><figcaption>Une femme vérifie une démarche sur son smartphone · Photo : Vitaly Gariev / Unsplash</figcaption></figure>
 
 ## Vérifier et payer son amende
 

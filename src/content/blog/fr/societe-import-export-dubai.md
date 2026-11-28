@@ -48,9 +48,9 @@ sources:
     url: "https://tax.gov.ae/Datafolder/Files/Pdf/2024/CT%20Bulletin/Basic%20Tax%20Information%20bulletin-%20Free%20Zone%20Person-English.pdf"
 related: ["zone-franche-dubai", "licence-commerciale-dubai", "meilleures-free-zones-dubai", "tva-dubai", "impot-sur-les-societes-dubai"]
 order: 56
-photo_brief:
-  - "COUVERTURE : des conteneurs empilés et des portiques de chargement au port de Jebel Ali, à Dubaï | Jebel Ali port containers cranes Dubai"
-  - "SECTION Dédouaner une marchandise : un entrepôt logistique à Dubaï avec des palettes filmées et un employé qui scanne des colis | logistics warehouse pallets worker scanning Dubai"
+image: "/assets/photos/societe-import-export-dubai.webp"
+imageAlt: "Les tours jumelles de Deira au bord de la crique de Dubaï, avec des boutres amarrés en contrebas"
+imageCredit: "Photo : Far Chinberdiev / Unsplash"
 ---
 
 ## Société d'import-export à Dubaï : les trois briques à réunir
@@ -144,7 +144,7 @@ Dubai Customs prévoit un régime d'**importation pour réexportation** (politiq
 
 Pour une activité de réexportation régulière, une zone franche reste en général plus simple que ce régime au cas par cas.
 
-<!-- PHOTO 2 -->
+<figure><img src="/assets/photos/societe-import-export-dubai-2.webp" alt="Un employé scanne un produit dans une réserve remplie de cartons" width="1200" height="800" loading="lazy" decoding="async" /><figcaption>Un employé scanne un produit dans une réserve remplie de cartons · Photo : Cova Software / Unsplash</figcaption></figure>
 
 ## TVA à l'import : qui paie, quand et sur quelle base
 

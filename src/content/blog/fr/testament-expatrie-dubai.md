@@ -46,9 +46,9 @@ sources:
     url: "https://u.ae/en/information-and-services/social-affairs/Life-events/deaths"
 related: ["ouvrir-un-compte-bancaire-a-dubai", "s-installer-a-dubai-en-famille", "holding-dubai", "investir-a-dubai", "impots-dubai"]
 order: 70
-photo_brief:
-  - "COUVERTURE : une personne signant un document officiel devant un écran de visioconférence ou une tablette, dans un bureau à Dubaï, mains et document visibles | signing will document tablet office Dubai"
-  - "SECTION Les trois façons d’enregistrer un testament aux Émirats : l’entrée du quartier DIFC (Gate Building) à Dubaï | DIFC Gate Building Dubai"
+image: "/assets/photos/testament-expatrie-dubai.webp"
+imageAlt: "Une conseillère présente un document à signer à son client"
+imageCredit: "Photo : Vitaly Gariev / Unsplash"
 ---
 
 ## Pourquoi un testament compte autant à Dubaï
@@ -91,7 +91,7 @@ Attention à une règle souvent ignorée : selon l’article 4 de la loi de Duba
 | Tribunaux de Dubaï (registre des testaments de non-musulmans) | Non-musulmans | À vérifier auprès des tribunaux de Dubaï | Dubaï |
 | Département judiciaire d’Abu Dhabi (testaments de non-musulmans) | Non-musulmans | 950 AED (testament « spécial » : 2 500 AED) | Abu Dhabi, à vérifier pour les autres émirats |
 
-<!-- PHOTO 2 -->
+<figure><img src="/assets/photos/testament-expatrie-dubai-2.webp" alt="Une main signe un document officiel au stylo" width="1200" height="800" loading="lazy" decoding="async" /><figcaption>Une main signe un document officiel au stylo · Photo : Jakub Żerdzicki / Unsplash</figcaption></figure>
 
 ### 1. La DIFC Courts (Dubai International Financial Centre)
 

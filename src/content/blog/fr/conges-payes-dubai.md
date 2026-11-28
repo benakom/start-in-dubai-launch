@@ -40,9 +40,9 @@ sources:
     url: "https://mohre.gov.ae/en/guidance-and-awareness-portal-new/employee-companies/dear-worker-know-your-rights"
 related: ["contrat-de-travail-dubai", "travailler-a-dubai", "s-installer-a-dubai-en-famille", "visa-famille-dubai", "vivre-a-dubai"]
 order: 62
-photo_brief:
-  - "COUVERTURE : un hall de départ du terminal 3 de l'aéroport de Dubaï avec des voyageurs et leurs valises, en période de vacances | Dubai International Airport terminal 3 departures travellers"
-  - "SECTION Congé maternité : 60 jours, dont 45 à plein salaire : une jeune mère avec son nouveau-né dans une chambre de maternité d'un hôpital de Dubaï | mother newborn hospital room Dubai"
+image: "/assets/photos/conges-payes-dubai.webp"
+imageAlt: "Un A380 d'Emirates à la passerelle d'embarquement de l'aéroport de Dubaï"
+imageCredit: "Photo : Nejc Soklič / Unsplash"
 ---
 
 Combien de jours de vacances aurez-vous à Dubaï ? Que se passe-t-il si vous tombez malade, si vous attendez un enfant ou si un proche décède ? Cette page rassemble **tous les congés d'un salarié du secteur privé** prévus par la loi fédérale : congé annuel, jours fériés, maternité, congé parental, maladie, deuil, études, pèlerinage et congé sans solde, avec leur durée, leur rémunération et les règles de report et de paiement.
@@ -140,7 +140,7 @@ Pendant le **ramadan**, ce ne sont pas des congés mais un horaire réduit : sel
 
 ## Congé maternité : 60 jours, dont 45 à plein salaire
 
-<!-- PHOTO 2 -->
+<figure><img src="/assets/photos/conges-payes-dubai-2.webp" alt="Une jeune mère tient son nouveau-né dans les bras, dans une chambre de maternité" width="1200" height="800" loading="lazy" decoding="async" /><figcaption>Une jeune mère tient son nouveau-né dans les bras, dans une chambre de maternité · Photo : Brian Wangenheim / Unsplash</figcaption></figure>
 
 L'article 30 prévoit pour toute salariée, **sans condition d'ancienneté** dans le texte de 2021 :
 

@@ -48,9 +48,9 @@ sources:
     url: "https://u.ae/en/information-and-services/jobs/training-and-development/Training-minors"
 related: ["etudier-a-dubai", "visa-etudiant-dubai", "golden-visa-dubai", "cout-de-la-vie-dubai", "ecoles-internationales-dubai"]
 order: 64
-photo_brief:
-  - "COUVERTURE : des étudiants qui travaillent ensemble dans la bibliothèque ou le hall d'un campus universitaire de Dubai International Academic City | university students library Dubai Academic City campus"
-  - "SECTION Abou Dhabi et Sharjah : là où se trouvent les bourses complètes : la façade et les jardins du campus de l'American University of Sharjah, avec des étudiants qui marchent | American University of Sharjah campus students"
+image: "/assets/photos/bourses-etudes-emirats.webp"
+imageAlt: "Des étudiants travaillent dans une grande bibliothèque universitaire moderne"
+imageCredit: "Photo : Ilia Bronskiy / Unsplash"
 ---
 
 ## Bourse d'études à Dubaï : ce qu'il faut savoir d'abord
@@ -89,7 +89,7 @@ Les autres campus de Dubaï ont leurs propres dispositifs, souvent publiés sur 
 
 ## Abou Dhabi et Sharjah : là où se trouvent les bourses complètes
 
-<!-- PHOTO 2 -->
+<figure><img src="/assets/photos/bourses-etudes-emirats-2.webp" alt="Un bâtiment universitaire à coupoles blanches, dans la cité universitaire de Sharjah" width="1200" height="800" loading="lazy" decoding="async" /><figcaption>Un bâtiment universitaire à coupoles blanches, dans la cité universitaire de Sharjah · Photo : Muhammad Ahmad / Unsplash</figcaption></figure>
 
 Si vous visez une bourse couvrant tous les frais de scolarité, regardez au-delà de Dubaï. Les trajets et la vie sur place sont comparés dans notre article [Dubaï ou Abou Dhabi](/blog/dubai-ou-abu-dhabi/).
 
