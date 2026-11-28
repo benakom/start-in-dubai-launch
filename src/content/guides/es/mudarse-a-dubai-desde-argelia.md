@@ -44,6 +44,7 @@ sources:
 related: ["s-installer-a-dubai", "visa-residence-dubai", "etudier-a-dubai", "travailler-a-dubai", "s-installer-a-dubai-depuis-le-maroc"]
 order: 2
 key: "s-installer-a-dubai-depuis-l-algerie"
+image: "/assets/photos/s-installer-a-dubai-depuis-l-algerie.webp"
 ---
 
 Esta guía está dirigida a los argelinos que viven en Argelia y a los de la diáspora (Francia, Canadá, Bélgica…) que se plantean Dubái. Trata de la instalación, no de la inversión. El contexto entre los dos países ha cambiado mucho en 2026. **Situación a 27 de noviembre de 2026, sujeta a cambios**: las normas pueden cambiar de una semana a otra, así que confirma siempre con las autoridades consulares y en los sitios oficiales antes de comprar un billete o de dimitir.

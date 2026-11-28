@@ -45,6 +45,9 @@ sources:
     url: "https://ccss.public.lu/en/employeurs/secteur-prive/activite-etranger/tiers.html"
 related: ["s-installer-a-dubai", "visa-residence-dubai", "impots-dubai", "residence-fiscale-dubai", "ouvrir-un-compte-bancaire-a-dubai"]
 order: 9
+image: "/assets/photos/s-installer-a-dubai-depuis-le-luxembourg.webp"
+imageAlt: "Une femme prépare sa valise assise sur le tapis du salon, passeport et carte posés à côté d'elle"
+imageCredit: "Photo : Freepik"
 ---
 
 Ce guide s’adresse aux résidents du Luxembourg, luxembourgeois ou non, et aux Luxembourgeois établis en France, en Belgique ou en Allemagne qui préparent une installation à Dubaï. Il suit l’ordre des questions : visa, papiers, impôts, sécurité sociale, argent, puis vie sur place. **Informations vérifiées le 28 novembre 2026.** Les règles de visa, de fiscalité et de sécurité sociale changent : vérifiez toujours sur les sources officielles listées en bas de page.

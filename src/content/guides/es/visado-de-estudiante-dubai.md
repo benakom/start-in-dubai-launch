@@ -41,6 +41,7 @@ sources:
 related: ["etudier-a-dubai", "golden-visa-dubai", "visa-residence-dubai", "cout-de-la-vie-dubai", "s-installer-a-dubai-en-famille"]
 order: 2
 key: "visa-etudiant-dubai"
+image: "/assets/photos/visa-etudiant-dubai.webp"
 ---
 
 ¿Ya tienes la admisión en una universidad de Dubái? Falta el visado. La buena noticia: en Dubái, **por lo general se encarga la universidad**. Así funciona el visado de estudiante, lo que cuesta de verdad y las trampas que conviene evitar.

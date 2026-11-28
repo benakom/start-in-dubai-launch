@@ -43,6 +43,7 @@ sources:
 related: ["visa-residence-dubai", "ouvrir-un-compte-bancaire-a-dubai", "s-installer-a-dubai-en-famille", "golden-visa-dubai", "s-installer-a-dubai"]
 order: 6
 key: "emirates-id"
+image: "/assets/photos/emirates-id.webp"
 ---
 
 ## What exactly is the Emirates ID?

@@ -44,6 +44,9 @@ sources:
     url: "https://mediaoffice.ae/en/news/2025/october/08-10/dubai-launches-free-zone-mainland-operating-permit"
 related: ["creer-sa-societe-a-dubai", "zone-franche-dubai", "meilleures-free-zones-dubai", "freelance-dubai", "impots-dubai"]
 order: 60
+image: "/assets/photos/licence-commerciale-dubai.webp"
+imageAlt: "Une commerçante souriante tient une ardoise « Open » devant la porte de sa boutique"
+imageCredit: "Photo : Freepik"
 ---
 
 On dit « trade license », « licence commerciale » ou « business licence » : c'est le même document, et c'est lui qui fait exister votre activité à Dubaï. Bien choisir sa licence évite les deux erreurs les plus coûteuses : une activité mal décrite que la banque refuse, et une licence qu'il faut modifier (et payer à nouveau) quelques mois plus tard. Ce guide explique les types de licences, qui les délivre, comment les obtenir et comment les renouveler, d'après les sources officielles consultées le 28 novembre 2026.
@@ -145,7 +148,7 @@ Elle a deux effets concrets :
 
 ### Quand et comment
 
-Une licence se renouvelle **en général chaque année**, avant sa date d'expiration. Sur le mainland, le renouvellement se fait en ligne sur la plateforme Invest in Dubai ; en zone franche, sur le portail de la zone. Commencez quelques semaines avant l'échéance, surtout si votre bail ou votre contrat de flexi-desk arrive aussi à terme.
+Une licence se renouvelle **en général chaque année**, avant sa date d'expiration. Sur le mainland, le renouvellement se fait en ligne sur la plateforme Invest in Dubai ; en zone franche, sur le portail de la zone. Commencez quelques semaines avant l'échéance, surtout si votre bail ou votre contrat de flexi-desk arrive aussi à terme. Quand la licence et les visas de la société arrivent à échéance en même temps, l'ordre des démarches (licence, carte d'établissement, visite médicale, visa, Emirates ID) est détaillé dans notre article pour [renouveler son visa et sa licence à Dubaï](/blog/renouveler-visa-et-licence-dubai/).
 
 ### Ce qu'il faut avoir à jour
 
@@ -198,3 +201,5 @@ START IN DUBAI prépare votre dossier de licence, le dépose auprès de l'autori
 
 - [Créer sa société à Ras Al Khaimah, Sharjah ou Ajman : zones, visas et limites](/creer-sa-societe-hors-dubai/)
 - [Holding à Dubaï : quelle structure choisir, quel impôt, quelles limites](/holding-dubai/)
+- [Licence e-commerce à Dubaï : comment vendre en ligne légalement depuis les Émirats](/blog/licence-e-commerce-dubai/)
+- [Société d'import-export à Dubaï : licence, douane et TVA, le guide pratique](/blog/societe-import-export-dubai/)

@@ -42,6 +42,7 @@ sources:
 related: ["s-installer-a-dubai", "visa-residence-dubai", "travailler-a-dubai", "ouvrir-un-compte-bancaire-a-dubai", "s-installer-a-dubai-depuis-la-tunisie"]
 order: 1
 key: "s-installer-a-dubai-depuis-le-maroc"
+image: "/assets/photos/s-installer-a-dubai-depuis-le-maroc.webp"
 ---
 
 Esta guía está dirigida a los marroquíes que salen de Marruecos y a los marroquíes del mundo (Francia, Bélgica, España, Canadá…) que quieren hacer de Dubái su nueva base. Trata de la instalación: visado, papeles, dinero, trabajo, estudios y vida allí. Las normas de visado cambian con frecuencia. **Información verificada el 27 de noviembre de 2026**: confirma siempre en las webs oficiales citadas al final de la página antes de reservar.

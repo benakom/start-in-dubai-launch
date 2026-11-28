@@ -46,6 +46,9 @@ sources:
     url: "https://tax.gov.ae/DataFolder/Files/Legislation/Federal%20Decree-Law%20No.%208%20of%202017%20and%20amendments%20-%20For%20Publishing.pdf"
 related: ["zone-franche-dubai", "creer-sa-societe-a-dubai", "societe-offshore-dubai", "impots-dubai", "freelance-dubai"]
 order: 1
+image: "/assets/photos/mainland-ou-free-zone-dubai.webp"
+imageAlt: "Les tours de bureaux du centre de Dubaï vues depuis une promenade au bord de l'eau, au lever du soleil"
+imageCredit: "Photo : Freepik"
 ---
 
 ## Mainland ou free zone : la réponse en 30 secondes

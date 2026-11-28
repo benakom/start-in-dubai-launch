@@ -41,6 +41,7 @@ sources:
 related: ["ecoles-francaises-dubai", "visa-residence-dubai", "s-installer-a-dubai", "cout-de-la-vie-dubai", "vivre-a-dubai"]
 order: 1
 key: "s-installer-a-dubai-en-famille"
+image: "/assets/photos/s-installer-a-dubai-en-famille.webp"
 ---
 
 Met een partner en kinderen vertrekken is geen expatproject zoals andere. De visa van het gezin hangen af van het uwe, de school hangt af van de wijk en de wijk hangt af van het budget. Deze gids behandelt de stappen in de volgorde waarin ze zich aandienen, met de officiële regels die eind 2026 gelden.

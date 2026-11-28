@@ -44,6 +44,7 @@ sources:
 related: ["s-installer-a-dubai", "visa-residence-dubai", "etudier-a-dubai", "travailler-a-dubai", "s-installer-a-dubai-depuis-le-maroc"]
 order: 2
 key: "s-installer-a-dubai-depuis-l-algerie"
+image: "/assets/photos/s-installer-a-dubai-depuis-l-algerie.webp"
 ---
 
 Questa guida è per gli algerini che vivono in Algeria e per quelli della diaspora (Francia, Canada, Belgio…) che pensano a Dubai. Riguarda il trasferimento, non l’investimento. Il contesto tra i due paesi è cambiato molto nel 2026. **Situazione al 27 novembre 2026, soggetta a cambiamenti**: le regole possono cambiare da una settimana all’altra, quindi conferma sempre presso le autorità consolari e sui siti ufficiali prima di comprare un biglietto o di dare le dimissioni.

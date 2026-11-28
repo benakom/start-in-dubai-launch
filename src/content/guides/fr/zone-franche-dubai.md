@@ -40,6 +40,9 @@ sources:
     url: "https://www.meydanfz.ae/dubai-trade-license-aed-12500"
 related: ["creer-sa-societe-a-dubai", "societe-offshore-dubai", "freelance-dubai", "impots-dubai", "visa-residence-dubai"]
 order: 2
+image: "/assets/photos/zone-franche-dubai.webp"
+imageAlt: "Les immeubles de bureaux de Dubai Internet City, zone franche de Dubaï, au crépuscule autour d'un bassin"
+imageCredit: "Photo : Freepik"
 ---
 
 ## Qu’est-ce qu’une freezone à Dubaï ?
@@ -166,3 +169,4 @@ En clair : une société de conseil en zone franche qui facture surtout des clie
 - [Société mainland à Dubaï : comment créer une LLC en droit local](/societe-mainland-dubai/)
 - [Créer sa société à Ras Al Khaimah, Sharjah ou Ajman : zones, visas et limites](/creer-sa-societe-hors-dubai/)
 - [Holding à Dubaï : quelle structure choisir, quel impôt, quelles limites](/holding-dubai/)
+- [Société d'import-export à Dubaï : licence, douane et TVA, le guide pratique](/blog/societe-import-export-dubai/)

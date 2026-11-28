@@ -36,6 +36,9 @@ sources:
     url: "https://dubailand.gov.ae/en/eservices/register-renew-tenancy-contract"
 related: ["s-installer-a-dubai", "cout-de-la-vie-dubai", "s-installer-a-dubai-en-famille", "travailler-a-dubai", "visa-residence-dubai"]
 order: 1
+image: "/assets/photos/vivre-a-dubai.webp"
+imageAlt: "Une résidente regarde les tours d'habitation depuis une promenade au bord de l'eau à Dubaï"
+imageCredit: "Photo : Freepik"
 ---
 
 ## Vivre à Dubaï : ce qu’il faut savoir avant de partir
@@ -78,7 +81,7 @@ Le logement et les écoles privées pèsent lourd. Un loyer peut absorber une gr
 
 ### Une résidence toujours liée à un visa
 
-Votre droit de séjour dépend de votre employeur, de votre société ou de votre investissement. Perdre son emploi, c’est devoir retrouver un parrain dans un délai limité. Il n’y a pas d’assurance chômage comparable à celles d’Europe pour les expatriés, ni de sécurité sociale publique : l’assurance santé passe par l’employeur ou par vous. Le Golden Visa apporte plus de stabilité, voir notre guide du [visa de résidence à Dubaï](/visa-residence-dubai/).
+Votre droit de séjour dépend de votre employeur, de votre société ou de votre investissement. Perdre son emploi, c’est devoir retrouver un parrain dans un délai limité. L’assurance chômage obligatoire (ILOE) existe depuis 2023, mais elle est limitée à 3 mois d’indemnités par période de chômage (voir notre article sur [l’assurance chômage à Dubaï](/blog/assurance-chomage-iloe-dubai/)), et il n’y a pas de sécurité sociale publique : l’assurance santé passe par l’employeur ou par vous. Le Golden Visa apporte plus de stabilité, voir notre guide du [visa de résidence à Dubaï](/visa-residence-dubai/).
 
 ### L’éloignement
 
@@ -164,3 +167,8 @@ Si vous répondez oui à la plupart de ces questions, votre projet est mûr. STA
 - [Lois à Dubaï : ce qui est interdit, ce qui est encadré et les règles à respecter](/lois-et-regles-a-dubai/)
 - [Animaux à Dubaï : importer son chien ou son chat et l’enregistrer](/blog/animaux-dubai/)
 - [Carte SIM Dubaï pour résident : opérateurs, documents et internet à la maison](/blog/telephone-internet-dubai/)
+- [Métro et transports à Dubaï : carte Nol, tarifs officiels et règles à connaître](/blog/metro-et-transports-dubai/)
+- [Salik et amendes à Dubaï : péages, infractions, points noirs et paiement](/blog/salik-et-amendes-rta-dubai/)
+- [Acheter une voiture à Dubaï : le guide du résident, neuf ou d’occasion](/blog/acheter-une-voiture-a-dubai/)
+- [Climat de Dubaï : vivre avec la chaleur quand on s’installe](/blog/climat-dubai-s-installer/)
+- [S’installer seule à Dubaï quand on est une femme : le cadre légal et le quotidien](/blog/s-installer-seule-a-dubai/)

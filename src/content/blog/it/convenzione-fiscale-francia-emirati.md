@@ -49,6 +49,7 @@ sources:
 related: ["impots-dubai", "s-installer-a-dubai-depuis-la-france", "s-installer-a-dubai", "ouvrir-un-compte-bancaire-a-dubai", "golden-visa-dubai"]
 order: 1
 key: "convention-fiscale-france-emirats"
+image: "/assets/photos/convention-fiscale-france-emirats.webp"
 ---
 
 Questo articolo spiega il testo della convenzione e le regole francesi che la circondano, in base alle fonti ufficiali citate a fondo pagina. Non sostituisce il parere di un consulente fiscale sulla tua situazione.

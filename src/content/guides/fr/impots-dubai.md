@@ -40,6 +40,9 @@ sources:
     url: "https://www.impots.gouv.fr/particulier/suis-je-bien-non-resident"
 related: ["creer-sa-societe-a-dubai", "zone-franche-dubai", "ouvrir-un-compte-bancaire-a-dubai", "s-installer-a-dubai", "golden-visa-dubai"]
 order: 2
+image: "/assets/photos/impots-dubai.webp"
+imageAlt: "Une cliente règle ses achats par carte au comptoir d'une boutique, face à la vendeuse"
+imageCredit: "Photo : Freepik"
 ---
 
 ## Impôt à Dubaï : le principe en une minute

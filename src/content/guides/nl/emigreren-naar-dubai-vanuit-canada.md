@@ -44,6 +44,7 @@ sources:
 related: ["s-installer-a-dubai", "visa-residence-dubai", "cout-de-la-vie-dubai", "impots-dubai", "s-installer-a-dubai-depuis-la-france"]
 order: 8
 key: "s-installer-a-dubai-depuis-le-canada"
+image: "/assets/photos/s-installer-a-dubai-depuis-le-canada.webp"
 ---
 
 ## Emigreren naar Dubai vanuit Quebec: wat specifiek is voor een vertrek uit Canada

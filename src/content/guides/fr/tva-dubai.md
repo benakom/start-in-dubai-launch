@@ -42,6 +42,9 @@ sources:
     url: "https://tax.gov.ae/Datafolder/Files/Pdf/2026/legislation/Ministerial%20Decision%20No.%20244%20of%202025%20on%20The%20Implementation%20of%20the%20Electronic%20Invoicing%20System%20-%20publishing%20-%2007%202026.pdf"
 related: ["impots-dubai", "creer-sa-societe-a-dubai", "zone-franche-dubai", "freelance-dubai", "ouvrir-un-compte-bancaire-a-dubai"]
 order: 51
+image: "/assets/photos/tva-dubai.webp"
+imageAlt: "Une comptable calcule des montants à la calculatrice devant son ordinateur et des relevés financiers"
+imageCredit: "Photo : Freepik"
 ---
 
 ## La TVA à Dubaï en un coup d'œil

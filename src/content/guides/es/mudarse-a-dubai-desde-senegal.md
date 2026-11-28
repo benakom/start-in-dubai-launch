@@ -44,6 +44,7 @@ sources:
 related: ["s-installer-a-dubai", "visa-residence-dubai", "creer-sa-societe-a-dubai", "etudier-a-dubai", "s-installer-a-dubai-depuis-le-maroc"]
 order: 4
 key: "s-installer-a-dubai-depuis-le-senegal"
+image: "/assets/photos/s-installer-a-dubai-depuis-le-senegal.webp"
 ---
 
 Esta guía acompaña a los senegaleses de Senegal y de la diáspora (Francia, Italia, España, Estados Unidos, Canadá…) que quieren vivir y trabajar en Dubái. Cubre la entrada en el territorio, los papeles, el dinero, el trabajo y los estudios. **Información verificada el 27 de noviembre de 2026**: las normas de visado cambian con regularidad, confírmalas siempre en las fuentes oficiales citadas al pie de la página.

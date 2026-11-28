@@ -44,6 +44,9 @@ sources:
     url: "https://www.service-public.gouv.fr/particuliers/vosdroits/F32889"
 related: ["s-installer-a-dubai-depuis-la-france", "ecoles-francaises-dubai", "vivre-a-dubai", "lois-et-regles-a-dubai", "cout-de-la-vie-dubai"]
 order: 50
+image: "/assets/photos/francais-a-dubai.webp"
+imageAlt: "Un couple prend un selfie devant le Musée du Futur, avec les tours de Sheikh Zayed Road derrière"
+imageCredit: "Photo : Freepik"
 ---
 
 Ce guide s’adresse aux Français qui vivent déjà à Dubaï ou qui y arrivent : ce que le consulat fait pour vous, comment rester en règle avec la France, où trouver écoles, médecins et réseaux, et ce qui change dans la vie quotidienne. Les démarches **avant le départ** (domicile fiscal, exit tax, légalisation chez le notaire, CFE) sont dans notre guide pour [s’installer à Dubaï depuis la France](/s-installer-a-dubai-depuis-la-france/). Il vaut aussi pour les binationaux (franco-marocains, franco-algériens, franco-tunisiens, franco-sénégalais, franco-libanais…), qui ont souvent deux consulats sur place. **Informations vérifiées le 28 novembre 2026.**

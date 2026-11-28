@@ -40,6 +40,9 @@ sources:
     url: "https://www.birmingham.ac.uk/dubai/study/apply/visas/new"
 related: ["etudier-a-dubai", "golden-visa-dubai", "visa-residence-dubai", "cout-de-la-vie-dubai", "s-installer-a-dubai-en-famille"]
 order: 2
+image: "/assets/photos/visa-etudiant-dubai.webp"
+imageAlt: "Des étudiants discutent sur le campus de leur université, livres et cahiers à la main"
+imageCredit: "Photo : Freepik"
 ---
 
 Vous avez votre admission dans une université de Dubaï ? Il reste le visa. La bonne nouvelle : à Dubaï, **c'est en général l'université qui s'en occupe**. Voici comment le visa étudiant fonctionne, ce qu'il coûte vraiment et les pièges à éviter.
@@ -201,3 +204,7 @@ Selon u.ae, les membres de la famille d'un étudiant étranger inscrit dans une 
 - [ ] Visite médicale, empreintes, Emirates ID dès l'arrivée
 - [ ] Assurance santé valide toute l'année
 - [ ] Rappel un mois avant l'expiration pour le renouvellement
+
+## Pour aller plus loin
+
+- [Bourses d'études à Dubaï et aux Émirats : ce qui existe vraiment pour un étudiant étranger](/blog/bourses-etudes-emirats/)

@@ -41,6 +41,7 @@ sources:
 related: ["visa-etudiant-dubai", "ecoles-francaises-dubai", "cout-de-la-vie-dubai", "vivre-a-dubai", "travailler-a-dubai"]
 order: 1
 key: "etudier-a-dubai"
+image: "/assets/photos/etudier-a-dubai.webp"
 ---
 
 Ogni anno Dubai attira studenti da tutto il mondo: campus di grandi università straniere, insegnamento in inglese, una città sicura e aperta all'internazionale. Per un diplomato, la vera domanda è **quale titolo si ottiene, in quale lingua, a quale prezzo, e se sarà riconosciuto** nel luogo in cui si vuole poi lavorare.

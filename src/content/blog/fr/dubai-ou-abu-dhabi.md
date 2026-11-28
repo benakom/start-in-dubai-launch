@@ -48,6 +48,9 @@ sources:
     url: "https://u.ae/en/information-and-services/business/Doing-business/doing-business-in-free-zones/starting-a-business-in-a-free-zone"
 related: ["vivre-a-dubai", "s-installer-a-dubai", "cout-de-la-vie-dubai", "ecoles-francaises-dubai", "s-installer-a-dubai-en-famille"]
 order: 1
+image: "/assets/photos/dubai-ou-abu-dhabi.webp"
+imageAlt: "Les tours d'Abu Dhabi illuminées au crépuscule, vues depuis le bord de mer"
+imageCredit: "Photo : Freepik"
 ---
 
 ## Dubaï ou Abu Dhabi : la réponse courte

@@ -43,6 +43,9 @@ sources:
     url: "https://www.rta.ae/wps/portal/rta/ae/home/rta-services/service-details?serviceId=121"
 related: ["s-installer-a-dubai", "visa-residence-dubai", "impots-dubai", "creer-sa-societe-a-dubai", "s-installer-a-dubai-depuis-la-france"]
 order: 7
+image: "/assets/photos/s-installer-a-dubai-depuis-la-suisse.webp"
+imageAlt: "Une femme découvre la ville de Dubaï depuis les grandes baies vitrées d'une tour, gratte-ciel au loin"
+imageCredit: "Photo : Freepik"
 ---
 
 ## S’installer à Dubaï depuis la Suisse : la vue d’ensemble

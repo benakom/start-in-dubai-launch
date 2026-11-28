@@ -41,6 +41,7 @@ sources:
 related: ["creer-sa-societe-a-dubai", "golden-visa-dubai", "zone-franche-dubai", "impots-dubai", "ouvrir-un-compte-bancaire-a-dubai"]
 order: 1
 key: "investir-a-dubai"
+image: "/assets/photos/investir-a-dubai.webp"
 ---
 
 ## Investeren in Dubai: waar hebben we het over?

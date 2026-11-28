@@ -44,6 +44,9 @@ sources:
     url: "https://moe.gov.ae/en/eservices/servicecard/pages/certequivalent-out.aspx"
 related: ["visa-famille-dubai", "visa-residence-dubai", "s-installer-a-dubai", "s-installer-a-dubai-depuis-le-maroc", "etudier-a-dubai"]
 order: 64
+image: "/assets/photos/legalisation-documents-dubai.webp"
+imageAlt: "Un agent appose un tampon officiel sur un dossier de demande, à côté d'un passeport tendu au guichet"
+imageCredit: "Photo : Freepik"
 ---
 
 C’est l’étape que presque tout le monde sous-estime : un visa de famille, un visa de travail qualifié, une inscription à l’université ou une équivalence de diplôme peuvent tous demander un **document officiel étranger reconnu aux Émirats**. Sans la bonne chaîne de légalisation, le dossier est refusé, souvent après plusieurs semaines. Ce guide explique ce que veut dire « légaliser » pour les Émirats, étape par étape, avec les cas des principaux pays francophones. Vérifié le 28 novembre 2026 sur les pages du ministère émirien des Affaires étrangères (MOFA), de la Conférence de La Haye et des administrations de chaque pays.

@@ -41,6 +41,7 @@ sources:
 related: ["etudier-a-dubai", "golden-visa-dubai", "visa-residence-dubai", "cout-de-la-vie-dubai", "s-installer-a-dubai-en-famille"]
 order: 2
 key: "visa-etudiant-dubai"
+image: "/assets/photos/visa-etudiant-dubai.webp"
 ---
 
 Bent u toegelaten tot een universiteit in Dubai? Dan resteert het visum. Het goede nieuws: in Dubai **zorgt meestal de universiteit ervoor**. Hier leest u hoe het studentenvisum werkt, wat het echt kost en welke valkuilen u moet vermijden.

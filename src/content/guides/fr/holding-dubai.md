@@ -44,6 +44,9 @@ sources:
     url: "https://mof.gov.ae/en/news/ministry-of-finance-announces-amendment-to-cabinet-decision-on-economic-substance-requirements/"
 related: ["creer-sa-societe-a-dubai", "societe-offshore-dubai", "impot-sur-les-societes-dubai", "meilleures-free-zones-dubai", "residence-fiscale-dubai"]
 order: 65
+image: "/assets/photos/holding-dubai.webp"
+imageAlt: "Le bâtiment The Gate, au cœur du centre financier DIFC de Dubaï, éclairé à la nuit tombée"
+imageCredit: "Photo : Freepik"
 ---
 
 « Je veux une holding à Dubaï » est une phrase qui recouvre cinq projets différents : protéger un patrimoine, regrouper plusieurs sociétés, détenir une marque, recevoir des dividendes de l’étranger ou préparer une cession. Le bon outil dépend du projet, du pays de résidence et des banques. Ce guide explique ce qu’est une holding aux Émirats, les structures possibles, le traitement fiscal depuis l’impôt sur les sociétés, et surtout ce qu’elle ne fait pas. Vérifié le 28 novembre 2026 sur les sites officiels cités.

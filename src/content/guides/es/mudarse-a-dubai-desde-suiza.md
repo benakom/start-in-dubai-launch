@@ -44,6 +44,7 @@ sources:
 related: ["s-installer-a-dubai", "visa-residence-dubai", "impots-dubai", "creer-sa-societe-a-dubai", "s-installer-a-dubai-depuis-la-france"]
 order: 7
 key: "s-installer-a-dubai-depuis-la-suisse"
+image: "/assets/photos/s-installer-a-dubai-depuis-la-suisse.webp"
 ---
 
 ## Mudarse a Dubái desde Suiza: visión de conjunto

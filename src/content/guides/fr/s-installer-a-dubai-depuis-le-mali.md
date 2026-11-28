@@ -45,6 +45,9 @@ sources:
     url: "https://www.rta.ae/wps/portal/rta/ae/home/rta-services/service-details?serviceId=121"
 related: ["s-installer-a-dubai", "visa-residence-dubai", "creer-sa-societe-a-dubai", "ouvrir-un-compte-bancaire-a-dubai", "s-installer-a-dubai-depuis-le-senegal"]
 order: 62
+image: "/assets/photos/s-installer-a-dubai-depuis-le-mali.webp"
+imageAlt: "Un passager regarde par le hublot de l'avion au coucher du soleil pendant un vol long-courrier"
+imageCredit: "Photo : Freepik"
 ---
 
 Ce guide s’adresse aux Maliens de Bamako, de Kayes, de Sikasso ou de la diaspora (France, Côte d’Ivoire, Sénégal, Canada…) qui veulent vivre, travailler, entreprendre ou étudier à Dubaï. Il couvre l’entrée sur le territoire, les papiers, l’argent, le travail et les études. **Informations vérifiées le 28 novembre 2026** : les règles de visa changent régulièrement, confirmez-les toujours sur les sources officielles citées en bas de page.

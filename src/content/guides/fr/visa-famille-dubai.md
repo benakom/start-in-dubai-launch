@@ -42,6 +42,9 @@ sources:
     url: "https://www.mofa.gov.ae/en/faqs"
 related: ["s-installer-a-dubai-en-famille", "visa-residence-dubai", "golden-visa-dubai", "ecoles-francaises-dubai"]
 order: 60
+image: "/assets/photos/visa-famille-dubai.webp"
+imageAlt: "Une mère et ses deux enfants retrouvent le père dans un terminal, valise à la main"
+imageCredit: "Photo : Freepik"
 ---
 
 Faire venir sa famille à Dubaï est l'une des premières questions des futurs expatriés, et c'est aussi l'une des démarches où les erreurs coûtent le plus de temps : un acte de mariage mal légalisé, un salaire juste sous le seuil, un bail trop petit. Ce guide détaille le visa famille membre par membre (conjoint, enfants, nouveau-né, parents), avec les conditions, les frais et les délais publiés par u.ae, la GDRFA de Dubaï et l'ICP, vérifiés le 28 novembre 2026.
@@ -218,3 +221,4 @@ START IN DUBAI peut préparer et suivre les visas de toute votre famille, avec u
 - [Green visa Dubaï : la résidence de 5 ans sans parrain, pour qui et à quelles conditions](/green-visa-dubai/)
 - [Visa Dubaï : quel visa pour quelle situation (entrée, résidence, Green et Golden Visa)](/visa-dubai/)
 - [Visa de recherche d'emploi à Dubaï : qui peut le demander, pour combien de temps et à quel prix](/visa-recherche-emploi-dubai/)
+- [Visa d’employée de maison à Dubaï : parrainer une nounou dans les règles](/blog/visa-employe-de-maison-dubai/)

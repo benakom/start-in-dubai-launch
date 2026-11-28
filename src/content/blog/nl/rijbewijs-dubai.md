@@ -43,6 +43,7 @@ sources:
 related: ["s-installer-a-dubai", "vivre-a-dubai", "cout-de-la-vie-dubai", "s-installer-a-dubai-depuis-le-maroc", "golden-visa-dubai"]
 order: 10
 key: "permis-de-conduire-dubai"
+image: "/assets/photos/permis-de-conduire-dubai.webp"
 ---
 
 ## Rijbewijs in Dubai: drie situaties

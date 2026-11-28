@@ -45,6 +45,9 @@ sources:
     url: "https://u.ae/en/information-and-services/visa-and-emirates-id/Types-of-visas/Visit-visa/jobseeker-visit-visa"
 related: ["s-installer-a-dubai-depuis-le-maroc", "visa-residence-dubai", "golden-visa-dubai", "travailler-a-dubai", "s-installer-a-dubai"]
 order: 50
+image: "/assets/photos/visa-dubai-marocains.webp"
+imageAlt: "Un voyageur tient son passeport et sa carte d'embarquement devant un ordinateur, pendant sa demande en ligne"
+imageCredit: "Photo : Freepik"
 ---
 
 Cette page s’adresse aux Marocains qui vivent au Maroc et aux Marocains du monde (France, Belgique, Espagne, Italie, Canada, pays du Golfe) qui veulent aller à Dubaï pour un séjour, une recherche d’emploi ou une première étape avant de s’installer. Elle porte sur les **visas d’entrée** : la résidence, l’installation et les démarches au Maroc sont dans notre guide pour [s’installer à Dubaï depuis le Maroc](/s-installer-a-dubai-depuis-le-maroc/). **Informations et frais vérifiés le 28 novembre 2026** sur les sites officiels cités en bas de page. Les visas changent souvent : vérifiez toujours avant de payer.

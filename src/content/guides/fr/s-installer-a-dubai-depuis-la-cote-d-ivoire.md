@@ -49,6 +49,9 @@ sources:
     url: "https://www.rta.ae/wps/portal/rta/ae/home/rta-services/service-details?serviceId=121"
 related: ["s-installer-a-dubai", "visa-residence-dubai", "creer-sa-societe-a-dubai", "s-installer-a-dubai-depuis-le-senegal", "impots-dubai"]
 order: 60
+image: "/assets/photos/s-installer-a-dubai-depuis-la-cote-d-ivoire.webp"
+imageAlt: "Au comptoir d'enregistrement d'un aéroport, une hôtesse rend son passeport à un voyageur avant le départ"
+imageCredit: "Photo : Freepik"
 ---
 
 Ce guide s’adresse aux Ivoiriens d’Abidjan, de Bouaké, de Yamoussoukro ou de la diaspora (France, Belgique, Canada, États-Unis…) qui veulent vivre, travailler, entreprendre ou étudier à Dubaï. Il couvre l’entrée sur le territoire, les papiers, l’argent, le travail et les études. **Informations vérifiées le 28 novembre 2026** : les règles de visa changent régulièrement, confirmez-les toujours sur les sources officielles citées en bas de page.

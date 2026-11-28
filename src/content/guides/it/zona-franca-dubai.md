@@ -41,6 +41,7 @@ sources:
 related: ["creer-sa-societe-a-dubai", "societe-offshore-dubai", "freelance-dubai", "impots-dubai", "visa-residence-dubai"]
 order: 2
 key: "zone-franche-dubai"
+image: "/assets/photos/zone-franche-dubai.webp"
 ---
 
 ## Che cos'è una zona franca a Dubai?

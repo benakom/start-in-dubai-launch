@@ -41,6 +41,7 @@ sources:
 related: ["visa-residence-dubai", "creer-sa-societe-a-dubai", "cout-de-la-vie-dubai", "s-installer-a-dubai-en-famille", "ouvrir-un-compte-bancaire-a-dubai"]
 order: 1
 key: "s-installer-a-dubai"
+image: "/assets/photos/s-installer-a-dubai.webp"
 ---
 
 ## ¿Por qué mudarse a Dubái?

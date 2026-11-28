@@ -40,6 +40,9 @@ sources:
     url: "https://u.ae/en/information-and-services/moving-to-the-uae/leasing-a-property-in-the-uae"
 related: ["vivre-a-dubai", "s-installer-a-dubai", "s-installer-a-dubai-en-famille", "ecoles-francaises-dubai", "travailler-a-dubai"]
 order: 2
+image: "/assets/photos/cout-de-la-vie-dubai.webp"
+imageAlt: "Une cliente pousse un chariot de courses entre les rayons de fruits et légumes d'un supermarché"
+imageCredit: "Photo : Freepik"
 ---
 
 ## Avant de lire les chiffres
@@ -165,3 +168,5 @@ Pour toutes les autres étapes de l’installation, suivez notre guide pour [s�
 - [Lois à Dubaï : ce qui est interdit, ce qui est encadré et les règles à respecter](/lois-et-regles-a-dubai/)
 - [Animaux à Dubaï : importer son chien ou son chat et l’enregistrer](/blog/animaux-dubai/)
 - [Carte SIM Dubaï pour résident : opérateurs, documents et internet à la maison](/blog/telephone-internet-dubai/)
+- [DEWA à Dubaï : ouvrir son compteur d'électricité et d'eau en arrivant](/blog/ouvrir-compteur-dewa-dubai/)
+- [Métro et transports à Dubaï : carte Nol, tarifs officiels et règles à connaître](/blog/metro-et-transports-dubai/)

@@ -44,6 +44,7 @@ sources:
 related: ["s-installer-a-dubai", "visa-residence-dubai", "impots-dubai", "ecoles-francaises-dubai", "s-installer-a-dubai-depuis-la-belgique"]
 order: 5
 key: "s-installer-a-dubai-depuis-la-france"
+image: "/assets/photos/s-installer-a-dubai-depuis-la-france.webp"
 ---
 
 ## Moving to Dubai from France: the steps in order

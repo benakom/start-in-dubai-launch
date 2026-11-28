@@ -40,6 +40,9 @@ sources:
     url: "https://u.ae/en/information-and-services/jobs/Sector-of-employment/employment-in-the-private-sector/labour-rights"
 related: ["travailler-a-dubai", "visa-residence-dubai", "contrat-de-travail-dubai", "s-installer-a-dubai", "visa-dubai-marocains"]
 order: 57
+image: "/assets/photos/visa-recherche-emploi-dubai.webp"
+imageAlt: "Une candidate tend son CV à un recruteur pendant un entretien d'embauche, autour d'un bureau"
+imageCredit: "Photo : Freepik"
 ---
 
 Vous voulez aller chercher du travail à Dubaï sur place, entretiens à l'appui, plutôt que postuler depuis l'étranger ? Les Émirats ont prévu un visa pour cela : le **visa de recherche d'emploi** (*jobseeker visa* ou *job exploration visa*). Cette page explique **qui peut le demander**, ce qu'il autorise, **combien il coûte** et comment passer ensuite à un vrai visa de travail. **Informations et frais vérifiés le 28 novembre 2026** sur u.ae, l'ICP et la GDRFA de Dubaï. Les visas changent souvent : vérifiez avant de payer.
@@ -159,3 +162,7 @@ Vous venez de loin et vous voulez préparer le voyage de bout en bout ? Notre gu
 6. Budget pour tenir jusqu'à la signature d'un contrat.
 
 Si vous voulez préparer cette étape avec quelqu'un qui connaît les démarches, avec un seul interlocuteur qui parle votre langue, demandez votre [premier échange gratuit](/#inscription), sans engagement.
+
+## Pour aller plus loin
+
+- [CV pour Dubaï : faire un CV et une candidature qui décrochent des entretiens](/blog/cv-pour-trouver-un-emploi-a-dubai/)

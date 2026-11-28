@@ -46,6 +46,9 @@ sources:
     url: "https://mof.gov.ae/wp-content/uploads/2025/09/EN-Ministerial-Decision-No.-229-of-2025-Regarding-Qualifying-Activities-and-Excluded-Activities.pdf"
 related: ["impots-dubai", "creer-sa-societe-a-dubai", "zone-franche-dubai", "ouvrir-un-compte-bancaire-a-dubai", "investir-a-dubai"]
 order: 50
+image: "/assets/photos/impot-sur-les-societes-dubai.webp"
+imageAlt: "Une comptable relit des documents financiers à son bureau, avec calculatrice et ordinateur portable"
+imageCredit: "Photo : Freepik"
 ---
 
 ## L'impôt sur les sociétés à Dubaï en un coup d'œil
@@ -182,3 +185,4 @@ START IN DUBAI vous accompagne de A à Z (société, compte bancaire, visas, log
 ## Pour aller plus loin
 
 - [Transférer de l’argent à Dubaï depuis le Maroc, la France, l’Algérie et ailleurs](/transferer-de-l-argent-a-dubai/)
+- [Comptabilité d'une société à Dubaï : tenue des comptes, audit et obligations](/blog/comptabilite-audit-societe-dubai/)

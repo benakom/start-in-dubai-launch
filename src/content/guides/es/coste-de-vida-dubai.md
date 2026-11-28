@@ -41,6 +41,7 @@ sources:
 related: ["vivre-a-dubai", "s-installer-a-dubai", "s-installer-a-dubai-en-famille", "ecoles-francaises-dubai", "travailler-a-dubai"]
 order: 2
 key: "cout-de-la-vie-dubai"
+image: "/assets/photos/cout-de-la-vie-dubai.webp"
 ---
 
 ## Antes de leer las cifras

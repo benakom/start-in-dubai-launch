@@ -40,6 +40,9 @@ sources:
     url: "https://mof.gov.ae/en/news/ministry-of-finance-announces-the-uaes-commitment-to-implement-the-updated-common-reporting-standard-crs-2-0"
 related: ["creer-sa-societe-a-dubai", "zone-franche-dubai", "ouvrir-un-compte-bancaire-a-dubai", "impots-dubai"]
 order: 3
+image: "/assets/photos/societe-offshore-dubai.webp"
+imageAlt: "Deux associés relisent et annotent les documents d'une société avant de les signer"
+imageCredit: "Photo : Freepik"
 ---
 
 ## Qu’est-ce qu’une société offshore à Dubaï ?

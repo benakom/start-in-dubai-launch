@@ -37,6 +37,7 @@ sources:
 related: ["s-installer-a-dubai", "cout-de-la-vie-dubai", "s-installer-a-dubai-en-famille", "travailler-a-dubai", "visa-residence-dubai"]
 order: 1
 key: "vivre-a-dubai"
+image: "/assets/photos/vivre-a-dubai.webp"
 ---
 
 ## Vivere a Dubai: che cosa sapere prima di partire

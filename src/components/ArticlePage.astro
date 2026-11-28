@@ -45,7 +45,7 @@ const minutes = readingMinutes(entry.body || "");
 const jsonld = [
   {
     "@context": "https://schema.org", "@type": coll === "blog" ? "BlogPosting" : "Article", headline: d.h1, description: d.description, inLanguage: lang,
-    datePublished: updated, dateModified: updated, mainEntityOfPage: url, image: SITE_URL + image,
+    datePublished: updated, dateModified: updated, mainEntityOfPage: url, image: d.imageAlt ? { "@type": "ImageObject", url: SITE_URL + image, caption: d.imageAlt, ...(d.imageCredit ? { creditText: d.imageCredit } : {}) } : SITE_URL + image,
     keywords: [d.keyword, ...d.secondary].join(", "), about: d.keyword,
     ...(d.essentials.length ? { abstract: d.essentials.join(" ") } : {}),
     author: { "@type": "Person", name: AUTHOR.name, url: AUTHOR.url, jobTitle: AUTHOR.role, sameAs: AUTHOR.sameAs },
@@ -74,6 +74,12 @@ const jsonld = [
   <div class="wrap">
     <div class="art">
       <article class="art-main">
+        {d.image && d.imageAlt && (
+          <figure class="cover">
+            <img src={d.image} alt={d.imageAlt} width="1200" height="800" fetchpriority="high" decoding="async" />
+            {d.imageCredit && <figcaption>{d.imageCredit}</figcaption>}
+          </figure>
+        )}
         <Essentials lang={lang} items={d.essentials} />
         <Toc lang={lang} items={toc} />
         <div class="prose"><Content /></div>

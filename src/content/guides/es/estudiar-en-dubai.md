@@ -41,6 +41,7 @@ sources:
 related: ["visa-etudiant-dubai", "ecoles-francaises-dubai", "cout-de-la-vie-dubai", "vivre-a-dubai", "travailler-a-dubai"]
 order: 1
 key: "etudier-a-dubai"
+image: "/assets/photos/etudier-a-dubai.webp"
 ---
 
 Dubái atrae cada año a estudiantes de todo el mundo: campus de grandes universidades extranjeras, enseñanza en inglés, una ciudad segura y abierta al mundo. Para quien acaba el bachillerato, la verdadera cuestión es saber **qué título se obtiene, en qué idioma, a qué precio y si se reconocerá** allí donde se quiera trabajar después.

@@ -41,6 +41,9 @@ sources:
     url: "https://fin.belgium.be/fr/particuliers/international/quitter-belgique/declaration-impot"
 related: ["s-installer-a-dubai", "visa-residence-dubai", "impots-dubai", "s-installer-a-dubai-depuis-la-france", "creer-sa-societe-a-dubai"]
 order: 6
+image: "/assets/photos/s-installer-a-dubai-depuis-la-belgique.webp"
+imageAlt: "Un couple au milieu des cartons et des meubles encore emballés, le jour de l'emménagement"
+imageCredit: "Photo : Freepik"
 ---
 
 ## S’installer à Dubaï depuis la Belgique : ce qui change par rapport aux autres pays

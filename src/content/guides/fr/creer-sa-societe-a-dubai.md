@@ -42,6 +42,9 @@ sources:
     url: "https://tax.gov.ae/en/taxes/Vat/vat.topics/registration.for.vat.aspx"
 related: ["zone-franche-dubai", "societe-offshore-dubai", "freelance-dubai", "ouvrir-un-compte-bancaire-a-dubai", "impots-dubai"]
 order: 1
+image: "/assets/photos/creer-sa-societe-a-dubai.webp"
+imageAlt: "Un entrepreneur remplit des formulaires à son bureau pendant qu'un conseiller relit le dossier avec lui"
+imageCredit: "Photo : Freepik"
 ---
 
 ## Création société Dubaï : ce qu’il faut savoir avant de commencer
@@ -221,3 +224,8 @@ START IN DUBAI accompagne ce parcours de A à Z (société, compte bancaire, vis
 - [Société mainland à Dubaï : comment créer une LLC en droit local](/societe-mainland-dubai/)
 - [Créer sa société à Ras Al Khaimah, Sharjah ou Ajman : zones, visas et limites](/creer-sa-societe-hors-dubai/)
 - [Holding à Dubaï : quelle structure choisir, quel impôt, quelles limites](/holding-dubai/)
+- [Renouveler son visa de résidence et sa licence à Dubaï : le calendrier et l'ordre des étapes](/blog/renouveler-visa-et-licence-dubai/)
+- [Comptabilité d'une société à Dubaï : tenue des comptes, audit et obligations](/blog/comptabilite-audit-societe-dubai/)
+- [Licence e-commerce à Dubaï : comment vendre en ligne légalement depuis les Émirats](/blog/licence-e-commerce-dubai/)
+- [Ouvrir un restaurant à Dubaï : licences, autorisations et étapes, dans le bon ordre](/blog/ouvrir-un-restaurant-a-dubai/)
+- [Ouvrir une société de conseil à Dubaï : la bonne structure, la bonne licence, la bonne facture](/blog/ouvrir-une-societe-de-conseil-dubai/)

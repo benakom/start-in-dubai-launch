@@ -41,6 +41,7 @@ sources:
 related: ["creer-sa-societe-a-dubai", "zone-franche-dubai", "ouvrir-un-compte-bancaire-a-dubai", "s-installer-a-dubai", "golden-visa-dubai"]
 order: 2
 key: "impots-dubai"
+image: "/assets/photos/impots-dubai.webp"
 ---
 
 ## Tasse a Dubai: il principio in un minuto

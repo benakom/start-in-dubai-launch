@@ -41,6 +41,7 @@ sources:
 related: ["visa-etudiant-dubai", "ecoles-francaises-dubai", "cout-de-la-vie-dubai", "vivre-a-dubai", "travailler-a-dubai"]
 order: 1
 key: "etudier-a-dubai"
+image: "/assets/photos/etudier-a-dubai.webp"
 ---
 
 Dubai trekt elk jaar studenten uit de hele wereld aan: campussen van grote buitenlandse universiteiten, onderwijs in het Engels, een veilige stad die open staat naar de wereld. Voor een Franstalige of Nederlandstalige schoolverlater is de echte vraag **welk diploma u krijgt, in welke taal, tegen welke prijs, en of het erkend wordt** op de plek waar u daarna wilt werken.

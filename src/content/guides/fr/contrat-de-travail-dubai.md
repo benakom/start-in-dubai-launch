@@ -3,7 +3,7 @@ title: "Contrat de travail Dubaï : essai, préavis, fin de service"
 description: "Contrat de travail Dubaï : décret-loi 33/2021, offre d'emploi, période d'essai de 6 mois, préavis de 30 à 90 jours, licenciement et indemnité de fin de service."
 h1: "Contrat de travail à Dubaï : ce que dit la loi sur l'essai, le préavis et la fin de service"
 keyword: "contrat de travail dubai"
-secondary: ["droit du travail dubai", "indemnité de fin de contrat dubai", "période d'essai dubai", "préavis dubai"]
+secondary: ["droit du travail dubai", "période d'essai dubai", "préavis dubai"]
 cluster: travail
 updated: 2026-11-28
 intro: "À Dubaï, un contrat de travail du secteur privé est régi par le décret-loi fédéral n° 33 de 2021, appliqué depuis le 2 février 2022. Il naît d'une offre d'emploi signée, enregistrée auprès du MOHRE, et il est en général à durée déterminée et renouvelable. La période d'essai est de 6 mois au maximum, le préavis va de 30 à 90 jours, et l'indemnité de fin de service est due après un an de service continu."
@@ -44,6 +44,9 @@ sources:
     url: "https://u.ae/en/information-and-services/jobs/Sector-of-employment/employment-in-the-private-sector/labour-rights"
 related: ["travailler-a-dubai", "visa-residence-dubai", "freelance-dubai", "vivre-a-dubai", "lois-et-regles-a-dubai"]
 order: 55
+image: "/assets/photos/contrat-de-travail-dubai.webp"
+imageAlt: "Un employeur montre au futur salarié où signer son contrat de travail, sur un bureau face aux tours"
+imageCredit: "Photo : Freepik"
 ---
 
 Vous avez une offre d'emploi à Dubaï et vous voulez savoir ce que vous signez ? Cette page explique le **contrat de travail à Dubaï** pour un salarié du secteur privé : comment il se forme, ce que dit la loi sur la **période d'essai**, le **préavis**, le licenciement et l'**indemnité de fin de service**. Pour trouver un poste, comprendre le permis de travail et éviter les arnaques, lisez d'abord notre guide pour [travailler à Dubaï](/travailler-a-dubai/). Ici, on entre dans le détail du texte de loi. **Informations vérifiées le 28 novembre 2026** sur les sites officiels cités en bas de page.
@@ -147,7 +150,7 @@ C'est la question de la recherche « indemnité de fin de contrat Dubaï ». Sel
 - seul le **salaire de base** compte, pas le logement ni le transport ;
 - l'employeur doit la verser, avec les salaires et autres sommes dues, dans les **14 jours** suivant la fin du contrat, et peut en déduire ce que vous lui devez.
 
-Un exemple simple, à titre indicatif : avec un salaire de base de 10 000 AED par mois (soit environ 333 AED par jour) et 3 ans de service, l'indemnité est de 21 jours par an pendant 3 ans, soit environ 21 000 AED. C'est pour cela que la répartition entre salaire de base et allocations compte autant à la signature. Le site Dubai.ae propose un calculateur officiel.
+Un exemple simple, à titre indicatif : avec un salaire de base de 10 000 AED par mois (soit environ 333 AED par jour) et 3 ans de service, l'indemnité est de 21 jours par an pendant 3 ans, soit environ 21 000 AED. C'est pour cela que la répartition entre salaire de base et allocations compte autant à la signature. Le site Dubai.ae propose un calculateur officiel. Pour le calcul pas à pas, les déductions possibles et les recours, lisez notre article sur l'[indemnité de fin de contrat à Dubaï](/blog/indemnite-fin-de-contrat-dubai/).
 
 Un régime d'épargne volontaire peut remplacer cette indemnité chez certains employeurs : ils versent un pourcentage du salaire de base sur un fonds, que vous récupérez avec ses revenus à la fin du contrat. Lisez ce que prévoit votre contrat.
 
@@ -185,3 +188,10 @@ Pour comparer avec ce que vous gagnez, consultez notre article sur le [salaire �
 8. Vous avez gardé une copie signée et enregistrée du contrat.
 
 Pour préparer votre arrivée, de la résidence au logement, notre guide pour [vivre à Dubaï](/vivre-a-dubai/) regroupe les étapes suivantes. Si vous voulez être accompagné de A à Z, avec un seul interlocuteur qui parle votre langue, demandez votre [premier échange gratuit](/#inscription), sans engagement.
+
+## Pour aller plus loin
+
+- [Le Ramadan à Dubaï quand on est expatrié : ce qui change et comment le vivre](/blog/ramadan-a-dubai-expatrie/)
+- [Congés payés à Dubaï : tous vos congés selon la loi émirienne](/blog/conges-payes-dubai/)
+- [Assurance chômage à Dubaï (ILOE) : s'inscrire, payer, être indemnisé](/blog/assurance-chomage-iloe-dubai/)
+- [Changer d’employeur à Dubaï : les étapes, les délais et les pièges de la loi](/blog/changer-d-employeur-dubai/)

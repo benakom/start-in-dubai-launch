@@ -42,6 +42,9 @@ sources:
     url: "https://inspection.canada.ca/en/animal-health/terrestrial-animals/exports/pets/united-arab-emirates"
 related: ["s-installer-a-dubai", "s-installer-a-dubai-en-famille", "cout-de-la-vie-dubai", "lois-et-regles-a-dubai", "ouvrir-un-compte-bancaire-a-dubai"]
 order: 52
+image: "/assets/photos/demenagement-dubai.webp"
+imageAlt: "Deux déménageurs apportent des cartons dans l'appartement d'un couple le jour de son emménagement"
+imageCredit: "Photo : Freepik"
 ---
 
 Ce guide traite de la logistique du déménagement : quoi emporter, comment l’envoyer, comment passer la douane de Dubaï et comment faire venir vos animaux. Les démarches de visa, de logement, de banque et d’écoles sont dans notre guide pour [s’installer à Dubaï](/s-installer-a-dubai/). Il vaut quel que soit votre pays de départ (France, Belgique, Suisse, Québec, Maroc, Algérie, Tunisie, Afrique de l’Ouest). **Règles de douane vérifiées le 28 novembre 2026** sur les sites de Dubai Customs et du gouvernement émirien.
@@ -169,3 +172,5 @@ START IN DUBAI vous accompagne de A à Z dans votre installation (visas, logemen
 ## Pour aller plus loin
 
 - [Légalisation de documents pour Dubaï : la chaîne complète, du ministère à l’attestation MOFA](/legalisation-documents-dubai/)
+- [Premiers jours à Dubaï : les démarches des 30 premiers jours, dans le bon ordre](/blog/checklist-30-premiers-jours-dubai/)
+- [Ejari à Dubaï : le guide du locataire pour enregistrer son contrat de location](/blog/contrat-de-location-ejari-dubai/)

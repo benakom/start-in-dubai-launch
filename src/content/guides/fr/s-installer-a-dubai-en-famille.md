@@ -40,6 +40,9 @@ sources:
     url: "https://www.mofa.gov.ae/en/faqs"
 related: ["ecoles-francaises-dubai", "visa-residence-dubai", "s-installer-a-dubai", "cout-de-la-vie-dubai", "vivre-a-dubai"]
 order: 1
+image: "/assets/photos/s-installer-a-dubai-en-famille.webp"
+imageAlt: "Une mère et son jeune fils remplissent ensemble une valise dans le salon avant le départ"
+imageCredit: "Photo : Freepik"
 ---
 
 Partir avec un conjoint et des enfants, ce n'est pas un projet d'expatriation comme un autre. Les visas de la famille dépendent du vôtre, l'école dépend du quartier, et le quartier dépend du budget. Ce guide reprend les étapes dans l'ordre où elles se posent, avec les règles officielles en vigueur fin 2026.
@@ -206,3 +209,8 @@ Le budget d'une famille à Dubaï se joue surtout sur trois postes : **le logeme
 ## Pour aller plus loin
 
 - [École internationale à Dubaï : choisir un programme, lire le KHDA, inscrire son enfant](/ecoles-internationales-dubai/)
+- [Se marier à Dubaï et aux Émirats quand on est expatrié : le guide complet](/blog/se-marier-a-dubai/)
+- [Divorcer à Dubaï quand on est expatrié : loi applicable, enfants, argent et reconnaissance](/blog/divorce-expatrie-emirats/)
+- [Testament et héritage à Dubaï : ce que tout expatrié devrait régler](/blog/testament-expatrie-dubai/)
+- [Crèche à Dubaï : choisir une nursery agréée et comprendre les règles du KHDA](/blog/creche-dubai/)
+- [Visa d’employée de maison à Dubaï : parrainer une nounou dans les règles](/blog/visa-employe-de-maison-dubai/)

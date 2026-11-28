@@ -38,6 +38,9 @@ sources:
     url: "https://icedubai.org/"
 related: ["s-installer-a-dubai-en-famille", "etudier-a-dubai", "cout-de-la-vie-dubai", "s-installer-a-dubai", "vivre-a-dubai"]
 order: 2
+image: "/assets/photos/ecoles-francaises-dubai.webp"
+imageAlt: "Une enseignante se penche sur les cahiers de trois élèves de primaire pendant un exercice en classe"
+imageCredit: "Photo : Freepik"
 ---
 
 Si vous préparez une [installation à Dubaï en famille](/s-installer-a-dubai-en-famille/), l'école est la première décision à prendre, avant même le logement. Voici la liste vérifiée des écoles françaises de Dubaï, ce qu'elles coûtent et comment s'y inscrire.

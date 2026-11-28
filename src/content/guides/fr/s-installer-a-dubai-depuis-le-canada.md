@@ -43,6 +43,9 @@ sources:
     url: "https://www.rta.ae/wps/portal/rta/ae/home/rta-services/service-details?serviceId=121"
 related: ["s-installer-a-dubai", "visa-residence-dubai", "cout-de-la-vie-dubai", "impots-dubai", "s-installer-a-dubai-depuis-la-france"]
 order: 8
+image: "/assets/photos/s-installer-a-dubai-depuis-le-canada.webp"
+imageAlt: "Dans la cuisine d'un appartement, une agente remet les clés à son nouveau locataire, souriant"
+imageCredit: "Photo : Freepik"
 ---
 
 ## S’installer à Dubaï depuis le Québec : ce qui est propre au départ du Canada

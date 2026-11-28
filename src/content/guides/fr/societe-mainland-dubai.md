@@ -42,6 +42,9 @@ sources:
     url: "https://www.gdrfad.gov.ae/en/services/0bae0953-6749-11ea-0320-0050569629e8"
 related: ["creer-sa-societe-a-dubai", "zone-franche-dubai", "ouvrir-un-compte-bancaire-a-dubai", "impots-dubai", "visa-residence-dubai"]
 order: 50
+image: "/assets/photos/societe-mainland-dubai.webp"
+imageAlt: "Des entrepreneurs se serrent la main devant des immeubles de bureaux à Dubaï, l'un d'eux en kandura blanche"
+imageCredit: "Photo : Freepik"
 ---
 
 ## Société mainland à Dubaï : de quoi parle-t-on ?
@@ -187,3 +190,4 @@ START IN DUBAI vous accompagne de A à Z : choix de la structure, licence, bail,
 
 - [Créer sa société à Ras Al Khaimah, Sharjah ou Ajman : zones, visas et limites](/creer-sa-societe-hors-dubai/)
 - [Holding à Dubaï : quelle structure choisir, quel impôt, quelles limites](/holding-dubai/)
+- [Ouvrir un restaurant à Dubaï : licences, autorisations et étapes, dans le bon ordre](/blog/ouvrir-un-restaurant-a-dubai/)

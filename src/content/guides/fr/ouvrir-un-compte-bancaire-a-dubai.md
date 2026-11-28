@@ -36,6 +36,9 @@ sources:
     url: "https://wio.io/key-fact-statement"
 related: ["creer-sa-societe-a-dubai", "impots-dubai", "visa-residence-dubai", "zone-franche-dubai", "s-installer-a-dubai"]
 order: 1
+image: "/assets/photos/ouvrir-un-compte-bancaire-a-dubai.webp"
+imageAlt: "Une conseillère bancaire remet une carte bancaire à une cliente assise face à elle, ordinateur ouvert sur le bureau"
+imageCredit: "Photo : Freepik"
 ---
 
 ## Ouvrir un compte bancaire à Dubaï : ce qu'il faut savoir d'abord
@@ -186,3 +189,4 @@ Ouvrir un compte va de pair avec la fiscalité de votre installation : lisez aus
 - [Résidence fiscale à Dubaï : devenir résident et obtenir son certificat](/residence-fiscale-dubai/)
 - [TVA à Dubaï : ce que toute entreprise doit savoir](/tva-dubai/)
 - [Transférer de l’argent à Dubaï depuis le Maroc, la France, l’Algérie et ailleurs](/transferer-de-l-argent-a-dubai/)
+- [Néobanques et banques en ligne aux Émirats : qui est agréé, pour qui, à quel prix](/blog/neobanques-emirats/)

@@ -44,6 +44,9 @@ sources:
     url: "https://www.dubai.ae/living/healthcare/controlled-medicines"
 related: ["vivre-a-dubai", "s-installer-a-dubai", "s-installer-a-dubai-en-famille", "francais-a-dubai", "demenagement-dubai"]
 order: 51
+image: "/assets/photos/lois-et-regles-a-dubai.webp"
+imageAlt: "Une visiteuse en tenue couvrante se promène dans le vieux souk de Bur Dubaï, entre les étals de tissus"
+imageCredit: "Photo : Freepik"
 ---
 
 Dubaï accueille des résidents du monde entier et se montre tolérante envers les étrangers. Mais les Émirats sont un pays musulman, avec leurs propres lois, et certaines règles sont plus strictes que dans votre pays d’origine. Ce guide les présente telles que les décrivent les sources officielles (gouvernement émirien, France Diplomatie), pour vous éviter une amende, une interdiction de sortie du territoire ou pire. **Informations vérifiées le 28 novembre 2026.** Ce guide n’est pas un avis juridique : pour un cas personnel, consultez un avocat local.
@@ -182,3 +185,6 @@ Ces règles font partie de la vie à Dubaï, au même titre que le climat ou le 
 
 - [Animaux à Dubaï : importer son chien ou son chat et l’enregistrer](/blog/animaux-dubai/)
 - [Carte SIM Dubaï pour résident : opérateurs, documents et internet à la maison](/blog/telephone-internet-dubai/)
+- [Le Ramadan à Dubaï quand on est expatrié : ce qui change et comment le vivre](/blog/ramadan-a-dubai-expatrie/)
+- [Se marier à Dubaï et aux Émirats quand on est expatrié : le guide complet](/blog/se-marier-a-dubai/)
+- [S’installer seule à Dubaï quand on est une femme : le cadre légal et le quotidien](/blog/s-installer-seule-a-dubai/)

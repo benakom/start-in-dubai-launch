@@ -41,6 +41,7 @@ sources:
 related: ["creer-sa-societe-a-dubai", "zone-franche-dubai", "visa-residence-dubai", "travailler-a-dubai", "impots-dubai"]
 order: 4
 key: "freelance-dubai"
+image: "/assets/photos/freelance-dubai.webp"
 ---
 
 ## Being a freelancer in Dubai: how it works

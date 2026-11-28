@@ -42,6 +42,9 @@ sources:
     url: "https://dubaihealth.ae/service/medical-fitness-exam"
 related: ["visa-residence-dubai", "ouvrir-un-compte-bancaire-a-dubai", "s-installer-a-dubai-en-famille", "golden-visa-dubai", "s-installer-a-dubai"]
 order: 6
+image: "/assets/photos/emirates-id.webp"
+imageAlt: "Une femme remet son passeport et un formulaire de demande à un guichet d'un centre administratif"
+imageCredit: "Photo : Freepik"
 ---
 
 ## Emirates ID : c'est quoi exactement ?
@@ -199,3 +202,7 @@ Attention : un visa de résidence est aussi annulé si vous restez plus de 180 j
 7. Rappel dans votre agenda six mois avant l'expiration.
 
 Vous arrivez à Dubaï et voulez que visa, Emirates ID, compte bancaire et logement s'enchaînent sans perte de temps ? START IN DUBAI s'en charge avec vous, avec un seul interlocuteur. Pour commencer, [demander un premier échange gratuit](/#inscription).
+
+## Pour aller plus loin
+
+- [Test médical pour le visa de résidence à Dubaï : le guide complet](/blog/test-medical-visa-residence-dubai/)

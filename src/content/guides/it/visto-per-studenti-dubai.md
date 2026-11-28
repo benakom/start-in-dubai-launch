@@ -41,6 +41,7 @@ sources:
 related: ["etudier-a-dubai", "golden-visa-dubai", "visa-residence-dubai", "cout-de-la-vie-dubai", "s-installer-a-dubai-en-famille"]
 order: 2
 key: "visa-etudiant-dubai"
+image: "/assets/photos/visa-etudiant-dubai.webp"
 ---
 
 Hai ottenuto l'ammissione a un'università di Dubai? Resta il visto. La buona notizia: a Dubai **di solito se ne occupa l'università**. Ecco come funziona il visto per studenti, quanto costa davvero e le trappole da evitare.

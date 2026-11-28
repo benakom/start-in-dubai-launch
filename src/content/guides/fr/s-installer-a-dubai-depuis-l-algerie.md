@@ -43,6 +43,9 @@ sources:
     url: "https://www.rta.ae/wps/portal/rta/ae/home/rta-services/service-details?serviceId=121"
 related: ["s-installer-a-dubai", "visa-residence-dubai", "etudier-a-dubai", "travailler-a-dubai", "s-installer-a-dubai-depuis-le-maroc"]
 order: 2
+image: "/assets/photos/s-installer-a-dubai-depuis-l-algerie.webp"
+imageAlt: "Tapis roulant et voyageurs dans le hall des portes D de l'aéroport international de Dubaï"
+imageCredit: "Photo : Freepik"
 ---
 
 Ce guide s’adresse aux Algériens qui vivent en Algérie et à ceux de la diaspora (France, Canada, Belgique…) qui envisagent Dubaï. Il porte sur l’installation, pas sur l’investissement. Le contexte entre les deux pays a beaucoup bougé en 2026. **Situation au 27 novembre 2026, susceptible d’évoluer** : les règles peuvent changer d’une semaine à l’autre, donc confirmez toujours auprès des autorités consulaires et sur les sites officiels avant d’acheter un billet ou de démissionner.

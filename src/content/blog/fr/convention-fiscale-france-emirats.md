@@ -48,6 +48,9 @@ sources:
     url: "https://mof.gov.ae/en/public-finance/international-relations/double-taxation-agreements-dtas/"
 related: ["impots-dubai", "s-installer-a-dubai-depuis-la-france", "s-installer-a-dubai", "ouvrir-un-compte-bancaire-a-dubai", "golden-visa-dubai"]
 order: 1
+image: "/assets/photos/convention-fiscale-france-emirats.webp"
+imageAlt: "Une conseillère passe en revue des documents fiscaux avec un client à son bureau"
+imageCredit: "Photo : Freepik"
 ---
 
 Cet article explique le texte de la convention et les règles françaises qui l’entourent, d’après les sources officielles citées en bas de page. Il ne remplace pas l’avis d’un conseiller fiscal sur votre situation.

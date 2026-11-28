@@ -43,6 +43,7 @@ sources:
 related: ["visa-residence-dubai", "investir-a-dubai", "creer-sa-societe-a-dubai", "s-installer-a-dubai-en-famille", "impots-dubai"]
 order: 1
 key: "golden-visa-dubai"
+image: "/assets/photos/golden-visa-dubai.webp"
 ---
 
 ## Che cos'è il Golden Visa di Dubai?

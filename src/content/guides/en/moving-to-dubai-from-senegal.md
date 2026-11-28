@@ -44,6 +44,7 @@ sources:
 related: ["s-installer-a-dubai", "visa-residence-dubai", "creer-sa-societe-a-dubai", "etudier-a-dubai", "s-installer-a-dubai-depuis-le-maroc"]
 order: 4
 key: "s-installer-a-dubai-depuis-le-senegal"
+image: "/assets/photos/s-installer-a-dubai-depuis-le-senegal.webp"
 ---
 
 This guide supports Senegalese people in Senegal and in the diaspora (France, Italy, Spain, the United States, Canada and elsewhere) who want to live and work in Dubai. It covers entering the country, paperwork, money, work and study. **Information checked on 27 November 2026**: visa rules change regularly, so always confirm them on the official sources cited at the bottom of the page.

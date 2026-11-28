@@ -40,6 +40,9 @@ sources:
     url: "https://www.dubai.ae/living/jobs-employment/end-of-service-gratuity"
 related: ["s-installer-a-dubai", "visa-residence-dubai", "freelance-dubai", "cout-de-la-vie-dubai", "s-installer-a-dubai-depuis-le-maroc"]
 order: 1
+image: "/assets/photos/travailler-a-dubai.webp"
+imageAlt: "Deux collègues en chemise marchent le long du canal de Dubai Marina en discutant du quartier"
+imageCredit: "Photo : Freepik"
 ---
 
 ## Travailler à Dubaï : comment ça marche
@@ -172,3 +175,9 @@ START IN DUBAI vous aide à organiser votre installation une fois l’emploi tro
 ## Pour aller plus loin
 
 - [Contrat de travail à Dubaï : ce que dit la loi sur l'essai, le préavis et la fin de service](/contrat-de-travail-dubai/)
+- [Congés payés à Dubaï : tous vos congés selon la loi émirienne](/blog/conges-payes-dubai/)
+- [Assurance chômage à Dubaï (ILOE) : s'inscrire, payer, être indemnisé](/blog/assurance-chomage-iloe-dubai/)
+- [Changer d’employeur à Dubaï : les étapes, les délais et les pièges de la loi](/blog/changer-d-employeur-dubai/)
+- [Package expatrié à Dubaï : ce qu’il contient et comment le négocier](/blog/negocier-son-package-expatrie-dubai/)
+- [CV pour Dubaï : faire un CV et une candidature qui décrochent des entretiens](/blog/cv-pour-trouver-un-emploi-a-dubai/)
+- [Indemnité de fin de contrat à Dubaï : la calculer, la toucher, la réclamer](/blog/indemnite-fin-de-contrat-dubai/)

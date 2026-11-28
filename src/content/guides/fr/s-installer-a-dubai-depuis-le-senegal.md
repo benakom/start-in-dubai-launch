@@ -43,6 +43,9 @@ sources:
     url: "https://www.rta.ae/wps/portal/rta/ae/home/rta-services/service-details?serviceId=121"
 related: ["s-installer-a-dubai", "visa-residence-dubai", "creer-sa-societe-a-dubai", "etudier-a-dubai", "s-installer-a-dubai-depuis-le-maroc"]
 order: 4
+image: "/assets/photos/s-installer-a-dubai-depuis-le-senegal.webp"
+imageAlt: "Une nouvelle arrivante, sac à dos sur les épaules, se promène dans Downtown Dubaï face à la Burj Khalifa"
+imageCredit: "Photo : Freepik"
 ---
 
 Ce guide accompagne les Sénégalais du Sénégal et de la diaspora (France, Italie, Espagne, États-Unis, Canada…) qui veulent vivre et travailler à Dubaï. Il couvre l’entrée sur le territoire, les papiers, l’argent, le travail et les études. **Informations vérifiées le 27 novembre 2026** : les règles de visa changent régulièrement, confirmez-les toujours sur les sources officielles citées en bas de page.

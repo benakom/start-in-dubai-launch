@@ -44,6 +44,7 @@ sources:
 related: ["s-installer-a-dubai", "visa-residence-dubai", "etudier-a-dubai", "travailler-a-dubai", "s-installer-a-dubai-depuis-le-maroc"]
 order: 2
 key: "s-installer-a-dubai-depuis-l-algerie"
+image: "/assets/photos/s-installer-a-dubai-depuis-l-algerie.webp"
 ---
 
 This guide is for Algerians living in Algeria and for those in the diaspora (France, Canada, Belgium and elsewhere) who are considering Dubai. It covers relocating, not investing. The context between the two countries has shifted a lot in 2026. **Situation as of 27 November 2026, subject to change**: rules can change from one week to the next, so always confirm with the consular authorities and on official sites before buying a ticket or resigning.

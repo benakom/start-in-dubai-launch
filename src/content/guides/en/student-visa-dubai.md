@@ -41,6 +41,7 @@ sources:
 related: ["etudier-a-dubai", "golden-visa-dubai", "visa-residence-dubai", "cout-de-la-vie-dubai", "s-installer-a-dubai-en-famille"]
 order: 2
 key: "visa-etudiant-dubai"
+image: "/assets/photos/visa-etudiant-dubai.webp"
 ---
 
 Have you been admitted to a university in Dubai? The visa is still to come. The good news: in Dubai, **it is generally the university that handles it**. Here is how the student visa works, what it really costs and the traps to avoid.

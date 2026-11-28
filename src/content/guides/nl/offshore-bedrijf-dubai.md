@@ -41,6 +41,7 @@ sources:
 related: ["creer-sa-societe-a-dubai", "zone-franche-dubai", "ouvrir-un-compte-bancaire-a-dubai", "impots-dubai"]
 order: 3
 key: "societe-offshore-dubai"
+image: "/assets/photos/societe-offshore-dubai.webp"
 ---
 
 ## Wat is een offshore bedrijf in Dubai?

@@ -39,6 +39,7 @@ sources:
 related: ["s-installer-a-dubai-en-famille", "etudier-a-dubai", "cout-de-la-vie-dubai", "s-installer-a-dubai", "vivre-a-dubai"]
 order: 2
 key: "ecoles-francaises-dubai"
+image: "/assets/photos/ecoles-francaises-dubai.webp"
 ---
 
 Si estás preparando una [mudanza a Dubái con familia](/es/mudarse-a-dubai-con-familia/), el colegio es la primera decisión que hay que tomar, incluso antes que la vivienda. Esta es la lista verificada de los colegios franceses de Dubái, lo que cuestan y cómo inscribirse.

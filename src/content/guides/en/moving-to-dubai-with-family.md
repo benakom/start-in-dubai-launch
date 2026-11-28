@@ -41,6 +41,7 @@ sources:
 related: ["ecoles-francaises-dubai", "visa-residence-dubai", "s-installer-a-dubai", "cout-de-la-vie-dubai", "vivre-a-dubai"]
 order: 1
 key: "s-installer-a-dubai-en-famille"
+image: "/assets/photos/s-installer-a-dubai-en-famille.webp"
 ---
 
 Leaving with a spouse and children is not a move like any other. The family's visas depend on yours, the school depends on the area, and the area depends on the budget. This guide takes the steps in the order in which they arise, with the official rules in force at the end of 2026.

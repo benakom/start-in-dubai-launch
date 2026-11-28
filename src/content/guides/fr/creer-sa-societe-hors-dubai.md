@@ -42,6 +42,9 @@ sources:
     url: "https://u.ae/en/information-and-services/finance-and-investment/taxation/corporate-tax"
 related: ["meilleures-free-zones-dubai", "zone-franche-dubai", "creer-sa-societe-a-dubai", "impot-sur-les-societes-dubai", "ouvrir-un-compte-bancaire-a-dubai"]
 order: 66
+image: "/assets/photos/creer-sa-societe-hors-dubai.webp"
+imageAlt: "Les tours de Sharjah au bord de la lagune Khalid au coucher du soleil, aux Émirats arabes unis"
+imageCredit: "Photo : Freepik"
 ---
 
 Quand le budget est l’enjeu, la question revient : pourquoi ne pas créer la société dans un autre émirat, plus petit et moins cher que Dubaï ? Parfois c’est une bonne idée, parfois un faux ami. Ce guide présente les zones franches officielles de Ras Al Khaimah, de Sharjah et d’Ajman, ce que chacune dit publier, ce que vous gagnez et ce que vous risquez de perdre. Vérifié le 28 novembre 2026 sur le portail officiel u.ae et sur les sites des zones.

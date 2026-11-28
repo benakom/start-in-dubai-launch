@@ -36,6 +36,9 @@ sources:
     url: "https://www.moccae.gov.ae/"
 related: ["s-installer-a-dubai-en-famille", "s-installer-a-dubai", "vivre-a-dubai", "cout-de-la-vie-dubai"]
 order: 80
+image: "/assets/photos/animaux-dubai.webp"
+imageAlt: "Une vétérinaire lit la puce électronique d'un beagle avec un lecteur dans une clinique"
+imageCredit: "Photo : Freepik"
 ---
 
 Ce guide répond à la question que se posent les familles qui déménagent avec un chien ou un chat : que faut-il faire, dans quel ordre, et quels points demandent une vérification officielle. **Informations vérifiées le 28 novembre 2026.** Une réserve importante : le site du ministère qui délivre le permis d’importation (le MOCCAE) n’a pas pu être consulté lors de notre vérification, il refusait la connexion. Les conditions ci-dessous viennent de la fiche officielle du ministère américain de l’Agriculture (APHIS), qui les rapporte, et de Dubai Municipality pour la partie locale. Elles sont à confirmer auprès du MOCCAE avant toute décision : les règles sanitaires changent.

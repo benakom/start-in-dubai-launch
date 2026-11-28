@@ -41,6 +41,9 @@ sources:
     url: "https://www.rta.ae/wps/portal/rta/ae/home/rta-services/service-details?serviceId=121"
 related: ["s-installer-a-dubai", "visa-residence-dubai", "travailler-a-dubai", "ouvrir-un-compte-bancaire-a-dubai", "s-installer-a-dubai-depuis-la-tunisie"]
 order: 1
+image: "/assets/photos/s-installer-a-dubai-depuis-le-maroc.webp"
+imageAlt: "Un voyageur sac au dos regarde les avions sur le tarmac depuis la baie vitrée d'un terminal, avant l'embarquement"
+imageCredit: "Photo : Freepik"
 ---
 
 Ce guide s’adresse aux Marocains qui partent du Maroc et aux Marocains du monde (France, Belgique, Espagne, Canada…) qui veulent faire de Dubaï leur nouvelle base. Il porte sur l’installation : visa, papiers, argent, travail, études et vie sur place. Les règles de visa changent souvent. **Informations vérifiées le 27 novembre 2026** : confirmez toujours sur les sites officiels cités en fin de page avant de réserver.

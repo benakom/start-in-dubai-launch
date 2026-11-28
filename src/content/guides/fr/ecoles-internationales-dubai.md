@@ -40,6 +40,9 @@ sources:
     url: "https://www.dubai.ae/living/education/schools-rating"
 related: ["ecoles-francaises-dubai", "s-installer-a-dubai-en-famille", "visa-famille-dubai", "cout-de-la-vie-dubai", "legalisation-documents-dubai"]
 order: 63
+image: "/assets/photos/ecoles-internationales-dubai.webp"
+imageAlt: "Une enseignante lit un livre à des élèves de primaire assis en cercle dans une classe colorée"
+imageCredit: "Photo : Freepik"
 ---
 
 Choisir une école est la décision qui structure toute l’installation d’une famille : elle fixe le quartier, le budget, les trajets et le calendrier. Ce guide explique comment fonctionne le système des écoles privées de Dubaï, comment lire les informations officielles du KHDA et comment constituer le dossier. Vérifié le 28 novembre 2026 sur les pages du KHDA et du bureau des médias de Dubaï.
@@ -168,3 +171,7 @@ Si votre famille reste quelques années, l’école du programme de votre pays d
 Les écoles de commerce et les universités sont un autre sujet, avec d’autres autorités et d’autres visas : voyez notre guide pour [étudier à Dubaï](/etudier-a-dubai/).
 
 Pour organiser l’installation de toute la famille (visas, logement, scolarité), vous pouvez [prendre un premier échange gratuit](/#inscription) : nous vous répondons dans votre langue, sans engagement.
+
+## Pour aller plus loin
+
+- [Crèche à Dubaï : choisir une nursery agréée et comprendre les règles du KHDA](/blog/creche-dubai/)

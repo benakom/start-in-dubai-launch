@@ -38,6 +38,9 @@ sources:
     url: "https://u.ae/en/information-and-services/visa-and-emirates-id/types-of-visas/residence-visa/residence-visa-for-family-members"
 related: ["visa-residence-dubai", "golden-visa-dubai", "visa-investisseur-dubai", "freelance-dubai", "travailler-a-dubai"]
 order: 56
+image: "/assets/photos/green-visa-dubai.webp"
+imageAlt: "Un voyageur attend au comptoir pendant qu'une agente d'aéroport vérifie son passeport"
+imageCredit: "Photo : Freepik"
 ---
 
 Le **Green Visa de Dubaï** (on dit aussi *Green Residence* ou *UAE Green Visa*) répond à une question simple : peut-on avoir une résidence aux Émirats sans dépendre d'un employeur, sans investir 2 millions de dirhams comme pour le Golden Visa ? Oui, à condition d'entrer dans l'une des trois catégories prévues. Cette page détaille les conditions de chacune, la durée, la famille et les erreurs à éviter. Pour comparer tous les types de résidence, voyez notre guide du [visa de résidence à Dubaï](/visa-residence-dubai/). **Informations vérifiées le 28 novembre 2026** sur le site de l'ICP et sur u.ae.

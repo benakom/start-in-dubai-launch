@@ -51,6 +51,7 @@ sources:
 related: ["creer-sa-societe-a-dubai", "zone-franche-dubai", "freelance-dubai", "ouvrir-un-compte-bancaire-a-dubai", "impots-dubai"]
 order: 2
 key: "cout-creation-societe-dubai"
+image: "/assets/photos/cout-creation-societe-dubai.webp"
 ---
 
 ## Quanto costa aprire una società a Dubai?

@@ -43,6 +43,9 @@ sources:
     url: "https://www.bdl.gov.lb/"
 related: ["s-installer-a-dubai", "visa-residence-dubai", "travailler-a-dubai", "ouvrir-un-compte-bancaire-a-dubai", "s-installer-a-dubai-depuis-la-tunisie"]
 order: 10
+image: "/assets/photos/s-installer-a-dubai-depuis-le-liban.webp"
+imageAlt: "Une femme remplit un formulaire à l'accueil d'un centre médical, aidée par une réceptionniste"
+imageCredit: "Photo : Freepik"
 ---
 
 Ce guide est écrit pour les Libanais du Liban et pour les Libanais de la diaspora (France, Canada, États-Unis, Golfe, Afrique) qui préparent une installation à Dubaï. On y parle visa, papiers, argent, travail et études, dans l’ordre où les questions se posent. **Informations vérifiées le 28 novembre 2026.** Les règles de visa et la situation bancaire évoluent : vérifiez toujours sur les sources officielles listées en bas de page, et gardez un doute sur tout chiffre qui n’y figure pas.

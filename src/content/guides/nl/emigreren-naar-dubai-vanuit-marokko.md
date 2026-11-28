@@ -42,6 +42,7 @@ sources:
 related: ["s-installer-a-dubai", "visa-residence-dubai", "travailler-a-dubai", "ouvrir-un-compte-bancaire-a-dubai", "s-installer-a-dubai-depuis-la-tunisie"]
 order: 1
 key: "s-installer-a-dubai-depuis-le-maroc"
+image: "/assets/photos/s-installer-a-dubai-depuis-le-maroc.webp"
 ---
 
 Deze gids is bedoeld voor Marokkanen die vanuit Marokko vertrekken en voor Marokkanen in het buitenland (Frankrijk, België, Spanje, Canada...) die van Dubai hun nieuwe uitvalsbasis willen maken. Hij gaat over de verhuizing zelf: visum, papieren, geld, werk, studie en het leven ter plaatse. De visumregels veranderen vaak. **Informatie gecontroleerd op 27 november 2026**: bevestig altijd op de officiële websites onderaan deze pagina voordat u boekt.

@@ -41,6 +41,7 @@ sources:
 related: ["visa-etudiant-dubai", "ecoles-francaises-dubai", "cout-de-la-vie-dubai", "vivre-a-dubai", "travailler-a-dubai"]
 order: 1
 key: "etudier-a-dubai"
+image: "/assets/photos/etudier-a-dubai.webp"
 ---
 
 Dubai attracts students from all over the world every year: campuses of major foreign universities, teaching in English, a safe, internationally open city. For a French-speaking school leaver, the real question is **which degree you get, in which language, at what price, and whether it will be recognised** where you want to work afterwards.

@@ -42,6 +42,7 @@ sources:
 related: ["s-installer-a-dubai", "visa-residence-dubai", "travailler-a-dubai", "freelance-dubai", "s-installer-a-dubai-depuis-l-algerie"]
 order: 3
 key: "s-installer-a-dubai-depuis-la-tunisie"
+image: "/assets/photos/s-installer-a-dubai-depuis-la-tunisie.webp"
 ---
 
 Deze gids is geschreven voor Tunesiërs in Tunesië en voor Tunesiërs die in het buitenland wonen (Frankrijk, Duitsland, Italië, Canada...) en een verhuizing naar Dubai voorbereiden. Hij behandelt visum, papieren, geld, werk en studie, in de volgorde waarin de vragen zich voordoen. **Informatie gecontroleerd op 27 november 2026.** De visum- en wisselregels veranderen: controleer altijd de officiële bronnen onderaan de pagina.

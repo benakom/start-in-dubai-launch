@@ -50,6 +50,9 @@ sources:
     url: "https://desk.wio.io/support/solutions/articles/501000414641-wio-business-plans-fees-guide"
 related: ["creer-sa-societe-a-dubai", "zone-franche-dubai", "freelance-dubai", "ouvrir-un-compte-bancaire-a-dubai", "impots-dubai"]
 order: 2
+image: "/assets/photos/cout-creation-societe-dubai.webp"
+imageAlt: "Une entrepreneuse calcule des frais sur une calculatrice à son bureau, devant son ordinateur"
+imageCredit: "Photo : Freepik"
 ---
 
 ## Combien coûte la création d’une société à Dubaï ?

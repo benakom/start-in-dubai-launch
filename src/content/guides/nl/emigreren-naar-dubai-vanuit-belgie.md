@@ -42,6 +42,7 @@ sources:
 related: ["s-installer-a-dubai", "visa-residence-dubai", "impots-dubai", "s-installer-a-dubai-depuis-la-france", "creer-sa-societe-a-dubai"]
 order: 6
 key: "s-installer-a-dubai-depuis-la-belgique"
+image: "/assets/photos/s-installer-a-dubai-depuis-la-belgique.webp"
 ---
 
 ## Emigreren naar Dubai vanuit België: wat anders is dan bij andere landen

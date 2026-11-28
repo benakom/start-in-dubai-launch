@@ -38,6 +38,9 @@ sources:
     url: "https://icp.gov.ae/en/uae-green-residency"
 related: ["golden-visa-dubai", "creer-sa-societe-a-dubai", "freelance-dubai", "travailler-a-dubai", "s-installer-a-dubai-en-famille"]
 order: 2
+image: "/assets/photos/visa-residence-dubai.webp"
+imageAlt: "Un couple et sa fille marchent avec leurs valises dans une passerelle d'aéroport"
+imageCredit: "Photo : Freepik"
 ---
 
 ## Comment fonctionne le visa de résidence à Dubaï ?
@@ -139,6 +142,8 @@ Tout demandeur de 18 ans ou plus doit prouver qu'il est apte médicalement, dans
 - **Délai de grâce** : après l'expiration ou l'annulation, les résidents disposent d'un délai qui peut aller jusqu'à 6 mois selon la catégorie, pour changer de statut ou quitter le pays.
 - **Dépassement** : rester au-delà sans visa valide coûte, selon u.ae, 50 AED par jour.
 
+Pour vérifier et payer une amende ou demander une exemption, voir notre article sur l'[overstay à Dubaï](/blog/overstay-amende-depassement-sejour-dubai/) ; pour l'ordre des étapes du renouvellement, notre article pour [renouveler son visa et sa licence](/blog/renouveler-visa-et-licence-dubai/).
+
 Un changement d'employeur ou la fermeture de votre société entraîne l'annulation du visa lié. Anticipez la suite avant.
 
 ## La règle des 6 mois hors du pays
@@ -171,3 +176,4 @@ START IN DUBAI vous accompagne de A à Z (société, compte bancaire, visas, log
 - [Green visa Dubaï : la résidence de 5 ans sans parrain, pour qui et à quelles conditions](/green-visa-dubai/)
 - [Visa Dubaï : quel visa pour quelle situation (entrée, résidence, Green et Golden Visa)](/visa-dubai/)
 - [Visa de recherche d'emploi à Dubaï : qui peut le demander, pour combien de temps et à quel prix](/visa-recherche-emploi-dubai/)
+- [Test médical pour le visa de résidence à Dubaï : le guide complet](/blog/test-medical-visa-residence-dubai/)

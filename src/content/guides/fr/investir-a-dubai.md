@@ -40,6 +40,9 @@ sources:
     url: "https://icp.gov.ae/en/green-residency/"
 related: ["creer-sa-societe-a-dubai", "golden-visa-dubai", "zone-franche-dubai", "impots-dubai", "ouvrir-un-compte-bancaire-a-dubai"]
 order: 1
+image: "/assets/photos/investir-a-dubai.webp"
+imageAlt: "Quatre gens d'affaires, dont un homme en kandoura blanche, échangent devant des immeubles de bureaux vitrés"
+imageCredit: "Photo : Freepik"
 ---
 
 ## Investir à Dubaï : de quoi parle-t-on ?
@@ -147,3 +150,7 @@ L’immobilier est l’un des investissements les plus courants à Dubaï, et un
 8. **Mettez en place la comptabilité** et les inscriptions fiscales dès le départ.
 
 Si vous comptez vous installer, enchaînez avec notre guide pour [s’installer à Dubaï](/s-installer-a-dubai/). START IN DUBAI vous accompagne de A à Z (société, compte bancaire, visas, logement, écoles), avec un seul interlocuteur, dans votre langue (arabe, français, anglais, espagnol, néerlandais, italien). [Demandez un premier échange gratuit](/#inscription).
+
+## Pour aller plus loin
+
+- [Testament et héritage à Dubaï : ce que tout expatrié devrait régler](/blog/testament-expatrie-dubai/)

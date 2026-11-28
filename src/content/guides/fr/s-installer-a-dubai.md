@@ -40,6 +40,9 @@ sources:
     url: "https://mof.gov.ae/en/news/ministry-of-finance-confirms-applicable-taxable-income-threshold-for-corporate-tax-abu-dhabi-uae/"
 related: ["visa-residence-dubai", "creer-sa-societe-a-dubai", "cout-de-la-vie-dubai", "s-installer-a-dubai-en-famille", "ouvrir-un-compte-bancaire-a-dubai"]
 order: 1
+image: "/assets/photos/s-installer-a-dubai.webp"
+imageAlt: "Des habitants marchent, courent et font du vélo sur la promenade au bord de l'eau à Dubai Marina"
+imageCredit: "Photo : Freepik"
 ---
 
 ## Pourquoi s’installer à Dubaï ?
@@ -223,3 +226,7 @@ START IN DUBAI réunit toutes ces étapes dans un seul parcours, avec un seul in
 
 - [Déménagement à Dubaï : envoyer ses affaires, passer la douane et venir avec ses animaux](/demenagement-dubai/)
 - [Légalisation de documents pour Dubaï : la chaîne complète, du ministère à l’attestation MOFA](/legalisation-documents-dubai/)
+- [Premiers jours à Dubaï : les démarches des 30 premiers jours, dans le bon ordre](/blog/checklist-30-premiers-jours-dubai/)
+- [DEWA à Dubaï : ouvrir son compteur d'électricité et d'eau en arrivant](/blog/ouvrir-compteur-dewa-dubai/)
+- [Ejari à Dubaï : le guide du locataire pour enregistrer son contrat de location](/blog/contrat-de-location-ejari-dubai/)
+- [Climat de Dubaï : vivre avec la chaleur quand on s’installe](/blog/climat-dubai-s-installer/)

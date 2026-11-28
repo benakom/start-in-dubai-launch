@@ -42,6 +42,7 @@ sources:
 related: ["s-installer-a-dubai", "visa-residence-dubai", "travailler-a-dubai", "freelance-dubai", "s-installer-a-dubai-depuis-l-algerie"]
 order: 3
 key: "s-installer-a-dubai-depuis-la-tunisie"
+image: "/assets/photos/s-installer-a-dubai-depuis-la-tunisie.webp"
 ---
 
 Esta guía está escrita para los tunecinos de Túnez y para los tunecinos residentes en el extranjero (Francia, Alemania, Italia, Canadá…) que preparan una mudanza a Dubái. Trata de visado, papeles, dinero, trabajo y estudios, en el orden en que surgen las preguntas. **Información verificada el 27 de noviembre de 2026.** Las normas de visado y de cambio evolucionan: verifica siempre en las fuentes oficiales que figuran al pie de la página.

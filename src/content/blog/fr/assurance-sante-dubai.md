@@ -40,6 +40,9 @@ sources:
     url: "https://www.cfe.fr/emiratexpatsante"
 related: ["s-installer-a-dubai", "s-installer-a-dubai-en-famille", "cout-de-la-vie-dubai", "travailler-a-dubai", "visa-residence-dubai"]
 order: 9
+image: "/assets/photos/assurance-sante-dubai.webp"
+imageAlt: "Une médecin généraliste explique un traitement à un patient lors d'une consultation dans son cabinet"
+imageCredit: "Photo : Freepik"
 ---
 
 ## Assurance santé à Dubaï : ce que dit la loi

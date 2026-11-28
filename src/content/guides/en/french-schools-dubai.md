@@ -39,6 +39,7 @@ sources:
 related: ["s-installer-a-dubai-en-famille", "etudier-a-dubai", "cout-de-la-vie-dubai", "s-installer-a-dubai", "vivre-a-dubai"]
 order: 2
 key: "ecoles-francaises-dubai"
+image: "/assets/photos/ecoles-francaises-dubai.webp"
 ---
 
 If you are preparing a [move to Dubai with your family](/en/moving-to-dubai-with-family/), school is the first decision to make, even before housing. Here is the verified list of French schools in Dubai, what they cost and how to register.

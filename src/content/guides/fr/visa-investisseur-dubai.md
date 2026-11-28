@@ -42,6 +42,9 @@ sources:
     url: "https://u.ae/en/information-and-services/visa-and-emirates-id/Types-of-visas/Residence-visa/residence-visa-for-family-members"
 related: ["golden-visa-dubai", "visa-residence-dubai", "creer-sa-societe-a-dubai", "zone-franche-dubai", "s-installer-a-dubai-en-famille"]
 order: 52
+image: "/assets/photos/visa-investisseur-dubai.webp"
+imageAlt: "Un homme d'affaires en costume téléphone en marchant dans une avenue bordée de palmiers du quartier d'affaires de Dubaï"
+imageCredit: "Photo : Freepik"
 ---
 
 ## Visa investisseur à Dubaï : de quoi parle-t-on ?

@@ -39,6 +39,7 @@ sources:
 related: ["golden-visa-dubai", "creer-sa-societe-a-dubai", "freelance-dubai", "travailler-a-dubai", "s-installer-a-dubai-en-famille"]
 order: 2
 key: "visa-residence-dubai"
+image: "/assets/photos/visa-residence-dubai.webp"
 ---
 
 ## ¿Cómo funciona el visado de residencia en Dubái?

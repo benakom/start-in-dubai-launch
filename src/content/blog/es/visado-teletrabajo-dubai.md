@@ -43,6 +43,7 @@ sources:
 related: ["freelance-dubai", "visa-residence-dubai", "cout-de-la-vie-dubai", "impots-dubai", "creer-sa-societe-a-dubai"]
 order: 7
 key: "visa-teletravail-dubai"
+image: "/assets/photos/visa-teletravail-dubai.webp"
 ---
 
 ## El visado de teletrabajo de Dubái en breve

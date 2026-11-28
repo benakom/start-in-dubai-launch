@@ -42,6 +42,9 @@ sources:
     url: "https://www.bceao.int/"
 related: ["ouvrir-un-compte-bancaire-a-dubai", "s-installer-a-dubai-depuis-le-maroc", "s-installer-a-dubai-depuis-l-algerie", "s-installer-a-dubai-depuis-la-france", "demenagement-dubai"]
 order: 62
+image: "/assets/photos/transferer-de-l-argent-a-dubai.webp"
+imageAlt: "Une main tient des billets en dirhams émiriens et un portefeuille en cuir"
+imageCredit: "Photo : Freepik"
 ---
 
 Envoyer de l’argent à Dubaï paraît simple : un virement, et c’est fait. En pratique, trois acteurs interviennent : votre pays de départ (qui peut limiter ce que vous sortez), votre banque (qui vérifie l’origine des fonds) et les Émirats (qui contrôlent les espèces à la frontière). Ce guide explique les règles officielles par pays, la déclaration en douane et la façon de choisir un canal de transfert. Il ne remplace pas l’avis de votre banque : les règles de change évoluent par instruction, et chaque situation a ses justificatifs. Vérifié le 28 novembre 2026 sur les sites des administrations citées.

@@ -43,6 +43,7 @@ sources:
 related: ["travailler-a-dubai", "cout-de-la-vie-dubai", "impots-dubai", "s-installer-a-dubai-en-famille", "golden-visa-dubai"]
 order: 8
 key: "salaire-a-dubai"
+image: "/assets/photos/salaire-a-dubai.webp"
 ---
 
 ## Stipendio a Dubai: cosa sapere prima di confrontare

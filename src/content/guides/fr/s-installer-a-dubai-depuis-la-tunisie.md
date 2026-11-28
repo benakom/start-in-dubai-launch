@@ -41,6 +41,9 @@ sources:
     url: "https://moe.gov.ae/en/eservices/servicecard/pages/certequivalent-out.aspx"
 related: ["s-installer-a-dubai", "visa-residence-dubai", "travailler-a-dubai", "freelance-dubai", "s-installer-a-dubai-depuis-l-algerie"]
 order: 3
+image: "/assets/photos/s-installer-a-dubai-depuis-la-tunisie.webp"
+imageAlt: "Des voyageurs attendent l'ouverture des portes palières sur un quai du métro de Dubaï"
+imageCredit: "Photo : Freepik"
 ---
 
 Ce guide est écrit pour les Tunisiens de Tunisie et pour les Tunisiens résidant à l’étranger (France, Allemagne, Italie, Canada…) qui préparent une installation à Dubaï. On y parle visa, papiers, argent, travail et études, dans l’ordre où les questions se posent. **Informations vérifiées le 27 novembre 2026.** Les règles de visa et de change évoluent : vérifiez toujours sur les sources officielles listées en bas de page.

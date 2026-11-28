@@ -41,6 +41,7 @@ sources:
 related: ["s-installer-a-dubai", "visa-residence-dubai", "freelance-dubai", "cout-de-la-vie-dubai", "s-installer-a-dubai-depuis-le-maroc"]
 order: 1
 key: "travailler-a-dubai"
+image: "/assets/photos/travailler-a-dubai.webp"
 ---
 
 ## Working in Dubai: how it works

@@ -43,6 +43,9 @@ sources:
     url: "https://www.rta.ae/wps/portal/rta/ae/home/rta-services/service-details?serviceId=121"
 related: ["s-installer-a-dubai", "visa-residence-dubai", "impots-dubai", "ecoles-francaises-dubai", "s-installer-a-dubai-depuis-la-belgique"]
 order: 5
+image: "/assets/photos/s-installer-a-dubai-depuis-la-france.webp"
+imageAlt: "Des parents et leurs deux enfants préparent les cartons du déménagement dans un salon lumineux"
+imageCredit: "Photo : Freepik"
 ---
 
 ## S’installer à Dubaï depuis la France : les étapes dans l’ordre

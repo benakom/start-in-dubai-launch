@@ -49,6 +49,9 @@ sources:
     url: "https://www.rta.ae/wps/portal/rta/ae/home/rta-services/service-details?serviceId=121"
 related: ["s-installer-a-dubai", "visa-residence-dubai", "creer-sa-societe-a-dubai", "ouvrir-un-compte-bancaire-a-dubai", "s-installer-a-dubai-depuis-le-senegal"]
 order: 61
+image: "/assets/photos/s-installer-a-dubai-depuis-le-cameroun.webp"
+imageAlt: "Taxis beiges de Dubaï garés en file dans une rue pavée du centre-ville"
+imageCredit: "Photo : Freepik"
 ---
 
 Ce guide s’adresse aux Camerounais de Douala, de Yaoundé ou de la diaspora (France, Belgique, Canada, États-Unis…) qui veulent vivre, travailler, entreprendre ou étudier à Dubaï. Il couvre l’entrée sur le territoire, les papiers, l’argent, le travail et les études. **Informations vérifiées le 28 novembre 2026** : les règles de visa changent régulièrement, confirmez-les toujours sur les sources officielles citées en bas de page.

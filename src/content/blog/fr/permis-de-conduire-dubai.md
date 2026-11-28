@@ -42,6 +42,9 @@ sources:
     url: "https://www.mediaoffice.ae/en/news/2026/september/14-09/gdrfa-dubai-launches-5-minute-international-driving-permit-service-at-dxb"
 related: ["s-installer-a-dubai", "vivre-a-dubai", "cout-de-la-vie-dubai", "s-installer-a-dubai-depuis-le-maroc", "golden-visa-dubai"]
 order: 10
+image: "/assets/photos/permis-de-conduire-dubai.webp"
+imageAlt: "Vue depuis le siège conducteur d'une voiture qui roule sur une avenue bordée de palmiers à Dubaï"
+imageCredit: "Photo : Freepik"
 ---
 
 ## Permis de conduire à Dubaï : trois situations
@@ -206,3 +209,8 @@ Pour le budget global d’une installation, voiture comprise, voir notre guide d
 6. Gardez une marge de budget : 1 050 AED pour un échange, davantage pour la voie de l’école.
 
 START IN DUBAI organise votre installation de A à Z, permis compris : visas, Emirates ID, logement, banque et démarches du quotidien, avec un seul interlocuteur, dans votre langue. Pour la vie sur place, lisez aussi notre guide pour [vivre à Dubaï](/vivre-a-dubai/). [Demander un premier échange gratuit](/#inscription).
+
+## Pour aller plus loin
+
+- [Salik et amendes à Dubaï : péages, infractions, points noirs et paiement](/blog/salik-et-amendes-rta-dubai/)
+- [Acheter une voiture à Dubaï : le guide du résident, neuf ou d’occasion](/blog/acheter-une-voiture-a-dubai/)

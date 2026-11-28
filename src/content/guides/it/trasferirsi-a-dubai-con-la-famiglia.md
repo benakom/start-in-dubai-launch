@@ -41,6 +41,7 @@ sources:
 related: ["ecoles-francaises-dubai", "visa-residence-dubai", "s-installer-a-dubai", "cout-de-la-vie-dubai", "vivre-a-dubai"]
 order: 1
 key: "s-installer-a-dubai-en-famille"
+image: "/assets/photos/s-installer-a-dubai-en-famille.webp"
 ---
 
 Partire con un coniuge e dei figli non è un progetto di espatrio come gli altri. I visti della famiglia dipendono dal tuo, la scuola dipende dal quartiere e il quartiere dipende dal budget. Questa guida riprende le tappe nell'ordine in cui si presentano, con le regole ufficiali in vigore a fine 2026.

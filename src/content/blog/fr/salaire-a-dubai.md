@@ -3,7 +3,7 @@ title: "Salaire à Dubaï : salaire moyen, package et offre à évaluer"
 description: "Salaire à Dubaï : pourquoi le « salaire moyen » trompe, comment lire une offre (base, indemnités, fin de service), ce qui est prélevé et la méthode pour comparer."
 h1: "Salaire à Dubaï : comment lire une offre et savoir si elle est bonne"
 keyword: "salaire dubai"
-secondary: ["salaire moyen dubai", "salaire minimum dubai", "package expatrié dubai", "indemnité de fin de service dubai", "salaire net dubai"]
+secondary: ["salaire moyen dubai", "salaire minimum dubai", "salaire net dubai"]
 cluster: travail
 updated: 2026-11-28
 intro: "Un salaire à Dubaï se juge sur le package complet, pas sur un chiffre : salaire de base, indemnités (logement, transport), assurance de la famille, billets d’avion et indemnité de fin de service, calculée sur le seul salaire de base. Il n’y a pas d’impôt sur le revenu et presque aucun prélèvement, mais pas non plus de salaire minimum général pour les expatriés ni de grille officielle par métier. La bonne méthode : convertir l’offre en revenu disponible après logement, écoles et assurance, puis comparer."
@@ -42,6 +42,9 @@ sources:
     url: "https://icp.gov.ae/en/uae-green-residency"
 related: ["travailler-a-dubai", "cout-de-la-vie-dubai", "impots-dubai", "s-installer-a-dubai-en-famille", "golden-visa-dubai"]
 order: 8
+image: "/assets/photos/salaire-a-dubai.webp"
+imageAlt: "Gros plan sur des billets de 100 et 500 dirhams des Émirats arabes unis"
+imageCredit: "Photo : Freepik"
 ---
 
 ## Salaire à Dubaï : ce qu’il faut savoir avant de comparer
@@ -121,7 +124,7 @@ C’est la partie la plus souvent oubliée d’un salaire à Dubaï. Selon u.ae,
 
 Elle est calculée sur le **dernier salaire de base**, sans les indemnités, et l’employeur doit la verser dans les 14 jours suivant la fin du contrat. Elle est proratisée pour un temps partiel.
 
-En ordre de grandeur, 21 jours représentent environ 0,7 mois de salaire de base par année travaillée. Sur une offre, cela revient à ajouter un peu plus d’un demi-mois de base par an à votre rémunération, versé à la fin.
+En ordre de grandeur, 21 jours représentent environ 0,7 mois de salaire de base par année travaillée. Sur une offre, cela revient à ajouter un peu plus d’un demi-mois de base par an à votre rémunération, versé à la fin. Le calcul jour par jour, avec des exemples (démission, licenciement, temps partiel), est détaillé dans notre article sur l’[indemnité de fin de contrat à Dubaï](/blog/indemnite-fin-de-contrat-dubai/).
 
 Deux variantes existent :
 
@@ -166,6 +169,8 @@ Ne pas payer d’impôt aux Émirats ne veut pas dire ne plus en payer du tout. 
 Un poste qui parraine votre famille, prend en charge l’école et garantit une fin de service correcte vaut souvent plus qu’un salaire plus élevé sans rien autour. Pensez aussi à la stabilité : votre visa dépend de votre emploi, sauf si vous obtenez un Green ou un Golden Visa.
 
 ## Ce qui se négocie vraiment
+
+Pour une méthode complète, élément par élément et avec un exemple chiffré de comparaison de deux offres, lisez notre article pour [négocier son package d’expatrié à Dubaï](/blog/negocier-son-package-expatrie-dubai/).
 
 - **La part du salaire de base** dans le total, pour la fin de service.
 - **L’indemnité de logement**, à comparer aux loyers du quartier où vous voulez vivre.

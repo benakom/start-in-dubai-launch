@@ -42,6 +42,9 @@ sources:
     url: "https://dubaihealth.ae/service/medical-fitness-exam"
 related: ["freelance-dubai", "visa-residence-dubai", "cout-de-la-vie-dubai", "impots-dubai", "creer-sa-societe-a-dubai"]
 order: 7
+image: "/assets/photos/visa-teletravail-dubai.webp"
+imageAlt: "Une femme travaille sur son ordinateur portable assise sur une plage, face aux tours d'Abu Dhabi"
+imageCredit: "Photo : Freepik"
 ---
 
 ## Le visa télétravail de Dubaï en bref

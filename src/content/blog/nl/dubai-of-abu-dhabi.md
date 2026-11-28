@@ -49,6 +49,7 @@ sources:
 related: ["vivre-a-dubai", "s-installer-a-dubai", "cout-de-la-vie-dubai", "ecoles-francaises-dubai", "s-installer-a-dubai-en-famille"]
 order: 1
 key: "dubai-ou-abu-dhabi"
+image: "/assets/photos/dubai-ou-abu-dhabi.webp"
 ---
 
 ## Dubai of Abu Dhabi: het korte antwoord

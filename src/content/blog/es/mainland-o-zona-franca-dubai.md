@@ -47,6 +47,7 @@ sources:
 related: ["zone-franche-dubai", "creer-sa-societe-a-dubai", "societe-offshore-dubai", "impots-dubai", "freelance-dubai"]
 order: 1
 key: "mainland-ou-free-zone-dubai"
+image: "/assets/photos/mainland-ou-free-zone-dubai.webp"
 ---
 
 ## Mainland o zona franca: la respuesta en 30 segundos

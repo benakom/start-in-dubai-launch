@@ -37,6 +37,7 @@ sources:
 related: ["creer-sa-societe-a-dubai", "impots-dubai", "visa-residence-dubai", "zone-franche-dubai", "s-installer-a-dubai"]
 order: 1
 key: "ouvrir-un-compte-bancaire-a-dubai"
+image: "/assets/photos/ouvrir-un-compte-bancaire-a-dubai.webp"
 ---
 
 ## Een bankrekening openen in Dubai: wat u eerst moet weten

@@ -44,6 +44,9 @@ sources:
     url: "https://u.ae/en/information-and-services/visa-and-emirates-id/visa-information/general-provisions-for-the-residence-visa"
 related: ["visa-residence-dubai", "golden-visa-dubai", "green-visa-dubai", "visa-recherche-emploi-dubai", "visa-dubai-marocains"]
 order: 51
+image: "/assets/photos/visa-dubai.webp"
+imageAlt: "Une voyageuse tend son passeport dans le hall d'enregistrement d'un aéroport"
+imageCredit: "Photo : Freepik"
 ---
 
 Vous cherchez le **visa pour Dubaï** qui correspond à votre situation : un voyage, un repérage avant de partir, un emploi, une société, un séjour d'études ou une installation en famille ? Cette page est un carrefour : elle classe les visas par **situation**, indique ce qu'ils permettent et renvoie vers le guide détaillé de chacun. Pour le tableau complet des titres de séjour, le guide de référence est celui du [visa de résidence à Dubaï](/visa-residence-dubai/). **Informations vérifiées le 28 novembre 2026** sur les sites officiels cités en bas de page. Les visas changent souvent : vérifiez toujours avant de payer.
@@ -157,3 +160,7 @@ Les règles d'entrée, les documents à légaliser, les transferts d'argent et l
 5. Vous avez lu le guide détaillé du visa concerné et vérifié les frais sur le site officiel.
 
 Si vous hésitez entre plusieurs visas, nous pouvons regarder votre situation avec vous, avec un seul interlocuteur qui parle votre langue : demandez votre [premier échange gratuit](/#inscription), sans engagement.
+
+## Pour aller plus loin
+
+- [Overstay à Dubaï : ce que coûte un dépassement de visa et comment régulariser](/blog/overstay-amende-depassement-sejour-dubai/)

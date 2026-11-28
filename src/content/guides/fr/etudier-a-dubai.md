@@ -40,6 +40,9 @@ sources:
     url: "https://u.ae/en/information-and-services/education/higher-education/Student-admission-and-qualification-recognition"
 related: ["visa-etudiant-dubai", "ecoles-francaises-dubai", "cout-de-la-vie-dubai", "vivre-a-dubai", "travailler-a-dubai"]
 order: 1
+image: "/assets/photos/etudier-a-dubai.webp"
+imageAlt: "Des étudiants travaillent sur les gradins du hall d'une université, entre deux cours"
+imageCredit: "Photo : Freepik"
 ---
 
 Dubaï attire chaque année des étudiants du monde entier : campus de grandes universités étrangères, enseignement en anglais, ville sûre et ouverte sur l'international. Pour un bachelier francophone, la vraie question est de savoir **quel diplôme on obtient, dans quelle langue, à quel prix, et s'il sera reconnu** là où l'on veut travailler ensuite.
@@ -133,7 +136,7 @@ Le budget annuel d'un étudiant se compose de :
 
 ## Bourses : ce qu'on peut raisonnablement espérer
 
-Soyons prudents : ne construisez pas votre budget sur une bourse. Les aides les plus accessibles viennent **des universités elles-mêmes**, le plus souvent sous forme de réductions au mérite. Leurs montants et leurs conditions changent chaque année et sont publiés sur la page « fees and scholarships » de chaque établissement : demandez-les dès la candidature, car certaines se décident au moment de l'admission.
+Soyons prudents : ne construisez pas votre budget sur une bourse. Les aides les plus accessibles viennent **des universités elles-mêmes**, le plus souvent sous forme de réductions au mérite. Leurs montants et leurs conditions changent chaque année et sont publiés sur la page « fees and scholarships » de chaque établissement : demandez-les dès la candidature, car certaines se décident au moment de l'admission. Les barèmes publiés par plusieurs universités (Khalifa University, UAEU, AUS, Sorbonne Abu Dhabi, campus de Dubaï), avec les seuils pour le bac français, sont comparés dans notre article sur les [bourses d'études aux Émirats](/blog/bourses-etudes-emirats/).
 
 Pour les très bons élèves, le levier le plus intéressant est souvent le **Golden Visa pour étudiants brillants**, qui donne une résidence longue (5 ou 10 ans selon les sources officielles : la durée est confirmée par l'autorité qui délivre le visa). Les conditions sont détaillées dans notre guide du [visa étudiant à Dubaï](/visa-etudiant-dubai/).
 

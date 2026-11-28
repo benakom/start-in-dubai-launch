@@ -40,6 +40,9 @@ sources:
     url: "https://mof.gov.ae/en/news/ministry-of-finance-announces-extension-of-small-business-relief-for-corporate-tax-purposes-until-31-december-2029/"
 related: ["creer-sa-societe-a-dubai", "zone-franche-dubai", "visa-residence-dubai", "travailler-a-dubai", "impots-dubai"]
 order: 4
+image: "/assets/photos/freelance-dubai.webp"
+imageAlt: "Un travailleur indépendant tape sur son ordinateur portable au comptoir d'un café face à la plage"
+imageCredit: "Photo : Freepik"
 ---
 
 ## Être freelance à Dubaï : comment ça marche
@@ -165,3 +168,4 @@ Beaucoup de freelances créent une société après un ou deux ans, quand l’ac
 - [Société mainland à Dubaï : comment créer une LLC en droit local](/societe-mainland-dubai/)
 - [Créer sa société à Ras Al Khaimah, Sharjah ou Ajman : zones, visas et limites](/creer-sa-societe-hors-dubai/)
 - [Holding à Dubaï : quelle structure choisir, quel impôt, quelles limites](/holding-dubai/)
+- [Ouvrir une société de conseil à Dubaï : la bonne structure, la bonne licence, la bonne facture](/blog/ouvrir-une-societe-de-conseil-dubai/)

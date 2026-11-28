@@ -42,6 +42,9 @@ sources:
     url: "https://www.estv2.admin.ch/stp/ds/d-kurzer-ueberblick-einkommenssteuer-natuerlicher-personen-fr.pdf"
 related: ["impots-dubai", "visa-residence-dubai", "s-installer-a-dubai-depuis-la-france", "s-installer-a-dubai-depuis-la-belgique", "s-installer-a-dubai-depuis-le-maroc"]
 order: 55
+image: "/assets/photos/residence-fiscale-dubai.webp"
+imageAlt: "Une personne vérifie des documents fiscaux devant un ordinateur portable, papiers étalés sur la table"
+imageCredit: "Photo : Freepik"
 ---
 
 La résidence fiscale est la question de ceux qui partent vraiment. Les Émirats n'imposent pas le revenu des particuliers, mais cet avantage ne vaut que si vous êtes bien résident fiscal émirien **et** si votre pays d'origine cesse de vous considérer comme le sien. Ce guide explique les deux côtés : les critères émiriens et le certificat de la Federal Tax Authority (FTA), puis ce que regardent la France, la Belgique, la Suisse, le Canada et le Maroc. Règles vérifiées le 28 novembre 2026 sur les textes officiels.

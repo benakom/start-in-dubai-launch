@@ -44,6 +44,7 @@ sources:
 related: ["s-installer-a-dubai", "visa-residence-dubai", "creer-sa-societe-a-dubai", "etudier-a-dubai", "s-installer-a-dubai-depuis-le-maroc"]
 order: 4
 key: "s-installer-a-dubai-depuis-le-senegal"
+image: "/assets/photos/s-installer-a-dubai-depuis-le-senegal.webp"
 ---
 
 Deze gids begeleidt Senegalezen uit Senegal en uit de diaspora (Frankrijk, Italië, Spanje, Verenigde Staten, Canada...) die in Dubai willen wonen en werken. Hij behandelt de toegang tot het land, de papieren, het geld, het werk en de studie. **Informatie gecontroleerd op 27 november 2026**: de visumregels veranderen regelmatig, bevestig ze altijd op de officiële bronnen onderaan de pagina.

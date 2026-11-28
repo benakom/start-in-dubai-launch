@@ -27,6 +27,8 @@ const guides = defineCollection({
     order: z.number().default(100),
     key: z.string().optional(),           // slug du guide français (obligatoire pour les traductions)
     image: z.string().optional(),         // illustration propre au guide (sinon celle du thème)
+    imageAlt: z.string().optional(),      // texte alternatif de la photo de couverture (vraie photo, jamais d'image IA)
+    imageCredit: z.string().optional(),   // crédit affiché sous la photo (ex. « Photo : Freepik »)
     draft: z.boolean().default(false),
   }),
 });

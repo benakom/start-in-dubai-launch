@@ -42,6 +42,7 @@ sources:
 related: ["s-installer-a-dubai", "visa-residence-dubai", "travailler-a-dubai", "freelance-dubai", "s-installer-a-dubai-depuis-l-algerie"]
 order: 3
 key: "s-installer-a-dubai-depuis-la-tunisie"
+image: "/assets/photos/s-installer-a-dubai-depuis-la-tunisie.webp"
 ---
 
 Questa guida è scritta per i tunisini della Tunisia e per i tunisini residenti all’estero (Francia, Germania, Italia, Canada…) che preparano un trasferimento a Dubai. Parla di visto, documenti, denaro, lavoro e studi, nell’ordine in cui le domande si pongono. **Informazioni verificate il 27 novembre 2026.** Le regole su visti e cambi evolvono: verifica sempre sulle fonti ufficiali elencate a fondo pagina.

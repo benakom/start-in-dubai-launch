@@ -42,6 +42,9 @@ sources:
     url: "https://www.canada.ca/en/services/benefits/publicpensions/international/taxes.html"
 related: ["visa-residence-dubai", "golden-visa-dubai", "cout-de-la-vie-dubai", "impots-dubai", "vivre-a-dubai"]
 order: 5
+image: "/assets/photos/retraite-a-dubai.webp"
+imageAlt: "Un couple de retraités souriant s'enlace sur une plage au coucher du soleil"
+imageCredit: "Photo : Freepik"
 ---
 
 ## Peut-on prendre sa retraite à Dubaï ?

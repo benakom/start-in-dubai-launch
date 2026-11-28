@@ -36,6 +36,9 @@ sources:
     url: "https://www.eand.ae/en/c/support/home/elife/mobile-customer-registration/overview-and-benefits.html"
 related: ["vivre-a-dubai", "cout-de-la-vie-dubai", "s-installer-a-dubai", "visa-residence-dubai"]
 order: 85
+image: "/assets/photos/telephone-internet-dubai.webp"
+imageAlt: "Une vendeuse insère une carte SIM dans le téléphone d'un client au comptoir d'une boutique de téléphonie"
+imageCredit: "Photo : Freepik"
 ---
 
 Ce guide répond à une question pratique que se posent tous les nouveaux arrivants : comment avoir un numéro et une connexion internet à Dubaï, et dans quel ordre. **Informations vérifiées le 28 novembre 2026.** Les offres et les prix des opérateurs changent souvent, ce qui explique que nous n’en publions aucun : nous donnons les règles d’enregistrement et la méthode.
