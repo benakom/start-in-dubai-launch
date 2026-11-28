@@ -34,7 +34,7 @@
   };
   const t = T[LANG] || T.en;
   const getVerify = () => window.sidVerify ? Promise.resolve(window.sidVerify) : (window.__sidVerifyP ||= new Promise((res, rej) => {
-    const sc = document.createElement("script"); sc.src = "/assets/verify.js?v=1"; sc.onload = () => res(window.sidVerify); sc.onerror = rej; document.head.append(sc);
+    const sc = document.createElement("script"); sc.src = "/assets/verify.js?v=2"; sc.onload = () => res(window.sidVerify); sc.onerror = rej; document.head.append(sc);
   }));
 
   const css = `
@@ -51,10 +51,11 @@
 .snl button:disabled{opacity:.6;cursor:wait}
 .snl .snl-hp{position:absolute;left:-9999px;width:1px;height:1px;overflow:hidden}
 .snl .snl-msg{flex-basis:100%;margin:4px 0 0;font-size:14px;font-weight:600}
-.snl .snl-msg.ok{color:#3DD26B}.snl .snl-msg.err{color:#FF8A80}
+.snl .snl-msg.is-ok{color:#3DD26B}.snl .snl-msg.is-err{color:#FF8A80}
+.snl-in>.sv-host{grid-column:2;grid-row:1}
 .snl .snl-legal{flex-basis:100%;margin:2px 0 0;font-size:12.5px;color:rgba(255,255,255,.55)}
 .snl-toast{position:fixed;z-index:60;left:50%;top:20px;transform:translateX(-50%);max-width:calc(100vw - 32px);padding:14px 20px;border-radius:12px;background:#0B0B0B;color:#fff;font-weight:700;box-shadow:0 20px 40px -16px rgba(0,0,0,.6);border-left:5px solid #00732F}
-@media (max-width:820px){.snl-in{grid-template-columns:1fr}.snl button{flex:1 1 100%}}`;
+@media (max-width:820px){.snl-in{grid-template-columns:1fr}.snl-in>.sv-host{grid-column:auto;grid-row:auto}.snl button{flex:1 1 100%}}`;
   const st = document.createElement("style"); st.textContent = css; document.head.append(st);
 
   const foot = document.querySelector("footer.foot");
@@ -73,27 +74,27 @@
       e.preventDefault();
       msg.className = "snl-msg"; msg.textContent = "";
       const email = inp.value.trim().toLowerCase();
-      if (!/^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(email)) { msg.classList.add("err"); msg.textContent = t.e; inp.focus(); return; }
-      if (f.website.value) { msg.classList.add("ok"); msg.textContent = t.c; return; } // piège à robots
+      if (!/^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(email)) { msg.classList.add("is-err"); msg.textContent = t.e; inp.focus(); return; }
+      if (f.website.value) { msg.classList.add("is-ok"); msg.textContent = t.c; return; } // piège à robots
       btn.disabled = true; btn.textContent = t.sending;
       let v;
-      try { v = await getVerify(); } catch { msg.classList.add("err"); msg.textContent = t.f; btn.disabled = false; btn.textContent = t.b; return; }
+      try { v = await getVerify(); } catch { msg.classList.add("is-err"); msg.textContent = t.f; btn.disabled = false; btn.textContent = t.b; return; }
       btn.disabled = false; btn.textContent = t.b;
       // étape code : le formulaire laisse la place à la saisie du code envoyé par e-mail
-      f.hidden = true;
+      f.style.display = "none";
       const host = document.createElement("div"); host.className = "sv-host"; f.after(host);
       v.mount(host, { email, lang: LANG, theme: "dark",
-        onBack: () => { host.remove(); f.hidden = false; inp.focus(); },
+        onBack: () => { host.remove(); f.style.display = ""; inp.focus(); },
         onVerified: async (proof) => {
-          host.remove(); f.hidden = false;
+          host.remove(); f.style.display = "";
           try {
             const r = await fetch("/api/newsletter", { method: "POST", headers: { "content-type": "application/json" },
               body: JSON.stringify({ email, lang: LANG, source: "newsletter-site", page: location.pathname, proof }) });
             if (!r.ok) throw new Error("HTTP " + r.status);
-            msg.classList.add("ok"); msg.textContent = t.c; inp.value = "";
+            msg.classList.add("is-ok"); msg.textContent = t.c; inp.value = "";
             window.gtag?.("event", "sign_up", { method: "newsletter" });
             window.fbq?.("track", "Subscribe");
-          } catch (ex) { msg.classList.add("err"); msg.textContent = t.f; }
+          } catch (ex) { msg.classList.add("is-err"); msg.textContent = t.f; }
         } });
     });
   }

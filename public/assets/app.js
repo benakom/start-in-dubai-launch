@@ -288,7 +288,7 @@
 
   /* ---------------------------------------------------------------- vérification de l'e-mail (code à 6 chiffres) */
   const getVerify = () => window.sidVerify ? Promise.resolve(window.sidVerify) : (window.__sidVerifyP ||= new Promise((res, rej) => {
-    const sc = document.createElement("script"); sc.src = "/assets/verify.js?v=1"; sc.onload = () => res(window.sidVerify); sc.onerror = rej; document.head.append(sc);
+    const sc = document.createElement("script"); sc.src = "/assets/verify.js?v=2"; sc.onload = () => res(window.sidVerify); sc.onerror = rej; document.head.append(sc);
   }));
   function clearVerify(step) { if (!step) return; step.classList.remove("verifying"); $(".sv-host", step)?.remove(); }
   async function startVerify(email) {

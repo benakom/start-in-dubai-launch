@@ -48,15 +48,15 @@
 .sv input:focus{outline:none;border-color:#E10600;box-shadow:0 0 0 4px rgba(225,6,0,.12)}
 .sv .sv-ok{min-height:56px;padding:0 24px;border:0;border-radius:12px;background:#E10600;color:#fff;font:inherit;font-size:16px;font-weight:800;cursor:pointer}
 .sv .sv-ok:disabled{opacity:.6;cursor:wait}
-.sv .sv-msg{min-height:1.2em;margin:0 0 10px;font-size:14px;font-weight:700}
-.sv .sv-msg.err{color:#C40500}.sv .sv-msg.ok{color:#00732F}
+.sv .sv-msg{display:block;background:none;min-height:1.2em;margin:0 0 10px;font-size:14px;font-weight:700}
+.sv .sv-msg.is-err{color:#C40500}.sv .sv-msg.is-ok{color:#00732F}
 .sv .sv-links{display:flex;flex-wrap:wrap;gap:6px 18px;font-size:14px}
 .sv .sv-links button{padding:0;border:0;background:none;color:inherit;font:inherit;font-weight:700;text-decoration:underline;cursor:pointer;opacity:.85}
 .sv .sv-links button:disabled{text-decoration:none;opacity:.5;cursor:default}
 .sv .sv-spam{margin:10px 0 0;font-size:13px;opacity:.7}
 .sv-dark{color:#fff}.sv-dark p{color:rgba(255,255,255,.8)}
 .sv-dark input{background:#161616;color:#fff;border-color:rgba(255,255,255,.25)}
-.sv-dark .sv-msg.err{color:#FF8A80}.sv-dark .sv-msg.ok{color:#3DD26B}
+.sv-dark .sv-msg.is-err{color:#FF8A80}.sv-dark .sv-msg.is-ok{color:#3DD26B}
 .sv-compact h3{font-size:16px;margin:0 0 6px}.sv-compact p{font-size:13.5px;margin:0 0 10px}
 .sv-compact input{min-height:48px;font-size:22px;flex-basis:100%}.sv-compact .sv-ok{min-height:46px;flex:1 1 100%}
 .sv-compact .sv-links{font-size:13px}
@@ -89,7 +89,7 @@
     host.append(box);
 
     let token = null, timer = null, busy = false;
-    const say = (text, cls) => { msg.textContent = text || ""; msg.className = "sv-msg" + (cls ? " " + cls : ""); };
+    const say = (text, cls) => { msg.textContent = text || ""; msg.className = "sv-msg" + (cls ? " is-" + cls : ""); };
     const errText = (c) => t["e_" + c] || t.e_send;
     function cooldown(sec) {
       clearInterval(timer); re.disabled = true;
@@ -125,7 +125,7 @@
     inp.addEventListener("input", () => {
       const v = inp.value.replace(/\D/g, "").slice(0, 6);
       if (inp.value !== v) inp.value = v;
-      if (msg.classList.contains("err")) say("");
+      if (msg.classList.contains("is-err")) say("");
       if (v.length === 6) doCheck();
     });
     q("form").addEventListener("submit", (e) => { e.preventDefault(); doCheck(); });
