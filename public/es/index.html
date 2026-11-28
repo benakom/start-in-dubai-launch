@@ -31,10 +31,11 @@
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700;800;900&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="/assets/style.css?v=3">
   <link rel="stylesheet" href="/assets/site.css?v=4">
+  <link rel="stylesheet" href="/assets/home.css?v=1">
   <script src="/config.js"></script>
   <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.startindubai.com/#organization","name":"START IN DUBAI","alternateName":"Start in Dubai","url":"https://www.startindubai.com/","logo":"https://www.startindubai.com/assets/img/logo.webp","description":"Acompañamiento de la A a la Z para marroquíes de todo el mundo y personas de cualquier país en Dubái y los Emiratos: compra y gestión inmobiliaria, creación de empresa, cuenta bancaria, visados, instalación de la familia y estudios universitarios.","areaServed":[{"@type":"City","name":"Dubaï"},{"@type":"Country","name":"Émirats arabes unis"}],"knowsLanguage":["ar","fr","en","es","nl","it"]},{"@type":"WebSite","@id":"https://www.startindubai.com/#website","name":"START IN DUBAI","alternateName":["Start in Dubai","startindubai.com"],"url":"https://www.startindubai.com/","inLanguage":"es","publisher":{"@id":"https://www.startindubai.com/#organization"}}]}</script>
 </head>
-<body>
+<body class="home">
   <!-- En-tête : bandeau noir + menu du site -->
   <div class="hdr">
   <div class="topbar">
@@ -55,69 +56,48 @@
   </div>
 
   <main>
-    <!-- 1. HERO -->
-    <header class="hero" id="top">
-      <div class="wrap hero-in">
-        <h1>Inmuebles, empresa, familia, estudios: todo su proyecto en Dubái, <mark>con un solo interlocutor</mark>, de la A a la Z.</h1>
-        <p class="sub">Comprar un inmueble y que se lo gestionen, crear su empresa, abrir sus cuentas, obtener sus visados, instalar a su familia, matricular a su hijo o a su hija en la universidad: START IN DUBAI se ocupa de todo, en su idioma, venga de donde venga. <b>Primera conversación gratuita y sin compromiso.</b></p>
-
-        <div class="cta">
-          <button class="btn" type="button" data-open-form>
-            <span class="btn-txt">Sí, quiero que me llamen</span>
-            <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>
-          </button>
-          <p class="cta-note">Gratis · 1 minuto · Sin compromiso</p>
+    <!-- 1. HERO corporate : message + carte de qualification (choix du profil = ouverture du formulaire) -->
+    <header class="hero hx" id="top">
+      <div class="hx-bg" aria-hidden="true"><img src="/assets/photos/creation-de-societe-dubai.webp" alt="" width="1200" height="800" fetchpriority="high" decoding="async"></div>
+      <div class="wrap hx-in">
+        <div class="hx-copy">
+          <p class="hx-kicker">Inmuebles · Empresa · Visados · Familia · Estudios</p>
+          <h1>Inmuebles, empresa, familia, estudios: todo su proyecto en Dubái, <mark>con un solo interlocutor</mark>, de la A a la Z.</h1>
+          <p class="sub">Comprar un inmueble y que se lo gestionen, crear su empresa, abrir sus cuentas, obtener sus visados, instalar a su familia, matricular a su hijo o a su hija en la universidad: START IN DUBAI se ocupa de todo, en su idioma, venga de donde venga. <b>Primera conversación gratuita y sin compromiso.</b></p>
+          <div class="hx-ctas">
+            <button class="btn" type="button" data-open-form><span class="btn-txt">Sí, quiero que me llamen</span><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+            <a class="btn-ghost" href="#svc-t">Ver nuestros servicios</a>
+          </div>
+          <ul class="trust">
+            <li><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2l8 4v6c0 5-3.5 8.5-8 10-4.5-1.5-8-5-8-10V6l8-4z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/><path d="M8.5 12l2.5 2.5 4.5-5" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>Inmuebles con una agencia acreditada por la RERA (ORN 49294)</li>
+            <li><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3l2.7 5.6 6.1.9-4.4 4.3 1 6.1L12 17l-5.4 2.9 1-6.1-4.4-4.3 6.1-.9z" fill="currentColor"/></svg>Cevitas, nuestro socio: 5,0 en Google</li>
+            <li><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16v11H8l-4 4V5z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></svg>Árabe, francés, inglés, español, neerlandés, italiano</li>
+          </ul>
         </div>
-
-        <ul class="trust">
-          <li><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2l8 4v6c0 5-3.5 8.5-8 10-4.5-1.5-8-5-8-10V6l8-4z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/><path d="M8.5 12l2.5 2.5 4.5-5" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>Inmuebles con una agencia acreditada por la RERA (ORN 49294)</li>
-          <li><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3l2.7 5.6 6.1.9-4.4 4.3 1 6.1L12 17l-5.4 2.9 1-6.1-4.4-4.3 6.1-.9z" fill="currentColor"/></svg>Cevitas, nuestro socio: 5,0 en Google</li>
-          <li><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16v11H8l-4 4V5z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></svg>Árabe, francés, inglés, español, neerlandés, italiano</li>
-        </ul>
+        <aside class="hx-card" aria-labelledby="hx-card-t">
+          <p class="hx-card-t" id="hx-card-t">¿Cuál es tu proyecto?</p>
+          <p class="hx-card-s">Elige tu perfil: un asesor te llama en tu idioma.</p>
+          <div class="hx-picks">
+            <button type="button" data-open-form data-profile="investir"><span><b>Inversor</b><small>Compra inmobiliaria, gestión de su inmueble, Golden Visa, estructura de su inversión.</small></span><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+            <button type="button" data-open-form data-profile="societe"><span><b>Emprendedor</b><small>Crear o desarrollar su empresa, cuenta bancaria, visados.</small></span><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+            <button type="button" data-open-form data-profile="famille"><span><b>Una familia</b><small>Visados, vivienda, salud, primeros días: todo lo que hay que resolver antes de partir.</small></span><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+            <button type="button" data-open-form data-profile="etudes"><span><b>Estudiante</b><small>Para el estudiante y sus padres: universidad, matrícula, visado de estudiante, alojamiento.</small></span><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+          </div>
+          <p class="hx-card-n">Gratis · 1 minuto · Sin compromiso</p>
+        </aside>
       </div>
     </header>
 
-    <!-- 2. LE PROBLÈME -->
-    <section class="sec sec-gray" aria-labelledby="pb-t">
-      <div class="wrap narrow">
-        <p class="eyebrow">¿Se siente identificado?</p>
-        <h2 id="pb-t">Hace meses que Dubái le atrae. <span class="red">Pero ¿por dónde empezar?</span></h2>
-        <ul class="xlist">
-          <li>Lee de todo, y lo contrario, sobre visados, fiscalidad y zonas francas.</li>
-          <li>No sabe en quién confiar: cada uno vende su servicio y nadie ve el conjunto.</li>
-          <li>Teme perder meses, y dinero, por elegir mal la licencia o el barrio.</li>
-          <li>Quiere invertir en inmuebles, pero ¿quién alquilará y gestionará su propiedad cuando usted no esté allí?</li>
-          <li>Su familia viene con usted, y nada puede dejarse al azar: vivienda, visados, salud.</li>
-          <li>Su hijo o su hija quiere estudiar en Dubái, y usted no sabe qué universidad elegir ni cómo hacer la matrícula.</li>
-          <li>Un amigo montó allí su empresa. Un primo matriculó a su hija en una universidad de allí. Usted todavía se lo está pensando.</li>
-        </ul>
-        <p class="punch">El problema casi nunca son las ganas. Es <b>todo lo que hay que resolver</b>, y los cinco o seis proveedores que hay que encontrar para hacerlo. START IN DUBAI se encarga de todo, con un solo equipo.</p>
-      </div>
-    </section>
-
-    <!-- 3. CE QUE VOUS GAGNEZ -->
-    <section class="sec" aria-labelledby="gain-t">
+    <!-- 2. CHIFFRES CLÉS + SOCIÉTÉS PARTENAIRES -->
+    <section class="kpis" aria-label="START IN DUBAI en cifras">
       <div class="wrap">
-        <p class="eyebrow center">Lo que usted gana</p>
-        <h2 id="gain-t" class="center">Todo su proyecto en Dubái, <mark>resuelto y coordinado</mark> para usted</h2>
-        <div class="gains">
-          <article class="gain"><span class="ic">1</span><h3>Su inmueble, comprado</h3><p>Búsqueda, visitas, negociación y compra, sobre plano o listo para entrar a vivir, con el equipo acreditado por la RERA de Cevitas Real Estate.</p></article>
-          <article class="gain"><span class="ic">2</span><h3>Su inmueble, alquilado y gestionado</h3><p>Alquiler de corta o larga duración, seguimiento de los inquilinos y del mantenimiento: usted invierte y nosotros nos ocupamos del resto, incluso a distancia.</p></article>
-          <article class="gain"><span class="ic">3</span><h3>Su empresa, creada</h3><p>Zona franca o mainland, elección de la actividad y de la licencia, presentación del expediente: preparamos y seguimos cada etapa.</p></article>
-          <article class="gain"><span class="ic">4</span><h3>Sus cuentas bancarias, abiertas</h3><p>Expediente preparado y acompañamiento en la apertura de sus cuentas profesional y personal.</p></article>
-          <article class="gain"><span class="ic">5</span><h3>Sus visados y los de su familia</h3><p>Visado de inversor o de socio, visados del cónyuge y de los hijos, Emirates ID, Golden Visa cuando tenga derecho a ella.</p></article>
-          <article class="gain"><span class="ic">6</span><h3>Su familia, instalada</h3><p>Vivienda en el barrio adecuado, seguro médico, línea de teléfono, permiso de conducir, primeros días allí: una lista clara que revisamos con usted.</p></article>
-          <article class="gain"><span class="ic">7</span><h3>Un interlocutor que habla su idioma</h3><p>Árabe, francés, inglés, español, neerlandés, italiano: usted habla en el idioma en el que se sienta más cómodo, desde la primera llamada hasta después de su llegada.</p></article>
-          <article class="gain"><span class="ic">8</span><h3>Los estudios universitarios de su hijo o de su hija</h3><p>Elección de la universidad en Dubái o en los Emiratos, expediente de matrícula, visado de estudiante, alojamiento: acompañamos al estudiante y a sus padres de la A a la Z.</p></article>
-          <article class="gain"><span class="ic">9</span><h3>El mismo equipo, antes y después</h3><p>Nadie le deriva a un proveedor desconocido: el mismo equipo le acompaña desde la primera llamada hasta después de su llegada.</p></article>
-        </div>
-        <div class="result">
-          <p><b>El resultado:</b> una hoja de ruta por escrito, con las etapas, los plazos y el presupuesto, <u>antes</u> de poner nada en marcha. Y un solo equipo que conoce su expediente, desde la primera llamada hasta la entrega de llaves, y mucho después.</p>
-        </div>
-        <div class="cta center">
-          <button class="btn" type="button" data-open-form><span class="btn-txt">Cuento mi proyecto a un asesor</span><svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
-          <p class="cta-note">Gratis · 1 minuto · Sin compromiso</p>
-        </div>
+        <ul class="kpi-list">
+          <li><b>1</b><span>único interlocutor para todo tu proyecto</span></li>
+          <li><b>6</b><span>idiomas: español, francés, árabe, inglés, neerlandés, italiano</span></li>
+          <li><b>4</b><span>etapas, con una hoja de ruta por escrito</span></li>
+          <li><b>5,0</b><span>nota en Google de nuestro socio inmobiliario Cevitas (15 reseñas)</span></li>
+        </ul>
+        <p class="partners"><span>Un servicio conjunto de</span> <b>INTEGRITY CORPORATE SERVICES</b> <i aria-hidden="true"></i> <a href="https://www.cevitas.ae"><b>CEVITAS REAL ESTATE</b></a> <small>agencia inmobiliaria acreditada por la RERA · ORN 49294</small></p>
       </div>
     </section>
 
@@ -125,11 +105,55 @@
       <div class="wrap">
         <p class="eyebrow center">Nuestros servicios</p>
         <h2 id="svc-t" class="center">Todo lo que gestionamos por ti en Dubái</h2>
-        <ul class="cards"><li><a class="card" href="/es/services/creacion-de-empresa-dubai/"><span class="card-img"><img src="/assets/img/entrepreneur.webp" alt="" width="640" height="360" loading="lazy"></span><span class="card-body"><span class="card-t">Asesoría para crear tu empresa en Dubái, de la licencia a la cuenta bancaria</span><span class="card-d">Asesoría para crear empresa en Dubái: mainland, zona franca, offshore o freelance, licencia, visados, cuenta bancaria e impuestos. Un único interlocutor.</span><span class="card-go">Ver el servicio →</span></span></a></li><li><a class="card" href="/es/services/golden-visa-y-visados-dubai/"><span class="card-img"><img src="/assets/img/og.jpg" alt="" width="640" height="360" loading="lazy"></span><span class="card-body"><span class="card-t">Asesoría Golden Visa y visados de residencia en Dubái, para ti y tu familia</span><span class="card-d">Asesoría Golden Visa Dubái: elegibilidad, expediente, visado de residencia, visados de la familia y Emirates ID. Un único interlocutor, en tu idioma.</span><span class="card-go">Ver el servicio →</span></span></a></li><li><a class="card" href="/es/services/apertura-cuenta-bancaria-dubai/"><span class="card-img"><img src="/assets/img/investisseur.webp" alt="" width="640" height="360" loading="lazy"></span><span class="card-body"><span class="card-t">Ayuda para abrir una cuenta bancaria en Dubái, personal y profesional</span><span class="card-d">Ayuda para abrir cuenta bancaria en Dubái: cuenta personal y de empresa, elección del banco, expediente de cumplimiento y origen de fondos. Un único interlocutor.</span><span class="card-go">Ver el servicio →</span></span></a></li><li><a class="card" href="/es/services/reubicacion-familiar-dubai/"><span class="card-img"><img src="/assets/img/famille.webp" alt="" width="640" height="360" loading="lazy"></span><span class="card-body"><span class="card-t">Reubicación en Dubái: organizamos la instalación de tu familia</span><span class="card-d">Reubicación en Dubái: visados de la familia, búsqueda de vivienda y Ejari, colegios, seguro médico, carnet de conducir y primeros días. Un único interlocutor.</span><span class="card-go">Ver el servicio →</span></span></a></li><li><a class="card" href="/es/services/admision-universidad-dubai/"><span class="card-img"><img src="/assets/img/etudiant.webp" alt="" width="640" height="360" loading="lazy"></span><span class="card-body"><span class="card-t">Estudios superiores en Dubái: te acompañamos en la inscripción y la instalación</span><span class="card-d">Inscripción en universidad de Dubái con acompañamiento: carrera, expediente de admisión, visado de estudiante, vivienda e instalación. Para estudiantes y familias.</span><span class="card-go">Ver el servicio →</span></span></a></li><li><a class="card" href="/es/services/inmobiliario-e-instalacion-dubai/"><span class="card-img"><img src="/assets/img/investisseur.webp" alt="" width="640" height="360" loading="lazy"></span><span class="card-body"><span class="card-t">Inmobiliario e instalación en Dubái: tu compra coordinada con el resto de tu proyecto</span><span class="card-d">Comprar vivienda en Dubái e instalarte: compra y gestión con Cevitas Real Estate (licencia RERA), coordinadas con tu visado, tu banco, tu empresa y tu familia.</span><span class="card-go">Ver el servicio →</span></span></a></li></ul>
+        <ul class="cards"><li><a class="card" href="/es/services/creacion-de-empresa-dubai/"><span class="card-img"><img src="/assets/photos/creation-de-societe-dubai.webp" alt="" width="640" height="360" loading="lazy"></span><span class="card-body"><span class="card-t">Asesoría para crear tu empresa en Dubái, de la licencia a la cuenta bancaria</span><span class="card-d">Asesoría para crear empresa en Dubái: mainland, zona franca, offshore o freelance, licencia, visados, cuenta bancaria e impuestos. Un único interlocutor.</span><span class="card-go">Ver el servicio →</span></span></a></li><li><a class="card" href="/es/services/golden-visa-y-visados-dubai/"><span class="card-img"><img src="/assets/photos/golden-visa-visas-dubai.webp" alt="" width="640" height="360" loading="lazy"></span><span class="card-body"><span class="card-t">Asesoría Golden Visa y visados de residencia en Dubái, para ti y tu familia</span><span class="card-d">Asesoría Golden Visa Dubái: elegibilidad, expediente, visado de residencia, visados de la familia y Emirates ID. Un único interlocutor, en tu idioma.</span><span class="card-go">Ver el servicio →</span></span></a></li><li><a class="card" href="/es/services/apertura-cuenta-bancaria-dubai/"><span class="card-img"><img src="/assets/photos/ouverture-compte-bancaire-dubai.webp" alt="" width="640" height="360" loading="lazy"></span><span class="card-body"><span class="card-t">Ayuda para abrir una cuenta bancaria en Dubái, personal y profesional</span><span class="card-d">Ayuda para abrir cuenta bancaria en Dubái: cuenta personal y de empresa, elección del banco, expediente de cumplimiento y origen de fondos. Un único interlocutor.</span><span class="card-go">Ver el servicio →</span></span></a></li><li><a class="card" href="/es/services/reubicacion-familiar-dubai/"><span class="card-img"><img src="/assets/photos/installation-famille-dubai.webp" alt="" width="640" height="360" loading="lazy"></span><span class="card-body"><span class="card-t">Reubicación en Dubái: organizamos la instalación de tu familia</span><span class="card-d">Reubicación en Dubái: visados de la familia, búsqueda de vivienda y Ejari, colegios, seguro médico, carnet de conducir y primeros días. Un único interlocutor.</span><span class="card-go">Ver el servicio →</span></span></a></li><li><a class="card" href="/es/services/admision-universidad-dubai/"><span class="card-img"><img src="/assets/photos/etudes-superieures-dubai.webp" alt="" width="640" height="360" loading="lazy"></span><span class="card-body"><span class="card-t">Estudios superiores en Dubái: te acompañamos en la inscripción y la instalación</span><span class="card-d">Inscripción en universidad de Dubái con acompañamiento: carrera, expediente de admisión, visado de estudiante, vivienda e instalación. Para estudiantes y familias.</span><span class="card-go">Ver el servicio →</span></span></a></li><li><a class="card" href="/es/services/inmobiliario-e-instalacion-dubai/"><span class="card-img"><img src="/assets/photos/immobilier-dubai.webp" alt="" width="640" height="360" loading="lazy"></span><span class="card-body"><span class="card-t">Inmobiliario e instalación en Dubái: tu compra coordinada con el resto de tu proyecto</span><span class="card-d">Comprar vivienda en Dubái e instalarte: compra y gestión con Cevitas Real Estate (licencia RERA), coordinadas con tu visado, tu banco, tu empresa y tu familia.</span><span class="card-go">Ver el servicio →</span></span></a></li></ul>
         <p class="center" style="margin-top:28px"><a class="btn btn-sm" href="/es/services/">Todos nuestros servicios →</a></p>
       </div>
     </section>
 
+    <!-- 3. LE CONSTAT (deux colonnes) -->
+    <section class="sec" aria-labelledby="pb-t">
+      <div class="wrap pb-grid">
+        <div class="pb-head">
+          <p class="eyebrow">¿Se siente identificado?</p>
+          <h2 id="pb-t">Hace meses que Dubái le atrae. <span class="red">Pero ¿por dónde empezar?</span></h2>
+          <p class="punch">El problema casi nunca son las ganas. Es <b>todo lo que hay que resolver</b>, y los cinco o seis proveedores que hay que encontrar para hacerlo. START IN DUBAI se encarga de todo, con un solo equipo.</p>
+        </div>
+        <ul class="xlist">
+          <li>Lee de todo, y lo contrario, sobre visados, fiscalidad y zonas francas.</li>
+          <li>No sabe en quién confiar: cada uno vende su servicio y nadie ve el conjunto.</li>
+          <li>Teme perder meses, y dinero, por elegir mal la licencia o el barrio.</li>
+          <li>Quiere invertir en inmuebles, pero ¿quién alquilará y gestionará su propiedad cuando usted no esté allí?</li>
+          <li>Su familia viene con usted, y nada puede dejarse al azar: vivienda, visados, salud.</li>
+          <li>Su hijo o su hija quiere estudiar en Dubái, y usted no sabe qué universidad elegir ni cómo hacer la matrícula.</li>
+        </ul>
+      </div>
+    </section>
+
+    <!-- 4. CE QUE VOUS GAGNEZ -->
+    <section class="sec sec-gray" aria-labelledby="gain-t">
+      <div class="wrap">
+        <p class="eyebrow center">Lo que usted gana</p>
+        <h2 id="gain-t" class="center">Todo su proyecto en Dubái, <mark>resuelto y coordinado</mark> para usted</h2>
+        <div class="gains">
+          <article class="gain"><span class="ic">01</span><h3>Su inmueble, comprado</h3><p>Búsqueda, visitas, negociación y compra, sobre plano o listo para entrar a vivir, con el equipo acreditado por la RERA de Cevitas Real Estate.</p></article>
+          <article class="gain"><span class="ic">02</span><h3>Su inmueble, alquilado y gestionado</h3><p>Alquiler de corta o larga duración, seguimiento de los inquilinos y del mantenimiento: usted invierte y nosotros nos ocupamos del resto, incluso a distancia.</p></article>
+          <article class="gain"><span class="ic">03</span><h3>Su empresa, creada</h3><p>Zona franca o mainland, elección de la actividad y de la licencia, presentación del expediente: preparamos y seguimos cada etapa.</p></article>
+          <article class="gain"><span class="ic">04</span><h3>Sus cuentas bancarias, abiertas</h3><p>Expediente preparado y acompañamiento en la apertura de sus cuentas profesional y personal.</p></article>
+          <article class="gain"><span class="ic">05</span><h3>Sus visados y los de su familia</h3><p>Visado de inversor o de socio, visados del cónyuge y de los hijos, Emirates ID, Golden Visa cuando tenga derecho a ella.</p></article>
+          <article class="gain"><span class="ic">06</span><h3>Su familia, instalada</h3><p>Vivienda en el barrio adecuado, seguro médico, línea de teléfono, permiso de conducir, primeros días allí: una lista clara que revisamos con usted.</p></article>
+          <article class="gain"><span class="ic">07</span><h3>Un interlocutor que habla su idioma</h3><p>Árabe, francés, inglés, español, neerlandés, italiano: usted habla en el idioma en el que se sienta más cómodo, desde la primera llamada hasta después de su llegada.</p></article>
+          <article class="gain"><span class="ic">08</span><h3>Los estudios universitarios de su hijo o de su hija</h3><p>Elección de la universidad en Dubái o en los Emiratos, expediente de matrícula, visado de estudiante, alojamiento: acompañamos al estudiante y a sus padres de la A a la Z.</p></article>
+          <article class="gain"><span class="ic">09</span><h3>El mismo equipo, antes y después</h3><p>Nadie le deriva a un proveedor desconocido: el mismo equipo le acompaña desde la primera llamada hasta después de su llegada.</p></article>
+        </div>
+        <div class="result">
+          <p><b>El resultado:</b> una hoja de ruta por escrito, con las etapas, los plazos y el presupuesto, <u>antes</u> de poner nada en marcha. Y un solo equipo que conoce su expediente, desde la primera llamada hasta la entrega de llaves, y mucho después.</p>
+        </div>
+        <div class="cta center">
+          <button class="btn" type="button" data-open-form><span class="btn-txt">Cuento mi proyecto a un asesor</span><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+          <p class="cta-note">Gratis · 1 minuto · Sin compromiso</p>
+        </div>
+      </div>
+    </section>
     <!-- 4. POURQUOI C'EST DIFFÉRENT -->
     <section class="sec sec-dark" aria-labelledby="diff-t">
       <div class="wrap">
@@ -189,10 +213,18 @@
       </div>
     </section>
 
-    <!-- 7. PREMIER ÉCHANGE OFFERT -->
-    <section class="sec" aria-labelledby="offer-t">
-      <div class="wrap narrow">
-        <div class="offer">
+    <!-- 8. QUI SOMMES-NOUS + PREMIER ÉCHANGE OFFERT -->
+    <section class="sec sec-gray" aria-labelledby="who-t">
+      <div class="wrap about">
+        <div class="about-copy">
+          <img src="/assets/photos/s-installer-a-dubai.webp" alt="" width="1200" height="800" loading="lazy">
+          <p class="eyebrow">¿Quién está detrás de START IN DUBAI?</p>
+          <h2 id="who-t">Un equipo que vive en Dubái y habla su idioma</h2>
+          <p>START IN DUBAI trabaja de la mano de <a href="https://www.cevitas.ae"><b>Cevitas Real Estate</b></a>, agencia inmobiliaria acreditada por la RERA en Dubái (ORN 49294), para todo lo relacionado con el sector inmobiliario.</p>
+          <p>Cada día acompañamos a marroquíes de todo el mundo y a personas de todos los orígenes que invierten en Dubái. Hemos visto lo que bloquea, lo que sale caro y lo que hace perder meses. START IN DUBAI nació para que su traslado se haga en el orden correcto, con una sola persona que sigue su expediente.</p>
+          <p class="stars"><span aria-hidden="true">★★★★★</span> Cevitas Real Estate: <b>5,0 en Google</b> (15 reseñas)</p>
+        </div>
+        <div class="offer" aria-labelledby="offer-t">
           <p class="offer-tag">Primera conversación gratuita</p>
           <h2 id="offer-t">Cuéntenos su proyecto y obtendrá:</h2>
           <ul class="vlist">
@@ -201,23 +233,9 @@
             <li><b>Una hoja de ruta clara</b>: los pasos, el orden y los puntos que hay que verificar en su situación.</li>
           </ul>
           <p class="offer-free">Solicitud <b>gratuita</b>, en 1 minuto.</p>
-          <div class="cta center">
-            <button class="btn" type="button" data-open-form><span class="btn-txt">Sí, quiero que me llamen</span><svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+          <div class="cta">
+            <button class="btn" type="button" data-open-form><span class="btn-txt">Sí, quiero que me llamen</span><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
           </div>
-        </div>
-      </div>
-    </section>
-
-    <!-- 8. QUI EST DERRIÈRE -->
-    <section class="sec sec-gray" aria-labelledby="who-t">
-      <div class="wrap founder">
-        <img src="/assets/photos/s-installer-a-dubai.webp" alt="" width="1200" height="800" loading="lazy">
-        <div>
-          <p class="eyebrow">¿Quién está detrás de START IN DUBAI?</p>
-          <h2 id="who-t">Un equipo que vive en Dubái y habla su idioma</h2>
-          <p>START IN DUBAI trabaja de la mano de <a href="https://www.cevitas.ae"><b>Cevitas Real Estate</b></a>, agencia inmobiliaria acreditada por la RERA en Dubái (ORN 49294), para todo lo relacionado con el sector inmobiliario.</p>
-          <p>Cada día acompañamos a marroquíes de todo el mundo y a personas de todos los orígenes que invierten en Dubái. Hemos visto lo que bloquea, lo que sale caro y lo que hace perder meses. START IN DUBAI nació para que su traslado se haga en el orden correcto, con una sola persona que sigue su expediente.</p>
-          <p class="stars"><span aria-hidden="true">★★★★★</span> Cevitas Real Estate: <b>5,0 en Google</b> (15 reseñas)</p>
         </div>
       </div>
     </section>
@@ -227,7 +245,7 @@
         <p class="eyebrow center">Guías gratuitas</p>
         <h2 id="guides-t" class="center">Prepara tu proyecto con nuestras guías</h2>
         <p class="center" style="margin:0 auto;max-width:40em;color:var(--muted)">Verificadas con fuentes oficiales y actualizadas con regularidad.</p>
-        <ul class="cards"><li><a class="card" href="/es/crear-empresa-en-dubai/"><span class="card-img"><img src="/assets/img/entrepreneur.webp" alt="" width="640" height="360" loading="lazy"></span><span class="card-body"><span class="card-t">Crear una empresa en Dubái: la guía completa, paso a paso</span><span class="card-d">Crear empresa en Dubái: mainland, zona franca u offshore, pasos, documentos, plazos, costes, visados, banco e impuesto del 9 %. La guía clara para empezar bien.</span><span class="card-go">Leer la guía →</span></span></a></li><li><a class="card" href="/es/golden-visa-dubai/"><span class="card-img"><img src="/assets/img/og.jpg" alt="" width="640" height="360" loading="lazy"></span><span class="card-body"><span class="card-t">Golden Visa Dubái: requisitos, categorías y trámites para obtener la residencia de 5 o 10 años</span><span class="card-d">Golden Visa Dubái: quién puede obtenerlo, requisitos por categoría (inversores, emprendedores, talentos, asalariados, estudiantes), costes y trámites ICP y GDRFA.</span><span class="card-go">Leer la guía →</span></span></a></li><li><a class="card" href="/es/mudarse-a-dubai/"><span class="card-img"><img src="/assets/img/og.jpg" alt="" width="640" height="360" loading="lazy"></span><span class="card-body"><span class="card-t">Mudarse a Dubái: la guía completa para tu traslado a los Emiratos</span><span class="card-d">Mudarse a Dubái: las 4 vías de residencia, los pasos desde 6 meses antes hasta la llegada, documentos a legalizar, vivienda, banco, salud, colegios y presupuesto.</span><span class="card-go">Leer la guía →</span></span></a></li><li><a class="card" href="/es/estudiar-en-dubai/"><span class="card-img"><img src="/assets/img/etudiant.webp" alt="" width="640" height="360" loading="lazy"></span><span class="card-body"><span class="card-t">Estudiar en Dubái: universidades, costes, reconocimiento de títulos y vida estudiantil</span><span class="card-d">Estudiar en Dubái tras el bachillerato: universidades y campus internacionales, oferta en francés, tasas, reconocimiento de títulos (CAA, KHDA) y alojamiento.</span><span class="card-go">Leer la guía →</span></span></a></li><li><a class="card" href="/es/mudarse-a-dubai-con-familia/"><span class="card-img"><img src="/assets/img/famille.webp" alt="" width="640" height="360" loading="lazy"></span><span class="card-body"><span class="card-t">Mudarse a Dubái con familia: guía paso a paso</span><span class="card-d">Mudarse a Dubái con familia: patrocinar a cónyuge e hijos, salario exigido, documentos legalizados, calendario, colegio, barrio y seguro médico.</span><span class="card-go">Leer la guía →</span></span></a></li><li><a class="card" href="/es/abrir-cuenta-bancaria-dubai/"><span class="card-img"><img src="/assets/img/investisseur.webp" alt="" width="640" height="360" loading="lazy"></span><span class="card-body"><span class="card-t">Abrir una cuenta bancaria en Dubái: cuenta personal, cuenta profesional y trampas a evitar</span><span class="card-d">Abrir una cuenta bancaria en Dubái, residente o no: documentos, KYC, plazos, saldo mínimo, bancos clásicos o digitales y causas de rechazo.</span><span class="card-go">Leer la guía →</span></span></a></li></ul>
+        <ul class="cards"><li><a class="card" href="/es/crear-empresa-en-dubai/"><span class="card-img"><img src="/assets/photos/creer-sa-societe-a-dubai.webp" alt="" width="640" height="360" loading="lazy"></span><span class="card-body"><span class="card-t">Crear una empresa en Dubái: la guía completa, paso a paso</span><span class="card-d">Crear empresa en Dubái: mainland, zona franca u offshore, pasos, documentos, plazos, costes, visados, banco e impuesto del 9 %. La guía clara para empezar bien.</span><span class="card-go">Leer la guía →</span></span></a></li><li><a class="card" href="/es/golden-visa-dubai/"><span class="card-img"><img src="/assets/photos/golden-visa-dubai.webp" alt="" width="640" height="360" loading="lazy"></span><span class="card-body"><span class="card-t">Golden Visa Dubái: requisitos, categorías y trámites para obtener la residencia de 5 o 10 años</span><span class="card-d">Golden Visa Dubái: quién puede obtenerlo, requisitos por categoría (inversores, emprendedores, talentos, asalariados, estudiantes), costes y trámites ICP y GDRFA.</span><span class="card-go">Leer la guía →</span></span></a></li><li><a class="card" href="/es/mudarse-a-dubai/"><span class="card-img"><img src="/assets/photos/s-installer-a-dubai.webp" alt="" width="640" height="360" loading="lazy"></span><span class="card-body"><span class="card-t">Mudarse a Dubái: la guía completa para tu traslado a los Emiratos</span><span class="card-d">Mudarse a Dubái: las 4 vías de residencia, los pasos desde 6 meses antes hasta la llegada, documentos a legalizar, vivienda, banco, salud, colegios y presupuesto.</span><span class="card-go">Leer la guía →</span></span></a></li><li><a class="card" href="/es/estudiar-en-dubai/"><span class="card-img"><img src="/assets/photos/etudier-a-dubai.webp" alt="" width="640" height="360" loading="lazy"></span><span class="card-body"><span class="card-t">Estudiar en Dubái: universidades, costes, reconocimiento de títulos y vida estudiantil</span><span class="card-d">Estudiar en Dubái tras el bachillerato: universidades y campus internacionales, oferta en francés, tasas, reconocimiento de títulos (CAA, KHDA) y alojamiento.</span><span class="card-go">Leer la guía →</span></span></a></li><li><a class="card" href="/es/mudarse-a-dubai-con-familia/"><span class="card-img"><img src="/assets/photos/s-installer-a-dubai-en-famille.webp" alt="" width="640" height="360" loading="lazy"></span><span class="card-body"><span class="card-t">Mudarse a Dubái con familia: guía paso a paso</span><span class="card-d">Mudarse a Dubái con familia: patrocinar a cónyuge e hijos, salario exigido, documentos legalizados, calendario, colegio, barrio y seguro médico.</span><span class="card-go">Leer la guía →</span></span></a></li><li><a class="card" href="/es/abrir-cuenta-bancaria-dubai/"><span class="card-img"><img src="/assets/photos/ouvrir-un-compte-bancaire-a-dubai.webp" alt="" width="640" height="360" loading="lazy"></span><span class="card-body"><span class="card-t">Abrir una cuenta bancaria en Dubái: cuenta personal, cuenta profesional y trampas a evitar</span><span class="card-d">Abrir una cuenta bancaria en Dubái, residente o no: documentos, KYC, plazos, saldo mínimo, bancos clásicos o digitales y causas de rechazo.</span><span class="card-go">Leer la guía →</span></span></a></li></ul>
         <p class="center" style="margin-top:28px"><a class="btn btn-sm" href="/es/guides/">Todas las guías →</a></p>
       </div>
     </section>

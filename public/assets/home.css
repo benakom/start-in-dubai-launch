@@ -1,0 +1,109 @@
+/* START IN DUBAI : page d'accueil corporate, orientée prise de contact.
+   Charte inchangée (noir, blanc, rouge du logo, vert du drapeau, Montserrat / Inter) ; ton plus sobre que la page de vente. */
+
+.home .btn { border-radius: 10px; box-shadow: 0 14px 28px -14px rgba(225, 6, 0, .7); }
+.home .btn:hover { box-shadow: 0 18px 32px -14px rgba(225, 6, 0, .8); }
+.home .btn:active { transform: translateY(1px); box-shadow: 0 8px 18px -12px rgba(225, 6, 0, .6); }
+.home .eyebrow { display: inline-flex; align-items: center; gap: 10px; font-size: 12.5px; letter-spacing: .18em; }
+.home .eyebrow::before { content: ""; width: 26px; height: 2px; background: currentColor; }
+.home .eyebrow.center { display: flex; justify-content: center; }
+
+/* ------------------------------------------------------------------ hero */
+.hx { position: relative; isolation: isolate; overflow: hidden; padding: clamp(44px, 7vw, 96px) 0 clamp(48px, 7vw, 96px); background: var(--ink); color: #fff; border-bottom: 0; }
+.hx-bg { position: absolute; inset: 0; z-index: -1; }
+.hx-bg img { width: 100%; height: 100%; object-fit: cover; object-position: 50% 40%; opacity: .42; }
+.hx-bg::after { content: ""; position: absolute; inset: 0; background: linear-gradient(100deg, rgba(11, 11, 11, .96) 0%, rgba(11, 11, 11, .82) 45%, rgba(11, 11, 11, .35) 100%); }
+.hx::after { content: ""; position: absolute; left: 0; right: 0; bottom: 0; height: 5px; background: linear-gradient(90deg, var(--red) 0 25%, var(--green) 25% 50%, #fff 50% 75%, #000 75%); }
+.hx-in { display: grid; grid-template-columns: minmax(0, 1.25fr) minmax(320px, .75fr); gap: clamp(28px, 5vw, 64px); align-items: center; }
+.hx-copy { text-align: left; }
+.hx-kicker { display: inline-flex; align-items: center; gap: 12px; margin: 0 0 18px; font-size: 12.5px; font-weight: 700; letter-spacing: .18em; text-transform: uppercase; color: rgba(255, 255, 255, .78); }
+.hx-kicker::before { content: ""; width: 34px; height: 2px; background: var(--red-l); }
+.hx h1 { margin: 0 0 18px; font-size: clamp(32px, 4.6vw, 56px); line-height: 1.06; font-weight: 900; color: #fff; }
+.hx h1 mark { background: none; color: var(--red-l); padding: 0; }
+.hx .sub { max-width: 40em; margin: 0 0 28px; font-size: clamp(16px, 1.4vw, 18.5px); color: rgba(255, 255, 255, .78); }
+.hx .sub b { color: #fff; }
+.hx-ctas { display: flex; flex-wrap: wrap; align-items: center; gap: 14px 18px; }
+.btn-ghost { display: inline-flex; align-items: center; min-height: 56px; padding: 0 24px; border-radius: 10px; border: 1.5px solid rgba(255, 255, 255, .45); color: #fff; font-weight: 700; font-size: 16px; text-decoration: none; transition: border-color .2s, background .2s; }
+.btn-ghost:hover { border-color: #fff; background: rgba(255, 255, 255, .08); }
+.hx .trust { justify-content: flex-start; margin-top: 30px; color: rgba(255, 255, 255, .82); font-size: 14px; }
+.hx .trust svg { color: #3DD26B; }
+
+/* carte de qualification : chaque profil ouvre le formulaire, prérempli */
+.hx-card { padding: clamp(22px, 2.6vw, 30px); border-radius: 18px; background: #fff; color: var(--ink); box-shadow: 0 40px 80px -40px rgba(0, 0, 0, .8); }
+.hx-card-t { margin: 0 0 6px; font-family: var(--head); font-weight: 900; font-size: 22px; line-height: 1.2; }
+.hx-card-s { margin: 0 0 18px; font-size: 14.5px; color: var(--muted); }
+.hx-picks { display: grid; gap: 10px; }
+.hx-picks button { display: flex; align-items: center; justify-content: space-between; gap: 14px; width: 100%; padding: 14px 16px; border: 1px solid var(--line); border-radius: 12px; background: #fff; text-align: left; cursor: pointer; transition: border-color .2s, background .2s, transform .2s var(--ease); }
+.hx-picks button:hover, .hx-picks button:focus-visible { border-color: var(--red); background: #FFF6F5; transform: translateX(3px); }
+.hx-picks b { display: block; font-family: var(--head); font-weight: 800; font-size: 16px; }
+.hx-picks small { display: block; margin-top: 2px; font-size: 13px; line-height: 1.4; color: var(--muted); }
+.hx-picks svg { flex: none; color: var(--red); }
+.hx-card-n { margin: 16px 0 0; font-size: 13px; font-weight: 600; text-align: center; color: var(--muted); }
+
+/* ------------------------------------------------------------------ chiffres clés et sociétés */
+.kpis { padding: 34px 0 30px; background: #fff; border-bottom: 1px solid var(--line); }
+.kpi-list { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 18px; margin: 0; padding: 0; list-style: none; }
+.kpi-list li { display: flex; align-items: baseline; gap: 12px; padding-left: 16px; border-left: 3px solid var(--red); }
+.kpi-list li:nth-child(2) { border-color: var(--green); }
+.kpi-list li:nth-child(3) { border-color: var(--ink); }
+.kpi-list li:nth-child(4) { border-color: #F5A400; }
+.kpi-list b { font-family: var(--head); font-weight: 900; font-size: clamp(30px, 3.4vw, 40px); line-height: 1; }
+.kpi-list span { font-size: 14px; line-height: 1.35; color: var(--muted); }
+.partners { display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 8px 14px; margin: 26px 0 0; padding-top: 20px; border-top: 1px solid var(--line); font-size: 13px; color: var(--muted); text-align: center; }
+.partners span { text-transform: uppercase; letter-spacing: .14em; font-weight: 700; font-size: 11.5px; }
+.partners b { font-family: var(--head); font-weight: 900; letter-spacing: .06em; color: var(--ink); font-size: 14.5px; }
+.partners a { text-decoration: none; }
+.partners i { width: 6px; height: 6px; border-radius: 50%; background: var(--red); }
+
+/* ------------------------------------------------------------------ constat en deux colonnes */
+.pb-grid { display: grid; grid-template-columns: minmax(0, .9fr) minmax(0, 1.1fr); gap: clamp(28px, 5vw, 72px); align-items: start; }
+.pb-head { position: sticky; top: 140px; }
+.pb-grid .xlist { margin: 0; }
+.pb-grid .xlist li { background: var(--gray); border-color: transparent; }
+.pb-head .punch { margin-top: 24px; background: var(--gray); }
+
+/* ------------------------------------------------------------------ gains : cartes sobres numérotées */
+.home .gain { box-shadow: none; border-radius: 12px; transition: border-color .2s, transform .2s var(--ease); }
+.home .gain::before { display: none; }
+.home .gain:hover { border-color: var(--ink); transform: translateY(-2px); }
+.home .gain .ic { width: auto; height: auto; margin-bottom: 12px; border-radius: 0; background: none; color: var(--red); font-family: var(--head); font-size: 14px; font-weight: 900; letter-spacing: .1em; }
+.home .result { border-width: 1px; border-left-width: 5px; border-radius: 12px; }
+
+/* ------------------------------------------------------------------ étapes : frise */
+.home .steps { position: relative; }
+.home .steps::before { content: ""; position: absolute; left: 6%; right: 6%; top: 35px; height: 2px; background: repeating-linear-gradient(90deg, var(--red) 0 10px, transparent 10px 18px); z-index: 0; }
+.home .steps li { z-index: 1; border-radius: 12px; }
+
+/* ------------------------------------------------------------------ qui sommes-nous + offre */
+.about { display: grid; grid-template-columns: minmax(0, 1.1fr) minmax(0, .9fr); gap: clamp(28px, 5vw, 64px); align-items: center; }
+.about-copy img { width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 14px; margin-bottom: 26px; }
+.about-copy p { font-size: 17px; color: var(--ink-2); }
+.about-copy a { color: var(--red-d); font-weight: 700; }
+.about .offer { border: 1px solid var(--line); border-top: 5px solid var(--red); border-radius: 16px; background: #fff; text-align: left; box-shadow: 0 30px 60px -40px rgba(0, 0, 0, .45); }
+.about .offer-tag { position: static; transform: none; display: inline-block; margin: 0 0 14px; }
+.about .offer h2 { font-size: clamp(22px, 2.6vw, 28px); }
+.about .vlist { margin: 18px 0; }
+.about .offer .cta { align-items: flex-start; }
+
+/* ------------------------------------------------------------------ mobile */
+@media (max-width: 900px) {
+  .hx-in, .pb-grid, .about { grid-template-columns: 1fr; }
+  .hx-copy { text-align: left; }
+  .hx .sub { margin: 0 0 24px; font-size: 16px; }
+  .hx .cta, .hx-ctas { width: 100%; }
+  .hx-ctas .btn, .btn-ghost { width: 100%; justify-content: center; }
+  .pb-head { position: static; }
+  .kpi-list { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 18px 14px; }
+  .kpi-list li { flex-direction: column; gap: 4px; }
+  .home .steps::before { display: none; }
+}
+
+/* ------------------------------------------------------------------ arabe (RTL) */
+[dir="rtl"] .hx-copy, [dir="rtl"] .hx-picks button, [dir="rtl"] .about .offer { text-align: right; }
+[dir="rtl"] .hx-bg::after { background: linear-gradient(-100deg, rgba(11, 11, 11, .96) 0%, rgba(11, 11, 11, .82) 45%, rgba(11, 11, 11, .35) 100%); }
+[dir="rtl"] .hx-picks svg, [dir="rtl"] .hx-ctas .btn svg { transform: scaleX(-1); }
+[dir="rtl"] .hx-picks button:hover { transform: translateX(-3px); }
+[dir="rtl"] .kpi-list li { padding-left: 0; padding-right: 16px; border-left: 0; border-right: 3px solid var(--red); }
+[dir="rtl"] .kpi-list li:nth-child(2) { border-right-color: var(--green); }
+[dir="rtl"] .kpi-list li:nth-child(3) { border-right-color: var(--ink); }
+[dir="rtl"] .kpi-list li:nth-child(4) { border-right-color: #F5A400; }

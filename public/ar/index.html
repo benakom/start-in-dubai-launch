@@ -31,10 +31,11 @@
   <link href="https://fonts.googleapis.com/css2?family=Noto+Kufi+Arabic:wght@500;700;800&family=Montserrat:wght@700;800;900&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="/assets/style.css?v=3">
   <link rel="stylesheet" href="/assets/site.css?v=4">
+  <link rel="stylesheet" href="/assets/home.css?v=1">
   <script src="/config.js"></script>
   <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.startindubai.com/#organization","name":"START IN DUBAI","alternateName":"Start in Dubai","url":"https://www.startindubai.com/","logo":"https://www.startindubai.com/assets/img/logo.webp","description":"مرافقة شاملة من الألف إلى الياء للمغاربة حول العالم ولكل من يريد الاستقرار في دبي من مختلف أنحاء العالم، في دبي والإمارات: شراء العقارات وإدارتها، تأسيس الشركات، فتح الحساب البنكي، التأشيرات، استقرار العائلة والدراسة الجامعية.","areaServed":[{"@type":"City","name":"Dubaï"},{"@type":"Country","name":"Émirats arabes unis"}],"knowsLanguage":["ar","fr","en","es","nl","it"]},{"@type":"WebSite","@id":"https://www.startindubai.com/#website","name":"START IN DUBAI","alternateName":["Start in Dubai","startindubai.com"],"url":"https://www.startindubai.com/","inLanguage":"ar","publisher":{"@id":"https://www.startindubai.com/#organization"}}]}</script>
 </head>
-<body>
+<body class="home">
   <!-- En-tête : bandeau noir + menu du site -->
   <div class="hdr">
   <div class="topbar">
@@ -55,69 +56,48 @@
   </div>
 
   <main>
-    <!-- 1. HERO -->
-    <header class="hero" id="top">
-      <div class="wrap hero-in">
-        <h1>العقار، الشركة، العائلة، الدراسة: مشروعكم كاملًا في دبي، <mark>مع جهة تواصل واحدة</mark>، من الألف إلى الياء.</h1>
-        <p class="sub">شراء عقار وإدارته، تأسيس شركتكم، فتح حساباتكم، الحصول على تأشيراتكم، استقرار عائلتكم، تسجيل ابنكم أو ابنتكم في الجامعة: START IN DUBAI يتولى كل شيء، بلغتكم، للمغاربة حول العالم ولكل من يريد الاستقرار في دبي من مختلف أنحاء العالم. <b>أول حديث معنا مجاني وبلا أي التزام.</b></p>
-
-        <div class="cta">
-          <button class="btn" type="button" data-open-form>
-            <span class="btn-txt">نعم، أريد أن تتصلوا بي</span>
-            <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>
-          </button>
-          <p class="cta-note">مجاني · دقيقة واحدة · دون أي التزام</p>
+    <!-- 1. HERO corporate : message + carte de qualification (choix du profil = ouverture du formulaire) -->
+    <header class="hero hx" id="top">
+      <div class="hx-bg" aria-hidden="true"><img src="/assets/photos/creation-de-societe-dubai.webp" alt="" width="1200" height="800" fetchpriority="high" decoding="async"></div>
+      <div class="wrap hx-in">
+        <div class="hx-copy">
+          <p class="hx-kicker">العقار · الشركة · التأشيرات · العائلة · الدراسة</p>
+          <h1>العقار، الشركة، العائلة، الدراسة: مشروعكم كاملًا في دبي، <mark>مع جهة تواصل واحدة</mark>، من الألف إلى الياء.</h1>
+          <p class="sub">شراء عقار وإدارته، تأسيس شركتكم، فتح حساباتكم، الحصول على تأشيراتكم، استقرار عائلتكم، تسجيل ابنكم أو ابنتكم في الجامعة: START IN DUBAI يتولى كل شيء، بلغتكم، للمغاربة حول العالم ولكل من يريد الاستقرار في دبي من مختلف أنحاء العالم. <b>أول حديث معنا مجاني وبلا أي التزام.</b></p>
+          <div class="hx-ctas">
+            <button class="btn" type="button" data-open-form><span class="btn-txt">نعم، أريد أن تتصلوا بي</span><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+            <a class="btn-ghost" href="#svc-t">اكتشفوا خدماتنا</a>
+          </div>
+          <ul class="trust">
+            <li><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2l8 4v6c0 5-3.5 8.5-8 10-4.5-1.5-8-5-8-10V6l8-4z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/><path d="M8.5 12l2.5 2.5 4.5-5" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>العقار مع وكالة مرخّصة من RERA (ORN 49294)</li>
+            <li><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3l2.7 5.6 6.1.9-4.4 4.3 1 6.1L12 17l-5.4 2.9 1-6.1-4.4-4.3 6.1-.9z" fill="currentColor"/></svg>شريكنا Cevitas: تقييم 5.0 على Google</li>
+            <li><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16v11H8l-4 4V5z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></svg>العربية، الفرنسية، الإنجليزية، الإسبانية، الهولندية، الإيطالية</li>
+          </ul>
         </div>
-
-        <ul class="trust">
-          <li><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2l8 4v6c0 5-3.5 8.5-8 10-4.5-1.5-8-5-8-10V6l8-4z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/><path d="M8.5 12l2.5 2.5 4.5-5" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>العقار مع وكالة مرخّصة من RERA (ORN 49294)</li>
-          <li><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3l2.7 5.6 6.1.9-4.4 4.3 1 6.1L12 17l-5.4 2.9 1-6.1-4.4-4.3 6.1-.9z" fill="currentColor"/></svg>شريكنا Cevitas: تقييم 5.0 على Google</li>
-          <li><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16v11H8l-4 4V5z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></svg>العربية، الفرنسية، الإنجليزية، الإسبانية، الهولندية، الإيطالية</li>
-        </ul>
+        <aside class="hx-card" aria-labelledby="hx-card-t">
+          <p class="hx-card-t" id="hx-card-t">ما هو مشروعكم؟</p>
+          <p class="hx-card-s">اختاروا ملفكم: يتصل بكم مستشار بلغتكم.</p>
+          <div class="hx-picks">
+            <button type="button" data-open-form data-profile="investir"><span><b>مستثمر</b><small>شراء العقار، إدارة عقاركم، الإقامة الذهبية (Golden Visa)، هيكلة استثماركم.</small></span><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+            <button type="button" data-open-form data-profile="societe"><span><b>رائد أعمال</b><small>تأسيس شركتكم أو تطويرها، الحساب البنكي، التأشيرات.</small></span><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+            <button type="button" data-open-form data-profile="famille"><span><b>عائلة</b><small>التأشيرات، السكن، الصحة، الأيام الأولى: كل ما يجب ترتيبه قبل السفر.</small></span><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+            <button type="button" data-open-form data-profile="etudes"><span><b>طالب</b><small>للطالب ووالديه: الجامعة، التسجيل، تأشيرة الطالب، السكن.</small></span><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+          </div>
+          <p class="hx-card-n">مجاني · دقيقة واحدة · دون أي التزام</p>
+        </aside>
       </div>
     </header>
 
-    <!-- 2. LE PROBLÈME -->
-    <section class="sec sec-gray" aria-labelledby="pb-t">
-      <div class="wrap narrow">
-        <p class="eyebrow">هل تجدون أنفسكم هنا؟</p>
-        <h2 id="pb-t">دبي تجذبكم منذ أشهر. <span class="red">لكن من أين تبدؤون؟</span></h2>
-        <ul class="xlist">
-          <li>تقرؤون الشيء ونقيضه عن التأشيرات والضرائب والمناطق الحرة.</li>
-          <li>لا تعرفون بمن تثقون: كلٌّ يبيع خدمته، ولا أحد يرى الصورة كاملة.</li>
-          <li>تخشون إضاعة أشهر، وأموال، بسبب اختيار خاطئ للرخصة أو للحي.</li>
-          <li>تريدون الاستثمار في العقار، لكن من سيؤجّر عقاركم ويديره حين لا تكونون هناك؟</li>
-          <li>عائلتكم سترافقكم، ولا مجال لترك أي شيء للصدفة: السكن، التأشيرات، الصحة.</li>
-          <li>ابنكم أو ابنتكم يرغب في الدراسة في دبي، ولا تعرفون أي جامعة تختارون، ولا كيف يتم التسجيل.</li>
-          <li>صديق أسّس شركته هناك. وقريب سجّل ابنته في الجامعة هناك. أما أنتم، فما زلتم تفكرون في الأمر.</li>
-        </ul>
-        <p class="punch">المشكلة نادرًا ما تكون في الرغبة. إنها في <b>كل ما يجب ترتيبه</b>، وفي الجهات الخمس أو الست التي عليكم إيجادها للقيام بذلك. START IN DUBAI يتولى كل شيء، بفريق واحد.</p>
-      </div>
-    </section>
-
-    <!-- 3. CE QUE VOUS GAGNEZ -->
-    <section class="sec" aria-labelledby="gain-t">
+    <!-- 2. CHIFFRES CLÉS + SOCIÉTÉS PARTENAIRES -->
+    <section class="kpis" aria-label="START IN DUBAI بالأرقام">
       <div class="wrap">
-        <p class="eyebrow center">ما ستحصلون عليه</p>
-        <h2 id="gain-t" class="center">مشروعكم كاملًا في دبي، <mark>منجَز ومنسَّق</mark> من أجلكم</h2>
-        <div class="gains">
-          <article class="gain"><span class="ic">1</span><h3>شراء عقاركم</h3><p>البحث، المعاينات، التفاوض والشراء، على المخطط أو جاهز للسكن، مع فريق Cevitas Real Estate المرخّص من RERA.</p></article>
-          <article class="gain"><span class="ic">2</span><h3>تأجير عقاركم وإدارته</h3><p>تأجير قصير أو طويل الأمد، متابعة المستأجرين والصيانة: أنتم تستثمرون، ونحن نتولى الباقي، حتى عن بُعد.</p></article>
-          <article class="gain"><span class="ic">3</span><h3>تأسيس شركتكم</h3><p>المنطقة الحرة أو البر الرئيسي (mainland)، اختيار النشاط والرخصة، تقديم الملف: نُعدّ كل خطوة ونتابعها.</p></article>
-          <article class="gain"><span class="ic">4</span><h3>فتح حساباتكم البنكية</h3><p>إعداد الملف ومرافقتكم في فتح حسابكم المهني وحسابكم الشخصي.</p></article>
-          <article class="gain"><span class="ic">5</span><h3>تأشيراتكم وتأشيرات عائلتكم</h3><p>تأشيرة مستثمر أو شريك، تأشيرات الزوج أو الزوجة والأبناء، Emirates ID، والإقامة الذهبية (Golden Visa) عندما تكونون مؤهلين لها.</p></article>
-          <article class="gain"><span class="ic">6</span><h3>استقرار عائلتكم</h3><p>سكن في الحي المناسب، تأمين صحي، خط هاتف، رخصة قيادة، الأيام الأولى بعد الوصول: قائمة واضحة نتابعها معكم.</p></article>
-          <article class="gain"><span class="ic">7</span><h3>محاور يتحدث لغتكم</h3><p>العربية، الفرنسية، الإنجليزية، الإسبانية، الهولندية، الإيطالية: تتواصلون باللغة التي تريحكم أكثر، من أول اتصال حتى ما بعد استقراركم.</p></article>
-          <article class="gain"><span class="ic">8</span><h3>الدراسة الجامعية لابنكم أو ابنتكم</h3><p>اختيار الجامعة في دبي أو في الإمارات، ملف التسجيل، تأشيرة الطالب، السكن: نرافق الطالب ووالديه من الألف إلى الياء.</p></article>
-          <article class="gain"><span class="ic">9</span><h3>الفريق نفسه، قبل وبعد</h3><p>لن يحيلكم أحد إلى جهة لا تعرفونها: الفريق نفسه يرافقكم من أول اتصال حتى ما بعد استقراركم.</p></article>
-        </div>
-        <div class="result">
-          <p><b>النتيجة:</b> خارطة طريق مكتوبة، بالخطوات والمدد والميزانية، <u>قبل</u> البدء في أي شيء. وفريق واحد يعرف ملفكم، من أول اتصال حتى استلام المفاتيح، وبعد ذلك بكثير.</p>
-        </div>
-        <div class="cta center">
-          <button class="btn" type="button" data-open-form><span class="btn-txt">أحدّثكم عن مشروعي مع مستشار</span><svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
-          <p class="cta-note">مجاني · دقيقة واحدة · دون أي التزام</p>
-        </div>
+        <ul class="kpi-list">
+          <li><b>1</b><span>جهة تواصل واحدة لمشروعكم كله</span></li>
+          <li><b>6</b><span>لغات: العربية والفرنسية والإنجليزية والإسبانية والهولندية والإيطالية</span></li>
+          <li><b>4</b><span>مراحل، مع خطة طريق مكتوبة</span></li>
+          <li><b>5,0</b><span>تقييم شريكنا العقاري Cevitas على Google (15 مراجعة)</span></li>
+        </ul>
+        <p class="partners"><span>خدمة مشتركة تقدّمها</span> <b>INTEGRITY CORPORATE SERVICES</b> <i aria-hidden="true"></i> <a href="https://www.cevitas.ae"><b>CEVITAS REAL ESTATE</b></a> <small>وكالة عقارية مرخّصة من RERA · ORN 49294</small></p>
       </div>
     </section>
 
@@ -125,11 +105,55 @@
       <div class="wrap">
         <p class="eyebrow center">خدماتنا</p>
         <h2 id="svc-t" class="center">كل ما نتولاه من أجلكم في دبي</h2>
-        <ul class="cards"><li><a class="card" href="/ar/services/خدمة-تأسيس-الشركات-في-دبي/"><span class="card-img"><img src="/assets/img/entrepreneur.webp" alt="" width="640" height="360" loading="lazy"></span><span class="card-body"><span class="card-t">خدمة تأسيس الشركات في دبي، من الترخيص إلى الحساب البنكي</span><span class="card-d">خدمة تأسيس شركة في دبي: اختيار البر الرئيسي أو المنطقة الحرة أو الأوفشور أو العمل الحر، ثم الترخيص والإقامة والحساب البنكي والضرائب، مع مرافق واحد.</span><span class="card-go">اكتشف الخدمة →</span></span></a></li><li><a class="card" href="/ar/services/خدمة-الإقامة-الذهبية-والتأشيرات/"><span class="card-img"><img src="/assets/img/og.jpg" alt="" width="640" height="360" loading="lazy"></span><span class="card-body"><span class="card-t">خدمة الإقامة الذهبية وتأشيرات الإقامة في دبي، لك ولعائلتك</span><span class="card-d">خدمة الإقامة الذهبية في دبي: دراسة الأهلية وإعداد الملف وتأشيرة الإقامة وتأشيرات العائلة والهوية الإماراتية، مع مرافق واحد يتحدث لغتك.</span><span class="card-go">اكتشف الخدمة →</span></span></a></li><li><a class="card" href="/ar/services/خدمة-فتح-حساب-بنكي-في-دبي/"><span class="card-img"><img src="/assets/img/investisseur.webp" alt="" width="640" height="360" loading="lazy"></span><span class="card-body"><span class="card-t">مساعدة في فتح حساب بنكي في دبي، شخصي ومهني</span><span class="card-d">مساعدة في فتح حساب بنكي في دبي: حساب شخصي وحساب شركة، واختيار البنك، وملف الامتثال ومصدر الأموال، مع مرافق واحد يتحدث لغتك.</span><span class="card-go">اكتشف الخدمة →</span></span></a></li><li><a class="card" href="/ar/services/خدمة-انتقال-العائلة-إلى-دبي/"><span class="card-img"><img src="/assets/img/famille.webp" alt="" width="640" height="360" loading="lazy"></span><span class="card-body"><span class="card-t">الانتقال إلى دبي: ننظم لك استقرار عائلتك</span><span class="card-d">خدمة الانتقال إلى دبي مع العائلة: تأشيرات الأسرة والبحث عن سكن وإيجاري والمدارس والتأمين الصحي ورخصة القيادة وأول الأيام، مع مرافق واحد.</span><span class="card-go">اكتشف الخدمة →</span></span></a></li><li><a class="card" href="/ar/services/خدمة-الالتحاق-بالجامعات-في-دبي/"><span class="card-img"><img src="/assets/img/etudiant.webp" alt="" width="640" height="360" loading="lazy"></span><span class="card-body"><span class="card-t">الدراسة الجامعية في دبي: نرافقك في التسجيل بالجامعة والاستقرار</span><span class="card-d">التسجيل في جامعة في دبي بمرافقة: اختيار التخصص وملف القبول وتأشيرة الطالب والسكن والاستقرار، للطالب ولأولياء الأمور، مع مرافق واحد.</span><span class="card-go">اكتشف الخدمة →</span></span></a></li><li><a class="card" href="/ar/services/خدمة-العقار-والاستقرار-في-دبي/"><span class="card-img"><img src="/assets/img/investisseur.webp" alt="" width="640" height="360" loading="lazy"></span><span class="card-body"><span class="card-t">العقارات والاستقرار في دبي: شراؤك منسق مع بقية مشروعك</span><span class="card-d">العقارات والاستقرار في دبي: الشراء والإدارة مع Cevitas Real Estate (وكالة مرخصة من RERA)، بالتنسيق مع تأشيرتك وبنكك وشركتك وعائلتك.</span><span class="card-go">اكتشف الخدمة →</span></span></a></li></ul>
+        <ul class="cards"><li><a class="card" href="/ar/services/خدمة-تأسيس-الشركات-في-دبي/"><span class="card-img"><img src="/assets/photos/creation-de-societe-dubai.webp" alt="" width="640" height="360" loading="lazy"></span><span class="card-body"><span class="card-t">خدمة تأسيس الشركات في دبي، من الترخيص إلى الحساب البنكي</span><span class="card-d">خدمة تأسيس شركة في دبي: اختيار البر الرئيسي أو المنطقة الحرة أو الأوفشور أو العمل الحر، ثم الترخيص والإقامة والحساب البنكي والضرائب، مع مرافق واحد.</span><span class="card-go">اكتشف الخدمة →</span></span></a></li><li><a class="card" href="/ar/services/خدمة-الإقامة-الذهبية-والتأشيرات/"><span class="card-img"><img src="/assets/photos/golden-visa-visas-dubai.webp" alt="" width="640" height="360" loading="lazy"></span><span class="card-body"><span class="card-t">خدمة الإقامة الذهبية وتأشيرات الإقامة في دبي، لك ولعائلتك</span><span class="card-d">خدمة الإقامة الذهبية في دبي: دراسة الأهلية وإعداد الملف وتأشيرة الإقامة وتأشيرات العائلة والهوية الإماراتية، مع مرافق واحد يتحدث لغتك.</span><span class="card-go">اكتشف الخدمة →</span></span></a></li><li><a class="card" href="/ar/services/خدمة-فتح-حساب-بنكي-في-دبي/"><span class="card-img"><img src="/assets/photos/ouverture-compte-bancaire-dubai.webp" alt="" width="640" height="360" loading="lazy"></span><span class="card-body"><span class="card-t">مساعدة في فتح حساب بنكي في دبي، شخصي ومهني</span><span class="card-d">مساعدة في فتح حساب بنكي في دبي: حساب شخصي وحساب شركة، واختيار البنك، وملف الامتثال ومصدر الأموال، مع مرافق واحد يتحدث لغتك.</span><span class="card-go">اكتشف الخدمة →</span></span></a></li><li><a class="card" href="/ar/services/خدمة-انتقال-العائلة-إلى-دبي/"><span class="card-img"><img src="/assets/photos/installation-famille-dubai.webp" alt="" width="640" height="360" loading="lazy"></span><span class="card-body"><span class="card-t">الانتقال إلى دبي: ننظم لك استقرار عائلتك</span><span class="card-d">خدمة الانتقال إلى دبي مع العائلة: تأشيرات الأسرة والبحث عن سكن وإيجاري والمدارس والتأمين الصحي ورخصة القيادة وأول الأيام، مع مرافق واحد.</span><span class="card-go">اكتشف الخدمة →</span></span></a></li><li><a class="card" href="/ar/services/خدمة-الالتحاق-بالجامعات-في-دبي/"><span class="card-img"><img src="/assets/photos/etudes-superieures-dubai.webp" alt="" width="640" height="360" loading="lazy"></span><span class="card-body"><span class="card-t">الدراسة الجامعية في دبي: نرافقك في التسجيل بالجامعة والاستقرار</span><span class="card-d">التسجيل في جامعة في دبي بمرافقة: اختيار التخصص وملف القبول وتأشيرة الطالب والسكن والاستقرار، للطالب ولأولياء الأمور، مع مرافق واحد.</span><span class="card-go">اكتشف الخدمة →</span></span></a></li><li><a class="card" href="/ar/services/خدمة-العقار-والاستقرار-في-دبي/"><span class="card-img"><img src="/assets/photos/immobilier-dubai.webp" alt="" width="640" height="360" loading="lazy"></span><span class="card-body"><span class="card-t">العقارات والاستقرار في دبي: شراؤك منسق مع بقية مشروعك</span><span class="card-d">العقارات والاستقرار في دبي: الشراء والإدارة مع Cevitas Real Estate (وكالة مرخصة من RERA)، بالتنسيق مع تأشيرتك وبنكك وشركتك وعائلتك.</span><span class="card-go">اكتشف الخدمة →</span></span></a></li></ul>
         <p class="center" style="margin-top:28px"><a class="btn btn-sm" href="/ar/services/">جميع خدماتنا →</a></p>
       </div>
     </section>
 
+    <!-- 3. LE CONSTAT (deux colonnes) -->
+    <section class="sec" aria-labelledby="pb-t">
+      <div class="wrap pb-grid">
+        <div class="pb-head">
+          <p class="eyebrow">هل تجدون أنفسكم هنا؟</p>
+          <h2 id="pb-t">دبي تجذبكم منذ أشهر. <span class="red">لكن من أين تبدؤون؟</span></h2>
+          <p class="punch">المشكلة نادرًا ما تكون في الرغبة. إنها في <b>كل ما يجب ترتيبه</b>، وفي الجهات الخمس أو الست التي عليكم إيجادها للقيام بذلك. START IN DUBAI يتولى كل شيء، بفريق واحد.</p>
+        </div>
+        <ul class="xlist">
+          <li>تقرؤون الشيء ونقيضه عن التأشيرات والضرائب والمناطق الحرة.</li>
+          <li>لا تعرفون بمن تثقون: كلٌّ يبيع خدمته، ولا أحد يرى الصورة كاملة.</li>
+          <li>تخشون إضاعة أشهر، وأموال، بسبب اختيار خاطئ للرخصة أو للحي.</li>
+          <li>تريدون الاستثمار في العقار، لكن من سيؤجّر عقاركم ويديره حين لا تكونون هناك؟</li>
+          <li>عائلتكم سترافقكم، ولا مجال لترك أي شيء للصدفة: السكن، التأشيرات، الصحة.</li>
+          <li>ابنكم أو ابنتكم يرغب في الدراسة في دبي، ولا تعرفون أي جامعة تختارون، ولا كيف يتم التسجيل.</li>
+        </ul>
+      </div>
+    </section>
+
+    <!-- 4. CE QUE VOUS GAGNEZ -->
+    <section class="sec sec-gray" aria-labelledby="gain-t">
+      <div class="wrap">
+        <p class="eyebrow center">ما ستحصلون عليه</p>
+        <h2 id="gain-t" class="center">مشروعكم كاملًا في دبي، <mark>منجَز ومنسَّق</mark> من أجلكم</h2>
+        <div class="gains">
+          <article class="gain"><span class="ic">01</span><h3>شراء عقاركم</h3><p>البحث، المعاينات، التفاوض والشراء، على المخطط أو جاهز للسكن، مع فريق Cevitas Real Estate المرخّص من RERA.</p></article>
+          <article class="gain"><span class="ic">02</span><h3>تأجير عقاركم وإدارته</h3><p>تأجير قصير أو طويل الأمد، متابعة المستأجرين والصيانة: أنتم تستثمرون، ونحن نتولى الباقي، حتى عن بُعد.</p></article>
+          <article class="gain"><span class="ic">03</span><h3>تأسيس شركتكم</h3><p>المنطقة الحرة أو البر الرئيسي (mainland)، اختيار النشاط والرخصة، تقديم الملف: نُعدّ كل خطوة ونتابعها.</p></article>
+          <article class="gain"><span class="ic">04</span><h3>فتح حساباتكم البنكية</h3><p>إعداد الملف ومرافقتكم في فتح حسابكم المهني وحسابكم الشخصي.</p></article>
+          <article class="gain"><span class="ic">05</span><h3>تأشيراتكم وتأشيرات عائلتكم</h3><p>تأشيرة مستثمر أو شريك، تأشيرات الزوج أو الزوجة والأبناء، Emirates ID، والإقامة الذهبية (Golden Visa) عندما تكونون مؤهلين لها.</p></article>
+          <article class="gain"><span class="ic">06</span><h3>استقرار عائلتكم</h3><p>سكن في الحي المناسب، تأمين صحي، خط هاتف، رخصة قيادة، الأيام الأولى بعد الوصول: قائمة واضحة نتابعها معكم.</p></article>
+          <article class="gain"><span class="ic">07</span><h3>محاور يتحدث لغتكم</h3><p>العربية، الفرنسية، الإنجليزية، الإسبانية، الهولندية، الإيطالية: تتواصلون باللغة التي تريحكم أكثر، من أول اتصال حتى ما بعد استقراركم.</p></article>
+          <article class="gain"><span class="ic">08</span><h3>الدراسة الجامعية لابنكم أو ابنتكم</h3><p>اختيار الجامعة في دبي أو في الإمارات، ملف التسجيل، تأشيرة الطالب، السكن: نرافق الطالب ووالديه من الألف إلى الياء.</p></article>
+          <article class="gain"><span class="ic">09</span><h3>الفريق نفسه، قبل وبعد</h3><p>لن يحيلكم أحد إلى جهة لا تعرفونها: الفريق نفسه يرافقكم من أول اتصال حتى ما بعد استقراركم.</p></article>
+        </div>
+        <div class="result">
+          <p><b>النتيجة:</b> خارطة طريق مكتوبة، بالخطوات والمدد والميزانية، <u>قبل</u> البدء في أي شيء. وفريق واحد يعرف ملفكم، من أول اتصال حتى استلام المفاتيح، وبعد ذلك بكثير.</p>
+        </div>
+        <div class="cta center">
+          <button class="btn" type="button" data-open-form><span class="btn-txt">أحدّثكم عن مشروعي مع مستشار</span><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+          <p class="cta-note">مجاني · دقيقة واحدة · دون أي التزام</p>
+        </div>
+      </div>
+    </section>
     <!-- 4. POURQUOI C'EST DIFFÉRENT -->
     <section class="sec sec-dark" aria-labelledby="diff-t">
       <div class="wrap">
@@ -189,10 +213,18 @@
       </div>
     </section>
 
-    <!-- 7. PREMIER ÉCHANGE OFFERT -->
-    <section class="sec" aria-labelledby="offer-t">
-      <div class="wrap narrow">
-        <div class="offer">
+    <!-- 8. QUI SOMMES-NOUS + PREMIER ÉCHANGE OFFERT -->
+    <section class="sec sec-gray" aria-labelledby="who-t">
+      <div class="wrap about">
+        <div class="about-copy">
+          <img src="/assets/photos/s-installer-a-dubai.webp" alt="" width="1200" height="800" loading="lazy">
+          <p class="eyebrow">من يقف وراء START IN DUBAI؟</p>
+          <h2 id="who-t">فريق يعيش في دبي ويتحدث لغتكم</h2>
+          <p>يعمل START IN DUBAI جنبًا إلى جنب مع <a href="https://www.cevitas.ae"><b>Cevitas Real Estate</b></a>، الوكالة العقارية المرخّصة من RERA في دبي (ORN 49294)، في كل ما يتعلق بالعقار.</p>
+          <p>نرافق يوميًا المغاربة حول العالم وأشخاصًا من مختلف أنحاء العالم يستثمرون في دبي. رأينا ما يعرقل، وما يكلّف غاليًا، وما يُضيع الأشهر. وُلد START IN DUBAI ليجري استقراركم بالترتيب الصحيح، مع شخص واحد يتابع ملفكم.</p>
+          <p class="stars"><span aria-hidden="true">★★★★★</span> Cevitas Real Estate: <b>5.0 على Google</b> (15 تقييمًا)</p>
+        </div>
+        <div class="offer" aria-labelledby="offer-t">
           <p class="offer-tag">أول حديث مجاني</p>
           <h2 id="offer-t">حدّثونا عن مشروعكم وستحصلون على:</h2>
           <ul class="vlist">
@@ -201,23 +233,9 @@
             <li><b>خريطة طريق واضحة</b>: الخطوات وترتيبها والنقاط الواجب التحقق منها لوضعكم.</li>
           </ul>
           <p class="offer-free">طلب <b>مجاني</b>، في دقيقة واحدة.</p>
-          <div class="cta center">
-            <button class="btn" type="button" data-open-form><span class="btn-txt">نعم، أريد أن تتصلوا بي</span><svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+          <div class="cta">
+            <button class="btn" type="button" data-open-form><span class="btn-txt">نعم، أريد أن تتصلوا بي</span><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
           </div>
-        </div>
-      </div>
-    </section>
-
-    <!-- 8. QUI EST DERRIÈRE -->
-    <section class="sec sec-gray" aria-labelledby="who-t">
-      <div class="wrap founder">
-        <img src="/assets/photos/s-installer-a-dubai.webp" alt="" width="1200" height="800" loading="lazy">
-        <div>
-          <p class="eyebrow">من يقف وراء START IN DUBAI؟</p>
-          <h2 id="who-t">فريق يعيش في دبي ويتحدث لغتكم</h2>
-          <p>يعمل START IN DUBAI جنبًا إلى جنب مع <a href="https://www.cevitas.ae"><b>Cevitas Real Estate</b></a>، الوكالة العقارية المرخّصة من RERA في دبي (ORN 49294)، في كل ما يتعلق بالعقار.</p>
-          <p>نرافق يوميًا المغاربة حول العالم وأشخاصًا من مختلف أنحاء العالم يستثمرون في دبي. رأينا ما يعرقل، وما يكلّف غاليًا، وما يُضيع الأشهر. وُلد START IN DUBAI ليجري استقراركم بالترتيب الصحيح، مع شخص واحد يتابع ملفكم.</p>
-          <p class="stars"><span aria-hidden="true">★★★★★</span> Cevitas Real Estate: <b>5.0 على Google</b> (15 تقييمًا)</p>
         </div>
       </div>
     </section>
@@ -227,7 +245,7 @@
         <p class="eyebrow center">أدلة مجانية</p>
         <h2 id="guides-t" class="center">حضّروا مشروعكم مع أدلتنا</h2>
         <p class="center" style="margin:0 auto;max-width:40em;color:var(--muted)">تم التحقق منها من المصادر الرسمية وتحدَّث بانتظام.</p>
-        <ul class="cards"><li><a class="card" href="/ar/تأسيس-شركة-في-دبي/"><span class="card-img"><img src="/assets/img/entrepreneur.webp" alt="" width="640" height="360" loading="lazy"></span><span class="card-body"><span class="card-t">تأسيس شركة في دبي: الدليل الكامل خطوة بخطوة</span><span class="card-d">تأسيس شركة في دبي: البر الرئيسي أم منطقة حرة أم أوفشور، الخطوات والوثائق والمدد والتكاليف والتأشيرات والبنك وضريبة 9%. دليل واضح للانطلاق.</span><span class="card-go">اقرأ الدليل →</span></span></a></li><li><a class="card" href="/ar/الإقامة-الذهبية-في-دبي/"><span class="card-img"><img src="/assets/img/og.jpg" alt="" width="640" height="360" loading="lazy"></span><span class="card-body"><span class="card-t">الإقامة الذهبية في دبي: الشروط والفئات والإجراءات للحصول على إقامة 5 أو 10 سنوات</span><span class="card-d">الإقامة الذهبية في دبي: من يستحقها، الشروط حسب الفئة (مستثمرون، رواد أعمال، مواهب، موظفون، طلاب)، التكلفة وإجراءات ICP وGDRFA.</span><span class="card-go">اقرأ الدليل →</span></span></a></li><li><a class="card" href="/ar/الانتقال-إلى-دبي/"><span class="card-img"><img src="/assets/img/og.jpg" alt="" width="640" height="360" loading="lazy"></span><span class="card-body"><span class="card-t">الانتقال إلى دبي: الدليل الكامل لنجاح الانتقال والإقامة</span><span class="card-d">الانتقال إلى دبي: 4 طرق للحصول على الإقامة، الخطوات من 6 أشهر قبل السفر إلى الوصول، تصديق الوثائق، السكن والبنك والتأمين الصحي والمدارس والميزانية.</span><span class="card-go">اقرأ الدليل →</span></span></a></li><li><a class="card" href="/ar/الدراسة-في-دبي/"><span class="card-img"><img src="/assets/img/etudiant.webp" alt="" width="640" height="360" loading="lazy"></span><span class="card-body"><span class="card-t">الدراسة في دبي: الجامعات والتكاليف والاعتراف بالشهادات والحياة الطلابية</span><span class="card-d">الدراسة في دبي بعد الثانوية: الجامعات والفروع الدولية، العروض بالفرنسية، الرسوم السنوية، الاعتراف بالشهادات (CAA وKHDA)، السكن والعمل أثناء الدراسة.</span><span class="card-go">اقرأ الدليل →</span></span></a></li><li><a class="card" href="/ar/الانتقال-إلى-دبي-مع-العائلة/"><span class="card-img"><img src="/assets/img/famille.webp" alt="" width="640" height="360" loading="lazy"></span><span class="card-body"><span class="card-t">الانتقال إلى دبي مع العائلة: الدليل خطوة بخطوة</span><span class="card-d">الانتقال إلى دبي مع العائلة: كفالة الزوج والأطفال، الراتب المطلوب، الوثائق الموثَّقة، الجدول الزمني، اختيار المدرسة والحي والتأمين الصحي.</span><span class="card-go">اقرأ الدليل →</span></span></a></li><li><a class="card" href="/ar/فتح-حساب-بنكي-في-دبي/"><span class="card-img"><img src="/assets/img/investisseur.webp" alt="" width="640" height="360" loading="lazy"></span><span class="card-body"><span class="card-t">فتح حساب بنكي في دبي: الحساب الشخصي وحساب الشركة وأخطاء يجب تجنبها</span><span class="card-d">فتح حساب بنكي في دبي للمقيم وغير المقيم: الوثائق، إجراءات KYC، المدة، الحد الأدنى للرصيد، البنوك التقليدية والرقمية وأسباب الرفض.</span><span class="card-go">اقرأ الدليل →</span></span></a></li></ul>
+        <ul class="cards"><li><a class="card" href="/ar/تأسيس-شركة-في-دبي/"><span class="card-img"><img src="/assets/photos/creer-sa-societe-a-dubai.webp" alt="" width="640" height="360" loading="lazy"></span><span class="card-body"><span class="card-t">تأسيس شركة في دبي: الدليل الكامل خطوة بخطوة</span><span class="card-d">تأسيس شركة في دبي: البر الرئيسي أم منطقة حرة أم أوفشور، الخطوات والوثائق والمدد والتكاليف والتأشيرات والبنك وضريبة 9%. دليل واضح للانطلاق.</span><span class="card-go">اقرأ الدليل →</span></span></a></li><li><a class="card" href="/ar/الإقامة-الذهبية-في-دبي/"><span class="card-img"><img src="/assets/photos/golden-visa-dubai.webp" alt="" width="640" height="360" loading="lazy"></span><span class="card-body"><span class="card-t">الإقامة الذهبية في دبي: الشروط والفئات والإجراءات للحصول على إقامة 5 أو 10 سنوات</span><span class="card-d">الإقامة الذهبية في دبي: من يستحقها، الشروط حسب الفئة (مستثمرون، رواد أعمال، مواهب، موظفون، طلاب)، التكلفة وإجراءات ICP وGDRFA.</span><span class="card-go">اقرأ الدليل →</span></span></a></li><li><a class="card" href="/ar/الانتقال-إلى-دبي/"><span class="card-img"><img src="/assets/photos/s-installer-a-dubai.webp" alt="" width="640" height="360" loading="lazy"></span><span class="card-body"><span class="card-t">الانتقال إلى دبي: الدليل الكامل لنجاح الانتقال والإقامة</span><span class="card-d">الانتقال إلى دبي: 4 طرق للحصول على الإقامة، الخطوات من 6 أشهر قبل السفر إلى الوصول، تصديق الوثائق، السكن والبنك والتأمين الصحي والمدارس والميزانية.</span><span class="card-go">اقرأ الدليل →</span></span></a></li><li><a class="card" href="/ar/الدراسة-في-دبي/"><span class="card-img"><img src="/assets/photos/etudier-a-dubai.webp" alt="" width="640" height="360" loading="lazy"></span><span class="card-body"><span class="card-t">الدراسة في دبي: الجامعات والتكاليف والاعتراف بالشهادات والحياة الطلابية</span><span class="card-d">الدراسة في دبي بعد الثانوية: الجامعات والفروع الدولية، العروض بالفرنسية، الرسوم السنوية، الاعتراف بالشهادات (CAA وKHDA)، السكن والعمل أثناء الدراسة.</span><span class="card-go">اقرأ الدليل →</span></span></a></li><li><a class="card" href="/ar/الانتقال-إلى-دبي-مع-العائلة/"><span class="card-img"><img src="/assets/photos/s-installer-a-dubai-en-famille.webp" alt="" width="640" height="360" loading="lazy"></span><span class="card-body"><span class="card-t">الانتقال إلى دبي مع العائلة: الدليل خطوة بخطوة</span><span class="card-d">الانتقال إلى دبي مع العائلة: كفالة الزوج والأطفال، الراتب المطلوب، الوثائق الموثَّقة، الجدول الزمني، اختيار المدرسة والحي والتأمين الصحي.</span><span class="card-go">اقرأ الدليل →</span></span></a></li><li><a class="card" href="/ar/فتح-حساب-بنكي-في-دبي/"><span class="card-img"><img src="/assets/photos/ouvrir-un-compte-bancaire-a-dubai.webp" alt="" width="640" height="360" loading="lazy"></span><span class="card-body"><span class="card-t">فتح حساب بنكي في دبي: الحساب الشخصي وحساب الشركة وأخطاء يجب تجنبها</span><span class="card-d">فتح حساب بنكي في دبي للمقيم وغير المقيم: الوثائق، إجراءات KYC، المدة، الحد الأدنى للرصيد، البنوك التقليدية والرقمية وأسباب الرفض.</span><span class="card-go">اقرأ الدليل →</span></span></a></li></ul>
         <p class="center" style="margin-top:28px"><a class="btn btn-sm" href="/ar/guides/">جميع الأدلة →</a></p>
       </div>
     </section>

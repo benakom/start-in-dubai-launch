@@ -26,10 +26,11 @@
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700;800;900&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="assets/style.css?v=3">
   <link rel="stylesheet" href="assets/site.css?v=4">
+  <link rel="stylesheet" href="assets/home.css?v=1">
   <script src="config.js"></script>
   <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.startindubai.com/#organization","name":"START IN DUBAI","alternateName":"Start in Dubai","url":"https://www.startindubai.com/","logo":"https://www.startindubai.com/assets/img/logo.webp","description":"{{t005}}","areaServed":[{"@type":"City","name":"Dubaï"},{"@type":"Country","name":"Émirats arabes unis"}],"knowsLanguage":["fr","ar"]},{"@type":"WebSite","@id":"https://www.startindubai.com/#website","name":"START IN DUBAI","alternateName":["Start in Dubai","startindubai.com"],"url":"https://www.startindubai.com/","inLanguage":"fr","publisher":{"@id":"https://www.startindubai.com/#organization"}}]}</script>
 </head>
-<body>
+<body class="home">
   <!-- En-tête : bandeau noir + menu du site -->
   <div class="hdr">
   <div class="topbar">
@@ -43,33 +44,60 @@
   </div>
 
   <main>
-    <!-- 1. HERO -->
-    <header class="hero" id="top">
-      <div class="wrap hero-in">
-        <h1>{{t009}}</h1>
-        <p class="sub">{{t010}}</p>
-
-        <div class="cta">
-          <button class="btn" type="button" data-open-form>
-            <span class="btn-txt">{{t017}}</span>
-            <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>
-          </button>
-          <p class="cta-note">{{t018}}</p>
+    <!-- 1. HERO corporate : message + carte de qualification (choix du profil = ouverture du formulaire) -->
+    <header class="hero hx" id="top">
+      <div class="hx-bg" aria-hidden="true"><img src="/assets/photos/creation-de-societe-dubai.webp" alt="" width="1200" height="800" fetchpriority="high" decoding="async"></div>
+      <div class="wrap hx-in">
+        <div class="hx-copy">
+          <p class="hx-kicker">{{t008}}</p>
+          <h1>{{t009}}</h1>
+          <p class="sub">{{t010}}</p>
+          <div class="hx-ctas">
+            <button class="btn" type="button" data-open-form><span class="btn-txt">{{t017}}</span><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+            <a class="btn-ghost" href="#svc-t">{{c03}}</a>
+          </div>
+          <ul class="trust">
+            <li>{{t019}}</li>
+            <li>{{t020}}</li>
+            <li>{{t021}}</li>
+          </ul>
         </div>
-
-        <ul class="trust">
-          <li>{{t019}}</li>
-          <li>{{t020}}</li>
-          <li>{{t021}}</li>
-        </ul>
+        <aside class="hx-card" aria-labelledby="hx-card-t">
+          <p class="hx-card-t" id="hx-card-t">{{c01}}</p>
+          <p class="hx-card-s">{{c02}}</p>
+          <div class="hx-picks">
+            <button type="button" data-open-form data-profile="investir"><span><b>{{t076}}</b><small>{{t077}}</small></span><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+            <button type="button" data-open-form data-profile="societe"><span><b>{{t079}}</b><small>{{t080}}</small></span><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+            <button type="button" data-open-form data-profile="famille"><span><b>{{t081}}</b><small>{{t082}}</small></span><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+            <button type="button" data-open-form data-profile="etudes"><span><b>{{t084}}</b><small>{{t085}}</small></span><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+          </div>
+          <p class="hx-card-n">{{t018}}</p>
+        </aside>
       </div>
     </header>
 
-    <!-- 2. LE PROBLÈME -->
-    <section class="sec sec-gray" aria-labelledby="pb-t">
-      <div class="wrap narrow">
-        <p class="eyebrow">{{t022}}</p>
-        <h2 id="pb-t">{{t023}}</h2>
+    <!-- 2. CHIFFRES CLÉS + SOCIÉTÉS PARTENAIRES -->
+    <section class="kpis" aria-label="{{c12}}">
+      <div class="wrap">
+        <ul class="kpi-list">
+          <li><b>1</b><span>{{c08}}</span></li>
+          <li><b>6</b><span>{{c09}}</span></li>
+          <li><b>4</b><span>{{c10}}</span></li>
+          <li><b>5,0</b><span>{{c11}}</span></li>
+        </ul>
+        <p class="partners"><span>{{c04}}</span> <b>INTEGRITY CORPORATE SERVICES</b> <i aria-hidden="true"></i> <a href="https://www.cevitas.ae"><b>CEVITAS REAL ESTATE</b></a> <small>{{c05}}</small></p>
+      </div>
+    </section>
+
+<!--SERVICES-->
+    <!-- 3. LE CONSTAT (deux colonnes) -->
+    <section class="sec" aria-labelledby="pb-t">
+      <div class="wrap pb-grid">
+        <div class="pb-head">
+          <p class="eyebrow">{{t022}}</p>
+          <h2 id="pb-t">{{t023}}</h2>
+          <p class="punch">{{t031}}</p>
+        </div>
         <ul class="xlist">
           <li>{{t024}}</li>
           <li>{{t025}}</li>
@@ -77,39 +105,35 @@
           <li>{{t027}}</li>
           <li>{{t028}}</li>
           <li>{{t029}}</li>
-          <li>{{t030}}</li>
         </ul>
-        <p class="punch">{{t031}}</p>
       </div>
     </section>
 
-    <!-- 3. CE QUE VOUS GAGNEZ -->
-    <section class="sec" aria-labelledby="gain-t">
+    <!-- 4. CE QUE VOUS GAGNEZ -->
+    <section class="sec sec-gray" aria-labelledby="gain-t">
       <div class="wrap">
         <p class="eyebrow center">{{t032}}</p>
         <h2 id="gain-t" class="center">{{t033}}</h2>
         <div class="gains">
-          <article class="gain"><span class="ic">1</span><h3>{{t034}}</h3><p>{{t035}}</p></article>
-          <article class="gain"><span class="ic">2</span><h3>{{t036}}</h3><p>{{t037}}</p></article>
-          <article class="gain"><span class="ic">3</span><h3>{{t038}}</h3><p>{{t039}}</p></article>
-          <article class="gain"><span class="ic">4</span><h3>{{t040}}</h3><p>{{t041}}</p></article>
-          <article class="gain"><span class="ic">5</span><h3>{{t042}}</h3><p>{{t043}}</p></article>
-          <article class="gain"><span class="ic">6</span><h3>{{t044}}</h3><p>{{t045}}</p></article>
-          <article class="gain"><span class="ic">7</span><h3>{{t046}}</h3><p>{{t047}}</p></article>
-          <article class="gain"><span class="ic">8</span><h3>{{t048}}</h3><p>{{t049}}</p></article>
-          <article class="gain"><span class="ic">9</span><h3>{{t050}}</h3><p>{{t051}}</p></article>
+          <article class="gain"><span class="ic">01</span><h3>{{t034}}</h3><p>{{t035}}</p></article>
+          <article class="gain"><span class="ic">02</span><h3>{{t036}}</h3><p>{{t037}}</p></article>
+          <article class="gain"><span class="ic">03</span><h3>{{t038}}</h3><p>{{t039}}</p></article>
+          <article class="gain"><span class="ic">04</span><h3>{{t040}}</h3><p>{{t041}}</p></article>
+          <article class="gain"><span class="ic">05</span><h3>{{t042}}</h3><p>{{t043}}</p></article>
+          <article class="gain"><span class="ic">06</span><h3>{{t044}}</h3><p>{{t045}}</p></article>
+          <article class="gain"><span class="ic">07</span><h3>{{t046}}</h3><p>{{t047}}</p></article>
+          <article class="gain"><span class="ic">08</span><h3>{{t048}}</h3><p>{{t049}}</p></article>
+          <article class="gain"><span class="ic">09</span><h3>{{t050}}</h3><p>{{t051}}</p></article>
         </div>
         <div class="result">
           <p>{{t052}}</p>
         </div>
         <div class="cta center">
-          <button class="btn" type="button" data-open-form><span class="btn-txt">{{t053}}</span><svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+          <button class="btn" type="button" data-open-form><span class="btn-txt">{{t053}}</span><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
           <p class="cta-note">{{t018}}</p>
         </div>
       </div>
     </section>
-
-<!--SERVICES-->
     <!-- 4. POURQUOI C'EST DIFFÉRENT -->
     <section class="sec sec-dark" aria-labelledby="diff-t">
       <div class="wrap">
@@ -169,10 +193,18 @@
       </div>
     </section>
 
-    <!-- 7. PREMIER ÉCHANGE OFFERT -->
-    <section class="sec" aria-labelledby="offer-t">
-      <div class="wrap narrow">
-        <div class="offer">
+    <!-- 8. QUI SOMMES-NOUS + PREMIER ÉCHANGE OFFERT -->
+    <section class="sec sec-gray" aria-labelledby="who-t">
+      <div class="wrap about">
+        <div class="about-copy">
+          <img src="assets/photos/s-installer-a-dubai.webp" alt="" width="1200" height="800" loading="lazy">
+          <p class="eyebrow">{{t098}}</p>
+          <h2 id="who-t">{{t099}}</h2>
+          <p>{{t100}}</p>
+          <p>{{t101}}</p>
+          <p class="stars">{{t102}}</p>
+        </div>
+        <div class="offer" aria-labelledby="offer-t">
           <p class="offer-tag">{{t092}}</p>
           <h2 id="offer-t">{{t093}}</h2>
           <ul class="vlist">
@@ -181,23 +213,9 @@
             <li>{{t096}}</li>
           </ul>
           <p class="offer-free">{{t097}}</p>
-          <div class="cta center">
-            <button class="btn" type="button" data-open-form><span class="btn-txt">{{t017}}</span><svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+          <div class="cta">
+            <button class="btn" type="button" data-open-form><span class="btn-txt">{{t017}}</span><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
           </div>
-        </div>
-      </div>
-    </section>
-
-    <!-- 8. QUI EST DERRIÈRE -->
-    <section class="sec sec-gray" aria-labelledby="who-t">
-      <div class="wrap founder">
-        <img src="assets/photos/s-installer-a-dubai.webp" alt="" width="1200" height="800" loading="lazy">
-        <div>
-          <p class="eyebrow">{{t098}}</p>
-          <h2 id="who-t">{{t099}}</h2>
-          <p>{{t100}}</p>
-          <p>{{t101}}</p>
-          <p class="stars">{{t102}}</p>
         </div>
       </div>
     </section>

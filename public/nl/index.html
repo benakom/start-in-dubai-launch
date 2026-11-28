@@ -31,10 +31,11 @@
   <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700;800;900&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="/assets/style.css?v=3">
   <link rel="stylesheet" href="/assets/site.css?v=4">
+  <link rel="stylesheet" href="/assets/home.css?v=1">
   <script src="/config.js"></script>
   <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.startindubai.com/#organization","name":"START IN DUBAI","alternateName":"Start in Dubai","url":"https://www.startindubai.com/","logo":"https://www.startindubai.com/assets/img/logo.webp","description":"Begeleiding van A tot Z voor Marokkanen over de hele wereld en mensen uit alle landen in Dubai en de Emiraten: aankoop en beheer van vastgoed, oprichting van een bedrijf, bankrekening, visa, verhuizing van het gezin en hoger onderwijs.","areaServed":[{"@type":"City","name":"Dubaï"},{"@type":"Country","name":"Émirats arabes unis"}],"knowsLanguage":["ar","fr","en","es","nl","it"]},{"@type":"WebSite","@id":"https://www.startindubai.com/#website","name":"START IN DUBAI","alternateName":["Start in Dubai","startindubai.com"],"url":"https://www.startindubai.com/","inLanguage":"nl","publisher":{"@id":"https://www.startindubai.com/#organization"}}]}</script>
 </head>
-<body>
+<body class="home">
   <!-- En-tête : bandeau noir + menu du site -->
   <div class="hdr">
   <div class="topbar">
@@ -55,69 +56,48 @@
   </div>
 
   <main>
-    <!-- 1. HERO -->
-    <header class="hero" id="top">
-      <div class="wrap hero-in">
-        <h1>Vastgoed, bedrijf, gezin, studie: uw hele project in Dubai, <mark>met één aanspreekpunt</mark>, van A tot Z.</h1>
-        <p class="sub">Een woning kopen en laten beheren, uw bedrijf oprichten, uw rekeningen openen, uw visa regelen, uw gezin laten overkomen, uw zoon of dochter inschrijven aan de universiteit: START IN DUBAI regelt alles, in uw taal, waar u ook vandaan komt. <b>Eerste gesprek gratis en vrijblijvend.</b></p>
-
-        <div class="cta">
-          <button class="btn" type="button" data-open-form>
-            <span class="btn-txt">Ja, ik word graag teruggebeld</span>
-            <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>
-          </button>
-          <p class="cta-note">Gratis · 1 minuut · Vrijblijvend</p>
+    <!-- 1. HERO corporate : message + carte de qualification (choix du profil = ouverture du formulaire) -->
+    <header class="hero hx" id="top">
+      <div class="hx-bg" aria-hidden="true"><img src="/assets/photos/creation-de-societe-dubai.webp" alt="" width="1200" height="800" fetchpriority="high" decoding="async"></div>
+      <div class="wrap hx-in">
+        <div class="hx-copy">
+          <p class="hx-kicker">Vastgoed · Bedrijf · Visa · Gezin · Studie</p>
+          <h1>Vastgoed, bedrijf, gezin, studie: uw hele project in Dubai, <mark>met één aanspreekpunt</mark>, van A tot Z.</h1>
+          <p class="sub">Een woning kopen en laten beheren, uw bedrijf oprichten, uw rekeningen openen, uw visa regelen, uw gezin laten overkomen, uw zoon of dochter inschrijven aan de universiteit: START IN DUBAI regelt alles, in uw taal, waar u ook vandaan komt. <b>Eerste gesprek gratis en vrijblijvend.</b></p>
+          <div class="hx-ctas">
+            <button class="btn" type="button" data-open-form><span class="btn-txt">Ja, ik word graag teruggebeld</span><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+            <a class="btn-ghost" href="#svc-t">Bekijk onze diensten</a>
+          </div>
+          <ul class="trust">
+            <li><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2l8 4v6c0 5-3.5 8.5-8 10-4.5-1.5-8-5-8-10V6l8-4z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/><path d="M8.5 12l2.5 2.5 4.5-5" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>Vastgoed via een RERA-erkend makelaarskantoor (ORN 49294)</li>
+            <li><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3l2.7 5.6 6.1.9-4.4 4.3 1 6.1L12 17l-5.4 2.9 1-6.1-4.4-4.3 6.1-.9z" fill="currentColor"/></svg>Cevitas, onze partner: 5,0 op Google</li>
+            <li><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16v11H8l-4 4V5z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></svg>Arabisch, Frans, Engels, Spaans, Nederlands, Italiaans</li>
+          </ul>
         </div>
-
-        <ul class="trust">
-          <li><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2l8 4v6c0 5-3.5 8.5-8 10-4.5-1.5-8-5-8-10V6l8-4z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/><path d="M8.5 12l2.5 2.5 4.5-5" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg>Vastgoed via een RERA-erkend makelaarskantoor (ORN 49294)</li>
-          <li><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3l2.7 5.6 6.1.9-4.4 4.3 1 6.1L12 17l-5.4 2.9 1-6.1-4.4-4.3 6.1-.9z" fill="currentColor"/></svg>Cevitas, onze partner: 5,0 op Google</li>
-          <li><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16v11H8l-4 4V5z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></svg>Arabisch, Frans, Engels, Spaans, Nederlands, Italiaans</li>
-        </ul>
+        <aside class="hx-card" aria-labelledby="hx-card-t">
+          <p class="hx-card-t" id="hx-card-t">Wat is uw project?</p>
+          <p class="hx-card-s">Kies uw profiel: een adviseur belt u terug in uw taal.</p>
+          <div class="hx-picks">
+            <button type="button" data-open-form data-profile="investir"><span><b>Investeerder</b><small>Aankoop van vastgoed, beheer van uw woning, Golden Visa, structuur van uw investering.</small></span><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+            <button type="button" data-open-form data-profile="societe"><span><b>Ondernemer</b><small>Uw bedrijf oprichten of laten groeien, bankrekening, visa.</small></span><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+            <button type="button" data-open-form data-profile="famille"><span><b>Een gezin</b><small>Visa, woning, gezondheid, de eerste dagen: alles wat geregeld moet zijn vóór uw vertrek.</small></span><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+            <button type="button" data-open-form data-profile="etudes"><span><b>Student</b><small>Voor de student en de ouders: universiteit, inschrijving, studentenvisum, huisvesting.</small></span><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+          </div>
+          <p class="hx-card-n">Gratis · 1 minuut · Vrijblijvend</p>
+        </aside>
       </div>
     </header>
 
-    <!-- 2. LE PROBLÈME -->
-    <section class="sec sec-gray" aria-labelledby="pb-t">
-      <div class="wrap narrow">
-        <p class="eyebrow">Herkent u zich hierin?</p>
-        <h2 id="pb-t">Dubai trekt u al maanden aan. <span class="red">Maar waar begint u?</span></h2>
-        <ul class="xlist">
-          <li>U leest de meest tegenstrijdige dingen over visa, belastingen en vrije zones (free zones).</li>
-          <li>U weet niet wie u kunt vertrouwen: iedereen verkoopt zijn eigen dienst, niemand overziet het geheel.</li>
-          <li>U bent bang om maanden te verliezen, en geld, door een verkeerde keuze van licentie of wijk.</li>
-          <li>U wilt in vastgoed investeren, maar wie verhuurt en beheert uw woning als u er zelf niet bent?</li>
-          <li>Uw gezin gaat mee, en niets mag aan het toeval worden overgelaten: woning, visa, gezondheid.</li>
-          <li>Uw zoon of dochter wil in Dubai studeren, en u weet niet welke universiteit u moet kiezen of hoe de inschrijving werkt.</li>
-          <li>Een vriend heeft daar zijn bedrijf opgezet. Een neef heeft zijn dochter daar aan de universiteit ingeschreven. U denkt er nog steeds over na.</li>
-        </ul>
-        <p class="punch">Het probleem is bijna nooit de wil. Het is <b>alles wat geregeld moet worden</b>, en de vijf of zes dienstverleners die u daarvoor moet vinden. START IN DUBAI neemt alles uit handen, met één team.</p>
-      </div>
-    </section>
-
-    <!-- 3. CE QUE VOUS GAGNEZ -->
-    <section class="sec" aria-labelledby="gain-t">
+    <!-- 2. CHIFFRES CLÉS + SOCIÉTÉS PARTENAIRES -->
+    <section class="kpis" aria-label="START IN DUBAI in cijfers">
       <div class="wrap">
-        <p class="eyebrow center">Wat het u oplevert</p>
-        <h2 id="gain-t" class="center">Uw hele project in Dubai, <mark>geregeld en gecoördineerd</mark> voor u</h2>
-        <div class="gains">
-          <article class="gain"><span class="ic">1</span><h3>Uw vastgoed gekocht</h3><p>Zoeken, bezichtigen, onderhandelen en kopen, off-plan of instapklaar, met het RERA-erkende team van Cevitas Real Estate.</p></article>
-          <article class="gain"><span class="ic">2</span><h3>Uw woning verhuurd en beheerd</h3><p>Verhuur voor korte of lange termijn, contact met de huurders en het onderhoud: u investeert, wij doen de rest, ook op afstand.</p></article>
-          <article class="gain"><span class="ic">3</span><h3>Uw bedrijf opgericht</h3><p>Vrije zone (free zone) of mainland, keuze van activiteit en licentie, indienen van het dossier: wij bereiden elke stap voor en volgen die op.</p></article>
-          <article class="gain"><span class="ic">4</span><h3>Uw bankrekeningen geopend</h3><p>Een voorbereid dossier en begeleiding bij het openen van uw zakelijke en privérekening.</p></article>
-          <article class="gain"><span class="ic">5</span><h3>Visa voor u en uw gezin</h3><p>Visum als investeerder of vennoot, visa voor uw echtgeno(o)t(e) en kinderen, Emirates ID, Golden Visa als u daar recht op hebt.</p></article>
-          <article class="gain"><span class="ic">6</span><h3>Uw gezin goed gesetteld</h3><p>Een woning in de juiste wijk, ziektekostenverzekering, telefoonabonnement, rijbewijs, de eerste dagen ter plaatse: een duidelijke lijst, die we samen met u doorlopen.</p></article>
-          <article class="gain"><span class="ic">7</span><h3>Een aanspreekpunt dat uw taal spreekt</h3><p>Arabisch, Frans, Engels, Spaans, Nederlands, Italiaans: u spreekt met ons in de taal waarin u zich het meest op uw gemak voelt, van het eerste gesprek tot na uw verhuizing.</p></article>
-          <article class="gain"><span class="ic">8</span><h3>Hoger onderwijs voor uw zoon of dochter</h3><p>Keuze van de universiteit in Dubai of de Emiraten, inschrijvingsdossier, studentenvisum, huisvesting: wij begeleiden de student en de ouders van A tot Z.</p></article>
-          <article class="gain"><span class="ic">9</span><h3>Hetzelfde team, ervoor en erna</h3><p>Niemand stuurt u door naar een onbekende dienstverlener: hetzelfde team begeleidt u van het eerste gesprek tot na uw verhuizing.</p></article>
-        </div>
-        <div class="result">
-          <p><b>Het resultaat:</b> een schriftelijk stappenplan, met de etappes, de termijnen en het budget, <u>voordat</u> u ook maar iets in gang zet. En één team dat uw dossier kent, van het eerste gesprek tot de sleutels, en nog lang daarna.</p>
-        </div>
-        <div class="cta center">
-          <button class="btn" type="button" data-open-form><span class="btn-txt">Ik vertel een adviseur over mijn project</span><svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
-          <p class="cta-note">Gratis · 1 minuut · Vrijblijvend</p>
-        </div>
+        <ul class="kpi-list">
+          <li><b>1</b><span>aanspreekpunt voor uw hele project</span></li>
+          <li><b>6</b><span>talen: Nederlands, Frans, Arabisch, Engels, Spaans, Italiaans</span></li>
+          <li><b>4</b><span>stappen, met een schriftelijk stappenplan</span></li>
+          <li><b>5,0</b><span>Google-score van onze vastgoedpartner Cevitas (15 reviews)</span></li>
+        </ul>
+        <p class="partners"><span>Een gezamenlijke dienst van</span> <b>INTEGRITY CORPORATE SERVICES</b> <i aria-hidden="true"></i> <a href="https://www.cevitas.ae"><b>CEVITAS REAL ESTATE</b></a> <small>RERA-erkend makelaarskantoor · ORN 49294</small></p>
       </div>
     </section>
 
@@ -125,11 +105,55 @@
       <div class="wrap">
         <p class="eyebrow center">Onze diensten</p>
         <h2 id="svc-t" class="center">Alles wat wij voor u regelen in Dubai</h2>
-        <ul class="cards"><li><a class="card" href="/nl/services/bedrijfsoprichting-dubai/"><span class="card-img"><img src="/assets/img/entrepreneur.webp" alt="" width="640" height="360" loading="lazy"></span><span class="card-body"><span class="card-t">Begeleiding bij het oprichten van een bedrijf in Dubai, van licentie tot bankrekening</span><span class="card-d">Bedrijf oprichten in Dubai met begeleiding: mainland, vrije zone, offshore of freelance, licentie, visa, bankrekening en belastingen. Eén vast aanspreekpunt.</span><span class="card-go">Bekijk de dienst →</span></span></a></li><li><a class="card" href="/nl/services/golden-visa-en-visa-dubai/"><span class="card-img"><img src="/assets/img/og.jpg" alt="" width="640" height="360" loading="lazy"></span><span class="card-body"><span class="card-t">Begeleiding bij Golden Visa en verblijfsvisa in Dubai, voor u en uw gezin</span><span class="card-d">Golden Visa Dubai aanvragen met begeleiding: geschiktheid, dossier, verblijfsvisum, gezinsvisa en Emirates ID. Eén aanspreekpunt, in uw eigen taal.</span><span class="card-go">Bekijk de dienst →</span></span></a></li><li><a class="card" href="/nl/services/bankrekening-openen-hulp-dubai/"><span class="card-img"><img src="/assets/img/investisseur.webp" alt="" width="640" height="360" loading="lazy"></span><span class="card-body"><span class="card-t">Hulp bij het openen van een bankrekening in Dubai, privé en zakelijk</span><span class="card-d">Bankrekening openen in Dubai met hulp: privérekening en bedrijfsrekening, keuze van de bank, compliancedossier en herkomst van het geld. Eén aanspreekpunt.</span><span class="card-go">Bekijk de dienst →</span></span></a></li><li><a class="card" href="/nl/services/gezinsverhuizing-dubai/"><span class="card-img"><img src="/assets/img/famille.webp" alt="" width="640" height="360" loading="lazy"></span><span class="card-body"><span class="card-t">Relocation naar Dubai: wij organiseren de verhuizing van uw gezin</span><span class="card-d">Verhuizen naar Dubai met gezin: gezinsvisa, woning zoeken en Ejari, scholen, zorgverzekering, rijbewijs en de eerste dagen. Eén vast aanspreekpunt.</span><span class="card-go">Bekijk de dienst →</span></span></a></li><li><a class="card" href="/nl/services/universiteit-inschrijving-dubai/"><span class="card-img"><img src="/assets/img/etudiant.webp" alt="" width="640" height="360" loading="lazy"></span><span class="card-body"><span class="card-t">Studeren in Dubai: wij begeleiden de inschrijving aan de universiteit en de installatie</span><span class="card-d">Inschrijven aan een universiteit in Dubai met begeleiding: keuze van de opleiding, toelatingsdossier, studentenvisum, woning en installatie. Voor student en ouders.</span><span class="card-go">Bekijk de dienst →</span></span></a></li><li><a class="card" href="/nl/services/vastgoed-en-verhuizing-dubai/"><span class="card-img"><img src="/assets/img/investisseur.webp" alt="" width="640" height="360" loading="lazy"></span><span class="card-body"><span class="card-t">Vastgoed en verhuizen naar Dubai: uw aankoop afgestemd op de rest van uw project</span><span class="card-d">Vastgoed kopen in Dubai en verhuizen: aankoop en beheer via Cevitas Real Estate (RERA-erkend), afgestemd op visum, bank, bedrijf en gezin. Eén aanspreekpunt.</span><span class="card-go">Bekijk de dienst →</span></span></a></li></ul>
+        <ul class="cards"><li><a class="card" href="/nl/services/bedrijfsoprichting-dubai/"><span class="card-img"><img src="/assets/photos/creation-de-societe-dubai.webp" alt="" width="640" height="360" loading="lazy"></span><span class="card-body"><span class="card-t">Begeleiding bij het oprichten van een bedrijf in Dubai, van licentie tot bankrekening</span><span class="card-d">Bedrijf oprichten in Dubai met begeleiding: mainland, vrije zone, offshore of freelance, licentie, visa, bankrekening en belastingen. Eén vast aanspreekpunt.</span><span class="card-go">Bekijk de dienst →</span></span></a></li><li><a class="card" href="/nl/services/golden-visa-en-visa-dubai/"><span class="card-img"><img src="/assets/photos/golden-visa-visas-dubai.webp" alt="" width="640" height="360" loading="lazy"></span><span class="card-body"><span class="card-t">Begeleiding bij Golden Visa en verblijfsvisa in Dubai, voor u en uw gezin</span><span class="card-d">Golden Visa Dubai aanvragen met begeleiding: geschiktheid, dossier, verblijfsvisum, gezinsvisa en Emirates ID. Eén aanspreekpunt, in uw eigen taal.</span><span class="card-go">Bekijk de dienst →</span></span></a></li><li><a class="card" href="/nl/services/bankrekening-openen-hulp-dubai/"><span class="card-img"><img src="/assets/photos/ouverture-compte-bancaire-dubai.webp" alt="" width="640" height="360" loading="lazy"></span><span class="card-body"><span class="card-t">Hulp bij het openen van een bankrekening in Dubai, privé en zakelijk</span><span class="card-d">Bankrekening openen in Dubai met hulp: privérekening en bedrijfsrekening, keuze van de bank, compliancedossier en herkomst van het geld. Eén aanspreekpunt.</span><span class="card-go">Bekijk de dienst →</span></span></a></li><li><a class="card" href="/nl/services/gezinsverhuizing-dubai/"><span class="card-img"><img src="/assets/photos/installation-famille-dubai.webp" alt="" width="640" height="360" loading="lazy"></span><span class="card-body"><span class="card-t">Relocation naar Dubai: wij organiseren de verhuizing van uw gezin</span><span class="card-d">Verhuizen naar Dubai met gezin: gezinsvisa, woning zoeken en Ejari, scholen, zorgverzekering, rijbewijs en de eerste dagen. Eén vast aanspreekpunt.</span><span class="card-go">Bekijk de dienst →</span></span></a></li><li><a class="card" href="/nl/services/universiteit-inschrijving-dubai/"><span class="card-img"><img src="/assets/photos/etudes-superieures-dubai.webp" alt="" width="640" height="360" loading="lazy"></span><span class="card-body"><span class="card-t">Studeren in Dubai: wij begeleiden de inschrijving aan de universiteit en de installatie</span><span class="card-d">Inschrijven aan een universiteit in Dubai met begeleiding: keuze van de opleiding, toelatingsdossier, studentenvisum, woning en installatie. Voor student en ouders.</span><span class="card-go">Bekijk de dienst →</span></span></a></li><li><a class="card" href="/nl/services/vastgoed-en-verhuizing-dubai/"><span class="card-img"><img src="/assets/photos/immobilier-dubai.webp" alt="" width="640" height="360" loading="lazy"></span><span class="card-body"><span class="card-t">Vastgoed en verhuizen naar Dubai: uw aankoop afgestemd op de rest van uw project</span><span class="card-d">Vastgoed kopen in Dubai en verhuizen: aankoop en beheer via Cevitas Real Estate (RERA-erkend), afgestemd op visum, bank, bedrijf en gezin. Eén aanspreekpunt.</span><span class="card-go">Bekijk de dienst →</span></span></a></li></ul>
         <p class="center" style="margin-top:28px"><a class="btn btn-sm" href="/nl/services/">Al onze diensten →</a></p>
       </div>
     </section>
 
+    <!-- 3. LE CONSTAT (deux colonnes) -->
+    <section class="sec" aria-labelledby="pb-t">
+      <div class="wrap pb-grid">
+        <div class="pb-head">
+          <p class="eyebrow">Herkent u zich hierin?</p>
+          <h2 id="pb-t">Dubai trekt u al maanden aan. <span class="red">Maar waar begint u?</span></h2>
+          <p class="punch">Het probleem is bijna nooit de wil. Het is <b>alles wat geregeld moet worden</b>, en de vijf of zes dienstverleners die u daarvoor moet vinden. START IN DUBAI neemt alles uit handen, met één team.</p>
+        </div>
+        <ul class="xlist">
+          <li>U leest de meest tegenstrijdige dingen over visa, belastingen en vrije zones (free zones).</li>
+          <li>U weet niet wie u kunt vertrouwen: iedereen verkoopt zijn eigen dienst, niemand overziet het geheel.</li>
+          <li>U bent bang om maanden te verliezen, en geld, door een verkeerde keuze van licentie of wijk.</li>
+          <li>U wilt in vastgoed investeren, maar wie verhuurt en beheert uw woning als u er zelf niet bent?</li>
+          <li>Uw gezin gaat mee, en niets mag aan het toeval worden overgelaten: woning, visa, gezondheid.</li>
+          <li>Uw zoon of dochter wil in Dubai studeren, en u weet niet welke universiteit u moet kiezen of hoe de inschrijving werkt.</li>
+        </ul>
+      </div>
+    </section>
+
+    <!-- 4. CE QUE VOUS GAGNEZ -->
+    <section class="sec sec-gray" aria-labelledby="gain-t">
+      <div class="wrap">
+        <p class="eyebrow center">Wat het u oplevert</p>
+        <h2 id="gain-t" class="center">Uw hele project in Dubai, <mark>geregeld en gecoördineerd</mark> voor u</h2>
+        <div class="gains">
+          <article class="gain"><span class="ic">01</span><h3>Uw vastgoed gekocht</h3><p>Zoeken, bezichtigen, onderhandelen en kopen, off-plan of instapklaar, met het RERA-erkende team van Cevitas Real Estate.</p></article>
+          <article class="gain"><span class="ic">02</span><h3>Uw woning verhuurd en beheerd</h3><p>Verhuur voor korte of lange termijn, contact met de huurders en het onderhoud: u investeert, wij doen de rest, ook op afstand.</p></article>
+          <article class="gain"><span class="ic">03</span><h3>Uw bedrijf opgericht</h3><p>Vrije zone (free zone) of mainland, keuze van activiteit en licentie, indienen van het dossier: wij bereiden elke stap voor en volgen die op.</p></article>
+          <article class="gain"><span class="ic">04</span><h3>Uw bankrekeningen geopend</h3><p>Een voorbereid dossier en begeleiding bij het openen van uw zakelijke en privérekening.</p></article>
+          <article class="gain"><span class="ic">05</span><h3>Visa voor u en uw gezin</h3><p>Visum als investeerder of vennoot, visa voor uw echtgeno(o)t(e) en kinderen, Emirates ID, Golden Visa als u daar recht op hebt.</p></article>
+          <article class="gain"><span class="ic">06</span><h3>Uw gezin goed gesetteld</h3><p>Een woning in de juiste wijk, ziektekostenverzekering, telefoonabonnement, rijbewijs, de eerste dagen ter plaatse: een duidelijke lijst, die we samen met u doorlopen.</p></article>
+          <article class="gain"><span class="ic">07</span><h3>Een aanspreekpunt dat uw taal spreekt</h3><p>Arabisch, Frans, Engels, Spaans, Nederlands, Italiaans: u spreekt met ons in de taal waarin u zich het meest op uw gemak voelt, van het eerste gesprek tot na uw verhuizing.</p></article>
+          <article class="gain"><span class="ic">08</span><h3>Hoger onderwijs voor uw zoon of dochter</h3><p>Keuze van de universiteit in Dubai of de Emiraten, inschrijvingsdossier, studentenvisum, huisvesting: wij begeleiden de student en de ouders van A tot Z.</p></article>
+          <article class="gain"><span class="ic">09</span><h3>Hetzelfde team, ervoor en erna</h3><p>Niemand stuurt u door naar een onbekende dienstverlener: hetzelfde team begeleidt u van het eerste gesprek tot na uw verhuizing.</p></article>
+        </div>
+        <div class="result">
+          <p><b>Het resultaat:</b> een schriftelijk stappenplan, met de etappes, de termijnen en het budget, <u>voordat</u> u ook maar iets in gang zet. En één team dat uw dossier kent, van het eerste gesprek tot de sleutels, en nog lang daarna.</p>
+        </div>
+        <div class="cta center">
+          <button class="btn" type="button" data-open-form><span class="btn-txt">Ik vertel een adviseur over mijn project</span><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+          <p class="cta-note">Gratis · 1 minuut · Vrijblijvend</p>
+        </div>
+      </div>
+    </section>
     <!-- 4. POURQUOI C'EST DIFFÉRENT -->
     <section class="sec sec-dark" aria-labelledby="diff-t">
       <div class="wrap">
@@ -189,10 +213,18 @@
       </div>
     </section>
 
-    <!-- 7. PREMIER ÉCHANGE OFFERT -->
-    <section class="sec" aria-labelledby="offer-t">
-      <div class="wrap narrow">
-        <div class="offer">
+    <!-- 8. QUI SOMMES-NOUS + PREMIER ÉCHANGE OFFERT -->
+    <section class="sec sec-gray" aria-labelledby="who-t">
+      <div class="wrap about">
+        <div class="about-copy">
+          <img src="/assets/photos/s-installer-a-dubai.webp" alt="" width="1200" height="800" loading="lazy">
+          <p class="eyebrow">Wie zit er achter START IN DUBAI?</p>
+          <h2 id="who-t">Een team dat in Dubai woont en uw taal spreekt</h2>
+          <p>START IN DUBAI werkt voor alles rond vastgoed samen met <a href="https://www.cevitas.ae"><b>Cevitas Real Estate</b></a>, een RERA-erkend makelaarskantoor in Dubai (ORN 49294).</p>
+          <p>Elke dag begeleiden wij Marokkanen over de hele wereld en mensen uit alle landen die in Dubai investeren. Wij hebben gezien wat blokkeert, wat veel geld kost en wat maanden vertraging oplevert. START IN DUBAI is ontstaan zodat uw verhuizing in de juiste volgorde verloopt, met één persoon die uw dossier beheert.</p>
+          <p class="stars"><span aria-hidden="true">★★★★★</span> Cevitas Real Estate: <b>5,0 op Google</b> (15 reviews)</p>
+        </div>
+        <div class="offer" aria-labelledby="offer-t">
           <p class="offer-tag">Eerste gesprek gratis</p>
           <h2 id="offer-t">Vertel ons over uw project en u krijgt:</h2>
           <ul class="vlist">
@@ -201,23 +233,9 @@
             <li><b>Een duidelijk stappenplan</b>: de stappen, de volgorde en de punten om te controleren voor uw situatie.</li>
           </ul>
           <p class="offer-free">Aanvraag <b>gratis</b>, in 1 minuut.</p>
-          <div class="cta center">
-            <button class="btn" type="button" data-open-form><span class="btn-txt">Ja, ik word graag teruggebeld</span><svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
+          <div class="cta">
+            <button class="btn" type="button" data-open-form><span class="btn-txt">Ja, ik word graag teruggebeld</span><svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true"><path d="M5 12h14M13 6l6 6-6 6" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
           </div>
-        </div>
-      </div>
-    </section>
-
-    <!-- 8. QUI EST DERRIÈRE -->
-    <section class="sec sec-gray" aria-labelledby="who-t">
-      <div class="wrap founder">
-        <img src="/assets/photos/s-installer-a-dubai.webp" alt="" width="1200" height="800" loading="lazy">
-        <div>
-          <p class="eyebrow">Wie zit er achter START IN DUBAI?</p>
-          <h2 id="who-t">Een team dat in Dubai woont en uw taal spreekt</h2>
-          <p>START IN DUBAI werkt voor alles rond vastgoed samen met <a href="https://www.cevitas.ae"><b>Cevitas Real Estate</b></a>, een RERA-erkend makelaarskantoor in Dubai (ORN 49294).</p>
-          <p>Elke dag begeleiden wij Marokkanen over de hele wereld en mensen uit alle landen die in Dubai investeren. Wij hebben gezien wat blokkeert, wat veel geld kost en wat maanden vertraging oplevert. START IN DUBAI is ontstaan zodat uw verhuizing in de juiste volgorde verloopt, met één persoon die uw dossier beheert.</p>
-          <p class="stars"><span aria-hidden="true">★★★★★</span> Cevitas Real Estate: <b>5,0 op Google</b> (15 reviews)</p>
         </div>
       </div>
     </section>
@@ -227,7 +245,7 @@
         <p class="eyebrow center">Gratis gidsen</p>
         <h2 id="guides-t" class="center">Bereid uw project voor met onze gidsen</h2>
         <p class="center" style="margin:0 auto;max-width:40em;color:var(--muted)">Gecontroleerd met officiële bronnen en regelmatig bijgewerkt.</p>
-        <ul class="cards"><li><a class="card" href="/nl/bedrijf-oprichten-in-dubai/"><span class="card-img"><img src="/assets/img/entrepreneur.webp" alt="" width="640" height="360" loading="lazy"></span><span class="card-body"><span class="card-t">Een bedrijf oprichten in Dubai: de complete gids, stap voor stap</span><span class="card-d">Bedrijf oprichten in Dubai: mainland, vrije zone of offshore, stappen, documenten, doorlooptijd, kosten, visa, bank en 9% belasting. De heldere gids.</span><span class="card-go">Lees de gids →</span></span></a></li><li><a class="card" href="/nl/golden-visa-dubai/"><span class="card-img"><img src="/assets/img/og.jpg" alt="" width="640" height="360" loading="lazy"></span><span class="card-body"><span class="card-t">Golden Visa Dubai: voorwaarden, categorieën en aanvraag voor een verblijf van 5 of 10 jaar</span><span class="card-d">Golden Visa Dubai: wie het kan krijgen, voorwaarden per categorie (investeerders, ondernemers, talenten, werknemers, studenten), kosten en aanvraag bij ICP en GDRFA.</span><span class="card-go">Lees de gids →</span></span></a></li><li><a class="card" href="/nl/emigreren-naar-dubai/"><span class="card-img"><img src="/assets/img/og.jpg" alt="" width="640" height="360" loading="lazy"></span><span class="card-body"><span class="card-t">Emigreren naar Dubai: de complete gids voor een geslaagde verhuizing</span><span class="card-d">Emigreren naar Dubai: de 4 routes naar een verblijfsvergunning, de stappen vanaf 6 maanden vooraf, te legaliseren documenten, wonen, bank, zorg, scholen en budget.</span><span class="card-go">Lees de gids →</span></span></a></li><li><a class="card" href="/nl/studeren-in-dubai/"><span class="card-img"><img src="/assets/img/etudiant.webp" alt="" width="640" height="360" loading="lazy"></span><span class="card-body"><span class="card-t">Studeren in Dubai: universiteiten, kosten, erkenning van diploma's en studentenleven</span><span class="card-d">Studeren in Dubai na het eindexamen: universiteiten, internationale campussen, Franstalig aanbod, kosten, erkenning van diploma's (CAA, KHDA) en huisvesting.</span><span class="card-go">Lees de gids →</span></span></a></li><li><a class="card" href="/nl/emigreren-naar-dubai-met-gezin/"><span class="card-img"><img src="/assets/img/famille.webp" alt="" width="640" height="360" loading="lazy"></span><span class="card-body"><span class="card-t">Met uw gezin naar Dubai emigreren: de gids stap voor stap</span><span class="card-d">Met uw gezin naar Dubai verhuizen: partner en kinderen sponsoren, vereist salaris, gelegaliseerde documenten, planning, school, wijk en ziektekostenverzekering.</span><span class="card-go">Lees de gids →</span></span></a></li><li><a class="card" href="/nl/bankrekening-openen-dubai/"><span class="card-img"><img src="/assets/img/investisseur.webp" alt="" width="640" height="360" loading="lazy"></span><span class="card-body"><span class="card-t">Een bankrekening openen in Dubai: persoonlijke rekening, zakelijke rekening en valkuilen</span><span class="card-d">Bankrekening openen in Dubai, ingezetene of niet: documenten, KYC, termijnen, minimumsaldo, klassieke of digitale banken, en redenen van weigering.</span><span class="card-go">Lees de gids →</span></span></a></li></ul>
+        <ul class="cards"><li><a class="card" href="/nl/bedrijf-oprichten-in-dubai/"><span class="card-img"><img src="/assets/photos/creer-sa-societe-a-dubai.webp" alt="" width="640" height="360" loading="lazy"></span><span class="card-body"><span class="card-t">Een bedrijf oprichten in Dubai: de complete gids, stap voor stap</span><span class="card-d">Bedrijf oprichten in Dubai: mainland, vrije zone of offshore, stappen, documenten, doorlooptijd, kosten, visa, bank en 9% belasting. De heldere gids.</span><span class="card-go">Lees de gids →</span></span></a></li><li><a class="card" href="/nl/golden-visa-dubai/"><span class="card-img"><img src="/assets/photos/golden-visa-dubai.webp" alt="" width="640" height="360" loading="lazy"></span><span class="card-body"><span class="card-t">Golden Visa Dubai: voorwaarden, categorieën en aanvraag voor een verblijf van 5 of 10 jaar</span><span class="card-d">Golden Visa Dubai: wie het kan krijgen, voorwaarden per categorie (investeerders, ondernemers, talenten, werknemers, studenten), kosten en aanvraag bij ICP en GDRFA.</span><span class="card-go">Lees de gids →</span></span></a></li><li><a class="card" href="/nl/emigreren-naar-dubai/"><span class="card-img"><img src="/assets/photos/s-installer-a-dubai.webp" alt="" width="640" height="360" loading="lazy"></span><span class="card-body"><span class="card-t">Emigreren naar Dubai: de complete gids voor een geslaagde verhuizing</span><span class="card-d">Emigreren naar Dubai: de 4 routes naar een verblijfsvergunning, de stappen vanaf 6 maanden vooraf, te legaliseren documenten, wonen, bank, zorg, scholen en budget.</span><span class="card-go">Lees de gids →</span></span></a></li><li><a class="card" href="/nl/studeren-in-dubai/"><span class="card-img"><img src="/assets/photos/etudier-a-dubai.webp" alt="" width="640" height="360" loading="lazy"></span><span class="card-body"><span class="card-t">Studeren in Dubai: universiteiten, kosten, erkenning van diploma's en studentenleven</span><span class="card-d">Studeren in Dubai na het eindexamen: universiteiten, internationale campussen, Franstalig aanbod, kosten, erkenning van diploma's (CAA, KHDA) en huisvesting.</span><span class="card-go">Lees de gids →</span></span></a></li><li><a class="card" href="/nl/emigreren-naar-dubai-met-gezin/"><span class="card-img"><img src="/assets/photos/s-installer-a-dubai-en-famille.webp" alt="" width="640" height="360" loading="lazy"></span><span class="card-body"><span class="card-t">Met uw gezin naar Dubai emigreren: de gids stap voor stap</span><span class="card-d">Met uw gezin naar Dubai verhuizen: partner en kinderen sponsoren, vereist salaris, gelegaliseerde documenten, planning, school, wijk en ziektekostenverzekering.</span><span class="card-go">Lees de gids →</span></span></a></li><li><a class="card" href="/nl/bankrekening-openen-dubai/"><span class="card-img"><img src="/assets/photos/ouvrir-un-compte-bancaire-a-dubai.webp" alt="" width="640" height="360" loading="lazy"></span><span class="card-body"><span class="card-t">Een bankrekening openen in Dubai: persoonlijke rekening, zakelijke rekening en valkuilen</span><span class="card-d">Bankrekening openen in Dubai, ingezetene of niet: documenten, KYC, termijnen, minimumsaldo, klassieke of digitale banken, en redenen van weigering.</span><span class="card-go">Lees de gids →</span></span></a></li></ul>
         <p class="center" style="margin-top:28px"><a class="btn btn-sm" href="/nl/guides/">Alle gidsen →</a></p>
       </div>
     </section>

@@ -127,7 +127,7 @@ def _fm(path):
     txt = open(path, encoding="utf-8").read()
     m = re.match(r"---\n(.*?)\n---\n", txt, re.S)
     out = {}
-    for k in ("h1", "description", "cluster", "key"):
+    for k in ("h1", "description", "cluster", "key", "image"):
         mm = re.search(r'^' + k + r':\s*"?(.*?)"?\s*$', m.group(1), re.M) if m else None
         if mm: out[k] = mm.group(1).replace('\\"', '"')
     return out
@@ -146,7 +146,7 @@ def guides_block(lang):
     eb, title, sub, go, allg = GUIDES_TXT[lang]
     esc = lambda x: x.replace("&", "&amp;").replace("<", "&lt;").replace('"', "&quot;")
     cards = "".join(
-        f'<li><a class="card" href="{href}"><span class="card-img"><img src="/assets/img/{CLUSTER_IMG.get(fm.get("cluster"), "og.jpg")}" alt="" width="640" height="360" loading="lazy"></span>'
+        f'<li><a class="card" href="{href}"><span class="card-img"><img src="{fm.get("image") or "/assets/img/" + CLUSTER_IMG.get(fm.get("cluster"), "og.jpg")}" alt="" width="640" height="360" loading="lazy"></span>'
         f'<span class="card-body"><span class="card-t">{esc(fm.get("h1", ""))}</span><span class="card-d">{esc(fm.get("description", ""))}</span><span class="card-go">{go} →</span></span></a></li>'
         for href, fm in items)
     hub = "/guides/" if lang == "fr" else f"/{lang}/guides/"
@@ -201,7 +201,7 @@ def services_block(lang):
     eb, title, go, allg = SERVICES_TXT[lang]
     esc = lambda x: x.replace("&", "&amp;").replace("<", "&lt;").replace('"', "&quot;")
     cards = "".join(
-        f'<li><a class="card" href="{href}"><span class="card-img"><img src="/assets/img/{CLUSTER_IMG.get(fm.get("cluster"), "og.jpg")}" alt="" width="640" height="360" loading="lazy"></span>'
+        f'<li><a class="card" href="{href}"><span class="card-img"><img src="{fm.get("image") or "/assets/img/" + CLUSTER_IMG.get(fm.get("cluster"), "og.jpg")}" alt="" width="640" height="360" loading="lazy"></span>'
         f'<span class="card-body"><span class="card-t">{esc(fm.get("h1", ""))}</span><span class="card-d">{esc(fm.get("description", ""))}</span><span class="card-go">{go} →</span></span></a></li>'
         for _, href, fm in items)
     hub = ("/" if lang == "fr" else f"/{lang}/") + "services/"
@@ -225,7 +225,7 @@ def build():
         if missing: sys.exit(f"{lang}: clés manquantes {missing[:10]}")
         for k, v in fr.items():   # mêmes balises dans la traduction que dans le français
             if re.findall(r"<(\w+)", v) != re.findall(r"<(\w+)", tr[k]): sys.exit(f"{lang} {k}: balises différentes\nFR {v}\n{lang} {tr[k]}")
-        html = re.sub(r"\{\{(t\d{3})\}\}", lambda m: tr[m.group(1)], tpl)
+        html = re.sub(r"\{\{(t\d{3}|c\d{2})\}\}", lambda m: tr[m.group(1)], tpl)
         rtl = lang == "ar"
         html = html.replace('<html lang="fr">', f'<html lang="{lang}"' + (' dir="rtl"' if rtl else "") + ">")
         html = re.sub(r'  <link rel="canonical".*?<meta property="og:url" content="[^"]*">', head_block(lang), html, flags=re.S)
