@@ -1,6 +1,6 @@
 # Plan SEO startindubai.com — 27/11/2026
 
-Objectif d'Ahmed : être n° 1 sur Google, dans tous les pays francophones (Maroc, Algérie, Tunisie, France, Belgique, Suisse, Québec, Afrique de l'Ouest…), sur tout ce qui touche à s'installer, investir, créer sa société, étudier et vivre en famille à Dubaï et aux Émirats.
+Objectif : être n° 1 sur Google, dans tous les pays francophones (Maroc, Algérie, Tunisie, France, Belgique, Suisse, Québec, Afrique de l'Ouest…), sur tout ce qui touche à s'installer, investir, créer sa société, étudier et vivre en famille à Dubaï et aux Émirats.
 
 ## 1. Point de départ mesuré (27/11/2026)
 
@@ -9,7 +9,7 @@ Objectif d'Ahmed : être n° 1 sur Google, dans tous les pays francophones (Maro
 | Historique du domaine | startindubai.com existe depuis 2001 mais n'a jamais hébergé de vrai site (pages « under construction », hébergeur par défaut, parking). Réenregistré le 31/10/2023. | **Aucune autorité héritée.** Le mot « Dubai » dans le domaine aide le taux de clic et la mémorisation, pas le classement : Google a neutralisé l'avantage des domaines à mots-clés en 2012. Le classement viendra du contenu et des liens. |
 | Backlinks | Non mesurables aujourd'hui (Semrush à 0 unité API). Vu l'historique, probablement quasi nuls. | Netlinking = chantier n° 1 hors site. |
 | startindubai.ae | Redirige en 301 vers www.startindubai.com (HTTP). | Pas de contenu dupliqué. À vérifier en HTTPS une fois le certificat .com émis. |
-| Site en ligne | Une seule page (lancement + inscription), sans robots.txt ni sitemap. HTTPS en cours d'activation (DNS corrigé le 27/11). | Décision d'Ahmed : **seule cette page reste en ligne** jusqu'à nouvel ordre. Les guides se préparent sur la branche `seo/astro-guides`. |
+| Site en ligne | Une seule page (lancement + inscription), sans robots.txt ni sitemap. HTTPS en cours d'activation (DNS corrigé le 27/11). | Décision : **seule cette page reste en ligne** jusqu'à nouvel ordre. Les guides se préparent sur la branche `seo/astro-guides`. |
 | Demande (Google France, Semrush 15/11) | ≈ 20 000 recherches/mois sur nos thèmes hors immobilier, location et tourisme ; KD 6 à 26 ; concurrents classés 20e à 70e. | Terrain **gagnable**. Belgique, Suisse, Québec, Maghreb s'ajoutent (non mesurés, confirmés par l'autocomplete Google dans les 7 pays). |
 | Valeur commerciale | CPC 5 à 9 € sur les requêtes société (« ouvrir une société à Dubaï » 7,32 €, « ouvrir société dubai » 9,78 €). | Les pages société sont les plus rentables : priorité n° 1. |
 
@@ -18,11 +18,11 @@ Ce qui ne marchera pas, franchement :
 - Garder le contenu hors ligne retarde d'autant le classement : Google met des semaines à indexer et à faire confiance à un domaine neuf. Chaque semaine de mise en ligne gagnée avant le 15/12 compte.
 - Les requêtes touristiques (monnaie, vols, hôtels, Burj Khalifa, « dirham euro » 9 900) font du volume sans clients : on ne les chasse pas, sauf un outil utile (convertisseur) plus tard.
 
-## 2. Règles de partage avec les autres sites d'Ahmed
+## 2. Règles de partage avec les autres sites du réseau
 
 - **cevitas.ae** garde tout l'immobilier : « investir dans l'immobilier à Dubaï », « immobilier dubai investir », projets, promoteurs, prix, quartiers, location. startindubai.com ne crée aucune page projet, prix ou quartier ; il renvoie vers cevitas.ae.
 - **startindubai.com** prend « investir à Dubaï » au sens large (business, résidence, Golden Visa, s'installer en investisseur), et tout le reste : s'installer, société, visas, banque, fiscalité, études, famille, travail, vie quotidienne, pages par nationalité.
-- **ahmedbenjas.com** garde l'angle personnel (avis, retours d'expérience). Ses guides « investir à Dubaï depuis X » restent sur l'investissement ; les pages pays de startindubai.com portent sur **l'installation** (visa, documents, transferts, vie sur place).
+- **Site personnel du fondateur** : jamais de lien ni de mention (décision du 28/11).; les pages pays de startindubai.com portent sur **l'installation** (visa, documents, transferts, vie sur place).
 - Une seule page par mot-clé sur l'ensemble des trois sites. Les sites se relient entre eux.
 
 ## 3. Carte des pages (une page = un mot-clé principal)
@@ -66,16 +66,16 @@ convention fiscale France–Émirats (140+110), mainland ou free zone, coût de 
 ## 4. Technique
 
 - Astro (site statique) dans ce dépôt, publié par GitHub Pages via GitHub Actions. La page de lancement (`public/index.html`) reste l'accueil.
-- Chaque guide : title ≤ 65 caractères avec le mot-clé en tête, meta description 110–165, H1 unique, chapeau qui répond directement, sommaire, FAQ (schema FAQPage), sources officielles, encadré auteur (Ahmed Benjas, Person), Article + BreadcrumbList en JSON-LD, liens internes vers 3 à 6 guides proches.
+- Chaque guide : title ≤ 65 caractères avec le mot-clé en tête, meta description 110–165, H1 unique, chapeau qui répond directement, sommaire, FAQ (schema FAQPage), sources officielles, encadré « la rédaction START IN DUBAI » (Organization), Article + BreadcrumbList en JSON-LD, liens internes vers 3 à 6 guides proches.
 - `sitemap.xml` et `robots.txt` générés ; hreflang `fr` + `x-default` (une seule version française pour toute la francophonie : pas de pages dupliquées par pays).
-- À faire par Ahmed : vérifier le domaine dans **Google Search Console** et **Bing Webmaster Tools** (enregistrement TXT chez GoDaddy), puis soumettre le sitemap.
+- À faire : vérifier le domaine dans **Google Search Console** et **Bing Webmaster Tools** (enregistrement TXT chez GoDaddy), puis soumettre le sitemap.
 
 ## 5. Autorité (le vrai levier)
 
-1. Liens depuis l'écosystème : cevitas.ae et ahmedbenjas.com vers les guides pertinents (pas de lien en pied de page sur toutes les pages : des liens éditoriaux).
+1. Liens depuis l'écosystème : cevitas.ae vers les guides pertinents (pas de lien en pied de page sur toutes les pages : des liens éditoriaux).
 2. Profils et annuaires sérieux : Google Business Profile si START IN DUBAI a une adresse, LinkedIn, Instagram, annuaires Dubaï (dubaidirectory.com, dubaicompanieslist.com), CCI France EAU, lepetitjournal.com Dubaï. Liste : `~/code/seo-data/semrush-2026-11-15/backlinks/prospects.csv`.
-3. Relations presse et contenus de référence : données originales (coût de la vie réel par profil, coût de création d'une société par zone franche), interviews d'Ahmed dans la presse marocaine, maghrébine, belge et québécoise.
-4. Audience d'Ahmed (Instagram, YouTube) : chaque guide devient un post, un reel ou une story avec le lien.
+3. Relations presse et contenus de référence : données originales (coût de la vie réel par profil, coût de création d'une société par zone franche), interviews de l'équipe dans la presse marocaine, maghrébine, belge et québécoise.
+4. Audience du réseau (Instagram, YouTube) : chaque guide devient un post, un reel ou une story avec le lien.
 5. Interdits : réseaux de blogs privés, liens achetés en masse, contenus générés sans vérification.
 
 ## 6. Indicateurs

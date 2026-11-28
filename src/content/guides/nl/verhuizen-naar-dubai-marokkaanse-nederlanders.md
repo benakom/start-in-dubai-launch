@@ -50,7 +50,7 @@ key: "nl-verhuizen-naar-dubai-marokkaanse-nederlanders"
 
 Veel Nederlanders en Belgen met Marokkaanse roots overwegen Dubai: voor werk, een eigen bedrijf of het gezin. Deze pagina gaat over de **praktische kant van de installatie**: papieren, nationaliteit, uitschrijven, geld. Niet over wie u bent of waar uw ouders vandaan komen. De regels voor het verlaten van Nederland of België zijn voor iedereen gelijk; wat extra aandacht vraagt is de dubbele nationaliteit.
 
-Gaat u naar Dubai om te **investeren**, dan hebben wij een andere invalshoek: zie het persoonlijke perspectief van Ahmed Benjas op [ahmedbenjas.com](https://www.ahmedbenjas.com/nl/marokkanen-in-het-buitenland/). Voor vastgoed verwijzen wij naar [Cevitas Real Estate](https://www.cevitas.ae), een door RERA erkend makelaarskantoor. Hier bespreken wij de installatie.
+Gaat u naar Dubai om te **investeren**, lees dan onze gids [investeren in Dubai](/nl/investeren-in-dubai/). Voor vastgoed verwijzen wij naar [Cevitas Real Estate](https://www.cevitas.ae), een door RERA erkend makelaarskantoor. Hier bespreken wij de installatie.
 
 ## 1. Reizen en aankomen
 

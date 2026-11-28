@@ -2,8 +2,9 @@
 import csv, re, sys, unicodedata
 from collections import OrderedDict
 
-SEM = "/Users/ahmedbenjas/code/seo-data/semrush-2026-11-15/fr/"
-import os; OUT = os.environ.get("OUT", "/Users/ahmedbenjas/code/.worktrees/sid-site/docs/seo-study/fr/")
+import os
+SEM = os.path.expanduser("~/code/seo-data/semrush-2026-11-15/fr/")
+import os; OUT = os.environ.get("OUT", "docs/seo-study/fr/")
 AC = None
 SITE = "https://www.startindubai.com"
 CEV = "https://www.cevitas.ae (immobilier)"
@@ -85,7 +86,7 @@ R = [
  # travail
  (r"emploi|travail|travailler|job|recrutement|recrute|offre d'emploi|cv\b|metier|interim|stage|civiweb|volontariat", "travail", "info", G("/travailler-a-dubai/"), None, 1),
  # pays (installation)
- (r"investir.*depuis|investir.*(pour les|pour un) (marocain|francais|belge|algerien|tunisien)", "investir", "commerciale", "https://www.ahmedbenjas.com (guides investir depuis X)", None, 3),
+ (r"investir.*depuis|investir.*(pour les|pour un) (marocain|francais|belge|algerien|tunisien)", "investir", "commerciale", "site partenaire (guides investir depuis X)", None, 3),
  (r"il ne faut pas aller|pourquoi ne pas|pourquoi quitter|deconseill", "vie", "info", G("/vivre-a-dubai/"), None, 2),
  (r"dangereux|securite|sur a dubai|criminalite", "vie", "info", None, "/lois-et-regles-a-dubai/", 2),
  (r"maroc|marocain|mre", "pays", "info", G("/s-installer-a-dubai-depuis-le-maroc/"), None, 1),
@@ -143,7 +144,7 @@ INT_TRANS = re.compile(r"accompagnement|agence|cabinet|aide|prix|tarif|cout|comb
 
 
 import glob, json
-SITE_DIR = "/Users/ahmedbenjas/code/.worktrees/sid-site/src/content/"
+SITE_DIR = "src/content/"
 def site_keywords():
     out = []
     for f in sorted(glob.glob(SITE_DIR + "*/fr/*.md")):

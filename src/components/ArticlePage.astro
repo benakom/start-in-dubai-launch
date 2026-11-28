@@ -48,7 +48,7 @@ const jsonld = [
     datePublished: updated, dateModified: updated, mainEntityOfPage: url, image: d.imageAlt ? { "@type": "ImageObject", url: SITE_URL + image, caption: d.imageAlt, ...(d.imageCredit ? { creditText: d.imageCredit } : {}) } : SITE_URL + image,
     keywords: [d.keyword, ...d.secondary].join(", "), about: d.keyword,
     ...(d.essentials.length ? { abstract: d.essentials.join(" ") } : {}),
-    author: { "@type": "Person", name: AUTHOR.name, url: AUTHOR.url, jobTitle: AUTHOR.role, sameAs: AUTHOR.sameAs },
+    author: { "@type": "Organization", "@id": `${SITE_URL}/#organization`, name: AUTHOR.name, url: AUTHOR.url },
     publisher: { "@type": "Organization", "@id": `${SITE_URL}/#organization`, name: "START IN DUBAI", url: SITE_URL + "/", logo: { "@type": "ImageObject", url: `${SITE_URL}/assets/img/logo.webp` } },
     citation: d.sources.map((s: any) => s.url),
   },
@@ -102,11 +102,10 @@ const jsonld = [
         )}
 
         <section class="author" id="auteur" aria-label={u.author}>
-          <img src="/assets/img/ahmed-benjas.jpg" alt={AUTHOR.name} width="96" height="120" loading="lazy" />
+          <img src="/assets/img/logo.webp" alt="START IN DUBAI" width="96" height="62" loading="lazy" />
           <div>
-            <p class="n"><a href={AUTHOR.url}>{AUTHOR.name}</a></p>
-            <p class="r">Cevitas Real Estate · RERA ORN 49294</p>
-            {lang === "fr" && <p>{AUTHOR.bio}</p>}
+            <p class="n">{u.author}</p>
+            <p>{u.teamBio}</p>
           </div>
         </section>
       </article>

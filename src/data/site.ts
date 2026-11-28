@@ -7,14 +7,11 @@ export const SITE = {
   signup: "/#inscription",
 };
 
-// Auteur des guides (E-E-A-T). Faits repris de la page de lancement.
+// Auteur des guides (E-E-A-T) : la rédaction de START IN DUBAI, sans nom de personne (décision du 28/11/2026).
 export const AUTHOR = {
-  name: "Ahmed Benjas",
-  url: "https://www.ahmedbenjas.com",
-  image: "https://www.startindubai.com/assets/img/ahmed-benjas.jpg",
-  role: "Fondateur de Cevitas Real Estate, agence immobilière francophone agréée RERA à Dubaï (ORN 49294)",
-  bio: "Ahmed Benjas vit et travaille à Dubaï. Avec Cevitas Real Estate, il accompagne chaque semaine des francophones qui investissent et s'installent aux Émirats. START IN DUBAI réunit dans un même parcours tout ce qu'il faut régler : société, banque, visas, logement, écoles.",
-  sameAs: ["https://www.ahmedbenjas.com", "https://www.cevitas.ae"],
+  name: "START IN DUBAI",
+  url: "https://www.startindubai.com/",
+  image: "https://www.startindubai.com/assets/img/logo.webp",
 };
 
 export const PARTNER = { name: "Cevitas Real Estate", url: "https://www.cevitas.ae", orn: "49294" };

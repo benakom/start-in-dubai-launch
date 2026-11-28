@@ -65,7 +65,7 @@ Faits transversaux établis pendant la passe :
 
 ## Pages pays Maghreb / Sénégal (maroc, algerie, tunisie, senegal)
 
-⚠ **Algérie, crise diplomatique** (à relire avec Ahmed avant publication) :
+⚠ **Algérie, crise diplomatique** (à relire avant publication) :
 - Dénonciation de l'accord aérien le 7/02/2026 : ✅ confirmé (APS, relayé par la presse).
 - Dernier vol Emirates prévu le 3/02/2027 : ✅ confirmé (annonce d'Emirates du 13/02/2026, The National, Khaleej Times). ✏️ corrigé : aucune compagnie émiratie ne dessert plus Alger depuis mars 2026 selon la presse aéronautique ; FAQ « vols directs » corrigée.
 - Suspension d'Air Algérie : ✏️ corrigé, le 28/02/2026, « jusqu'à nouvel ordre » (Radio Algérie).
@@ -92,7 +92,7 @@ Faits transversaux établis pendant la passe :
 5. Langue d'enseignement à l'USJ Dubaï : ✏️ corrigé, le Bachelor of Law est enseigné à 75 % en arabe et 25 % en anglais (https://usj.edu.lb/dubai/bachelor-law), pas en français.
 6. Délai de grâce de la famille : ⚠️ reformulé prudemment (u.ae 6 mois, GDRFA 60 jours, https://gdrfad.gov.ae/en/node/13961 ; se fier à la GDRFA pour son dossier).
 
-## Reste à faire valider par Ahmed
+## Reste à faire valider
 
 - Page Algérie en entier (ton, choix des faits, tableau « ce qui a changé en 2026 »), et revérification de l'actualité le jour de la publication (reprise des vols, fin de l'exemption au 31/12/2026, poste consulaire).
 - Alertes sécurité France, Belgique, Canada, Suisse : relire le jour de la publication.

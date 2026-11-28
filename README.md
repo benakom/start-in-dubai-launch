@@ -12,7 +12,7 @@ Il s'agit d'un site statique (HTML, CSS, JS), sans dépendance ni build, publié
 | `index.html` | Page : barre du haut avec compte à rebours, hero, 9 sections, bouton fixe sur mobile |
 | `assets/app.js` | Compte à rebours, bouton fixe, formulaire (questions, validation, envoi vers le CRM) |
 | `assets/style.css` | Style : blanc et noir, rouge du logo `#E10600`, vert du drapeau `#066A20`, Montserrat + Inter, version mobile |
-| `assets/img/` | Logo, 3 visuels (investisseur, entrepreneur, famille), photo d'Ahmed Benjas, favicon, image de partage `og.jpg` |
+| `assets/img/` | Logo, 3 visuels (investisseur, entrepreneur, famille), favicon, image de partage `og.jpg` |
 
 ## Questions du formulaire
 
@@ -38,7 +38,7 @@ La page n'a pas de serveur. Elle enregistre chaque inscription dans la table `le
 
 1. un déclencheur met le lead dans la file `crm_outbox` ;
 2. la tâche `crm-dispatch` l'envoie à Oleadoo toutes les 5 minutes (webhook partenaire signé) ;
-3. la fonction `send-lead-email` envoie un e-mail « New Lead Cevitas.ae — start-in-dubai » à ahmed@cevitas.ae.
+3. la fonction `send-lead-email` envoie un e-mail « New Lead Cevitas.ae — start-in-dubai » à l'adresse de Cevitas.
 
 Ce que reçoit Oleadoo pour chaque inscription :
 

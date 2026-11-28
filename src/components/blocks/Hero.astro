@@ -24,7 +24,7 @@ const human = updated?.toLocaleDateString({ fr: "fr-FR", ar: "ar-AE", en: "en-GB
         <p class="xhero-meta">
           <span class="badge"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12.5l4.5 4.5L19 7.5" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" /></svg>{u.heroBadge}</span>
           {iso && <span>{u.updated} <time datetime={iso}>{human}</time></span>}
-          <span>{u.by} <a href={authorHref}>Ahmed Benjas</a></span>
+          <span>{u.by} <a href={authorHref}>{u.team}</a></span>
           {minutes && <span>{minutes} {u.read}</span>}
         </p>
       )}

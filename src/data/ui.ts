@@ -8,7 +8,7 @@ export const LANG_NAMES: Record<Lang, string> = { fr: "Français", ar: "العر
 
 type UI = {
   home: string; guides: string; signup: string; updated: string; by: string; read: string;
-  toc: string; essentials: string; faq: string; faqEyebrow: string; sources: string; related: string; relatedEyebrow: string; author: string;
+  toc: string; essentials: string; faq: string; faqEyebrow: string; sources: string; related: string; relatedEyebrow: string; author: string; team: string; teamBio: string;
   heroCta: string; heroNote: string; heroBadge: string;
   midEyebrow: string; midTitle: string; midText: string; midBtn: string;
   profilesEyebrow: string; profilesTitle: string;
@@ -26,7 +26,7 @@ export const UI: Record<Lang, UI> = {
   fr: {
     home: "Accueil", guides: "Guides", signup: "Être rappelé", updated: "Mis à jour le", by: "par", read: "min de lecture",
     toc: "Au sommaire", essentials: "L'essentiel en 30 secondes", faq: "Vos questions, nos réponses", faqEyebrow: "Questions fréquentes",
-    sources: "Sources officielles", related: "Continuez votre projet", relatedEyebrow: "À lire aussi", author: "L'auteur",
+    sources: "Sources officielles", related: "Continuez votre projet", relatedEyebrow: "À lire aussi", author: "La rédaction", team: "la rédaction START IN DUBAI", teamBio: "Rédigé et vérifié par l'équipe de START IN DUBAI, à Dubaï. Chaque règle, montant et délai est relu sur la source officielle citée et daté. Pour la partie immobilière, nous travaillons avec Cevitas Real Estate, agence agréée RERA (ORN 49294).",
     heroCta: "Je veux être accompagné", heroNote: "Gratuit · 1 minute · Sans engagement", heroBadge: "Guide vérifié sur les sources officielles",
     midEyebrow: "Gagnez des mois", midTitle: "Ne faites pas tout ça seul.", midText: "Société, banque, visas, logement, études : START IN DUBAI s'occupe de tout, dans votre langue, avec un seul interlocuteur. Un conseiller vous rappelle pour un premier échange gratuit.", midBtn: "Je veux qu'on s'en occupe",
     profilesEyebrow: "Votre projet", profilesTitle: "Dites-nous qui vous êtes, on s'occupe du reste",
@@ -35,7 +35,7 @@ export const UI: Record<Lang, UI> = {
     guidesEyebrow: "La bibliothèque START IN DUBAI", guidesCount: "guides", readGuide: "Lire le guide", allGuides: "Tous les guides",
     hubTitle: "Vous préférez qu'on vous explique de vive voix ?", hubText: "Un premier échange gratuit et sans engagement pour cadrer votre projet.",
     disclaimer: "Informations générales, à jour à la date indiquée. Les règles (visas, fiscalité, licences) évoluent : elles sont vérifiées avec vous avant toute démarche et ne remplacent pas un conseil juridique ou fiscal personnalisé.",
-    menu: "Menu", close: "Fermer", language: "Langue", previewNote: "Aperçu privé : le site ouvre le 15 décembre 2026.",
+    menu: "Menu", close: "Fermer", language: "Langue", previewNote: "Le site ouvre au public : accompagnement disponible dès maintenant.",
     services: "Services", blog: "Blog", servicesTitle: "Nos services pour s'installer et investir à Dubaï", servicesDesc: "Création de société, Golden Visa et visas, compte bancaire, installation de la famille, études supérieures, immobilier : START IN DUBAI s'occupe de tout, de A à Z.", servicesIntro: "Un seul interlocuteur, dans votre langue, pour tout ce qu'il faut régler à Dubaï : on coordonne les démarches, vous gardez la main sur les décisions.", servicesEyebrow: "Ce que nous faisons pour vous",
     blogTitle: "Le blog START IN DUBAI", blogDesc: "Analyses et comparatifs pour réussir votre projet à Dubaï : société, fiscalité, visas, coût de la vie, retraite, santé, vérifiés sur les sources officielles.", blogIntro: "Comparatifs, coûts réels, règles officielles : les réponses détaillées aux questions qu'on nous pose chaque semaine.", blogEyebrow: "Analyses et comparatifs", readArticle: "Lire l'article", seeService: "Voir le service",
     included: "Ce que nous faisons pour vous", how: "Comment ça se passe", howEyebrow: "Le déroulé", serviceGuides: "Pour aller plus loin", ourServices: "Nos services", latestArticles: "Derniers articles",
@@ -45,7 +45,7 @@ export const UI: Record<Lang, UI> = {
   en: {
     home: "Home", guides: "Guides", signup: "Get a call back", updated: "Updated", by: "by", read: "min read",
     toc: "In this guide", essentials: "The essentials in 30 seconds", faq: "Your questions, answered", faqEyebrow: "FAQ",
-    sources: "Official sources", related: "Keep building your plan", relatedEyebrow: "Read next", author: "About the author",
+    sources: "Official sources", related: "Keep building your plan", relatedEyebrow: "Read next", author: "Editorial team", team: "the START IN DUBAI editorial team", teamBio: "Written and checked by the START IN DUBAI team in Dubai. Every rule, amount and deadline is checked against the official source cited and dated. For property, we work with Cevitas Real Estate, a RERA-licensed agency (ORN 49294).",
     heroCta: "I want expert help", heroNote: "Free · 1 minute · No commitment", heroBadge: "Checked against official sources",
     midEyebrow: "Save months", midTitle: "Don't do all of this alone.", midText: "Company, bank, visas, housing, studies: START IN DUBAI handles everything, in your language, with one single contact. An adviser calls you back for a free first conversation.", midBtn: "Handle it for me",
     profilesEyebrow: "Your project", profilesTitle: "Tell us who you are, we take care of the rest",
@@ -54,7 +54,7 @@ export const UI: Record<Lang, UI> = {
     guidesEyebrow: "The START IN DUBAI library", guidesCount: "guides", readGuide: "Read the guide", allGuides: "All guides",
     hubTitle: "Rather talk it through?", hubText: "A free, no-commitment first call to frame your project.",
     disclaimer: "General information, accurate on the date shown. Rules (visas, tax, licences) change: they are checked with you before any step and do not replace personal legal or tax advice.",
-    menu: "Menu", close: "Close", language: "Language", previewNote: "Private preview: the site opens on 15 December 2026.",
+    menu: "Menu", close: "Close", language: "Language", previewNote: "The site is open: support is available now.",
     services: "Services", blog: "Blog", servicesTitle: "Our services to move to and invest in Dubai", servicesDesc: "Company formation, Golden Visa and visas, bank account, family relocation, university studies, real estate: START IN DUBAI handles everything from A to Z.", servicesIntro: "One single contact, in your language, for everything you need to sort out in Dubai: we coordinate the steps, you keep control of the decisions.", servicesEyebrow: "What we do for you",
     blogTitle: "The START IN DUBAI blog", blogDesc: "Analysis and comparisons to make your Dubai project work: company, tax, visas, cost of living, retirement, health, checked against official sources.", blogIntro: "Comparisons, real costs, official rules: detailed answers to the questions we are asked every week.", blogEyebrow: "Analysis and comparisons", readArticle: "Read the article", seeService: "See the service",
     included: "What we do for you", how: "How it works", howEyebrow: "Step by step", serviceGuides: "Learn more", ourServices: "Our services", latestArticles: "Latest articles",
@@ -64,7 +64,7 @@ export const UI: Record<Lang, UI> = {
   ar: {
     home: "الرئيسية", guides: "الأدلة", signup: "اطلبوا اتصالًا", updated: "آخر تحديث", by: "بقلم", read: "دقائق قراءة",
     toc: "محتويات الدليل", essentials: "الأهم في 30 ثانية", faq: "أسئلتكم وأجوبتنا", faqEyebrow: "أسئلة شائعة",
-    sources: "المصادر الرسمية", related: "تابعوا مشروعكم", relatedEyebrow: "اقرأ أيضًا", author: "عن الكاتب",
+    sources: "المصادر الرسمية", related: "تابعوا مشروعكم", relatedEyebrow: "اقرأ أيضًا", author: "فريق التحرير", team: "فريق تحرير START IN DUBAI", teamBio: "كتبه وراجعه فريق START IN DUBAI في دبي. نراجع كل قاعدة ومبلغ ومهلة على المصدر الرسمي المذكور مع تاريخه. وفي الجانب العقاري نعمل مع Cevitas Real Estate، الوكالة المرخّصة من RERA (ORN 49294).",
     heroCta: "أريد مرافقة متخصصة", heroNote: "مجاني · دقيقة واحدة · دون أي التزام", heroBadge: "دليل تم التحقق منه من المصادر الرسمية",
     midEyebrow: "وفّروا أشهرًا", midTitle: "لا تقوموا بكل هذا وحدكم.", midText: "الشركة، البنك، التأشيرات، السكن، الدراسة: START IN DUBAI يتولى كل شيء بلغتكم ومع جهة تواصل واحدة. يتصل بكم مستشار لمحادثة أولى مجانية.", midBtn: "أريد أن تتولوا الأمر",
     profilesEyebrow: "مشروعكم", profilesTitle: "أخبرونا من أنتم، ونحن نتولى الباقي",
@@ -73,7 +73,7 @@ export const UI: Record<Lang, UI> = {
     guidesEyebrow: "مكتبة START IN DUBAI", guidesCount: "دليلًا", readGuide: "اقرأ الدليل", allGuides: "جميع الأدلة",
     hubTitle: "تفضلون أن نشرح لكم مباشرة؟", hubText: "مكالمة أولى مجانية ودون أي التزام لتحديد مشروعكم.",
     disclaimer: "معلومات عامة صحيحة في التاريخ المذكور. القواعد (التأشيرات، الضرائب، التراخيص) تتغير: نتحقق منها معكم قبل أي خطوة، وهي لا تغني عن استشارة قانونية أو ضريبية شخصية.",
-    menu: "القائمة", close: "إغلاق", language: "اللغة", previewNote: "معاينة خاصة: يفتح الموقع في 15 ديسمبر 2026.",
+    menu: "القائمة", close: "إغلاق", language: "اللغة", previewNote: "الموقع مفتوح: المرافقة متاحة الآن.",
     services: "الخدمات", blog: "المدونة", servicesTitle: "خدماتنا للاستقرار والاستثمار في دبي", servicesDesc: "تأسيس الشركات، الإقامة الذهبية والتأشيرات، الحساب البنكي، استقرار العائلة، الدراسة الجامعية، العقار: START IN DUBAI يتولى كل شيء من الألف إلى الياء.", servicesIntro: "جهة تواصل واحدة وبلغتكم لكل ما يجب إنجازه في دبي: ننسّق الإجراءات وتبقى القرارات بأيديكم.", servicesEyebrow: "ما نقوم به من أجلكم",
     blogTitle: "مدونة START IN DUBAI", blogDesc: "تحليلات ومقارنات لإنجاح مشروعكم في دبي: الشركة، الضرائب، التأشيرات، تكلفة المعيشة، التقاعد، الصحة، مع التحقق من المصادر الرسمية.", blogIntro: "مقارنات وتكاليف حقيقية وقواعد رسمية: إجابات مفصلة عن الأسئلة التي تُطرح علينا كل أسبوع.", blogEyebrow: "تحليلات ومقارنات", readArticle: "اقرأ المقال", seeService: "اكتشف الخدمة",
     included: "ما نقوم به من أجلكم", how: "كيف تسير الأمور", howEyebrow: "الخطوات", serviceGuides: "لمعرفة المزيد", ourServices: "خدماتنا", latestArticles: "أحدث المقالات",
@@ -83,7 +83,7 @@ export const UI: Record<Lang, UI> = {
   es: {
     home: "Inicio", guides: "Guías", signup: "Que me llamen", updated: "Actualizado el", by: "por", read: "min de lectura",
     toc: "En esta guía", essentials: "Lo esencial en 30 segundos", faq: "Tus preguntas, nuestras respuestas", faqEyebrow: "Preguntas frecuentes",
-    sources: "Fuentes oficiales", related: "Sigue con tu proyecto", relatedEyebrow: "Lee también", author: "El autor",
+    sources: "Fuentes oficiales", related: "Sigue con tu proyecto", relatedEyebrow: "Lee también", author: "Equipo editorial", team: "el equipo editorial de START IN DUBAI", teamBio: "Redactado y verificado por el equipo de START IN DUBAI en Dubái. Cada norma, importe y plazo se comprueba en la fuente oficial citada y fechada. Para la parte inmobiliaria trabajamos con Cevitas Real Estate, agencia acreditada por la RERA (ORN 49294).",
     heroCta: "Quiero que me acompañen", heroNote: "Gratis · 1 minuto · Sin compromiso", heroBadge: "Guía verificada con fuentes oficiales",
     midEyebrow: "Ahorra meses", midTitle: "No hagas todo esto solo.", midText: "Empresa, banco, visados, vivienda, estudios: START IN DUBAI se encarga de todo, en tu idioma y con un solo interlocutor. Un asesor te llama para una primera conversación gratuita.", midBtn: "Quiero que se encarguen",
     profilesEyebrow: "Tu proyecto", profilesTitle: "Dinos quién eres y nosotros nos encargamos del resto",
@@ -92,7 +92,7 @@ export const UI: Record<Lang, UI> = {
     guidesEyebrow: "La biblioteca START IN DUBAI", guidesCount: "guías", readGuide: "Leer la guía", allGuides: "Todas las guías",
     hubTitle: "¿Prefieres que te lo expliquemos?", hubText: "Una primera conversación gratuita y sin compromiso para definir tu proyecto.",
     disclaimer: "Información general, vigente en la fecha indicada. Las normas (visados, impuestos, licencias) cambian: las verificamos contigo antes de cualquier trámite y no sustituyen un asesoramiento jurídico o fiscal personalizado.",
-    menu: "Menú", close: "Cerrar", language: "Idioma", previewNote: "Vista previa privada: el sitio abre el 15 de diciembre de 2026.",
+    menu: "Menú", close: "Cerrar", language: "Idioma", previewNote: "El sitio está abierto: el acompañamiento ya está disponible.",
     services: "Servicios", blog: "Blog", servicesTitle: "Nuestros servicios para instalarte e invertir en Dubái", servicesDesc: "Creación de empresa, Golden Visa y visados, cuenta bancaria, instalación de la familia, estudios universitarios, inmobiliario: START IN DUBAI se encarga de todo, de la A a la Z.", servicesIntro: "Un solo interlocutor, en tu idioma, para todo lo que hay que resolver en Dubái: coordinamos los trámites y tú conservas el control de las decisiones.", servicesEyebrow: "Lo que hacemos por ti",
     blogTitle: "El blog de START IN DUBAI", blogDesc: "Análisis y comparativas para que tu proyecto en Dubái salga bien: empresa, impuestos, visados, coste de vida, jubilación, salud, verificados en fuentes oficiales.", blogIntro: "Comparativas, costes reales, normas oficiales: respuestas detalladas a las preguntas que nos hacen cada semana.", blogEyebrow: "Análisis y comparativas", readArticle: "Leer el artículo", seeService: "Ver el servicio",
     included: "Lo que hacemos por ti", how: "Cómo funciona", howEyebrow: "Paso a paso", serviceGuides: "Para saber más", ourServices: "Nuestros servicios", latestArticles: "Últimos artículos",
@@ -102,7 +102,7 @@ export const UI: Record<Lang, UI> = {
   nl: {
     home: "Home", guides: "Gidsen", signup: "Bel mij terug", updated: "Bijgewerkt op", by: "door", read: "min lezen",
     toc: "In deze gids", essentials: "Het belangrijkste in 30 seconden", faq: "Uw vragen, onze antwoorden", faqEyebrow: "Veelgestelde vragen",
-    sources: "Officiële bronnen", related: "Werk verder aan uw plan", relatedEyebrow: "Lees ook", author: "Over de auteur",
+    sources: "Officiële bronnen", related: "Werk verder aan uw plan", relatedEyebrow: "Lees ook", author: "Redactie", team: "de redactie van START IN DUBAI", teamBio: "Geschreven en gecontroleerd door het team van START IN DUBAI in Dubai. Elke regel, elk bedrag en elke termijn is nagekeken op de vermelde, gedateerde officiële bron. Voor vastgoed werken we samen met Cevitas Real Estate, een RERA-erkend kantoor (ORN 49294).",
     heroCta: "Ik wil begeleiding", heroNote: "Gratis · 1 minuut · Vrijblijvend", heroBadge: "Gecontroleerd met officiële bronnen",
     midEyebrow: "Bespaar maanden", midTitle: "Doe dit niet allemaal alleen.", midText: "Bedrijf, bank, visa, woning, studie: START IN DUBAI regelt alles, in uw taal, met één aanspreekpunt. Een adviseur belt u terug voor een eerste gratis gesprek.", midBtn: "Regel het voor mij",
     profilesEyebrow: "Uw project", profilesTitle: "Vertel ons wie u bent, wij regelen de rest",
@@ -111,7 +111,7 @@ export const UI: Record<Lang, UI> = {
     guidesEyebrow: "De bibliotheek van START IN DUBAI", guidesCount: "gidsen", readGuide: "Lees de gids", allGuides: "Alle gidsen",
     hubTitle: "Liever persoonlijk uitleg?", hubText: "Een eerste gratis en vrijblijvend gesprek om uw project af te bakenen.",
     disclaimer: "Algemene informatie, actueel op de vermelde datum. Regels (visa, belasting, licenties) veranderen: we controleren ze met u vóór elke stap en ze vervangen geen persoonlijk juridisch of fiscaal advies.",
-    menu: "Menu", close: "Sluiten", language: "Taal", previewNote: "Privévoorbeeld: de site opent op 15 december 2026.",
+    menu: "Menu", close: "Sluiten", language: "Taal", previewNote: "De site is open: begeleiding is nu beschikbaar.",
     services: "Diensten", blog: "Blog", servicesTitle: "Onze diensten om te verhuizen naar en te investeren in Dubai", servicesDesc: "Bedrijf oprichten, Golden Visa en visa, bankrekening, verhuizing van het gezin, universitaire studie, vastgoed: START IN DUBAI regelt alles van A tot Z.", servicesIntro: "Eén aanspreekpunt, in uw taal, voor alles wat u in Dubai moet regelen: wij coördineren de stappen, u houdt de beslissingen in handen.", servicesEyebrow: "Wat wij voor u doen",
     blogTitle: "De blog van START IN DUBAI", blogDesc: "Analyses en vergelijkingen voor een geslaagd project in Dubai: bedrijf, belasting, visa, kosten van levensonderhoud, pensioen, gezondheid, gecontroleerd met officiële bronnen.", blogIntro: "Vergelijkingen, echte kosten, officiële regels: uitgebreide antwoorden op de vragen die we elke week krijgen.", blogEyebrow: "Analyses en vergelijkingen", readArticle: "Lees het artikel", seeService: "Bekijk de dienst",
     included: "Wat wij voor u doen", how: "Zo werkt het", howEyebrow: "Stap voor stap", serviceGuides: "Meer weten", ourServices: "Onze diensten", latestArticles: "Laatste artikelen",
@@ -121,7 +121,7 @@ export const UI: Record<Lang, UI> = {
   it: {
     home: "Home", guides: "Guide", signup: "Richiamami", updated: "Aggiornato il", by: "di", read: "min di lettura",
     toc: "In questa guida", essentials: "L'essenziale in 30 secondi", faq: "Le tue domande, le nostre risposte", faqEyebrow: "Domande frequenti",
-    sources: "Fonti ufficiali", related: "Vai avanti con il tuo progetto", relatedEyebrow: "Leggi anche", author: "L'autore",
+    sources: "Fonti ufficiali", related: "Vai avanti con il tuo progetto", relatedEyebrow: "Leggi anche", author: "Redazione", team: "la redazione di START IN DUBAI", teamBio: "Scritto e verificato dal team di START IN DUBAI a Dubai. Ogni regola, importo e termine è controllato sulla fonte ufficiale citata e datata. Per la parte immobiliare lavoriamo con Cevitas Real Estate, agenzia autorizzata RERA (ORN 49294).",
     heroCta: "Voglio essere accompagnato", heroNote: "Gratis · 1 minuto · Senza impegno", heroBadge: "Guida verificata sulle fonti ufficiali",
     midEyebrow: "Risparmia mesi", midTitle: "Non fare tutto da solo.", midText: "Società, banca, visti, casa, studi: START IN DUBAI si occupa di tutto, nella tua lingua, con un solo referente. Un consulente ti richiama per un primo scambio gratuito.", midBtn: "Voglio che se ne occupino loro",
     profilesEyebrow: "Il tuo progetto", profilesTitle: "Dicci chi sei, al resto pensiamo noi",
@@ -130,7 +130,7 @@ export const UI: Record<Lang, UI> = {
     guidesEyebrow: "La biblioteca START IN DUBAI", guidesCount: "guide", readGuide: "Leggi la guida", allGuides: "Tutte le guide",
     hubTitle: "Preferisci parlarne a voce?", hubText: "Un primo scambio gratuito e senza impegno per inquadrare il tuo progetto.",
     disclaimer: "Informazioni generali, aggiornate alla data indicata. Le regole (visti, tasse, licenze) cambiano: le verifichiamo con te prima di ogni passo e non sostituiscono una consulenza legale o fiscale personalizzata.",
-    menu: "Menu", close: "Chiudi", language: "Lingua", previewNote: "Anteprima privata: il sito apre il 15 dicembre 2026.",
+    menu: "Menu", close: "Chiudi", language: "Lingua", previewNote: "Il sito è aperto: l'accompagnamento è disponibile da ora.",
     services: "Servizi", blog: "Blog", servicesTitle: "I nostri servizi per trasferirsi e investire a Dubai", servicesDesc: "Apertura di società, Golden Visa e visti, conto bancario, trasferimento della famiglia, studi universitari, immobiliare: START IN DUBAI si occupa di tutto, dalla A alla Z.", servicesIntro: "Un solo referente, nella tua lingua, per tutto ciò che c'è da sistemare a Dubai: coordiniamo le pratiche, tu mantieni il controllo delle decisioni.", servicesEyebrow: "Cosa facciamo per te",
     blogTitle: "Il blog di START IN DUBAI", blogDesc: "Analisi e confronti per far riuscire il tuo progetto a Dubai: società, tasse, visti, costo della vita, pensione, salute, verificati sulle fonti ufficiali.", blogIntro: "Confronti, costi reali, regole ufficiali: risposte dettagliate alle domande che ci fanno ogni settimana.", blogEyebrow: "Analisi e confronti", readArticle: "Leggi l'articolo", seeService: "Scopri il servizio",
     included: "Cosa facciamo per te", how: "Come funziona", howEyebrow: "Passo dopo passo", serviceGuides: "Per approfondire", ourServices: "I nostri servizi", latestArticles: "Ultimi articoli",
