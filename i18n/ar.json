@@ -18,7 +18,7 @@
  "t017": "نعم، أريد أن تتصلوا بي",
  "t018": "مجاني · دقيقة واحدة · دون أي التزام",
  "t019": "<svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M12 2l8 4v6c0 5-3.5 8.5-8 10-4.5-1.5-8-5-8-10V6l8-4z\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linejoin=\"round\"/><path d=\"M8.5 12l2.5 2.5 4.5-5\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg>العقار مع وكالة مرخّصة من RERA (ORN 49294)",
- "t020": "<svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M12 3l2.7 5.6 6.1.9-4.4 4.3 1 6.1L12 17l-5.4 2.9 1-6.1-4.4-4.3 6.1-.9z\" fill=\"currentColor\"/></svg>شريكنا Cevitas: تقييم 5.0 على Google",
+ "t020": "<svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M12 3l2.7 5.6 6.1.9-4.4 4.3 1 6.1L12 17l-5.4 2.9 1-6.1-4.4-4.3 6.1-.9z\" fill=\"currentColor\"/></svg>تقييم 5.0 على Google",
  "t021": "<svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M4 5h16v11H8l-4 4V5z\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linejoin=\"round\"/></svg>العربية، الفرنسية، الإنجليزية، الإسبانية، الهولندية، الإيطالية",
  "t022": "هل تجدون أنفسكم هنا؟",
  "t023": "دبي تجذبكم منذ أشهر. <span class=\"red\">لكن من أين تبدؤون؟</span>",
@@ -100,7 +100,7 @@
  "t099": "فريق يعيش في دبي ويتحدث لغتكم",
  "t100": "يعمل START IN DUBAI جنبًا إلى جنب مع <a href=\"https://www.cevitas.ae\"><b>Cevitas Real Estate</b></a>، الوكالة العقارية المرخّصة من RERA في دبي (ORN 49294)، في كل ما يتعلق بالعقار.",
  "t101": "نرافق يوميًا المغاربة حول العالم وأشخاصًا من مختلف أنحاء العالم يستثمرون في دبي. رأينا ما يعرقل، وما يكلّف غاليًا، وما يُضيع الأشهر. وُلد START IN DUBAI ليجري استقراركم بالترتيب الصحيح، مع شخص واحد يتابع ملفكم.",
- "t102": "<span aria-hidden=\"true\">★★★★★</span> Cevitas Real Estate: <b>5.0 على Google</b> (15 تقييمًا)",
+ "t102": "<span aria-hidden=\"true\">★★★★★</span> <b>5.0 على Google</b>",
  "t103": "الأسئلة الشائعة",
  "t104": "أسئلتكم، وأجوبتنا",
  "t105": "هل يُلزمني طلبي بأي شيء؟",
@@ -138,6 +138,6 @@
  "c08": "جهة تواصل واحدة لمشروعكم كله",
  "c09": "لغات: العربية والفرنسية والإنجليزية والإسبانية والهولندية والإيطالية",
  "c10": "مراحل، مع خطة طريق مكتوبة",
- "c11": "تقييم شريكنا العقاري Cevitas على Google (15 مراجعة)",
+ "c11": "التقييم على Google",
  "c12": "START IN DUBAI بالأرقام"
 }

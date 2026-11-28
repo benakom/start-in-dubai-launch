@@ -18,7 +18,7 @@
  "t017": "Yes, I want a call back",
  "t018": "Free · 1 minute · No commitment",
  "t019": "<svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M12 2l8 4v6c0 5-3.5 8.5-8 10-4.5-1.5-8-5-8-10V6l8-4z\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linejoin=\"round\"/><path d=\"M8.5 12l2.5 2.5 4.5-5\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg>Real estate with a RERA-licensed agency (ORN 49294)",
- "t020": "<svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M12 3l2.7 5.6 6.1.9-4.4 4.3 1 6.1L12 17l-5.4 2.9 1-6.1-4.4-4.3 6.1-.9z\" fill=\"currentColor\"/></svg>Cevitas, our partner: 5.0 on Google",
+ "t020": "<svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M12 3l2.7 5.6 6.1.9-4.4 4.3 1 6.1L12 17l-5.4 2.9 1-6.1-4.4-4.3 6.1-.9z\" fill=\"currentColor\"/></svg>Rated 5.0 on Google",
  "t021": "<svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M4 5h16v11H8l-4 4V5z\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linejoin=\"round\"/></svg>Arabic, French, English, Spanish, Dutch, Italian",
  "t022": "Sound familiar?",
  "t023": "Dubai has been on your mind for months. <span class=\"red\">But where do you start?</span>",
@@ -100,7 +100,7 @@
  "t099": "A team that lives in Dubai and speaks your language",
  "t100": "START IN DUBAI works hand in hand with <a href=\"https://www.cevitas.ae\"><b>Cevitas Real Estate</b></a>, a RERA-licensed real estate agency in Dubai (ORN 49294), for everything property-related.",
  "t101": "Every day, we work with Moroccans around the world and clients from every background who invest in Dubai. We've seen what holds people up, what gets expensive and what wastes months. START IN DUBAI was created so your move happens in the right order, with one person following your file.",
- "t102": "<span aria-hidden=\"true\">★★★★★</span> Cevitas Real Estate: <b>5.0 on Google</b> (15 reviews)",
+ "t102": "<span aria-hidden=\"true\">★★★★★</span> <b>5.0 on Google</b>",
  "t103": "Frequently asked questions",
  "t104": "Your questions, our answers",
  "t105": "Does my request commit me to anything?",
@@ -138,6 +138,6 @@
  "c08": "single point of contact for your whole project",
  "c09": "languages: French, Arabic, English, Spanish, Dutch, Italian",
  "c10": "steps, with a written roadmap",
- "c11": "Google rating of our property partner Cevitas (15 reviews)",
+ "c11": "rating on Google",
  "c12": "START IN DUBAI in figures"
 }

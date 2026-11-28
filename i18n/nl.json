@@ -18,7 +18,7 @@
  "t017": "Ja, ik word graag teruggebeld",
  "t018": "Gratis · 1 minuut · Vrijblijvend",
  "t019": "<svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M12 2l8 4v6c0 5-3.5 8.5-8 10-4.5-1.5-8-5-8-10V6l8-4z\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linejoin=\"round\"/><path d=\"M8.5 12l2.5 2.5 4.5-5\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg>Vastgoed via een RERA-erkend makelaarskantoor (ORN 49294)",
- "t020": "<svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M12 3l2.7 5.6 6.1.9-4.4 4.3 1 6.1L12 17l-5.4 2.9 1-6.1-4.4-4.3 6.1-.9z\" fill=\"currentColor\"/></svg>Cevitas, onze partner: 5,0 op Google",
+ "t020": "<svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M12 3l2.7 5.6 6.1.9-4.4 4.3 1 6.1L12 17l-5.4 2.9 1-6.1-4.4-4.3 6.1-.9z\" fill=\"currentColor\"/></svg>Beoordeeld met 5,0 op Google",
  "t021": "<svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M4 5h16v11H8l-4 4V5z\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linejoin=\"round\"/></svg>Arabisch, Frans, Engels, Spaans, Nederlands, Italiaans",
  "t022": "Herkent u zich hierin?",
  "t023": "Dubai trekt u al maanden aan. <span class=\"red\">Maar waar begint u?</span>",
@@ -100,7 +100,7 @@
  "t099": "Een team dat in Dubai woont en uw taal spreekt",
  "t100": "START IN DUBAI werkt voor alles rond vastgoed samen met <a href=\"https://www.cevitas.ae\"><b>Cevitas Real Estate</b></a>, een RERA-erkend makelaarskantoor in Dubai (ORN 49294).",
  "t101": "Elke dag begeleiden wij Marokkanen over de hele wereld en mensen uit alle landen die in Dubai investeren. Wij hebben gezien wat blokkeert, wat veel geld kost en wat maanden vertraging oplevert. START IN DUBAI is ontstaan zodat uw verhuizing in de juiste volgorde verloopt, met één persoon die uw dossier beheert.",
- "t102": "<span aria-hidden=\"true\">★★★★★</span> Cevitas Real Estate: <b>5,0 op Google</b> (15 reviews)",
+ "t102": "<span aria-hidden=\"true\">★★★★★</span> <b>5,0 op Google</b>",
  "t103": "Veelgestelde vragen",
  "t104": "Uw vragen, onze antwoorden",
  "t105": "Verplicht mijn aanvraag mij tot iets?",
@@ -138,6 +138,6 @@
  "c08": "aanspreekpunt voor uw hele project",
  "c09": "talen: Nederlands, Frans, Arabisch, Engels, Spaans, Italiaans",
  "c10": "stappen, met een schriftelijk stappenplan",
- "c11": "Google-score van onze vastgoedpartner Cevitas (15 reviews)",
+ "c11": "score op Google",
  "c12": "START IN DUBAI in cijfers"
 }

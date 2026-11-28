@@ -18,7 +18,7 @@
  "t017": "Oui, je veux être rappelé",
  "t018": "Gratuit · 1 minute · Sans engagement",
  "t019": "<svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M12 2l8 4v6c0 5-3.5 8.5-8 10-4.5-1.5-8-5-8-10V6l8-4z\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linejoin=\"round\"/><path d=\"M8.5 12l2.5 2.5 4.5-5\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg>Immobilier avec une agence agréée RERA (ORN 49294)",
- "t020": "<svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M12 3l2.7 5.6 6.1.9-4.4 4.3 1 6.1L12 17l-5.4 2.9 1-6.1-4.4-4.3 6.1-.9z\" fill=\"currentColor\"/></svg>Cevitas, notre partenaire : 5,0 sur Google",
+ "t020": "<svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M12 3l2.7 5.6 6.1.9-4.4 4.3 1 6.1L12 17l-5.4 2.9 1-6.1-4.4-4.3 6.1-.9z\" fill=\"currentColor\"/></svg>Noté 5,0 sur Google",
  "t021": "<svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M4 5h16v11H8l-4 4V5z\" fill=\"none\" stroke=\"currentColor\" stroke-width=\"2\" stroke-linejoin=\"round\"/></svg>Arabe, français, anglais, espagnol, néerlandais, italien",
  "t022": "Vous vous reconnaissez ?",
  "t023": "Dubaï vous attire depuis des mois. <span class=\"red\">Mais par où commencer ?</span>",
@@ -100,7 +100,7 @@
  "t099": "Une équipe qui vit à Dubaï et qui parle votre langue",
  "t100": "START IN DUBAI travaille main dans la main avec <a href=\"https://www.cevitas.ae\"><b>Cevitas Real Estate</b></a>, agence immobilière francophone agréée RERA à Dubaï (ORN 49294), pour tout ce qui touche à l'immobilier.",
  "t101": "Tous les jours, nous accompagnons des Marocains du monde et des francophones de tous horizons qui investissent à Dubaï. Nous avons vu ce qui bloque, ce qui coûte cher et ce qui fait perdre des mois. START IN DUBAI est né pour que votre installation se passe dans le bon ordre, avec une seule personne qui suit votre dossier.",
- "t102": "<span aria-hidden=\"true\">★★★★★</span> Cevitas Real Estate : <b>5,0 sur Google</b> (15 avis)",
+ "t102": "<span aria-hidden=\"true\">★★★★★</span> <b>5,0 sur Google</b>",
  "t103": "Questions fréquentes",
  "t104": "Vos questions, nos réponses",
  "t105": "Est-ce que ma demande m'engage à quelque chose ?",
@@ -138,6 +138,6 @@
  "c08": "seul interlocuteur pour tout votre projet",
  "c09": "langues : français, arabe, anglais, espagnol, néerlandais, italien",
  "c10": "étapes, avec une feuille de route écrite",
- "c11": "note Google de notre partenaire immobilier Cevitas (15 avis)",
+ "c11": "note sur Google",
  "c12": "START IN DUBAI en chiffres"
 }
