@@ -464,3 +464,28 @@ h1 { margin: 0 0 16px; max-width: 980px; font-size: clamp(32px, min(4.6vw, 6.4vh
   .topbar-txt .sm { display: none; }          /* sur petit écran : point rouge + compte à rebours + langue */
   .topbar-in { gap: 8px; }
 }
+
+/* ------------------------------------------------------------------ PIED DE PAGE : bloc contact immersif (JLT de nuit) */
+.foot:has(.fct) { padding-top: 0; }
+.fct { position: relative; isolation: isolate; margin: 0 0 34px; padding: clamp(46px, 7vw, 84px) 0; color: #fff; text-align: start;
+  background: #0B0B0B url(/assets/photos/footer-jlt-800.webp) center 40% / cover no-repeat; }
+@media (min-width: 801px) { .fct { background-image: url(/assets/photos/footer-jlt.webp); } }
+.fct::before { content: ""; position: absolute; inset: 0; z-index: -1; background: linear-gradient(105deg, rgba(11,11,11,.94) 0%, rgba(11,11,11,.78) 48%, rgba(11,11,11,.45) 100%); }
+.fct::after { content: ""; position: absolute; left: 0; right: 0; bottom: 0; height: 4px; background: linear-gradient(90deg, var(--red) 0 25%, var(--green) 25% 50%, #fff 50% 75%, #000 75%); }
+.fct-in { display: grid; gap: 22px; }
+.fct-t { margin: 0; font-family: var(--head); font-weight: 900; font-size: clamp(26px, 3.4vw, 40px); line-height: 1.1; color: #fff; }
+.fct-t::after { content: ""; display: block; width: 56px; height: 4px; margin-top: 14px; border-radius: 2px; background: var(--red); }
+.fct-cards { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 16px; max-width: 900px; }
+.fct-card { display: flex; gap: 16px; align-items: flex-start; padding: 22px; border-radius: 16px; color: #fff; text-decoration: none;
+  background: rgba(255,255,255,.08); border: 1px solid rgba(255,255,255,.18); -webkit-backdrop-filter: blur(10px); backdrop-filter: blur(10px);
+  transition: transform .25s var(--ease), background .25s, border-color .25s; }
+.fct-card:hover, .fct-card:focus-visible { transform: translateY(-3px); background: rgba(255,255,255,.14); border-color: rgba(255,255,255,.4); }
+.fct-ic { flex: none; display: grid; place-items: center; width: 46px; height: 46px; border-radius: 12px; background: var(--red); color: #fff; box-shadow: 0 12px 24px -12px rgba(225,6,0,.9); }
+.fct-tx { display: grid; gap: 3px; min-width: 0; font-size: 15px; line-height: 1.45; color: rgba(255,255,255,.82); }
+.fct-tx small { font-size: 12px; font-weight: 700; letter-spacing: .14em; text-transform: uppercase; color: rgba(255,255,255,.6); }
+.fct-tx b { font-family: var(--head); font-weight: 800; font-size: 18px; color: #fff; overflow-wrap: anywhere; }
+.fct-tx em { margin-top: 6px; font-style: normal; font-weight: 700; font-size: 14px; color: #fff; }
+.fct-tx em::after { content: " →"; }
+[dir="rtl"] .fct::before { background: linear-gradient(-105deg, rgba(11,11,11,.94) 0%, rgba(11,11,11,.78) 48%, rgba(11,11,11,.45) 100%); }
+[dir="rtl"] .fct-tx em::after { content: " ←"; }
+@media (max-width: 700px) { .fct-cards { grid-template-columns: 1fr; } .fct-card { padding: 18px; } }

@@ -509,6 +509,31 @@ h1 { margin: 0 0 16px; max-width: 980px; font-size: clamp(32px, min(4.6vw, 6.4vh
   .topbar-in { gap: 8px; }
 }
 
+/* ------------------------------------------------------------------ PIED DE PAGE : bloc contact immersif (JLT de nuit) */
+.foot:has(.fct) { padding-top: 0; }
+.fct { position: relative; isolation: isolate; margin: 0 0 34px; padding: clamp(46px, 7vw, 84px) 0; color: #fff; text-align: start;
+  background: #0B0B0B url(/assets/photos/footer-jlt-800.webp) center 40% / cover no-repeat; }
+@media (min-width: 801px) { .fct { background-image: url(/assets/photos/footer-jlt.webp); } }
+.fct::before { content: ""; position: absolute; inset: 0; z-index: -1; background: linear-gradient(105deg, rgba(11,11,11,.94) 0%, rgba(11,11,11,.78) 48%, rgba(11,11,11,.45) 100%); }
+.fct::after { content: ""; position: absolute; left: 0; right: 0; bottom: 0; height: 4px; background: linear-gradient(90deg, var(--red) 0 25%, var(--green) 25% 50%, #fff 50% 75%, #000 75%); }
+.fct-in { display: grid; gap: 22px; }
+.fct-t { margin: 0; font-family: var(--head); font-weight: 900; font-size: clamp(26px, 3.4vw, 40px); line-height: 1.1; color: #fff; }
+.fct-t::after { content: ""; display: block; width: 56px; height: 4px; margin-top: 14px; border-radius: 2px; background: var(--red); }
+.fct-cards { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 16px; max-width: 900px; }
+.fct-card { display: flex; gap: 16px; align-items: flex-start; padding: 22px; border-radius: 16px; color: #fff; text-decoration: none;
+  background: rgba(255,255,255,.08); border: 1px solid rgba(255,255,255,.18); -webkit-backdrop-filter: blur(10px); backdrop-filter: blur(10px);
+  transition: transform .25s var(--ease), background .25s, border-color .25s; }
+.fct-card:hover, .fct-card:focus-visible { transform: translateY(-3px); background: rgba(255,255,255,.14); border-color: rgba(255,255,255,.4); }
+.fct-ic { flex: none; display: grid; place-items: center; width: 46px; height: 46px; border-radius: 12px; background: var(--red); color: #fff; box-shadow: 0 12px 24px -12px rgba(225,6,0,.9); }
+.fct-tx { display: grid; gap: 3px; min-width: 0; font-size: 15px; line-height: 1.45; color: rgba(255,255,255,.82); }
+.fct-tx small { font-size: 12px; font-weight: 700; letter-spacing: .14em; text-transform: uppercase; color: rgba(255,255,255,.6); }
+.fct-tx b { font-family: var(--head); font-weight: 800; font-size: 18px; color: #fff; overflow-wrap: anywhere; }
+.fct-tx em { margin-top: 6px; font-style: normal; font-weight: 700; font-size: 14px; color: #fff; }
+.fct-tx em::after { content: " →"; }
+[dir="rtl"] .fct::before { background: linear-gradient(-105deg, rgba(11,11,11,.94) 0%, rgba(11,11,11,.78) 48%, rgba(11,11,11,.45) 100%); }
+[dir="rtl"] .fct-tx em::after { content: " ←"; }
+@media (max-width: 700px) { .fct-cards { grid-template-columns: 1fr; } .fct-card { padding: 18px; } }
+
 /* Start in Dubai : pages du site (guides, bibliothèque). Complète style.css (page de lancement) : mêmes couleurs, mêmes polices, mêmes boutons. */
 
 /* ------------------------------------------------------------------ en-tête */
@@ -875,7 +900,7 @@ h1 { margin: 0 0 16px; max-width: 980px; font-size: clamp(32px, min(4.6vw, 6.4vh
 
 .hx-bg picture { display: block; width: 100%; height: 100%; }
 </style>
-  <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.startindubai.com/#organization","name":"Start in Dubai","alternateName":"Start in Dubai","url":"https://www.startindubai.com/","logo":"https://www.startindubai.com/assets/img/logo.webp","description":"Accompagnement de A à Z des Marocains du monde et des francophones du monde entier à Dubaï et aux Émirats : achat et gestion immobilière, création de société, compte bancaire, visas, installation de la famille et études supérieures.","areaServed":[{"@type":"City","name":"Dubaï"},{"@type":"Country","name":"Émirats arabes unis"}],"knowsLanguage":["ar","fr","en","es","nl","it"]},{"@type":"WebSite","@id":"https://www.startindubai.com/#website","name":"Start in Dubai","alternateName":["Start in Dubai","startindubai.com"],"url":"https://www.startindubai.com/","inLanguage":"fr","publisher":{"@id":"https://www.startindubai.com/#organization"}}]}</script>
+  <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.startindubai.com/#organization","name":"Start in Dubai","alternateName":"Start in Dubai","url":"https://www.startindubai.com/","logo":"https://www.startindubai.com/assets/img/logo.webp","description":"Accompagnement de A à Z des Marocains du monde et des francophones du monde entier à Dubaï et aux Émirats : achat et gestion immobilière, création de société, compte bancaire, visas, installation de la famille et études supérieures.","email":"hello@startindubai.com","address":{"@type":"PostalAddress","streetAddress":"1104 Goldcrest Executive, Al Thanyah Fifth, Jumeirah Lakes Towers (JLT)","addressLocality":"Dubai","addressCountry":"AE"},"contactPoint":{"@type":"ContactPoint","contactType":"customer service","email":"hello@startindubai.com","availableLanguage":["fr","en","ar","es","nl","it"]},"sameAs":["https://www.facebook.com/startindubai1"],"areaServed":[{"@type":"City","name":"Dubaï"},{"@type":"Country","name":"Émirats arabes unis"}],"knowsLanguage":["fr","en","ar","es","nl","it"]},{"@type":"WebSite","@id":"https://www.startindubai.com/#website","name":"Start in Dubai","alternateName":["Start in Dubai","startindubai.com"],"url":"https://www.startindubai.com/","inLanguage":"fr","publisher":{"@id":"https://www.startindubai.com/#organization"}}]}</script>
 </head>
 <body class="home">
   <!-- En-tête : bandeau noir + menu du site -->
@@ -1123,6 +1148,15 @@ h1 { margin: 0 0 16px; max-width: 980px; font-size: clamp(32px, min(4.6vw, 6.4vh
   </main>
 
   <footer class="foot">
+    <section class="fct" aria-labelledby="fct-t">
+      <div class="wrap fct-in">
+        <h2 class="fct-t" id="fct-t">Parlons de votre projet</h2>
+        <div class="fct-cards">
+          <a class="fct-card" href="mailto:hello@startindubai.com"><span class="fct-ic"><svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M3 6h18v12H3z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/><path d="M3 7l9 6 9-6" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg></span><span class="fct-tx"><small>Écrivez-nous</small><b>hello@startindubai.com</b></span></a>
+          <a class="fct-card" href="https://www.google.com/maps/search/?api=1&amp;query=Goldcrest%20Executive%20Jumeirah%20Lakes%20Towers%20Dubai" target="_blank" rel="noopener"><span class="fct-ic"><svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M12 21s-7-6.2-7-11.5a7 7 0 0 1 14 0C19 14.8 12 21 12 21z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/><circle cx="12" cy="9.5" r="2.5" fill="none" stroke="currentColor" stroke-width="1.8"/></svg></span><span class="fct-tx"><small>Nos bureaux</small><b>1104 Goldcrest Executive</b><span dir="ltr">Al Thanyah Fifth, Jumeirah Lakes Towers (JLT)</span><span>Dubaï, Émirats arabes unis</span><em>Itinéraire</em></span></a>
+        </div>
+      </div>
+    </section>
     <div class="wrap foot-in">
       <img src="/assets/img/logo-384.webp" alt="Start in Dubai" width="384" height="247" loading="lazy">
       <p>© 2026 Start in Dubai · Service proposé conjointement par Integrity Corporate Services et Cevitas Real Estate · <button type="button" class="link" data-open-privacy>Confidentialité</button></p>

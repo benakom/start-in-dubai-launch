@@ -90,6 +90,15 @@ const fonts = "https://fonts.googleapis.com/css2?" + (rtl ? "family=Noto+Kufi+Ar
   <main><slot /></main>
 
   <footer class="foot">
+    <section class="fct" aria-labelledby="fct-t">
+      <div class="wrap fct-in">
+        <h2 class="fct-t" id="fct-t">{t.c14}</h2>
+        <div class="fct-cards">
+          <a class="fct-card" href="mailto:hello@startindubai.com"><span class="fct-ic"><svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M3 6h18v12H3z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/><path d="M3 7l9 6 9-6" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/></svg></span><span class="fct-tx"><small>{t.c15}</small><b>hello@startindubai.com</b></span></a>
+          <a class="fct-card" href="https://www.google.com/maps/search/?api=1&amp;query=Goldcrest%20Executive%20Jumeirah%20Lakes%20Towers%20Dubai" target="_blank" rel="noopener"><span class="fct-ic"><svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M12 21s-7-6.2-7-11.5a7 7 0 0 1 14 0C19 14.8 12 21 12 21z" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"/><circle cx="12" cy="9.5" r="2.5" fill="none" stroke="currentColor" stroke-width="1.8"/></svg></span><span class="fct-tx"><small>{t.c16}</small><b>1104 Goldcrest Executive</b><span dir="ltr">Al Thanyah Fifth, Jumeirah Lakes Towers (JLT)</span><span>{t.c18}</span><em>{t.c17}</em></span></a>
+        </div>
+      </div>
+    </section>
     <div class="wrap foot-in">
       <img src="/assets/img/logo-384.webp" alt="Start in Dubai" width="384" height="247" loading="lazy" />
       <p>{navItems.filter((n) => n.key === "services" || n.key === "blog").map((n) => <><a href={n.href}>{n.label}</a> · </>)}<a href={guidesPath(lang)}>{u.allGuides}</a>{Object.entries(u.clusters).map(([k, v]) => <> · <a href={`${guidesPath(lang)}#${k}`}>{v}</a></>)}</p>
