@@ -171,3 +171,5 @@ START IN DUBAI supports you from A to Z (company, bank account, visas, housing, 
 - [Golden Visa Dubai for professionals and employees: salary, MOHRE level and documents](/en/golden-visa-dubai-employees/)
 - [Golden Visa Dubai for entrepreneurs: the three routes, the nomination and the steps](/en/golden-visa-dubai-entrepreneurs/)
 - [Golden Visa Dubai without property: the routes that do not require buying real estate](/en/golden-visa-dubai-without-property/)
+- [Dubai tourist visa extension: how to extend, what it costs and what to avoid](/en/blog/dubai-tourist-visa-extension/)
+- [UAE Green Visa for freelancers: income rule, permit, documents and steps](/en/uae-green-visa-freelancers/)

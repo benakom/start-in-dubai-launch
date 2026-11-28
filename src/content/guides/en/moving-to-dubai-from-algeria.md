@@ -179,3 +179,10 @@ Algerians settled in the UAE mix with the Moroccan, Tunisian and more broadly Ar
 8. Registration with the Algerian mission designated for the UAE.
 
 For the complete journey, from finding housing to the Emirates ID, read our guide to [moving to Dubai](/en/moving-to-dubai/).
+
+## Go further
+
+- [Moving to Dubai from Cameroon: visa, documents and transfers](/en/moving-to-dubai-from-cameroon/)
+- [Moving to Dubai from Egypt: what Egyptians need to know](/en/moving-to-dubai-from-egypt/)
+- [Moving to Dubai from India: visa, emigration clearance, tax and money](/en/moving-to-dubai-from-india/)
+- [Moving to Dubai from Ivory Coast: what Ivorians need to know](/en/moving-to-dubai-from-ivory-coast/)

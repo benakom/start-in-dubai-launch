@@ -3,7 +3,7 @@ title: "Student Visa Dubai: Requirements, Documents, Cost and Timeline"
 description: "Dubai student visa: sponsorship by the university or parents, documents, official GDRFA fees, duration, renewal, work rules and the student Golden Visa."
 h1: "Student visa in Dubai: requirements, documents, cost and renewal"
 keyword: "student visa dubai"
-secondary: ["uae student visa", "dubai student visa cost", "dubai student visa requirements", "student residence visa uae", "student golden visa dubai"]
+secondary: ["uae student visa", "dubai student visa cost", "dubai student visa requirements", "student residence visa uae"]
 cluster: etudes
 updated: 2026-11-27
 intro: "The Dubai student visa is a residence permit granted to a student enrolled at an approved institution. It is sponsored either by the university or by a parent who is resident in the UAE. Official GDRFA fees start at 200 AED, but in practice universities charge a package of several thousand dirhams including insurance and a deposit. Universities generally have it issued for one year, then renewed each year until the end of the studies."
@@ -177,7 +177,7 @@ Important points noted on the GDRFA sheet:
 - a top school leaver can sponsor **only their parents**, not their brothers and sisters;
 - a university graduate can sponsor a spouse and children if they show an employment contract, a regular income and housing.
 
-For the other categories, see our guide to the [Golden Visa in Dubai](/en/golden-visa-dubai/).
+For a step-by-step guide to the criteria, documents and family rules, read our dedicated guide to the [Golden Visa for students](/en/golden-visa-dubai-students/). For the other categories, see our guide to the [Golden Visa in Dubai](/en/golden-visa-dubai/).
 
 ## The student's family
 
@@ -207,3 +207,5 @@ According to u.ae, the family members of a foreign student enrolled at a univers
 
 - [Cheapest universities in Dubai: how to compare real costs, not marketing prices](/en/cheapest-universities-dubai/)
 - [Studying in Dubai from Africa: what to prepare, what it costs and what to check](/en/study-in-dubai-from-africa/)
+- [Scholarships for international students in the UAE: what exists and how to apply](/en/scholarships-international-students-uae/)
+- [Can international students work in Dubai? The rules, step by step](/en/student-work-rules-dubai/)

@@ -186,3 +186,4 @@ Para el recorrido completo, desde la búsqueda de vivienda hasta la Emirates ID,
 - [Mudarse a Dubái desde Colombia: lo que tienes que saber](/es/mudarse-a-dubai-desde-colombia/)
 - [Mudarse a Dubái desde España: guía de trámites y de fiscalidad](/es/mudarse-a-dubai-desde-espana/)
 - [Mudarse a Dubái desde México: lo que tienes que saber](/es/mudarse-a-dubai-desde-mexico/)
+- [Mudarse a Dubái desde Chile: lo que cambia para un chileno](/es/mudarse-a-dubai-desde-chile/)

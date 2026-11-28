@@ -148,3 +148,8 @@ Wilt u uw vertrek met iemand doorlopen die Nederlands spreekt en de Dubai-kant k
 
 - [Belastingverdrag Nederland–VAE](/nl/belastingverdrag-nederland-vae/)
 - [Bv verplaatsen naar Dubai](/nl/bv-verplaatsen-naar-dubai/)
+
+## Verder lezen
+
+- [Nederlanders in Dubai: de praktische gids voor wie vertrekt of er al woont](/nl/blog/nederlanders-in-dubai/)
+- [Verhuizen naar Dubai als Marokkaanse Nederlander of Marokkaanse Belg: wat u regelt](/nl/verhuizen-naar-dubai-marokkaanse-nederlanders/)

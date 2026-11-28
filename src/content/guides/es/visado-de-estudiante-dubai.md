@@ -202,3 +202,7 @@ Según u.ae, los miembros de la familia de un estudiante extranjero matriculado 
 - [ ] Reconocimiento médico, huellas y Emirates ID nada más llegar
 - [ ] Seguro médico en vigor todo el año
 - [ ] Recordatorio un mes antes de la expiración para la renovación
+
+## Para ir más lejos
+
+- [Homologar un título universitario de Dubái en tu país: pasos y diferencias](/es/homologar-titulo-dubai/)

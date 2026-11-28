@@ -219,3 +219,7 @@ Uw bedrijf kan in het ene emiraat zijn geregistreerd en u kunt in een ander wone
 - Fiscale verplichtingen geregeld in uw land van vertrek
 
 START IN DUBAI brengt al deze stappen samen in één traject, met één aanspreekpunt, in uw eigen taal (Arabisch, Frans, Engels, Spaans, Nederlands, Italiaans): bedrijf, bankrekening, visa, woning en scholen. De dienst is open: [vraag een eerste gratis gesprek aan](/nl/#inscription).
+
+## Verder lezen
+
+- [Terugkeren naar Nederland vanuit Dubai: wat u wanneer regelt](/nl/blog/terugkeren-naar-nederland-vanuit-dubai/)

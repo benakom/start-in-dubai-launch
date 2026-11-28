@@ -159,3 +159,7 @@ Beyond the monthly budget, settling in itself is costly. Set aside a reserve for
 7. three to six months of everyday expenses in advance, to cope with the unexpected.
 
 For all the other steps of settling in, follow our guide to [moving to Dubai](/en/moving-to-dubai/). START IN DUBAI can then coordinate everything with you, in your language (Arabic, French, English, Spanish, Dutch, Italian): [Ask for a free first call](/en/#inscription).
+
+## Go further
+
+- [Dubai laws for expats: the rules that affect your daily life](/en/dubai-laws-for-expats/)

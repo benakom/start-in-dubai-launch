@@ -164,3 +164,6 @@ In parole povere: una società di consulenza in zona franca che fattura soprattu
 
 - [Esterovestizione e società a Dubai: quando una società emiratina è residente in Italia](/it/esterovestizione-societa-dubai/)
 - [Partita IVA a Dubai: cosa diventa quella italiana e come lavorare per clienti italiani](/it/partita-iva-dubai/)
+- [Aprire un'attività italiana a Dubai: ristorante, retail e permessi da ottenere](/it/attivita-italiana-a-dubai/)
+- [Esportare a Dubai con una società di trading: dogana, licenza e dazi](/it/esportare-in-dubai-societa-trading/)
+- [Holding a Dubai per italiani: come funziona, cosa tassano gli Emirati e cosa guarda il fisco italiano](/it/holding-dubai-per-italiani/)

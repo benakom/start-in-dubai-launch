@@ -154,3 +154,9 @@ The student visa ends with your studies, and you must change status: employment,
 - [ ] I have paid nothing to an intermediary for "guaranteed" admission or a visa
 
 START IN DUBAI helps students and families with the whole move (student visa, housing, bank, family), in your language (Arabic, French, English, Spanish, Dutch, Italian). [Ask for a free first call](/en/#inscription).
+
+## Go further
+
+- [Golden Visa Dubai for students: grades, GPA, ranking and how to apply](/en/golden-visa-dubai-students/)
+- [Scholarships for international students in the UAE: what exists and how to apply](/en/scholarships-international-students-uae/)
+- [Can international students work in Dubai? The rules, step by step](/en/student-work-rules-dubai/)

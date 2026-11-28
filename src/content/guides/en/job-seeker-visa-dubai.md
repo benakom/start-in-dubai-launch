@@ -165,3 +165,8 @@ Each route has its own conditions and costs, and some depend on your nationality
 - [ ] I have a plan for the day the visa expires
 
 START IN DUBAI helps you plan your move once you know where you stand: residence options, bank, housing and schooling, in your language (Arabic, French, English, Spanish, Dutch, Italian). [Ask for a free first call](/en/#inscription).
+
+## Go further
+
+- [Dubai labour contract rights: what your employment contract guarantees](/en/dubai-labour-contract-rights/)
+- [Teaching jobs in Dubai: licence, KHDA approval, degree attestation and hiring steps](/en/teaching-jobs-dubai/)

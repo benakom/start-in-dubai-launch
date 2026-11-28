@@ -166,3 +166,7 @@ In plain terms: a consulting company in a free zone that mainly invoices mainlan
 - [Business setup in Dubai for Algerians: what to check in 2026](/en/business-setup-dubai-for-algerians/)
 - [Company setup in Dubai for French citizens: the French side of the file](/en/business-setup-dubai-for-french-citizens/)
 - [Business setup in Dubai for Moroccans: what is different for you](/en/business-setup-dubai-for-moroccans/)
+- [LLC vs sole establishment in Dubai: liability, ownership, tax and closing compared](/en/blog/llc-vs-sole-establishment-dubai/)
+- [Company setup in Dubai for African entrepreneurs: what depends on your country](/en/business-setup-dubai-for-african-entrepreneurs/)
+- [Business setup in Dubai for Tunisians: what is different for you](/en/business-setup-dubai-for-tunisians/)
+- [How to close a company in Dubai: liquidation, licence cancellation and FTA deregistration](/en/close-company-dubai/)

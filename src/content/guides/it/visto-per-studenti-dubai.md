@@ -202,3 +202,7 @@ Secondo u.ae, i familiari di uno studente straniero iscritto a un'università de
 - [ ] Visita medica, impronte, Emirates ID fin dall'arrivo
 - [ ] Assicurazione sanitaria valida tutto l'anno
 - [ ] Promemoria un mese prima della scadenza per il rinnovo
+
+## Per approfondire
+
+- [Riconoscimento del titolo di studio di Dubai in Italia: come funziona, passo per passo](/it/riconoscimento-laurea-dubai-italia/)

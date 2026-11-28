@@ -155,3 +155,10 @@ Once settled, register on the register of French citizens living abroad with the
 6. French bank informed of your change of residence, and opening of a bank account in Dubai prepared.
 7. Original driving licence in your luggage for the exchange.
 8. After arrival: residence visa, Emirates ID, health insurance, then consular registration.
+
+## Go further
+
+- [Moving to Dubai from Cameroon: visa, documents and transfers](/en/moving-to-dubai-from-cameroon/)
+- [Moving to Dubai from Egypt: what Egyptians need to know](/en/moving-to-dubai-from-egypt/)
+- [Moving to Dubai from India: visa, emigration clearance, tax and money](/en/moving-to-dubai-from-india/)
+- [Moving to Dubai from Ivory Coast: what Ivorians need to know](/en/moving-to-dubai-from-ivory-coast/)

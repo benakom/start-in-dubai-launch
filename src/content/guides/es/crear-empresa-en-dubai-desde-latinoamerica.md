@@ -150,3 +150,9 @@ Si quieres que alguien te ordene este camino con tu caso concreto, START IN DUBA
 - [Mudarse a Dubái desde Argentina](/es/mudarse-a-dubai-desde-argentina/)
 - [Mudarse a Dubái desde Colombia](/es/mudarse-a-dubai-desde-colombia/)
 - [Mudarse a Dubái desde España](/es/mudarse-a-dubai-desde-espana/)
+
+## Para ir más lejos
+
+- [Autónomo español en Dubái: facturar a España, IVA y residencia fiscal](/es/blog/autonomo-espanol-en-dubai/)
+- [Empresas españolas en Dubái: cómo se implantan y qué debes comprobar](/es/blog/empresas-espanolas-en-dubai/)
+- [Ideas de negocio en Dubái: qué se puede licenciar y cómo elegir la actividad](/es/ideas-de-negocio-en-dubai/)

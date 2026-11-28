@@ -168,3 +168,7 @@ El Ministerio de Asuntos Exteriores pide a los españoles que no son residentes 
 ## Cómo te acompaña START IN DUBAI
 
 START IN DUBAI te acompaña de la A a la Z en los trámites emiratíes (empresa, cuenta bancaria, visados y Golden Visa, vivienda, instalación de la familia, estudios superiores), con un solo interlocutor y en tu idioma. Para el inmobiliario, trabajamos con Cevitas Real Estate, agencia autorizada por RERA (ORN 49294): consulta [cevitas.ae](https://www.cevitas.ae). Puedes pedir tu [primer intercambio gratuito y sin compromiso](/es/#inscription).
+
+## Para ir más lejos
+
+- [Mudarse a Dubái desde Chile: lo que cambia para un chileno](/es/mudarse-a-dubai-desde-chile/)

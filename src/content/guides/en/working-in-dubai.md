@@ -175,3 +175,5 @@ START IN DUBAI helps you organise your move once you have found a job (visas, ho
 - [Dubai job scams: the warning signs and how to verify a job offer](/en/blog/dubai-job-scams/)
 - [What happens if you lose your job in Dubai: visa grace period, money and next steps](/en/blog/lose-job-dubai-visa-grace-period/)
 - [Job seeker visa in Dubai: who can apply, what it costs and how it works](/en/job-seeker-visa-dubai/)
+- [Dubai labour contract rights: what your employment contract guarantees](/en/dubai-labour-contract-rights/)
+- [Teaching jobs in Dubai: licence, KHDA approval, degree attestation and hiring steps](/en/teaching-jobs-dubai/)

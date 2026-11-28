@@ -165,3 +165,8 @@ The conditions are tied to your job. If you are promoted, your salary may cross 
 6. Check the tax consequences in your home country: the visa settles your right to reside, not your tax residence. See [taxes in Dubai](/en/tax-in-dubai/).
 
 START IN DUBAI supports you from A to Z with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian), including the [Golden Visa services](/en/services/golden-visa-services-dubai/). You can book a [free first conversation](/en/#inscription) with no commitment.
+
+## Go further
+
+- [Dubai tourist visa extension: how to extend, what it costs and what to avoid](/en/blog/dubai-tourist-visa-extension/)
+- [UAE Green Visa for freelancers: income rule, permit, documents and steps](/en/uae-green-visa-freelancers/)

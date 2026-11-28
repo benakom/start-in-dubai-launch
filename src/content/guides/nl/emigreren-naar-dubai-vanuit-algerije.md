@@ -183,3 +183,5 @@ START IN DUBAI begeleidt van A tot Z (bedrijf, bankrekening, visa, woning, schol
 ## Verder lezen
 
 - [Emigreren naar Dubai vanuit Nederland: wat u in Nederland en in Dubai moet regelen](/nl/emigreren-naar-dubai-vanuit-nederland/)
+- [Nederlanders in Dubai: de praktische gids voor wie vertrekt of er al woont](/nl/blog/nederlanders-in-dubai/)
+- [Verhuizen naar Dubai als Marokkaanse Nederlander of Marokkaanse Belg: wat u regelt](/nl/verhuizen-naar-dubai-marokkaanse-nederlanders/)

@@ -182,3 +182,8 @@ Enfin, la **licence se renouvelle** auprès du DET, en général chaque année, 
 8. Ouvrez le compte bancaire et enregistrez la société à l'impôt sur les sociétés dans les 3 mois.
 
 START IN DUBAI vous accompagne de A à Z : choix de la structure, licence, bail, visas, compte bancaire et installation de la famille, avec un seul interlocuteur, dans votre langue (arabe, français, anglais, espagnol, néerlandais, italien). Notre page [accompagnement à la création de société](/services/creation-de-societe-dubai/) détaille notre façon de travailler. Pour parler de votre projet, réservez votre [premier échange gratuit](/#inscription), sans engagement.
+
+## Pour aller plus loin
+
+- [Créer sa société à Ras Al Khaimah, Sharjah ou Ajman : zones, visas et limites](/creer-sa-societe-hors-dubai/)
+- [Holding à Dubaï : quelle structure choisir, quel impôt, quelles limites](/holding-dubai/)

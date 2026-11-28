@@ -138,3 +138,7 @@ Para tener cuenta en los Emiratos suele hacer falta residencia o empresa: lee la
 7. Seguro médico desde la llegada.
 
 START IN DUBAI te acompaña de la A a la Z, con un único interlocutor y en español. [Solicita una primera conversación gratuita](/es/#inscription).
+
+## Para ir más lejos
+
+- [Mudarse a Dubái desde Chile: lo que cambia para un chileno](/es/mudarse-a-dubai-desde-chile/)

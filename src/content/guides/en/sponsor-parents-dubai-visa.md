@@ -144,3 +144,7 @@ For families from the Maghreb or from Europe, a further step is to anticipate th
 6. Plan for renewal and for what happens if your own visa changes.
 
 START IN DUBAI supports families from A to Z with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian). Property is handled by our partner [Cevitas Real Estate](https://www.cevitas.ae), a RERA-licensed agency. You can book a [free first conversation](/en/#inscription) with no commitment.
+
+## Go further
+
+- [International schools in Dubai: how fees work and how to read the KHDA grids](/en/international-schools-dubai-fees/)

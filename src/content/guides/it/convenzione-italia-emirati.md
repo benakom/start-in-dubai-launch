@@ -123,3 +123,10 @@ Se percepisci una pensione italiana, la guida alla [pensione INPS all'estero](/i
 7. **Fai validare tutto da un commercialista italiano** prima di cancellarti dall'anagrafe: leggi la guida all'[AIRE a Dubai](/it/aire-dubai/).
 
 START IN DUBAI ti accompagna nella parte emiratina del trasferimento (visto di residenza, società, conto bancario, alloggio, famiglia) con un solo interlocutore che parla italiano. Per parlarne, [richiedi un primo colloquio gratuito e senza impegno](/it/#inscription). L'interpretazione della convenzione per il tuo caso resta al tuo commercialista: START IN DUBAI non fornisce consulenza fiscale.
+
+## Per approfondire
+
+- [Accertamento fiscale a un residente a Dubai: come funziona e cosa conta](/it/blog/accertamento-fiscale-residente-dubai/)
+- [Conto corrente a Dubai, quadro RW e IVAFE: chi deve dichiararlo in Italia](/it/blog/conto-dubai-quadro-rw-ivafe/)
+- [Crypto a Dubai per italiani: tasse italiane, regolatori emiratini e residenza fiscale](/it/crypto-dubai-italiani-tasse/)
+- [Trasferire denaro dall'Italia a Dubai: bonifico, cambio, contante e dichiarazioni](/it/trasferire-denaro-dall-italia-a-dubai/)

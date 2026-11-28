@@ -176,3 +176,7 @@ Lavorare senza permesso è vietato e può costare il visto. Per il dopo, una vol
 - [ ] Confrontare le spese complete: rette, visto, assicurazione, alloggio
 - [ ] Chiedere le borse per merito fin dalla candidatura
 - [ ] Avviare il visto per studenti con l'università (o tramite i genitori residenti)
+
+## Per approfondire
+
+- [Riconoscimento del titolo di studio di Dubai in Italia: come funziona, passo per passo](/it/riconoscimento-laurea-dubai-italia/)

@@ -193,3 +193,8 @@ Ajouter une activité, changer d'associé ou de gérant se fait par une **modifi
 - [ ] Dossier bancaire préparé en parallèle
 
 START IN DUBAI prépare votre dossier de licence, le dépose auprès de l'autorité compétente et enchaîne avec les visas et le compte bancaire : voir notre [accompagnement à la création de société](/services/creation-de-societe-dubai/). Pour en parler, demandez un [premier échange gratuit](/#inscription).
+
+## Pour aller plus loin
+
+- [Créer sa société à Ras Al Khaimah, Sharjah ou Ajman : zones, visas et limites](/creer-sa-societe-hors-dubai/)
+- [Holding à Dubaï : quelle structure choisir, quel impôt, quelles limites](/holding-dubai/)

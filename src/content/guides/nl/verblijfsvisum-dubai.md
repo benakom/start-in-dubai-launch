@@ -165,3 +165,7 @@ Als uw visum op deze manier is geannuleerd, kunt u via een procedure vanuit het 
 - **Verblijf en fiscale woonplaats door elkaar halen**: een visum hebben volstaat niet om in uw land niet meer belast te worden. Lees onze gids over de [belasting in Dubai](/nl/belasting-dubai/).
 
 START IN DUBAI begeleidt u van A tot Z (bedrijf, bankrekening, visa, woning, scholen), met één aanspreekpunt, in uw eigen taal (Arabisch, Frans, Engels, Spaans, Nederlands, Italiaans).
+
+## Verder lezen
+
+- [Werkvisum voor Dubai: zo verloopt de aanvraag van werkvergunning tot verblijfsvisum](/nl/werkvisum-dubai/)

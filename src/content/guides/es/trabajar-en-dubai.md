@@ -173,3 +173,5 @@ START IN DUBAI te ayuda a organizar tu instalación cuando ya tengas el empleo (
 ## Para ir más lejos
 
 - [Trabajos en Dubái para latinos: cómo encontrar empleo y no caer en estafas](/es/trabajar-en-dubai-siendo-latino/)
+- [Estafas de trabajo en Dubái: cómo reconocer una oferta falsa y qué hacer si caes](/es/blog/estafas-trabajo-dubai/)
+- [Profesor de español en Dubái: cómo trabajar dando clases de español](/es/profesor-de-espanol-en-dubai/)

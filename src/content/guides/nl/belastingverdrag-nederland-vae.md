@@ -173,3 +173,10 @@ Dit artikel is geen fiscaal advies. Het geeft de verdragstekst weer, met de bron
 ## Wat START IN DUBAI wel kan doen
 
 START IN DUBAI begeleidt uw installatie van A tot Z: bedrijf, bankrekening, visa, woning, scholen en studies, met één aanspreekpunt, in uw eigen taal (Arabisch, Frans, Engels, Spaans, Nederlands, Italiaans). Een fiscaal advies over uw Nederlandse situatie geven wij niet: daarvoor verwijzen wij u naar een Nederlandse fiscalist. Heeft u een bedrijfsplan, lees dan onze gids over [een bedrijf oprichten in Dubai](/nl/bedrijf-oprichten-in-dubai/) en onze gids over de [bankrekening in Dubai](/nl/bankrekening-openen-dubai/). Plan uw vertrek stap voor stap met [een eerste gratis gesprek](/nl/#inscription).
+
+## Verder lezen
+
+- [30 procent regeling vanuit Dubai: komt u in aanmerking als u in Nederland gaat werken?](/nl/blog/30-procent-regeling-dubai/)
+- [Belastingaangifte bij emigratie naar Dubai: de M-aangifte stap voor stap](/nl/blog/belastingaangifte-emigratie-dubai/)
+- [Testament en erfrecht in Dubai: wat een Nederlander moet weten over DIFC Wills](/nl/blog/testament-en-erfrecht-dubai/)
+- [Pensioen opbouwen in Dubai: wat de Emiraten bieden en wat u zelf regelt](/nl/pensioen-opbouwen-in-dubai/)

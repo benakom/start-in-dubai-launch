@@ -126,3 +126,10 @@ Wilt u uw vertrek en uw Dubai-start laten samenvallen? [Neem een gratis eerste g
 
 - [Belastingverdrag Nederland–VAE](/nl/belastingverdrag-nederland-vae/)
 - [Bv verplaatsen naar Dubai](/nl/bv-verplaatsen-naar-dubai/)
+
+## Verder lezen
+
+- [30 procent regeling vanuit Dubai: komt u in aanmerking als u in Nederland gaat werken?](/nl/blog/30-procent-regeling-dubai/)
+- [Belastingaangifte bij emigratie naar Dubai: de M-aangifte stap voor stap](/nl/blog/belastingaangifte-emigratie-dubai/)
+- [Testament en erfrecht in Dubai: wat een Nederlander moet weten over DIFC Wills](/nl/blog/testament-en-erfrecht-dubai/)
+- [Pensioen opbouwen in Dubai: wat de Emiraten bieden en wat u zelf regelt](/nl/pensioen-opbouwen-in-dubai/)

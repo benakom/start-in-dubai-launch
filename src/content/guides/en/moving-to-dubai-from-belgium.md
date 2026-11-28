@@ -129,3 +129,10 @@ The SSOM does not replace the local health insurance required for the residence 
 5. Decision on the SSOM and your health insurance fund informed.
 6. Departure declaration to the municipality at the latest the day before departure, and model 8 in hand.
 7. After arrival: residence visa, Emirates ID, health insurance, bank account in Dubai, eConsul registration with the Abu Dhabi embassy, then licence exchange.
+
+## Go further
+
+- [Moving to Dubai from Cameroon: visa, documents and transfers](/en/moving-to-dubai-from-cameroon/)
+- [Moving to Dubai from Egypt: what Egyptians need to know](/en/moving-to-dubai-from-egypt/)
+- [Moving to Dubai from India: visa, emigration clearance, tax and money](/en/moving-to-dubai-from-india/)
+- [Moving to Dubai from Ivory Coast: what Ivorians need to know](/en/moving-to-dubai-from-ivory-coast/)

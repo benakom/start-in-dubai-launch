@@ -202,3 +202,7 @@ Le budget d'une famille à Dubaï se joue surtout sur trois postes : **le logeme
 - [ ] Périmètre de logement défini autour de l'école
 - [ ] Budget logement, école, assurance validé
 - [ ] Assurance santé famille choisie avant le dépôt des visas
+
+## Pour aller plus loin
+
+- [École internationale à Dubaï : choisir un programme, lire le KHDA, inscrire son enfant](/ecoles-internationales-dubai/)

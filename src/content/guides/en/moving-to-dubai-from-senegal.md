@@ -183,3 +183,10 @@ The Senegalese diaspora in the UAE is active, notably in trade with Senegal. Eng
 7. Contact details of the Senegalese embassy in Abu Dhabi.
 
 For the rest of the journey (housing, Emirates ID, schools), read our guide to [moving to Dubai](/en/moving-to-dubai/).
+
+## Go further
+
+- [Moving to Dubai from Cameroon: visa, documents and transfers](/en/moving-to-dubai-from-cameroon/)
+- [Moving to Dubai from Egypt: what Egyptians need to know](/en/moving-to-dubai-from-egypt/)
+- [Moving to Dubai from India: visa, emigration clearance, tax and money](/en/moving-to-dubai-from-india/)
+- [Moving to Dubai from Ivory Coast: what Ivorians need to know](/en/moving-to-dubai-from-ivory-coast/)

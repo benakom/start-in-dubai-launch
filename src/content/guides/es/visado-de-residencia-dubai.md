@@ -165,3 +165,9 @@ Si tu visado se ha cancelado de este modo, un procedimiento permite solicitar un
 - **Confundir residencia y residencia fiscal**: tener un visado no basta para dejar de tributar en tu país. Lee nuestra guía sobre los [impuestos en Dubái](/es/impuestos-dubai/).
 
 START IN DUBAI te acompaña de la A a la Z (empresa, cuenta bancaria, visados, vivienda, colegios), con un solo interlocutor, en tu idioma (árabe, francés, inglés, español, neerlandés, italiano).
+
+## Para ir más lejos
+
+- [Green Visa de los Emiratos: quién puede obtenerlo y qué pide la ICP](/es/blog/green-visa-emiratos/)
+- [Visado de negocios para Dubái: cuál existe de verdad y qué permite](/es/blog/visado-de-negocios-dubai/)
+- [Golden Visa de Dubái para españoles y latinoamericanos: qué cambia según tu país de origen](/es/golden-visa-dubai-espanoles-latinos/)

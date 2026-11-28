@@ -155,3 +155,7 @@ Na het baccalauréat kunnen leerlingen van de Franse lycea in Dubai verder stude
 - [ ] De dossierkosten en het bevestigingsvoorschot inplannen
 - [ ] De woning kiezen op basis van de gekozen school (zie [naar Dubai emigreren](/nl/emigreren-naar-dubai/))
 - [ ] De KHDA-registratie afronden zodra de Emirates ID van het kind beschikbaar is
+
+## Verder lezen
+
+- [Nederlandse school in Dubai: wat bestaat er en wat zijn de alternatieven?](/nl/nederlandse-school-dubai/)

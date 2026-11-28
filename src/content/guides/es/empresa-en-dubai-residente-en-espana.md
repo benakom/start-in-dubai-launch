@@ -142,3 +142,9 @@ El visado de residencia vinculado a tu empresa se explica en la guía del [visad
 ## Qué no puede hacer START IN DUBAI
 
 START IN DUBAI no es un despacho fiscal español ni da asesoramiento fiscal sobre tu situación en España. Te acompañamos en los trámites emiratíes (empresa, cuenta bancaria, visados y Golden Visa, instalación de la familia), con un solo interlocutor y en tu idioma, y te decimos con franqueza cuándo tu caso necesita un asesor español. Puedes pedir un [primer intercambio gratuito y sin compromiso](/es/#inscription) para ordenar los pasos en los Emiratos. Para la guía general, consulta [crear una empresa en Dubái](/es/crear-empresa-en-dubai/).
+
+## Para ir más lejos
+
+- [Autónomo español en Dubái: facturar a España, IVA y residencia fiscal](/es/blog/autonomo-espanol-en-dubai/)
+- [Empresas españolas en Dubái: cómo se implantan y qué debes comprobar](/es/blog/empresas-espanolas-en-dubai/)
+- [Ideas de negocio en Dubái: qué se puede licenciar y cómo elegir la actividad](/es/ideas-de-negocio-en-dubai/)

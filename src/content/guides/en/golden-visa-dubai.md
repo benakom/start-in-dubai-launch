@@ -184,3 +184,8 @@ Once your Golden Visa is issued, you can sponsor your spouse, children and paren
 6. Keep the tax question in your home country in mind before you move.
 
 The Golden Visa is only one piece of your project. If you also plan to invest, our guide to [investing in Dubai](/en/invest-in-dubai/) helps you choose the right route. START IN DUBAI supports you from A to Z (company, bank account, visas, housing, schools), with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian).
+
+## Go further
+
+- [Dubai tourist visa extension: how to extend, what it costs and what to avoid](/en/blog/dubai-tourist-visa-extension/)
+- [UAE Green Visa for freelancers: income rule, permit, documents and steps](/en/uae-green-visa-freelancers/)

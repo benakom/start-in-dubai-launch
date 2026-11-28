@@ -3,7 +3,7 @@ title: "Crear empresa en Dubái siendo español: pasos, costes y fiscalidad"
 description: "Crear empresa en Dubái siendo español: propiedad 100 % extranjera, zona franca o mainland, visado, cuenta bancaria, impuestos y riesgos desde España."
 h1: "Crear una empresa en Dubái siendo español: guía paso a paso"
 keyword: "crear empresa en dubái españoles"
-secondary: ["crear empresa en dubái siendo español", "abrir una empresa en dubái para españoles", "sociedad en dubái para españoles", "empresa en dubái para autónomos españoles"]
+secondary: ["crear empresa en dubái siendo español", "abrir una empresa en dubái para españoles", "sociedad en dubái para españoles"]
 cluster: societe
 updated: 2026-11-28
 intro: "Un español puede crear una empresa en Dubái sin socio local en la mayoría de actividades, con el pasaporte español y en una zona franca o en el mainland. Lo difícil no es el trámite emiratí, sino lo que viene después: si sigues viviendo en España, tu empresa emiratí puede acabar tributando en España, y si te mudas, tienes que demostrarlo. Esta guía separa los dos casos."
@@ -110,7 +110,7 @@ El impuesto emiratí es solo una parte. Para un español hay otra, que depende d
 
 ## Para autónomos y profesionales españoles
 
-Si hoy facturas como autónomo en España y piensas pasar a una sociedad en Dubái, la pregunta no es cuánto pagas allí, sino **dónde eres residente y dónde se presta el servicio**. Un profesional que sigue viviendo en España y factura a clientes españoles a través de una sociedad emiratí es exactamente el caso en el que las reglas españolas pueden pesar más que el tipo del 9 %. Consulta nuestra guía de [freelance en Dubái](/es/freelance-dubai/) y la sección fiscal de la guía de empresa residente en España.
+Si hoy facturas como autónomo en España y piensas pasar a una sociedad en Dubái, la pregunta no es cuánto pagas allí, sino **dónde eres residente y dónde se presta el servicio**. Un profesional que sigue viviendo en España y factura a clientes españoles a través de una sociedad emiratí es exactamente el caso en el que las reglas españolas pueden pesar más que el tipo del 9 %. Consulta nuestra guía de [freelance en Dubái](/es/freelance-dubai/) y la sección fiscal de la guía de empresa residente en España. Para el caso concreto del autónomo (IVA, facturación a España, residencia fiscal), tienes el artículo [autónomo español en Dubái](/es/blog/autonomo-espanol-en-dubai/).
 
 ## Errores frecuentes
 
@@ -124,3 +124,8 @@ Si hoy facturas como autónomo en España y piensas pasar a una sociedad en Dub�
 ## Cómo te acompaña START IN DUBAI
 
 START IN DUBAI te acompaña de la A a la Z en los trámites emiratíes: creación de la empresa, cuenta bancaria, visados y Golden Visa, vivienda, instalación de la familia, estudios superiores, con un solo interlocutor y en español. Para el inmobiliario, trabajamos con Cevitas Real Estate, agencia autorizada por RERA (ORN 49294): [cevitas.ae](https://www.cevitas.ae). Puedes pedir un [primer intercambio gratuito y sin compromiso](/es/#inscription).
+
+## Para ir más lejos
+
+- [Empresas españolas en Dubái: cómo se implantan y qué debes comprobar](/es/blog/empresas-espanolas-en-dubai/)
+- [Ideas de negocio en Dubái: qué se puede licenciar y cómo elegir la actividad](/es/ideas-de-negocio-en-dubai/)

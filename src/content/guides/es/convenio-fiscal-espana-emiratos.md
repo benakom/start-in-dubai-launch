@@ -154,3 +154,9 @@ Para invocar el convenio, normalmente necesitas el certificado de residencia fis
 ## Cómo te acompaña START IN DUBAI
 
 START IN DUBAI te acompaña en los trámites emiratíes (empresa, cuenta bancaria, visados y Golden Visa, instalación de la familia), con un solo interlocutor y en tu idioma. Para la fiscalidad española, pide siempre a un asesor español que valide tu caso. Tu [primer intercambio gratuito y sin compromiso](/es/#inscription) sirve para ordenar los pasos en los Emiratos. Para ver los trámites de la mudanza, consulta [mudarse a Dubái](/es/mudarse-a-dubai/).
+
+## Para ir más lejos
+
+- [Convenio de doble imposición entre Latinoamérica y los Emiratos: estado país por país](/es/blog/convenio-fiscal-latinoamerica-emiratos/)
+- [Enviar dinero a Dubái: cómo hacerlo bien y qué reglas hay en tu país](/es/enviar-dinero-a-dubai/)
+- [Residencia fiscal en Dubái si vienes de España: la regla de los 183 días y las pruebas](/es/residencia-fiscal-dubai-espana/)

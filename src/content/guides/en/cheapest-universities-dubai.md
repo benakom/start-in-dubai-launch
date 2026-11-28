@@ -167,3 +167,9 @@ Do not choose on price alone. Check three things:
 - [ ] I have asked for scholarship criteria in writing
 
 START IN DUBAI helps students and families with the whole move (visa, housing, bank, family), in your language (Arabic, French, English, Spanish, Dutch, Italian). [Ask for a free first call](/en/#inscription).
+
+## Go further
+
+- [Golden Visa Dubai for students: grades, GPA, ranking and how to apply](/en/golden-visa-dubai-students/)
+- [Scholarships for international students in the UAE: what exists and how to apply](/en/scholarships-international-students-uae/)
+- [Can international students work in Dubai? The rules, step by step](/en/student-work-rules-dubai/)

@@ -154,3 +154,7 @@ Après le bac, les élèves des lycées français de Dubaï peuvent poursuivre e
 - [ ] Prévoir les frais de dossier et l'acompte de confirmation
 - [ ] Choisir le logement en fonction de l'école retenue (voir [s'installer à Dubaï](/s-installer-a-dubai/))
 - [ ] Finaliser l'enregistrement KHDA dès que l'Emirates ID de l'enfant est disponible
+
+## Pour aller plus loin
+
+- [École internationale à Dubaï : choisir un programme, lire le KHDA, inscrire son enfant](/ecoles-internationales-dubai/)

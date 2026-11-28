@@ -178,3 +178,8 @@ Les zones ajustent parfois leurs frais. En avril 2026, DIEZ a par exemple annonc
 - **Signer sans lire les conditions de renouvellement et de fermeture.**
 
 START IN DUBAI compare avec vous les zones réalistes pour votre activité, puis s'occupe de la licence, des visas et du compte bancaire : voir notre [accompagnement à la création de société](/services/creation-de-societe-dubai/). Pour en parler, demandez un [premier échange gratuit](/#inscription).
+
+## Pour aller plus loin
+
+- [Créer sa société à Ras Al Khaimah, Sharjah ou Ajman : zones, visas et limites](/creer-sa-societe-hors-dubai/)
+- [Holding à Dubaï : quelle structure choisir, quel impôt, quelles limites](/holding-dubai/)

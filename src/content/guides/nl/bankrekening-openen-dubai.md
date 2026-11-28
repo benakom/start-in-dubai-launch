@@ -187,3 +187,7 @@ Een rekening openen gaat hand in hand met de fiscaliteit van uw verhuizing: lees
 - [Het belastingverdrag tussen Nederland en de VAE: wat staat erin?](/nl/belastingverdrag-nederland-vae/)
 - [Box 3 en Dubai: blijft u box 3 betalen als u naar Dubai emigreert?](/nl/box-3-dubai/)
 - [Uitschrijven uit Nederland als u naar Dubai emigreert: wanneer, hoe en wat er daarna verandert](/nl/uitschrijven-nederland-dubai/)
+- [30 procent regeling vanuit Dubai: komt u in aanmerking als u in Nederland gaat werken?](/nl/blog/30-procent-regeling-dubai/)
+- [Belastingaangifte bij emigratie naar Dubai: de M-aangifte stap voor stap](/nl/blog/belastingaangifte-emigratie-dubai/)
+- [Testament en erfrecht in Dubai: wat een Nederlander moet weten over DIFC Wills](/nl/blog/testament-en-erfrecht-dubai/)
+- [Pensioen opbouwen in Dubai: wat de Emiraten bieden en wat u zelf regelt](/nl/pensioen-opbouwen-in-dubai/)

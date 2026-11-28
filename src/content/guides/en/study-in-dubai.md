@@ -181,3 +181,6 @@ Working without a permit is prohibited and can cost you your visa. For what come
 
 - [Cheapest universities in Dubai: how to compare real costs, not marketing prices](/en/cheapest-universities-dubai/)
 - [Studying in Dubai from Africa: what to prepare, what it costs and what to check](/en/study-in-dubai-from-africa/)
+- [Golden Visa Dubai for students: grades, GPA, ranking and how to apply](/en/golden-visa-dubai-students/)
+- [Scholarships for international students in the UAE: what exists and how to apply](/en/scholarships-international-students-uae/)
+- [Can international students work in Dubai? The rules, step by step](/en/student-work-rules-dubai/)

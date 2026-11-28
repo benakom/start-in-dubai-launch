@@ -177,3 +177,8 @@ Ajoutez dans votre téléphone le numéro du consulat de votre pays. Pour les Fr
 8. Oublier que Sharjah applique ses propres règles sur l’alcool.
 
 Ces règles font partie de la vie à Dubaï, au même titre que le climat ou le coût du logement : notre guide pour [vivre à Dubaï](/vivre-a-dubai/) fait le point sur le reste du quotidien, et notre guide pour [s’installer à Dubaï](/s-installer-a-dubai/) sur les démarches. START IN DUBAI vous accompagne de A à Z dans votre installation (visas, société, compte bancaire, logement, famille), avec un seul interlocuteur dans votre langue : réservez un [premier échange gratuit](/#inscription).
+
+## Pour aller plus loin
+
+- [Animaux à Dubaï : importer son chien ou son chat et l’enregistrer](/blog/animaux-dubai/)
+- [Carte SIM Dubaï pour résident : opérateurs, documents et internet à la maison](/blog/telephone-internet-dubai/)

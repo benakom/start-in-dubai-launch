@@ -158,3 +158,9 @@ Dit netwerk helpt enorm in de eerste maanden, maar blijf kritisch op niet-geveri
 7. Ben ik enkele dagen ter plaatse geweest, bij voorkeur in de zomer, om te zien of dit tempo bij mij past?
 
 Antwoordt u op de meeste vragen ja, dan is uw project rijp. START IN DUBAI begeleidt u daarna van A tot Z, met één aanspreekpunt, in uw taal (Arabisch, Frans, Engels, Spaans, Nederlands, Italiaans). De dienst is open: [vraag een eerste gratis gesprek aan](/nl/#inscription).
+
+## Verder lezen
+
+- [DigiD in Dubai: aanvragen, activeren en inloggen vanuit de VAE](/nl/blog/digid-in-dubai/)
+- [Huisdier meenemen naar Dubai: wat u regelt voor uw hond of kat](/nl/blog/huisdier-meenemen-dubai/)
+- [Nederlandse ambassade in Dubai: wat regelt u waar, en hoe maakt u een afspraak?](/nl/blog/nederlandse-ambassade-dubai/)

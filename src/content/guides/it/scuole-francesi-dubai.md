@@ -155,3 +155,7 @@ Dopo il baccalauréat, gli alunni dei licei francesi di Dubai possono proseguire
 - [ ] Prevedere le spese di pratica e l'acconto di conferma
 - [ ] Scegliere l'alloggio in base alla scuola ottenuta (vedi [trasferirsi a Dubai](/it/trasferirsi-a-dubai/))
 - [ ] Finalizzare la registrazione KHDA non appena l'Emirates ID del bambino è disponibile
+
+## Per approfondire
+
+- [Scuole italiane a Dubai: cosa esiste davvero, le alternative e come iscrivere i figli](/it/scuole-italiane-dubai/)

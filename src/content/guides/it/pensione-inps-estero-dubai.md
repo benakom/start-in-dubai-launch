@@ -154,3 +154,10 @@ Tutto questo funziona solo se sei davvero fiscalmente residente negli Emirati. S
 8. **Pianificare il resto del progetto** (visto, alloggio, assicurazione) con la guida al [visto di residenza a Dubai](/it/visto-di-residenza-dubai/).
 
 Se vuoi preparare l'intero trasferimento con un solo interlocutore che parla italiano, START IN DUBAI ti accompagna dalla A alla Z (società, conto bancario, visti, alloggio, famiglia). Per parlarne, [richiedi un primo colloquio gratuito e senza impegno](/it/#inscription). Per le questioni fiscali sulla tua pensione, rivolgiti al tuo commercialista o a un consulente fiscale: START IN DUBAI non fornisce consulenza fiscale.
+
+## Per approfondire
+
+- [Accertamento fiscale a un residente a Dubai: come funziona e cosa conta](/it/blog/accertamento-fiscale-residente-dubai/)
+- [Conto corrente a Dubai, quadro RW e IVAFE: chi deve dichiararlo in Italia](/it/blog/conto-dubai-quadro-rw-ivafe/)
+- [Crypto a Dubai per italiani: tasse italiane, regolatori emiratini e residenza fiscale](/it/crypto-dubai-italiani-tasse/)
+- [Trasferire denaro dall'Italia a Dubai: bonifico, cambio, contante e dichiarazioni](/it/trasferire-denaro-dall-italia-a-dubai/)

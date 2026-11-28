@@ -165,3 +165,6 @@ En claro: una empresa de consultoría en zona franca que factura sobre todo a cl
 - [Crear una empresa en Dubái desde Latinoamérica: lo que cambia para ti](/es/crear-empresa-en-dubai-desde-latinoamerica/)
 - [Crear una empresa en Dubái siendo español: guía paso a paso](/es/crear-empresa-en-dubai-siendo-espanol/)
 - [Tener una empresa en Dubái siendo residente en España: lo que dice la ley](/es/empresa-en-dubai-residente-en-espana/)
+- [Autónomo español en Dubái: facturar a España, IVA y residencia fiscal](/es/blog/autonomo-espanol-en-dubai/)
+- [Empresas españolas en Dubái: cómo se implantan y qué debes comprobar](/es/blog/empresas-espanolas-en-dubai/)
+- [Ideas de negocio en Dubái: qué se puede licenciar y cómo elegir la actividad](/es/ideas-de-negocio-en-dubai/)

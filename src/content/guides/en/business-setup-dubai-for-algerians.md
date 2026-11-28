@@ -150,3 +150,10 @@ If you want to compare providers calmly, use our guide on [how to choose a busin
 8. Corporate tax registration deadline noted.
 
 START IN DUBAI supports entrepreneurs from A to Z (company, bank account, visas and Golden Visa, housing, family and higher education), with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian). [Ask for a free first call](/en/#inscription).
+
+## Go further
+
+- [LLC vs sole establishment in Dubai: liability, ownership, tax and closing compared](/en/blog/llc-vs-sole-establishment-dubai/)
+- [Company setup in Dubai for African entrepreneurs: what depends on your country](/en/business-setup-dubai-for-african-entrepreneurs/)
+- [Business setup in Dubai for Tunisians: what is different for you](/en/business-setup-dubai-for-tunisians/)
+- [How to close a company in Dubai: liquidation, licence cancellation and FTA deregistration](/en/close-company-dubai/)

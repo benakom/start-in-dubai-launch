@@ -147,3 +147,9 @@ Quanto ai costi di una società, per cifre aggiornate leggi l'articolo sul [cost
 8. **Evitare scorciatoie**: nessuna promessa del tipo «zero tasse» resiste a una verifica sui fatti.
 
 START IN DUBAI ti accompagna nella costituzione della società, nel conto bancario, nei visti e nel trasferimento, con un solo interlocutore che parla italiano. Per parlarne, [richiedi un primo colloquio gratuito e senza impegno](/it/#inscription). Per la valutazione fiscale italiana rivolgiti al tuo commercialista: START IN DUBAI non fornisce consulenza fiscale.
+
+## Per approfondire
+
+- [Aprire un'attività italiana a Dubai: ristorante, retail e permessi da ottenere](/it/attivita-italiana-a-dubai/)
+- [Esportare a Dubai con una società di trading: dogana, licenza e dazi](/it/esportare-in-dubai-societa-trading/)
+- [Holding a Dubai per italiani: come funziona, cosa tassano gli Emirati e cosa guarda il fisco italiano](/it/holding-dubai-per-italiani/)

@@ -67,7 +67,7 @@ for (const l of onlyLang ? [onlyLang] : LANGS) {
     if (fm.cluster && !CLUSTERS.includes(fm.cluster)) err(rel, `cluster inconnu : ${fm.cluster}`);
     if (!Array.isArray(fm.essentials) || fm.essentials.length < 3) err(rel, "essentials : 3 à 6 faits attendus");
     if (!Array.isArray(fm.faq) || fm.faq.length < 3) err(rel, "faq : au moins 3 questions");
-    for (const r of fm.related || []) if (!SLUGS[r] && !fs.existsSync(path.join(DIR, "fr", r + ".md"))) err(rel, `related inconnu (doit être un slug français) : ${r}`);
+    for (const r of fm.related || []) if (!SLUGS[r] && !fs.existsSync(path.join(ROOT, "src/content/guides/fr", r + ".md"))) err(rel, `related inconnu (doit être un slug de guide français) : ${r}`);
     if (l !== "fr") {
       const MAP = COLL === "guides" ? SLUGS : (() => { try { const m = JSON.parse(fs.readFileSync(path.join(ROOT, "src/data", COLL + "-slugs.json"), "utf8")); delete m._doc; return m; } catch { return {}; } })();
       if (!fm.key) err(rel, "key manquant (slug de la page française)");

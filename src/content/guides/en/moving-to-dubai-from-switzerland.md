@@ -139,3 +139,10 @@ Each canton legalises only its own documents: a document issued in another canto
 - **Having a document legalised in the wrong canton.** Each chancellery handles only its own documents.
 - **Arriving without health insurance.** LAMal stops at departure, and insurance is required for the residence visa.
 - **Forgetting the bank account in Dubai.** You often need the Emirates ID to open one: plan enough to get through the first weeks with your Swiss account.
+
+## Go further
+
+- [Moving to Dubai from Cameroon: visa, documents and transfers](/en/moving-to-dubai-from-cameroon/)
+- [Moving to Dubai from Egypt: what Egyptians need to know](/en/moving-to-dubai-from-egypt/)
+- [Moving to Dubai from India: visa, emigration clearance, tax and money](/en/moving-to-dubai-from-india/)
+- [Moving to Dubai from Ivory Coast: what Ivorians need to know](/en/moving-to-dubai-from-ivory-coast/)

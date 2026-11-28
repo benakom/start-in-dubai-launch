@@ -195,3 +195,4 @@ Avant de vous lancer, notre guide pour [s'installer à Dubaï](/s-installer-a-du
 ## Pour aller plus loin
 
 - [Résidence fiscale à Dubaï : devenir résident et obtenir son certificat](/residence-fiscale-dubai/)
+- [Transférer de l’argent à Dubaï depuis le Maroc, la France, l’Algérie et ailleurs](/transferer-de-l-argent-a-dubai/)

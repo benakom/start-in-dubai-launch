@@ -186,3 +186,7 @@ Aprire un conto va di pari passo con la fiscalità del tuo trasferimento: leggi 
 - [Convenzione Italia-Emirati contro le doppie imposizioni: cosa dice il testo ufficiale](/it/convenzione-italia-emirati/)
 - [Pensione INPS all'estero a Dubai: pagamento, esistenza in vita e tasse](/it/pensione-inps-estero-dubai/)
 - [Residenza fiscale tra Italia ed Emirati: quando sei ancora residente in Italia](/it/residenza-fiscale-italia-emirati/)
+- [Accertamento fiscale a un residente a Dubai: come funziona e cosa conta](/it/blog/accertamento-fiscale-residente-dubai/)
+- [Conto corrente a Dubai, quadro RW e IVAFE: chi deve dichiararlo in Italia](/it/blog/conto-dubai-quadro-rw-ivafe/)
+- [Crypto a Dubai per italiani: tasse italiane, regolatori emiratini e residenza fiscale](/it/crypto-dubai-italiani-tasse/)
+- [Trasferire denaro dall'Italia a Dubai: bonifico, cambio, contante e dichiarazioni](/it/trasferire-denaro-dall-italia-a-dubai/)

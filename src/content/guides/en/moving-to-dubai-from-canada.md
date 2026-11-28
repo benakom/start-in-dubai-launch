@@ -139,3 +139,10 @@ The most visible difference is the absence of personal income tax in the UAE: yo
 6. Bank and investments informed of your change of residence.
 7. Original driving licence in your luggage for the conversion.
 8. After arrival: residence visa, Emirates ID, local bank account, then licence conversion.
+
+## Go further
+
+- [Moving to Dubai from Cameroon: visa, documents and transfers](/en/moving-to-dubai-from-cameroon/)
+- [Moving to Dubai from Egypt: what Egyptians need to know](/en/moving-to-dubai-from-egypt/)
+- [Moving to Dubai from India: visa, emigration clearance, tax and money](/en/moving-to-dubai-from-india/)
+- [Moving to Dubai from Ivory Coast: what Ivorians need to know](/en/moving-to-dubai-from-ivory-coast/)

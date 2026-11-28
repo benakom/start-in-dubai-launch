@@ -172,3 +172,10 @@ Prepare short, factual answers to the questions that come back in almost every o
 START IN DUBAI supports company setup and the bank account, with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian). Only the bank decides, and nobody can promise an outcome. [Book a free first call](/en/#inscription).
 
 Last checked on u.ae and the Central Bank rulebook in November 2026.
+
+## Go further
+
+- [Remote worker tax in Dubai: will your home country still tax you?](/en/blog/remote-worker-tax-home-country-dubai/)
+- [Best bank in Dubai for expats: how to choose the right one for your profile](/en/best-banks-dubai-expats/)
+- [Cost of living in Dubai vs London: what you really keep](/en/cost-of-living-dubai-vs-london/)
+- [How to send money to Dubai (and from Dubai) legally and without overpaying](/en/send-money-to-dubai/)

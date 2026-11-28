@@ -222,3 +222,4 @@ START IN DUBAI réunit toutes ces étapes dans un seul parcours, avec un seul in
 ## Pour aller plus loin
 
 - [Déménagement à Dubaï : envoyer ses affaires, passer la douane et venir avec ses animaux](/demenagement-dubai/)
+- [Légalisation de documents pour Dubaï : la chaîne complète, du ministère à l’attestation MOFA](/legalisation-documents-dubai/)

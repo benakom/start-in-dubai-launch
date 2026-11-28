@@ -222,3 +222,5 @@ START IN DUBAI brings all these steps together in a single journey, with one poi
 ## Go further
 
 - [How much money do you need to move to Dubai? A budget by profile](/en/how-much-money-to-move-to-dubai/)
+- [Dubai or Sharjah: which emirate should you choose to live in?](/en/blog/dubai-or-sharjah/)
+- [The cost of moving to Dubai: shipping, customs, pets and insurance](/en/cost-of-moving-to-dubai/)

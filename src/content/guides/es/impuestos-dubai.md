@@ -196,3 +196,6 @@ Antes de lanzarte, nuestra guía para [mudarse a Dubái](/es/mudarse-a-dubai/) t
 ## Para ir más lejos
 
 - [Convenio de doble imposición entre España y los Emiratos Árabes Unidos](/es/convenio-fiscal-espana-emiratos/)
+- [Convenio de doble imposición entre Latinoamérica y los Emiratos: estado país por país](/es/blog/convenio-fiscal-latinoamerica-emiratos/)
+- [Enviar dinero a Dubái: cómo hacerlo bien y qué reglas hay en tu país](/es/enviar-dinero-a-dubai/)
+- [Residencia fiscal en Dubái si vienes de España: la regla de los 183 días y las pruebas](/es/residencia-fiscal-dubai-espana/)

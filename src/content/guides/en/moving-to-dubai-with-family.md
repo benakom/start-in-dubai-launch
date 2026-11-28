@@ -205,3 +205,4 @@ A family's budget in Dubai comes down mostly to three items: **housing, school a
 ## Go further
 
 - [Sponsor your parents in Dubai: which visa routes exist and what is confirmed](/en/sponsor-parents-dubai-visa/)
+- [International schools in Dubai: how fees work and how to read the KHDA grids](/en/international-schools-dubai-fees/)

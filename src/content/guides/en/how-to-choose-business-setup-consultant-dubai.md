@@ -163,3 +163,10 @@ START IN DUBAI supports company setup, bank account, visas and Golden Visa, hous
 5. Get an answer on commissions and on tax advice.
 6. Read the contract, then pay official fees only against official invoices.
 7. Keep a copy of everything, including the first-year and renewal costs.
+
+## Go further
+
+- [LLC vs sole establishment in Dubai: liability, ownership, tax and closing compared](/en/blog/llc-vs-sole-establishment-dubai/)
+- [Company setup in Dubai for African entrepreneurs: what depends on your country](/en/business-setup-dubai-for-african-entrepreneurs/)
+- [Business setup in Dubai for Tunisians: what is different for you](/en/business-setup-dubai-for-tunisians/)
+- [How to close a company in Dubai: liquidation, licence cancellation and FTA deregistration](/en/close-company-dubai/)

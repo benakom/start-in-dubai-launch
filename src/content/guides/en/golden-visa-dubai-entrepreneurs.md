@@ -165,3 +165,8 @@ If you are an employee rather than a founder, a different category fits you bett
 7. Consider your tax residence in your home country before you move.
 
 The Golden Visa is one step in a wider project: company, bank account, visas, housing, schools. START IN DUBAI supports you from A to Z with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian), including the [Golden Visa services](/en/services/golden-visa-services-dubai/). Property is handled by our partner [Cevitas Real Estate](https://www.cevitas.ae), a RERA-licensed agency. You can book a [free first conversation](/en/#inscription) with no commitment.
+
+## Go further
+
+- [Dubai tourist visa extension: how to extend, what it costs and what to avoid](/en/blog/dubai-tourist-visa-extension/)
+- [UAE Green Visa for freelancers: income rule, permit, documents and steps](/en/uae-green-visa-freelancers/)

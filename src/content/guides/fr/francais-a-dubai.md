@@ -162,3 +162,8 @@ Beaucoup de Français de Dubaï ont une deuxième nationalité. Sur place, vous 
 8. Contacts utiles enregistrés : France Consulaire, 999, votre école, votre médecin.
 
 START IN DUBAI accompagne les Français et tous les francophones de A à Z (société, compte bancaire, visas et Golden Visa, logement, installation de la famille, études), avec un seul interlocuteur qui parle votre langue. Pour en parler, réservez un [premier échange gratuit](/#inscription).
+
+## Pour aller plus loin
+
+- [Animaux à Dubaï : importer son chien ou son chat et l’enregistrer](/blog/animaux-dubai/)
+- [Carte SIM Dubaï pour résident : opérateurs, documents et internet à la maison](/blog/telephone-internet-dubai/)

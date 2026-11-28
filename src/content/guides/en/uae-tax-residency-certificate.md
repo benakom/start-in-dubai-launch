@@ -151,3 +151,10 @@ For treaty benefits, the FTA also lists a certificate for the purposes of a doub
 START IN DUBAI supports people from A to Z (company, bank account, visas, housing, schools), with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian). We do not give tax advice for your home country: for the exit side, speak to a tax adviser there. If your plan is to settle and structure your life in the UAE, [book a free first call](/en/#inscription).
 
 Last checked on the FTA service page and the Ministry of Finance in November 2026. Rules and fees can change: the FTA remains the reference.
+
+## Go further
+
+- [Remote worker tax in Dubai: will your home country still tax you?](/en/blog/remote-worker-tax-home-country-dubai/)
+- [Best bank in Dubai for expats: how to choose the right one for your profile](/en/best-banks-dubai-expats/)
+- [Cost of living in Dubai vs London: what you really keep](/en/cost-of-living-dubai-vs-london/)
+- [How to send money to Dubai (and from Dubai) legally and without overpaying](/en/send-money-to-dubai/)

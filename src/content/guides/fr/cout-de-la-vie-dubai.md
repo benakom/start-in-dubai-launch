@@ -163,3 +163,5 @@ Pour toutes les autres étapes de l’installation, suivez notre guide pour [s�
 
 - [Français à Dubaï : la communauté, le consulat et la vie sur place](/francais-a-dubai/)
 - [Lois à Dubaï : ce qui est interdit, ce qui est encadré et les règles à respecter](/lois-et-regles-a-dubai/)
+- [Animaux à Dubaï : importer son chien ou son chat et l’enregistrer](/blog/animaux-dubai/)
+- [Carte SIM Dubaï pour résident : opérateurs, documents et internet à la maison](/blog/telephone-internet-dubai/)

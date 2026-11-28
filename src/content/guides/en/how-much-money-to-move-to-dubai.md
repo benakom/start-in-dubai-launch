@@ -3,7 +3,7 @@ title: "How Much Money Do You Need to Move to Dubai? By Profile"
 description: "How much money to move to Dubai: no official minimum, but a realistic reserve by profile (single, couple, family, job seeker) with the arithmetic shown."
 h1: "How much money do you need to move to Dubai? A budget by profile"
 keyword: "how much money do you need to move to dubai"
-secondary: ["how much money to move to dubai", "savings needed to move to dubai", "cost of moving to dubai", "moving to dubai budget", "minimum savings to relocate to dubai"]
+secondary: ["how much money to move to dubai", "savings needed to move to dubai", "moving to dubai budget", "minimum savings to relocate to dubai"]
 cluster: installer
 updated: 2026-11-28
 intro: "There is no official minimum amount of money to move to Dubai: a job offer, a family sponsorship or a company visa each has its own conditions, and none asks for a lump sum. The practical answer is a reserve. By our estimates, which are not official statistics, a single person with a job offer should have about 31,000 to 65,000 AED (7,000 to 15,000 euros), a couple about 48,000 to 95,000 AED, and a family with two children about 97,000 to 190,000 AED, with a job already signed and rent paid in four cheques."
@@ -127,7 +127,8 @@ To sponsor your family, u.ae states that the sponsor must have a minimum salary 
 
 ## What the move costs before you land
 
-These costs are outside Dubai and easy to forget:
+These costs are outside Dubai and easy to forget. For shipping, customs and pets in detail, see our guide on the [cost of moving to Dubai](/en/cost-of-moving-to-dubai/).
+
 
 - flights and excess baggage, or shipping of belongings;
 - legalising and translating certificates (marriage, birth, degrees): check the requirements of your country and of the UAE, see our guides on moving from [Morocco](/en/moving-to-dubai-from-morocco/), [France](/en/moving-to-dubai-from-france/) or [Belgium](/en/moving-to-dubai-from-belgium/);
@@ -154,3 +155,7 @@ These costs are outside Dubai and easy to forget:
 START IN DUBAI supports people from A to Z (company, bank account, visas, housing, schools), with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian). We do not guarantee any cost or outcome: the figures above are estimates. For property, we work with [Cevitas Real Estate](https://www.cevitas.ae), an RERA-licensed agency (ORN 49294). [Book a free first call](/en/#inscription).
 
 Last checked on u.ae and ICP in November 2026.
+
+## Go further
+
+- [Dubai or Sharjah: which emirate should you choose to live in?](/en/blog/dubai-or-sharjah/)

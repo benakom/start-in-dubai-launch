@@ -140,3 +140,9 @@ Attenzione: una società a Dubai gestita da chi vive in Italia pone un problema 
 7. **Pianificare il resto**: visto, assicurazione, conto bancario con la guida al [visto di residenza](/it/visto-di-residenza-dubai/).
 
 START IN DUBAI ti accompagna nella parte emiratina (licenza, società, conto bancario, visti, alloggio) con un solo interlocutore che parla italiano. Per parlarne, [richiedi un primo colloquio gratuito e senza impegno](/it/#inscription). La consulenza fiscale italiana resta al tuo commercialista: START IN DUBAI non la fornisce.
+
+## Per approfondire
+
+- [Aprire un'attività italiana a Dubai: ristorante, retail e permessi da ottenere](/it/attivita-italiana-a-dubai/)
+- [Esportare a Dubai con una società di trading: dogana, licenza e dazi](/it/esportare-in-dubai-societa-trading/)
+- [Holding a Dubai per italiani: come funziona, cosa tassano gli Emirati e cosa guarda il fisco italiano](/it/holding-dubai-per-italiani/)

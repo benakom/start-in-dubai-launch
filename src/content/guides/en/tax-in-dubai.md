@@ -198,3 +198,7 @@ Before you start, our guide to [moving to Dubai](/en/moving-to-dubai/) gives you
 - [Why a UAE bank rejects a company account: the real reasons and what to do next](/en/blog/uae-bank-account-rejected-reasons/)
 - [Business bank account in Dubai as a non-resident: what is possible and what is not](/en/business-bank-account-dubai-non-resident/)
 - [UAE tax residency certificate: who qualifies, what it costs and how to apply](/en/uae-tax-residency-certificate/)
+- [Remote worker tax in Dubai: will your home country still tax you?](/en/blog/remote-worker-tax-home-country-dubai/)
+- [Best bank in Dubai for expats: how to choose the right one for your profile](/en/best-banks-dubai-expats/)
+- [Cost of living in Dubai vs London: what you really keep](/en/cost-of-living-dubai-vs-london/)
+- [How to send money to Dubai (and from Dubai) legally and without overpaying](/en/send-money-to-dubai/)

@@ -159,3 +159,8 @@ Oltre al budget mensile, l'installazione stessa costa cara. Prevedi una riserva 
 7. da tre a sei mesi di spese correnti in anticipo, per far fronte a un imprevisto.
 
 Per tutte le altre tappe dell'installazione, segui la nostra guida su [come trasferirsi a Dubai](/it/trasferirsi-a-dubai/). START IN DUBAI può poi coordinare tutto con te, nella tua lingua (arabo, francese, inglese, spagnolo, olandese, italiano): [richiedi un primo colloquio gratuito](/it/#inscription).
+
+## Per approfondire
+
+- [Comunità italiana a Dubai: consolato, ICE e come trovare la tua rete](/it/blog/comunita-italiana-dubai/)
+- [Rientro in Italia dopo Dubai: la checklist su anagrafe, fisco, sanità, banca e Emirati](/it/blog/rientro-in-italia-dopo-dubai/)

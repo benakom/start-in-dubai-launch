@@ -149,3 +149,8 @@ Finally, remember that the cheapest option on paper can be the most expensive if
 6. Consider tax residence in your home country before you move.
 
 START IN DUBAI supports you from A to Z with a single point of contact, in your language (Arabic, French, English, Spanish, Dutch, Italian), including the [Golden Visa services](/en/services/golden-visa-services-dubai/). You can book a [free first conversation](/en/#inscription) with no commitment.
+
+## Go further
+
+- [Dubai tourist visa extension: how to extend, what it costs and what to avoid](/en/blog/dubai-tourist-visa-extension/)
+- [UAE Green Visa for freelancers: income rule, permit, documents and steps](/en/uae-green-visa-freelancers/)

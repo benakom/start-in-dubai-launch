@@ -161,3 +161,5 @@ Si respondes que sí a la mayoría, tu proyecto está maduro. START IN DUBAI te 
 ## Para ir más lejos
 
 - [Vivir en Dubái siendo latino: lo que necesitas saber antes de irte](/es/vivir-en-dubai-siendo-latino/)
+- [La comunidad hispanohablante en Dubái: dónde encontrarla y cómo evaluarla](/es/blog/comunidad-hispana-en-dubai/)
+- [Leyes y normas en Dubái para expatriados: alcohol, conducta, redes sociales y límites](/es/blog/leyes-dubai-expatriados/)

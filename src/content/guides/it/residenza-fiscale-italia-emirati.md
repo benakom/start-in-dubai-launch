@@ -133,3 +133,10 @@ Se parti, conserva per ogni anno:
 - Basarsi su guide **non aggiornate al 2024**, che parlano ancora di domicilio civilistico.
 
 START IN DUBAI ti accompagna nella parte emiratina del trasferimento (visto di residenza, società, conto bancario, alloggio, famiglia) con un solo interlocutore che parla italiano. Per parlarne, [richiedi un primo colloquio gratuito e senza impegno](/it/#inscription). Per tutto ciò che riguarda la residenza fiscale italiana, fai validare la tua situazione da un commercialista o da un fiscalista italiano: START IN DUBAI non fornisce consulenza fiscale. Per il quadro d'insieme del trasferimento, leggi [trasferirsi a Dubai dall'Italia](/it/trasferirsi-a-dubai-dall-italia/).
+
+## Per approfondire
+
+- [Accertamento fiscale a un residente a Dubai: come funziona e cosa conta](/it/blog/accertamento-fiscale-residente-dubai/)
+- [Conto corrente a Dubai, quadro RW e IVAFE: chi deve dichiararlo in Italia](/it/blog/conto-dubai-quadro-rw-ivafe/)
+- [Crypto a Dubai per italiani: tasse italiane, regolatori emiratini e residenza fiscale](/it/crypto-dubai-italiani-tasse/)
+- [Trasferire denaro dall'Italia a Dubai: bonifico, cambio, contante e dichiarazioni](/it/trasferire-denaro-dall-italia-a-dubai/)

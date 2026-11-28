@@ -176,3 +176,7 @@ Trabajar sin permiso está prohibido y puede costarte el visado. Para la etapa p
 - [ ] Comparar los gastos completos: matrícula, visado, seguro, alojamiento
 - [ ] Pedir las becas por méritos desde la candidatura
 - [ ] Iniciar el visado de estudiante con la universidad (o a través de los padres residentes)
+
+## Para ir más lejos
+
+- [Homologar un título universitario de Dubái en tu país: pasos y diferencias](/es/homologar-titulo-dubai/)

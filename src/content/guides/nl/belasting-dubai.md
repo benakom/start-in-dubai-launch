@@ -3,7 +3,7 @@ title: "Belasting in Dubai: inkomsten, bedrijf 9%, btw, woonplaats"
 description: "Belasting in Dubai: geen inkomstenbelasting voor particulieren, vennootschapsbelasting 9%, btw 5%, fiscale woonplaats en de regels van uw land van herkomst."
 h1: "Belasting in Dubai: wat particulieren en bedrijven echt betalen"
 keyword: "belasting dubai"
-secondary: ["vennootschapsbelasting dubai", "btw dubai", "belastingvrij dubai", "fiscale woonplaats dubai", "emigreren naar dubai belasting"]
+secondary: ["vennootschapsbelasting dubai", "btw dubai", "belastingvrij dubai", "emigreren naar dubai belasting"]
 cluster: argent
 updated: 2026-11-27
 intro: "In Dubai betalen particulieren geen inkomstenbelasting: niet over het salaris, niet over de meerwaarden op hun persoonlijke beleggingen. Bedrijven betalen 9% belasting op het deel van hun winst boven 375.000 AED, met een stelsel van 0% voor bepaalde bedrijven in een vrije zone, en de btw bedraagt 5%. Maar uw land van herkomst kan u blijven belasten zolang u daar fiscaal inwoner blijft: dat is het punt dat u moet regelen voordat u vertrekt."
@@ -134,6 +134,8 @@ Sinds 1 maart 2023 stelt een besluit van de Ministerraad vast wanneer een natuur
 
 ### Het bewijs van fiscale woonplaats
 
+Het volledige stappenplan met documenten, kosten en valkuilen staat in onze aparte gids over het [tax residency certificate voor Dubai](/nl/tax-residency-certificate-dubai/).
+
 Het **bewijs van fiscale woonplaats** (*Tax Residency Certificate*) bewijst uw Emiratische fiscale woonplaats, met name om een belastingverdrag te kunnen inroepen. Het wordt online aangevraagd op het **platform voor bewijzen van fiscale woonplaats** van de FTA (bereikbaar vanaf tax.gov.ae). Men vraagt u in het algemeen een bewijs van verblijf (visum, Emirates ID, geregistreerd huurcontract of eigendomsakte), een bewijs van inkomen en het overzicht van uw dagen van aanwezigheid. Volgens het door de FTA gepubliceerde tarievenoverzicht (pagina bijgewerkt in oktober 2026):
 
 - 50 AED indieningskosten voor elke aanvraag;
@@ -199,3 +201,7 @@ Voordat u begint, geeft onze gids om [naar Dubai te emigreren](/nl/emigreren-naa
 - [Het belastingverdrag tussen Nederland en de VAE: wat staat erin?](/nl/belastingverdrag-nederland-vae/)
 - [Box 3 en Dubai: blijft u box 3 betalen als u naar Dubai emigreert?](/nl/box-3-dubai/)
 - [Uitschrijven uit Nederland als u naar Dubai emigreert: wanneer, hoe en wat er daarna verandert](/nl/uitschrijven-nederland-dubai/)
+- [30 procent regeling vanuit Dubai: komt u in aanmerking als u in Nederland gaat werken?](/nl/blog/30-procent-regeling-dubai/)
+- [Belastingaangifte bij emigratie naar Dubai: de M-aangifte stap voor stap](/nl/blog/belastingaangifte-emigratie-dubai/)
+- [Testament en erfrecht in Dubai: wat een Nederlander moet weten over DIFC Wills](/nl/blog/testament-en-erfrecht-dubai/)
+- [Pensioen opbouwen in Dubai: wat de Emiraten bieden en wat u zelf regelt](/nl/pensioen-opbouwen-in-dubai/)

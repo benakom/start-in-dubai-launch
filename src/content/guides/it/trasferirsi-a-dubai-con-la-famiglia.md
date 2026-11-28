@@ -201,3 +201,7 @@ Il budget di una famiglia a Dubai si gioca soprattutto su tre voci: **alloggio, 
 - [ ] Perimetro di ricerca dell'alloggio definito intorno alla scuola
 - [ ] Budget per alloggio, scuola, assicurazione convalidato
 - [ ] Assicurazione sanitaria per la famiglia scelta prima della presentazione dei visti
+
+## Per approfondire
+
+- [Scuole italiane a Dubai: cosa esiste davvero, le alternative e come iscrivere i figli](/it/scuole-italiane-dubai/)

@@ -3,7 +3,7 @@ title: "Met pensioen in Dubai: visum, budget, zorg en belasting"
 description: "Met pensioen in Dubai: officiële voorwaarden van het pensioenvisum vanaf 55 jaar, vereist inkomen of vermogen, budget, zorgverzekering en belasting op uw pensioen."
 h1: "Met pensioen in Dubai: pensioenvisum, budget, zorg en belasting op uw pensioen"
 keyword: "met pensioen in dubai"
-secondary: ["pensioenvisum dubai", "pensioen dubai leeftijd", "met pensioen gaan in dubai", "gepensioneerde in dubai", "pensioenopbouw dubai"]
+secondary: ["pensioenvisum dubai", "pensioen dubai leeftijd", "met pensioen gaan in dubai", "gepensioneerde in dubai"]
 cluster: visas
 updated: 2026-11-28
 intro: "Ja, u kunt in Dubai met pensioen gaan dankzij het pensioenvisum van 5 jaar, open vanaf 55 jaar voor mensen die ten minste 15 jaar hebben gewerkt. In Dubai is daarnaast een jaarinkomen van ten minste 240.000 AED vereist, of volgens u.ae een vastgoedbezit en spaargeld van elk een miljoen dirham. In de Emiraten bestaat geen inkomstenbelasting voor particulieren, maar uw pensioen kan in uw eigen land belastbaar blijven: dat is het punt dat u als eerste moet controleren."
@@ -174,6 +174,8 @@ De Emiraten hebben verdragen gesloten met meerdere landen in de Maghreb en West-
 ### En als u nog enkele jaren in Dubai werkt?
 
 Buitenlandse werknemers in de particuliere sector dragen niet af aan een openbaar Emirati pensioenfonds: zij ontvangen een einde-dienstuitkering. Sinds november 2023 kan een [vrijwillig spaarplan van het MOHRE](https://mohre.gov.ae/en/media-center/news/1/11/2023/voluntary-alternative-end-of-service-benefits-scheme-goes-into-effect-by-cabinet-resolution-aiming-t) deze uitkering vervangen wanneer de werkgever zich aansluit. Wilt u in uw eigen land rechten blijven opbouwen, informeer dan naar de vrijwillige verzekering (bijvoorbeeld via de CFE voor Fransen).
+
+Hoe u uw pensioenopbouw als werkende in Dubai concreet aanpakt, leest u in onze gids over [pensioen opbouwen in Dubai](/nl/pensioen-opbouwen-in-dubai/).
 
 ### Het levensbewijs
 

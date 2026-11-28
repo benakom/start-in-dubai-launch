@@ -201,3 +201,7 @@ Het budget van een gezin in Dubai wordt vooral bepaald door drie posten: **wonin
 - [ ] Zoekgebied voor woning bepaald rond de school
 - [ ] Budget voor woning, school en verzekering gevalideerd
 - [ ] Gezinsverzekering gekozen vóór indiening van de visa
+
+## Verder lezen
+
+- [Nederlandse school in Dubai: wat bestaat er en wat zijn de alternatieven?](/nl/nederlandse-school-dubai/)

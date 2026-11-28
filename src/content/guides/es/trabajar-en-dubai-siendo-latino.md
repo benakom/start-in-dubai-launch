@@ -145,3 +145,8 @@ Si prefieres no ir solo en esto, START IN DUBAI acompaña la instalación de A a
 - [Mudarse a Dubái desde Argentina](/es/mudarse-a-dubai-desde-argentina/)
 - [Mudarse a Dubái desde Colombia](/es/mudarse-a-dubai-desde-colombia/)
 - [Mudarse a Dubái desde España](/es/mudarse-a-dubai-desde-espana/)
+
+## Para ir más lejos
+
+- [Estafas de trabajo en Dubái: cómo reconocer una oferta falsa y qué hacer si caes](/es/blog/estafas-trabajo-dubai/)
+- [Profesor de español en Dubái: cómo trabajar dando clases de español](/es/profesor-de-espanol-en-dubai/)
