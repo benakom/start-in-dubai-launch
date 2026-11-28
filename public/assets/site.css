@@ -249,3 +249,5 @@
 .founder img { aspect-ratio: 3 / 2; height: auto; object-fit: cover; }
 .author img { height: auto; object-fit: contain; background: #fff; padding: 8px; }
 .svc-cover { max-width: 960px; margin: 0 auto 40px; }
+
+.xhero-bg picture { display: contents; }

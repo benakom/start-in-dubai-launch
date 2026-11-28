@@ -105,7 +105,7 @@ Les banques restent tenues de vérifier l'origine de vos fonds et votre activit�
 
 ### Pour une entreprise
 
-<figure><img src="/assets/photos/neobanques-emirats-2.webp" alt="Une entrepreneuse suit les comptes de sa société sur son écran et son téléphone, au bureau" width="1200" height="800" loading="lazy" decoding="async" /><figcaption>Une entrepreneuse suit les comptes de sa société sur son écran et son téléphone, au bureau · Photo : Freepik</figcaption></figure>
+<figure><img src="/assets/photos/neobanques-emirats-2.webp" srcset="/assets/photos/neobanques-emirats-2-800.webp 800w, /assets/photos/neobanques-emirats-2.webp 1200w" sizes="(max-width: 900px) 100vw, 760px" alt="Une entrepreneuse suit les comptes de sa société sur son écran et son téléphone, au bureau" width="1200" height="800" loading="lazy" decoding="async" /><figcaption>Une entrepreneuse suit les comptes de sa société sur son écran et son téléphone, au bureau · Photo : Freepik</figcaption></figure>
 
 Les offres pour les entreprises demandent, en plus des pièces d'identité des associés et des signataires, la **licence de la société**, ses statuts et une description de l'activité et des flux attendus. Ce qu'en publient les banques :
 

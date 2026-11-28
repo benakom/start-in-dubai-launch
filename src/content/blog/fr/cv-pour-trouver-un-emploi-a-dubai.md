@@ -114,7 +114,7 @@ C’est l’étape que l’on sous-estime le plus, et celle qui retarde le plus 
 - les niveaux 6 à 9 ne demandent pas de diplôme ;
 - certaines professions exigent en plus une **licence professionnelle** de l’autorité compétente (médecins, infirmiers, enseignants, coachs sportifs, avocats, par exemple).
 
-<figure><img src="/assets/photos/cv-pour-trouver-un-emploi-a-dubai-2.webp" alt="Une candidate range ses diplômes et ses documents dans un classeur à son bureau" width="1200" height="800" loading="lazy" decoding="async" /><figcaption>Une candidate range ses diplômes et ses documents dans un classeur à son bureau · Photo : Freepik</figcaption></figure>
+<figure><img src="/assets/photos/cv-pour-trouver-un-emploi-a-dubai-2.webp" srcset="/assets/photos/cv-pour-trouver-un-emploi-a-dubai-2-800.webp 800w, /assets/photos/cv-pour-trouver-un-emploi-a-dubai-2.webp 1200w" sizes="(max-width: 900px) 100vw, 760px" alt="Une candidate range ses diplômes et ses documents dans un classeur à son bureau" width="1200" height="800" loading="lazy" decoding="async" /><figcaption>Une candidate range ses diplômes et ses documents dans un classeur à son bureau · Photo : Freepik</figcaption></figure>
 
 Un diplôme étranger doit en pratique être **légalisé** pour être utilisé aux Émirats : les Émirats n’appliquent pas l’apostille, il faut une chaîne de légalisation qui passe par l’ambassade des Émirats et le ministère émirien des Affaires étrangères. La procédure, pays par pays, est dans notre guide sur la [légalisation des documents pour Dubaï](/legalisation-documents-dubai/). Lancez-la dès le début de votre recherche : elle prend souvent plusieurs semaines.
 

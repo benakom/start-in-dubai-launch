@@ -110,7 +110,7 @@ Côté salariés sur le mainland, la société doit aussi être en règle auprè
 
 ## Étape 3 : la visite médicale
 
-<figure><img src="/assets/photos/renouveler-visa-et-licence-dubai-2.webp" alt="Un patient se place devant l'appareil pour une radiographie du thorax dans une salle de radiologie" width="1200" height="800" loading="lazy" decoding="async" /><figcaption>Un patient se place devant l'appareil pour une radiographie du thorax dans une salle de radiologie · Photo : Freepik</figcaption></figure>
+<figure><img src="/assets/photos/renouveler-visa-et-licence-dubai-2.webp" srcset="/assets/photos/renouveler-visa-et-licence-dubai-2-800.webp 800w, /assets/photos/renouveler-visa-et-licence-dubai-2.webp 1200w" sizes="(max-width: 900px) 100vw, 760px" alt="Un patient se place devant l'appareil pour une radiographie du thorax dans une salle de radiologie" width="1200" height="800" loading="lazy" decoding="async" /><figcaption>Un patient se place devant l'appareil pour une radiographie du thorax dans une salle de radiologie · Photo : Freepik</figcaption></figure>
 
 Selon Dubai Health, l'examen d'aptitude médicale concerne **tous ceux qui demandent ou renouvellent un visa de résidence**, en application de la résolution du Conseil des ministres n° 75 de 2022. La GDRFA l'exige pour les plus de 18 ans.
 

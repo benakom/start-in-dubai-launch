@@ -114,7 +114,7 @@ Tout changement de formule doit être noté par écrit et signé par les deux pa
 
 ## Inscription : les étapes et les documents
 
-<figure><img src="/assets/photos/creche-dubai-2.webp" alt="Une mère remplit un dossier d’inscription à un bureau, son petit garçon assis à côté d’elle" width="1200" height="800" loading="lazy" decoding="async" /><figcaption>Une mère remplit un dossier d’inscription à un bureau, son petit garçon assis à côté d’elle · Photo : Freepik</figcaption></figure>
+<figure><img src="/assets/photos/creche-dubai-2.webp" srcset="/assets/photos/creche-dubai-2-800.webp 800w, /assets/photos/creche-dubai-2.webp 1200w" sizes="(max-width: 900px) 100vw, 760px" alt="Une mère remplit un dossier d’inscription à un bureau, son petit garçon assis à côté d’elle" width="1200" height="800" loading="lazy" decoding="async" /><figcaption>Une mère remplit un dossier d’inscription à un bureau, son petit garçon assis à côté d’elle · Photo : Freepik</figcaption></figure>
 
 ### Les étapes
 

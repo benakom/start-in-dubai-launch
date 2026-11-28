@@ -124,7 +124,7 @@ Hypothèse : un salarié du secteur privé travaille normalement 8 heures par jo
 
 ## Restaurants, commerces et vie du soir
 
-<figure><img src="/assets/photos/ramadan-a-dubai-expatrie-2.webp" alt="La grande mosquée Cheikh Zayed d'Abu Dhabi illuminée à la tombée de la nuit, vue de l'extérieur" width="1200" height="800" loading="lazy" decoding="async" /><figcaption>La grande mosquée Cheikh Zayed d'Abu Dhabi illuminée à la tombée de la nuit, vue de l'extérieur · Photo : Freepik</figcaption></figure>
+<figure><img src="/assets/photos/ramadan-a-dubai-expatrie-2.webp" srcset="/assets/photos/ramadan-a-dubai-expatrie-2-800.webp 800w, /assets/photos/ramadan-a-dubai-expatrie-2.webp 1200w" sizes="(max-width: 900px) 100vw, 760px" alt="La grande mosquée Cheikh Zayed d'Abu Dhabi illuminée à la tombée de la nuit, vue de l'extérieur" width="1200" height="800" loading="lazy" decoding="async" /><figcaption>La grande mosquée Cheikh Zayed d'Abu Dhabi illuminée à la tombée de la nuit, vue de l'extérieur · Photo : Freepik</figcaption></figure>
 
 Selon u.ae et dubai.ae :
 

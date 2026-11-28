@@ -152,7 +152,7 @@ Avec l'Emirates ID original, enregistrez une ligne de résident chez l'opérateu
 
 ## Semaines 2 et 3 : se loger, Ejari et DEWA
 
-<figure><img src="/assets/photos/checklist-30-premiers-jours-dubai-2.webp" alt="Une main tend les clés d'un logement sur le pas de la porte" width="1200" height="800" loading="lazy" decoding="async" /><figcaption>Une main tend les clés d'un logement sur le pas de la porte · Photo : Jakub Żerdzicki / Unsplash</figcaption></figure>
+<figure><img src="/assets/photos/checklist-30-premiers-jours-dubai-2.webp" srcset="/assets/photos/checklist-30-premiers-jours-dubai-2-800.webp 800w, /assets/photos/checklist-30-premiers-jours-dubai-2.webp 1200w" sizes="(max-width: 900px) 100vw, 760px" alt="Une main tend les clés d'un logement sur le pas de la porte" width="1200" height="800" loading="lazy" decoding="async" /><figcaption>Une main tend les clés d'un logement sur le pas de la porte · Photo : Jakub Żerdzicki / Unsplash</figcaption></figure>
 
 ### Le bail et l'Ejari
 

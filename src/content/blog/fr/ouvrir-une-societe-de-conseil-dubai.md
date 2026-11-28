@@ -127,7 +127,7 @@ Si votre cabinet grandit, retenez une règle : selon u.ae, les entreprises de **
 
 ## Facturer : TVA, devises et facture conforme
 
-<figure><img src="/assets/photos/ouvrir-une-societe-de-conseil-dubai-2.webp" alt="Un indépendant vérifie ses calculs avec une calculatrice et un ordinateur portable avant d'émettre une facture" width="1200" height="800" loading="lazy" decoding="async" /><figcaption>Un indépendant vérifie ses calculs avec une calculatrice et un ordinateur portable avant d'émettre une facture · Photo : Freepik</figcaption></figure>
+<figure><img src="/assets/photos/ouvrir-une-societe-de-conseil-dubai-2.webp" srcset="/assets/photos/ouvrir-une-societe-de-conseil-dubai-2-800.webp 800w, /assets/photos/ouvrir-une-societe-de-conseil-dubai-2.webp 1200w" sizes="(max-width: 900px) 100vw, 760px" alt="Un indépendant vérifie ses calculs avec une calculatrice et un ordinateur portable avant d'émettre une facture" width="1200" height="800" loading="lazy" decoding="async" /><figcaption>Un indépendant vérifie ses calculs avec une calculatrice et un ordinateur portable avant d'émettre une facture · Photo : Freepik</figcaption></figure>
 
 ### Quand facturer la TVA
 

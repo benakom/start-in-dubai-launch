@@ -103,7 +103,7 @@ En pratique, une société qui démarre gagne à tenir dès le premier mois une 
 
 ## Audit obligatoire : qui doit faire auditer ses comptes ?
 
-<figure><img src="/assets/photos/comptabilite-audit-societe-dubai-2.webp" alt="Trois collègues passent en revue des documents en réunion" width="1200" height="800" loading="lazy" decoding="async" /><figcaption>Trois collègues passent en revue des documents en réunion · Photo : Vitaly Gariev / Unsplash</figcaption></figure>
+<figure><img src="/assets/photos/comptabilite-audit-societe-dubai-2.webp" srcset="/assets/photos/comptabilite-audit-societe-dubai-2-800.webp 800w, /assets/photos/comptabilite-audit-societe-dubai-2.webp 1200w" sizes="(max-width: 900px) 100vw, 760px" alt="Trois collègues passent en revue des documents en réunion" width="1200" height="800" loading="lazy" decoding="async" /><figcaption>Trois collègues passent en revue des documents en réunion · Photo : Vitaly Gariev / Unsplash</figcaption></figure>
 
 C'est la question qui crée le plus de confusion, parce que **trois sources de règles se superposent** : la loi sur les sociétés, la loi fiscale et le règlement de votre zone franche. Une seule qui l'exige suffit à rendre l'audit obligatoire.
 

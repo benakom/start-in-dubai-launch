@@ -97,7 +97,7 @@ Comparez l’indemnité de logement aux loyers réels du quartier où vous compt
 
 Selon u.ae, **à Dubaï, l’employeur doit assurer ses salariés**, et **le parrain doit assurer les personnes qu’il parraine**. Si vous faites venir votre conjoint et vos enfants, leur assurance est donc à votre charge, sauf si le package l’inclut. Demandez aussi le niveau de couverture : réseau de cliniques, maternité, soins dentaires, soins dans votre pays d’origine. Notre article sur l’[assurance santé à Dubaï](/blog/assurance-sante-dubai/) détaille ce qu’il faut regarder dans un contrat.
 
-<figure><img src="/assets/photos/negocier-son-package-expatrie-dubai-2.webp" alt="Une fillette souriante, son sac à dos d'écolière sur les épaules" width="1200" height="800" loading="lazy" decoding="async" /><figcaption>Une fillette souriante, son sac à dos d'écolière sur les épaules · Photo : Rajesh Rajput / Unsplash</figcaption></figure>
+<figure><img src="/assets/photos/negocier-son-package-expatrie-dubai-2.webp" srcset="/assets/photos/negocier-son-package-expatrie-dubai-2-800.webp 800w, /assets/photos/negocier-son-package-expatrie-dubai-2.webp 1200w" sizes="(max-width: 900px) 100vw, 760px" alt="Une fillette souriante, son sac à dos d'écolière sur les épaules" width="1200" height="800" loading="lazy" decoding="async" /><figcaption>Une fillette souriante, son sac à dos d'écolière sur les épaules · Photo : Rajesh Rajput / Unsplash</figcaption></figure>
 
 ### Scolarité, billets, assurance de la famille : les éléments qui pèsent pour une famille
 

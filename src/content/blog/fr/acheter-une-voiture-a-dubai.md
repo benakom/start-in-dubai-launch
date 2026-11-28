@@ -137,7 +137,7 @@ Le prix dépend de la valeur et de l’âge du véhicule, de votre âge, de l’
 
 ### Étape 3 : l’inspection technique
 
-<figure><img src="/assets/photos/acheter-une-voiture-a-dubai-2.webp" alt="Un technicien inspecte le dessous d’une voiture sur un pont élévateur, une fiche de contrôle à la main" width="1200" height="800" loading="lazy" decoding="async" /><figcaption>Un technicien inspecte le dessous d’une voiture sur un pont élévateur, une fiche de contrôle à la main · Photo : Freepik</figcaption></figure>
+<figure><img src="/assets/photos/acheter-une-voiture-a-dubai-2.webp" srcset="/assets/photos/acheter-une-voiture-a-dubai-2-800.webp 800w, /assets/photos/acheter-une-voiture-a-dubai-2.webp 1200w" sizes="(max-width: 900px) 100vw, 760px" alt="Un technicien inspecte le dessous d’une voiture sur un pont élévateur, une fiche de contrôle à la main" width="1200" height="800" loading="lazy" decoding="async" /><figcaption>Un technicien inspecte le dessous d’une voiture sur un pont élévateur, une fiche de contrôle à la main · Photo : Freepik</figcaption></figure>
 
 L’inspection se fait dans un centre agréé par la RTA, sur rendez-vous (site ou application RTA Dubai) pour une immatriculation ou un renouvellement. Selon la RTA :
 

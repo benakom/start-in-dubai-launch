@@ -89,7 +89,7 @@ Les autres campus de Dubaï ont leurs propres dispositifs, souvent publiés sur 
 
 ## Abou Dhabi et Sharjah : là où se trouvent les bourses complètes
 
-<figure><img src="/assets/photos/bourses-etudes-emirats-2.webp" alt="Un bâtiment universitaire à coupoles blanches, dans la cité universitaire de Sharjah" width="1200" height="800" loading="lazy" decoding="async" /><figcaption>Un bâtiment universitaire à coupoles blanches, dans la cité universitaire de Sharjah · Photo : Muhammad Ahmad / Unsplash</figcaption></figure>
+<figure><img src="/assets/photos/bourses-etudes-emirats-2.webp" srcset="/assets/photos/bourses-etudes-emirats-2-800.webp 800w, /assets/photos/bourses-etudes-emirats-2.webp 1200w" sizes="(max-width: 900px) 100vw, 760px" alt="Un bâtiment universitaire à coupoles blanches, dans la cité universitaire de Sharjah" width="1200" height="800" loading="lazy" decoding="async" /><figcaption>Un bâtiment universitaire à coupoles blanches, dans la cité universitaire de Sharjah · Photo : Muhammad Ahmad / Unsplash</figcaption></figure>
 
 Si vous visez une bourse couvrant tous les frais de scolarité, regardez au-delà de Dubaï. Les trajets et la vie sur place sont comparés dans notre article [Dubaï ou Abou Dhabi](/blog/dubai-ou-abu-dhabi/).
 

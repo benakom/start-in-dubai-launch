@@ -237,7 +237,7 @@ Les autres zones franches de Dubaï appliquent en général le droit fédéral, 
 
 ## Que faire si l'employeur ne paie pas
 
-<figure><img src="/assets/photos/indemnite-fin-de-contrat-dubai-2.webp" alt="Un conseiller juridique explique un document à une salariée venue faire valoir ses droits" width="1200" height="800" loading="lazy" decoding="async" /><figcaption>Un conseiller juridique explique un document à une salariée venue faire valoir ses droits · Photo : Freepik</figcaption></figure>
+<figure><img src="/assets/photos/indemnite-fin-de-contrat-dubai-2.webp" srcset="/assets/photos/indemnite-fin-de-contrat-dubai-2-800.webp 800w, /assets/photos/indemnite-fin-de-contrat-dubai-2.webp 1200w" sizes="(max-width: 900px) 100vw, 760px" alt="Un conseiller juridique explique un document à une salariée venue faire valoir ses droits" width="1200" height="800" loading="lazy" decoding="async" /><figcaption>Un conseiller juridique explique un document à une salariée venue faire valoir ses droits · Photo : Freepik</figcaption></figure>
 
 Si les 14 jours sont passés, ou si le montant est faux, voici la marche à suivre pour un salarié du continent.
 

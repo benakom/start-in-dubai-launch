@@ -108,7 +108,7 @@ Dubai Health indique **25 centres d'aptitude médicale** à Dubaï. Parmi eux : 
 
 ## Le déroulé, étape par étape
 
-<figure><img src="/assets/photos/test-medical-visa-residence-dubai-2.webp" alt="Une soignante prépare la prise de sang d'un patient, garrot posé au bras" width="1200" height="800" loading="lazy" decoding="async" /><figcaption>Une soignante prépare la prise de sang d'un patient, garrot posé au bras · Photo : Freepik</figcaption></figure>
+<figure><img src="/assets/photos/test-medical-visa-residence-dubai-2.webp" srcset="/assets/photos/test-medical-visa-residence-dubai-2-800.webp 800w, /assets/photos/test-medical-visa-residence-dubai-2.webp 1200w" sizes="(max-width: 900px) 100vw, 760px" alt="Une soignante prépare la prise de sang d'un patient, garrot posé au bras" width="1200" height="800" loading="lazy" decoding="async" /><figcaption>Une soignante prépare la prise de sang d'un patient, garrot posé au bras · Photo : Freepik</figcaption></figure>
 
 1. **Obtenez votre visa d'entrée ou votre e-visa.** Le dossier médical s'ouvre avec la copie de ce visa (ou du visa de résidence en cours, pour un renouvellement).
 2. **Faites la demande.** Dubai Health indique deux voies : en ligne sur son **portail Salem** (bouton « Start Service » de la page du service), ou directement dans un centre avec vos documents.

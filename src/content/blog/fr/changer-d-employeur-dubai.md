@@ -125,7 +125,7 @@ Le préavis se donne **par écrit**, avec une date. Pendant toute sa durée, le 
 
 Le billet de retour vers votre pays est normalement à la charge de l’employeur en fin de contrat, sauf si vous avez déjà rejoint un autre employeur ou si la rupture vous est imputable (article 13). Quand vous changez d’employeur sur place, ce billet ne vous est donc en général pas dû.
 
-<figure><img src="/assets/photos/changer-d-employeur-dubai-2.webp" alt="Une employée travaille au guichet d’un centre de services pendant qu’un visiteur patiente avec une tablette" width="1200" height="800" loading="lazy" decoding="async" /><figcaption>Une employée travaille au guichet d’un centre de services pendant qu’un visiteur patiente avec une tablette · Photo : Freepik</figcaption></figure>
+<figure><img src="/assets/photos/changer-d-employeur-dubai-2.webp" srcset="/assets/photos/changer-d-employeur-dubai-2-800.webp 800w, /assets/photos/changer-d-employeur-dubai-2.webp 1200w" sizes="(max-width: 900px) 100vw, 760px" alt="Une employée travaille au guichet d’un centre de services pendant qu’un visiteur patiente avec une tablette" width="1200" height="800" loading="lazy" decoding="async" /><figcaption>Une employée travaille au guichet d’un centre de services pendant qu’un visiteur patiente avec une tablette · Photo : Freepik</figcaption></figure>
 
 ## Étape 3 : annulation du permis de travail et du visa
 

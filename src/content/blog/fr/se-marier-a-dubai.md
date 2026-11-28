@@ -161,7 +161,7 @@ Le parcours : demande électronique et paiement sur le site des tribunaux de Dub
 
 Ailleurs, selon u.ae, Abu Dhabi et Ras Al Khaimah ont leurs propres tribunaux, Sharjah, Fujairah, Ajman et Umm Al Quwain relèvent des tribunaux fédéraux (Ajman propose aussi son propre service), et le système **e-Zawaj** du ministère de la Justice permet de déposer la demande, de prendre rendez-vous et de payer en ligne.
 
-<figure><img src="/assets/photos/se-marier-a-dubai-2.webp" alt="Un tampon officiel posé sur un bureau, à côté d'une enveloppe" width="1200" height="800" loading="lazy" decoding="async" /><figcaption>Un tampon officiel posé sur un bureau, à côté d'une enveloppe · Photo : Raymond Petrik / Unsplash</figcaption></figure>
+<figure><img src="/assets/photos/se-marier-a-dubai-2.webp" srcset="/assets/photos/se-marier-a-dubai-2-800.webp 800w, /assets/photos/se-marier-a-dubai-2.webp 1200w" sizes="(max-width: 900px) 100vw, 760px" alt="Un tampon officiel posé sur un bureau, à côté d'une enveloppe" width="1200" height="800" loading="lazy" decoding="async" /><figcaption>Un tampon officiel posé sur un bureau, à côté d'une enveloppe · Photo : Raymond Petrik / Unsplash</figcaption></figure>
 
 ## Après le mariage : faire reconnaître l’acte dans votre pays
 

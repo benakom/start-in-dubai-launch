@@ -91,7 +91,7 @@ Attention à une règle souvent ignorée : selon l’article 4 de la loi de Duba
 | Tribunaux de Dubaï (registre des testaments de non-musulmans) | Non-musulmans | À vérifier auprès des tribunaux de Dubaï | Dubaï |
 | Département judiciaire d’Abu Dhabi (testaments de non-musulmans) | Non-musulmans | 950 AED (testament « spécial » : 2 500 AED) | Abu Dhabi, à vérifier pour les autres émirats |
 
-<figure><img src="/assets/photos/testament-expatrie-dubai-2.webp" alt="Une main signe un document officiel au stylo" width="1200" height="800" loading="lazy" decoding="async" /><figcaption>Une main signe un document officiel au stylo · Photo : Jakub Żerdzicki / Unsplash</figcaption></figure>
+<figure><img src="/assets/photos/testament-expatrie-dubai-2.webp" srcset="/assets/photos/testament-expatrie-dubai-2-800.webp 800w, /assets/photos/testament-expatrie-dubai-2.webp 1200w" sizes="(max-width: 900px) 100vw, 760px" alt="Une main signe un document officiel au stylo" width="1200" height="800" loading="lazy" decoding="async" /><figcaption>Une main signe un document officiel au stylo · Photo : Jakub Żerdzicki / Unsplash</figcaption></figure>
 
 ### 1. La DIFC Courts (Dubai International Financial Centre)
 

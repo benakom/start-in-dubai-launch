@@ -132,6 +132,11 @@ def _fm(path):
         if mm: out[k] = mm.group(1).replace('\\"', '"')
     return out
 
+def srcset_attr(src):
+    """Variante 800 px des photos (générée à côté de chaque photo de /assets/photos/)."""
+    if not src or not src.startswith("/assets/photos/"): return ""
+    return f' srcset="{src[:-5]}-800.webp 800w, {src} 1200w" sizes="(max-width: 700px) 100vw, 380px"'
+
 def guides_block(lang):
     d = os.path.join(GUIDE_DIR, lang)
     if not os.path.isdir(d): return ""
@@ -146,7 +151,7 @@ def guides_block(lang):
     eb, title, sub, go, allg = GUIDES_TXT[lang]
     esc = lambda x: x.replace("&", "&amp;").replace("<", "&lt;").replace('"', "&quot;")
     cards = "".join(
-        f'<li><a class="card" href="{href}"><span class="card-img"><img src="{fm.get("image") or "/assets/img/" + CLUSTER_IMG.get(fm.get("cluster"), "og.jpg")}" alt="" width="640" height="360" loading="lazy"></span>'
+        f'<li><a class="card" href="{href}"><span class="card-img"><img src="{fm.get("image") or "/assets/img/" + CLUSTER_IMG.get(fm.get("cluster"), "og.jpg")}"{srcset_attr(fm.get("image"))} alt="" width="640" height="360" loading="lazy"></span>'
         f'<span class="card-body"><span class="card-t">{esc(fm.get("h1", ""))}</span><span class="card-d">{esc(fm.get("description", ""))}</span><span class="card-go">{go} →</span></span></a></li>'
         for href, fm in items)
     hub = "/guides/" if lang == "fr" else f"/{lang}/guides/"
@@ -172,7 +177,7 @@ def nav_block(lang, signup):
             [(pre + "guides/#societe", so), (pre + "guides/#visas", vi), (pre + "guides/#etudes", et)]
     lis = "".join(f'<li><a href="{h}">{t}</a></li>' for h, t in items)
     return (f'    <nav class="nav" aria-label="{menu}" data-nav>\n      <div class="wrap nav-in">\n'
-            f'        <a class="nav-logo" href="{pre}" aria-label="START IN DUBAI"><img src="/assets/img/logo.webp?v=2" alt="START IN DUBAI" width="900" height="579"></a>\n'
+            f'        <a class="nav-logo" href="{pre}" aria-label="START IN DUBAI"><img src="/assets/img/logo-256.webp" alt="START IN DUBAI" width="256" height="165"></a>\n'
             f'        <ul class="nav-links" id="nav-links">{lis}</ul>\n'
             f'        <button class="btn btn-sm nav-cta" type="button" data-open-form><span class="btn-txt">{signup}</span></button>\n'
             f'        <button class="nav-burger" type="button" aria-expanded="false" aria-controls="nav-links" data-burger><span></span><b class="sr">{menu}</b></button>\n'
@@ -201,7 +206,7 @@ def services_block(lang):
     eb, title, go, allg = SERVICES_TXT[lang]
     esc = lambda x: x.replace("&", "&amp;").replace("<", "&lt;").replace('"', "&quot;")
     cards = "".join(
-        f'<li><a class="card" href="{href}"><span class="card-img"><img src="{fm.get("image") or "/assets/img/" + CLUSTER_IMG.get(fm.get("cluster"), "og.jpg")}" alt="" width="640" height="360" loading="lazy"></span>'
+        f'<li><a class="card" href="{href}"><span class="card-img"><img src="{fm.get("image") or "/assets/img/" + CLUSTER_IMG.get(fm.get("cluster"), "og.jpg")}"{srcset_attr(fm.get("image"))} alt="" width="640" height="360" loading="lazy"></span>'
         f'<span class="card-body"><span class="card-t">{esc(fm.get("h1", ""))}</span><span class="card-d">{esc(fm.get("description", ""))}</span><span class="card-go">{go} →</span></span></a></li>'
         for _, href, fm in items)
     hub = ("/" if lang == "fr" else f"/{lang}/") + "services/"
@@ -226,6 +231,7 @@ def build():
         for k, v in fr.items():   # mêmes balises dans la traduction que dans le français
             if re.findall(r"<(\w+)", v) != re.findall(r"<(\w+)", tr[k]): sys.exit(f"{lang} {k}: balises différentes\nFR {v}\n{lang} {tr[k]}")
         html = re.sub(r"\{\{(t\d{3}|c\d{2})\}\}", lambda m: tr[m.group(1)], tpl)
+        html = html.replace("<!--INLINE_CSS-->", "<style>" + "\n".join(open(os.path.join(ROOT, "public", "assets", f), encoding="utf-8").read() for f in ("style.css", "site.css", "home.css")) + "</style>")
         rtl = lang == "ar"
         html = html.replace('<html lang="fr">', f'<html lang="{lang}"' + (' dir="rtl"' if rtl else "") + ">")
         html = re.sub(r'  <link rel="canonical".*?<meta property="og:url" content="[^"]*">', head_block(lang), html, flags=re.S)

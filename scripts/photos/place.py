@@ -29,6 +29,7 @@ def to_webp(data, out, focus):
         nh = int(w / 1.5); y = int((h - nh) * focus); im = im.crop((0, y, w, y + nh))
     im = im.resize((1200, 800), Image.LANCZOS)
     im.save(out, "WEBP", quality=80, method=6)
+    im.resize((800, 533), Image.LANCZOS).save(out[:-5] + "-800.webp", "WEBP", quality=72, method=6)  # variante mobile (srcset)
     return os.path.getsize(out)
 
 def yq(s):
@@ -72,7 +73,7 @@ def main():
         t = open(fr, encoding="utf-8").read()
         mark = f"<!-- PHOTO {o.n} -->"
         if mark not in t: sys.exit(f"repère {mark} absent de {fr}")
-        fig = (f'<figure><img src="{web}" alt="{o.alt.replace(chr(34), "&quot;")}" width="1200" height="800" loading="lazy" decoding="async" />'
+        fig = (f'<figure><img src="{web}" srcset="{web[:-5]}-800.webp 800w, {web} 1200w" sizes="(max-width: 900px) 100vw, 760px" alt="{o.alt.replace(chr(34), "&quot;")}" width="1200" height="800" loading="lazy" decoding="async" />'
                f"<figcaption>{o.alt} · {o.credit}</figcaption></figure>")
         open(fr, "w", encoding="utf-8").write(t.replace(mark, fig, 1))
         print(f"OK photo {o.n} {web} ({size // 1024} Ko) dans {o.slug}")

@@ -140,7 +140,7 @@ Pendant le **ramadan**, ce ne sont pas des congés mais un horaire réduit : sel
 
 ## Congé maternité : 60 jours, dont 45 à plein salaire
 
-<figure><img src="/assets/photos/conges-payes-dubai-2.webp" alt="Une jeune mère tient son nouveau-né dans les bras, dans une chambre de maternité" width="1200" height="800" loading="lazy" decoding="async" /><figcaption>Une jeune mère tient son nouveau-né dans les bras, dans une chambre de maternité · Photo : Brian Wangenheim / Unsplash</figcaption></figure>
+<figure><img src="/assets/photos/conges-payes-dubai-2.webp" srcset="/assets/photos/conges-payes-dubai-2-800.webp 800w, /assets/photos/conges-payes-dubai-2.webp 1200w" sizes="(max-width: 900px) 100vw, 760px" alt="Une jeune mère tient son nouveau-né dans les bras, dans une chambre de maternité" width="1200" height="800" loading="lazy" decoding="async" /><figcaption>Une jeune mère tient son nouveau-né dans les bras, dans une chambre de maternité · Photo : Brian Wangenheim / Unsplash</figcaption></figure>
 
 L'article 30 prévoit pour toute salariée, **sans condition d'ancienneté** dans le texte de 2021 :
 

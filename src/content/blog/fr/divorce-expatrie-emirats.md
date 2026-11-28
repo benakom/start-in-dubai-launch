@@ -126,7 +126,7 @@ Il peut prendre trois formes :
 
 Le divorce ouvre des droits et des obligations : délai de viduité, **pension**, **logement** et, s’il y a des enfants, **garde**, **pension des enfants** et **droit de visite**.
 
-<figure><img src="/assets/photos/divorce-expatrie-emirats-2.webp" alt="Un père accompagne son fils à l'école, vus de dos, le cartable sur les épaules de l'enfant" width="1200" height="800" loading="lazy" decoding="async" /><figcaption>Un père accompagne son fils à l'école, vus de dos, le cartable sur les épaules de l'enfant · Photo : Freepik</figcaption></figure>
+<figure><img src="/assets/photos/divorce-expatrie-emirats-2.webp" srcset="/assets/photos/divorce-expatrie-emirats-2-800.webp 800w, /assets/photos/divorce-expatrie-emirats-2.webp 1200w" sizes="(max-width: 900px) 100vw, 760px" alt="Un père accompagne son fils à l'école, vus de dos, le cartable sur les épaules de l'enfant" width="1200" height="800" loading="lazy" decoding="async" /><figcaption>Un père accompagne son fils à l'école, vus de dos, le cartable sur les épaules de l'enfant · Photo : Freepik</figcaption></figure>
 
 ## La garde des enfants
 

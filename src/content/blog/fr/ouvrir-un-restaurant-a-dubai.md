@@ -111,7 +111,7 @@ Vous choisissez l'activité, la forme juridique et le nom commercial sur la plat
 
 Avant de signer, vérifiez que le local peut accueillir une cuisine : extraction des fumées, évacuation des eaux grasses, alimentation électrique, accès pour les livraisons et les déchets. Le bail doit ensuite être enregistré sur Ejari. Un bail signé pour un local inadapté à la restauration est l'erreur la plus coûteuse d'un projet.
 
-<figure><img src="/assets/photos/ouvrir-un-restaurant-a-dubai-2.webp" alt="Un chef au travail devant les fourneaux d'une cuisine professionnelle en inox" width="1200" height="800" loading="lazy" decoding="async" /><figcaption>Un chef au travail devant les fourneaux d'une cuisine professionnelle en inox · Photo : Ahmet Safa Türkyılmaz / Unsplash</figcaption></figure>
+<figure><img src="/assets/photos/ouvrir-un-restaurant-a-dubai-2.webp" srcset="/assets/photos/ouvrir-un-restaurant-a-dubai-2-800.webp 800w, /assets/photos/ouvrir-un-restaurant-a-dubai-2.webp 1200w" sizes="(max-width: 900px) 100vw, 760px" alt="Un chef au travail devant les fourneaux d'une cuisine professionnelle en inox" width="1200" height="800" loading="lazy" decoding="async" /><figcaption>Un chef au travail devant les fourneaux d'une cuisine professionnelle en inox · Photo : Ahmet Safa Türkyılmaz / Unsplash</figcaption></figure>
 
 ### 3. L'accord de la municipalité de Dubaï
 

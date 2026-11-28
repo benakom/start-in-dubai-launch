@@ -122,7 +122,7 @@ En pratique, pour un véhicule non enregistré, la presse émirienne décrit l�
 
 ## Les amendes de circulation : police et RTA
 
-<figure><img src="/assets/photos/salik-et-amendes-rta-dubai-2.webp" alt="Un conducteur consulte son téléphone, assis dans sa voiture à l'arrêt, portière ouverte" width="1200" height="800" loading="lazy" decoding="async" /><figcaption>Un conducteur consulte son téléphone, assis dans sa voiture à l'arrêt, portière ouverte · Photo : sammy swae / Unsplash</figcaption></figure>
+<figure><img src="/assets/photos/salik-et-amendes-rta-dubai-2.webp" srcset="/assets/photos/salik-et-amendes-rta-dubai-2-800.webp 800w, /assets/photos/salik-et-amendes-rta-dubai-2.webp 1200w" sizes="(max-width: 900px) 100vw, 760px" alt="Un conducteur consulte son téléphone, assis dans sa voiture à l'arrêt, portière ouverte" width="1200" height="800" loading="lazy" decoding="async" /><figcaption>Un conducteur consulte son téléphone, assis dans sa voiture à l'arrêt, portière ouverte · Photo : sammy swae / Unsplash</figcaption></figure>
 
 ### Le cadre légal
 

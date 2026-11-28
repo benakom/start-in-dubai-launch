@@ -103,7 +103,7 @@ Les recherches « ejari prix » renvoient souvent à des montants plus élevés 
 
 ## Comment enregistrer son Ejari : les canaux officiels
 
-<figure><img src="/assets/photos/contrat-de-location-ejari-dubai-2.webp" alt="Un couple consulte une tablette au milieu des cartons du déménagement" width="1200" height="800" loading="lazy" decoding="async" /><figcaption>Un couple consulte une tablette au milieu des cartons du déménagement · Photo : Vitaly Gariev / Unsplash</figcaption></figure>
+<figure><img src="/assets/photos/contrat-de-location-ejari-dubai-2.webp" srcset="/assets/photos/contrat-de-location-ejari-dubai-2-800.webp 800w, /assets/photos/contrat-de-location-ejari-dubai-2.webp 1200w" sizes="(max-width: 900px) 100vw, 760px" alt="Un couple consulte une tablette au milieu des cartons du déménagement" width="1200" height="800" loading="lazy" decoding="async" /><figcaption>Un couple consulte une tablette au milieu des cartons du déménagement · Photo : Vitaly Gariev / Unsplash</figcaption></figure>
 
 Le DLD propose trois canaux. Le bon choix dépend surtout de qui gère le logement.
 

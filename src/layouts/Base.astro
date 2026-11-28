@@ -1,4 +1,7 @@
 ---
+import { readFileSync } from "node:fs";
+// CSS en ligne (évite 2 requêtes bloquantes au premier affichage)
+const INLINE_CSS = ["style.css", "site.css"].map((f) => readFileSync(`public/assets/${f}`, "utf-8")).join("\n");
 // Mise en page commune des pages du site : même barre du haut, même formulaire et même pied de page que la page de lancement.
 import type { Lang } from "../content.config";
 import { LANGS } from "../content.config";
@@ -22,7 +25,7 @@ const navItems = [
   { href: guidesPath(lang) + "#visas", label: u.clusters.visas, key: "visas" },
   { href: guidesPath(lang) + "#etudes", label: u.clusters.etudes, key: "etudes" },
 ];
-const fonts = "https://fonts.googleapis.com/css2?" + (rtl ? "family=Noto+Kufi+Arabic:wght@500;700;800&" : "") + "family=Montserrat:wght@700;800;900&family=Inter:wght@400;500;600;700&display=swap";
+const fonts = "https://fonts.googleapis.com/css2?" + (rtl ? "family=Noto+Kufi+Arabic:wght@500;700;800&" : "") + "family=Montserrat:wght@700;800;900&family=Inter:wght@400;500;600;700&display=optional";
 ---
 <!doctype html>
 <html lang={lang} dir={rtl ? "rtl" : undefined}>
@@ -50,10 +53,10 @@ const fonts = "https://fonts.googleapis.com/css2?" + (rtl ? "family=Noto+Kufi+Ar
   <link rel="manifest" href="/site.webmanifest" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link href={fonts} rel="stylesheet" />
-  <link rel="stylesheet" href="/assets/style.css?v=3" />
-  <link rel="stylesheet" href="/assets/site.css?v=4" />
-  <script src="/config.js" is:inline></script>
+  <link rel="preload" as="style" href={fonts} />
+  <link href={fonts} rel="stylesheet" media="print" onload="this.media='all'" />
+  <noscript><link href={fonts} rel="stylesheet" /></noscript>
+  <style is:inline set:html={INLINE_CSS}></style>
   {jsonld.map((d) => <script type="application/ld+json" set:html={JSON.stringify(d)} />)}
 </head>
 <body>
@@ -72,7 +75,7 @@ const fonts = "https://fonts.googleapis.com/css2?" + (rtl ? "family=Noto+Kufi+Ar
     </div>
     <nav class="nav" aria-label={u.menu} data-nav>
       <div class="wrap nav-in">
-        <a class="nav-logo" href={homePath(lang)} aria-label={`START IN DUBAI, ${u.home}`}><img src="/assets/img/logo.webp?v=2" alt="START IN DUBAI" width="900" height="579" /></a>
+        <a class="nav-logo" href={homePath(lang)} aria-label={`START IN DUBAI, ${u.home}`}><img src="/assets/img/logo-256.webp" alt="START IN DUBAI" width="256" height="165" /></a>
         <ul class="nav-links" id="nav-links">
           {navItems.map((n) => <li><a href={n.href} aria-current={n.key === nav ? "page" : undefined}>{n.label}</a></li>)}
         </ul>
@@ -86,7 +89,7 @@ const fonts = "https://fonts.googleapis.com/css2?" + (rtl ? "family=Noto+Kufi+Ar
 
   <footer class="foot">
     <div class="wrap foot-in">
-      <img src="/assets/img/logo.webp?v=2" alt="START IN DUBAI" width="120" height="77" loading="lazy" />
+      <img src="/assets/img/logo-384.webp" alt="START IN DUBAI" width="384" height="247" loading="lazy" />
       <p>{navItems.filter((n) => n.key === "services" || n.key === "blog").map((n) => <><a href={n.href}>{n.label}</a> · </>)}<a href={guidesPath(lang)}>{u.allGuides}</a>{Object.entries(u.clusters).map(([k, v]) => <> · <a href={`${guidesPath(lang)}#${k}`}>{v}</a></>)}</p>
       <p set:html={t.t123} />
       <p class="langs">{LANGS.map((l, i) => <>{i > 0 && " · "}<a href={alternates.find((a) => a.lang === l)?.href || homePath(l)} hreflang={l} lang={l} data-lang-link={l} aria-current={l === lang ? "page" : undefined}>{LANG_NAMES[l]}</a></>)}</p>
@@ -101,7 +104,7 @@ const fonts = "https://fonts.googleapis.com/css2?" + (rtl ? "family=Noto+Kufi+Ar
   <div class="tf" id="tf" role="dialog" aria-modal="true" aria-label={t.t125} hidden>
     <div class="tf-progress"><span></span></div>
     <header class="tf-head">
-      <img src="/assets/img/logo.webp?v=2" alt="START IN DUBAI" width="90" height="58" />
+      <img src="/assets/img/logo-256.webp" alt="START IN DUBAI" width="256" height="165" loading="lazy" />
       <button type="button" class="tf-close" data-close-form aria-label={t.t126}><svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" /></svg></button>
     </header>
     <form class="tf-stage" novalidate autocomplete="on"></form>
@@ -119,6 +122,7 @@ const fonts = "https://fonts.googleapis.com/css2?" + (rtl ? "family=Noto+Kufi+Ar
   </dialog>
 
   <script is:inline set:html={`window.SID_I18N=${JSON.stringify(FORM[lang])};`} />
+  <script src="/config.js" is:inline></script>
   <script src="/assets/app.js" is:inline></script>
   <script src="/assets/site.js" is:inline></script>
 </body>

@@ -23,11 +23,11 @@
   <link rel="manifest" href="/site.webmanifest">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700;800;900&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="assets/style.css?v=3">
-  <link rel="stylesheet" href="assets/site.css?v=4">
-  <link rel="stylesheet" href="assets/home.css?v=1">
-  <script src="config.js"></script>
+  <link rel="preload" as="image" media="(min-width: 701px)" href="/assets/photos/creation-de-societe-dubai-800.webp" imagesrcset="/assets/photos/creation-de-societe-dubai-800.webp 800w, /assets/photos/creation-de-societe-dubai.webp 1200w" imagesizes="100vw" fetchpriority="high">
+  <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700;800;900&family=Inter:wght@400;500;600;700&display=optional">
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700;800;900&family=Inter:wght@400;500;600;700&display=optional" rel="stylesheet" media="print" onload="this.media='all'">
+  <noscript><link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700;800;900&family=Inter:wght@400;500;600;700&display=optional" rel="stylesheet"></noscript>
+<!--INLINE_CSS-->
   <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://www.startindubai.com/#organization","name":"START IN DUBAI","alternateName":"Start in Dubai","url":"https://www.startindubai.com/","logo":"https://www.startindubai.com/assets/img/logo.webp","description":"{{t005}}","areaServed":[{"@type":"City","name":"Dubaï"},{"@type":"Country","name":"Émirats arabes unis"}],"knowsLanguage":["fr","ar"]},{"@type":"WebSite","@id":"https://www.startindubai.com/#website","name":"START IN DUBAI","alternateName":["Start in Dubai","startindubai.com"],"url":"https://www.startindubai.com/","inLanguage":"fr","publisher":{"@id":"https://www.startindubai.com/#organization"}}]}</script>
 </head>
 <body class="home">
@@ -46,7 +46,7 @@
   <main>
     <!-- 1. HERO corporate : message + carte de qualification (choix du profil = ouverture du formulaire) -->
     <header class="hero hx" id="top">
-      <div class="hx-bg" aria-hidden="true"><img src="/assets/photos/creation-de-societe-dubai.webp" alt="" width="1200" height="800" fetchpriority="high" decoding="async"></div>
+      <div class="hx-bg" aria-hidden="true"><picture><source media="(max-width: 700px)" srcset="/assets/photos/creation-de-societe-dubai-blur.webp"><img src="/assets/photos/creation-de-societe-dubai.webp" srcset="/assets/photos/creation-de-societe-dubai-800.webp 800w, /assets/photos/creation-de-societe-dubai.webp 1200w" sizes="100vw" alt="" width="1200" height="800" fetchpriority="high" decoding="async"></picture></div>
       <div class="wrap hx-in">
         <div class="hx-copy">
           <p class="hx-kicker">{{t008}}</p>
@@ -197,7 +197,7 @@
     <section class="sec sec-gray" aria-labelledby="who-t">
       <div class="wrap about">
         <div class="about-copy">
-          <img src="assets/photos/s-installer-a-dubai.webp" alt="" width="1200" height="800" loading="lazy">
+          <img src="/assets/photos/s-installer-a-dubai.webp" srcset="/assets/photos/s-installer-a-dubai-800.webp 800w, /assets/photos/s-installer-a-dubai.webp 1200w" sizes="(max-width: 900px) 100vw, 600px" alt="" width="1200" height="800" loading="lazy" decoding="async">
           <p class="eyebrow">{{t098}}</p>
           <h2 id="who-t">{{t099}}</h2>
           <p>{{t100}}</p>
@@ -253,7 +253,7 @@
 
   <footer class="foot">
     <div class="wrap foot-in">
-      <img src="assets/img/logo.webp?v=2" alt="START IN DUBAI" width="120" height="77" loading="lazy">
+      <img src="/assets/img/logo-384.webp" alt="START IN DUBAI" width="384" height="247" loading="lazy">
       <p>{{t123}}</p>
       <!--LANG_LINKS-->
     </div>
@@ -268,7 +268,7 @@
   <div class="tf" id="tf" role="dialog" aria-modal="true" aria-label="{{t125}}" hidden>
     <div class="tf-progress"><span></span></div>
     <header class="tf-head">
-      <img src="assets/img/logo.webp?v=2" alt="START IN DUBAI" width="90" height="58">
+      <img src="/assets/img/logo-256.webp" alt="START IN DUBAI" width="256" height="165" loading="lazy">
       <button type="button" class="tf-close" data-close-form aria-label="{{t126}}">
         <svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
       </button>
@@ -288,6 +288,7 @@
   </dialog>
 
   <!--FORM_I18N-->
+  <script src="config.js"></script>
   <script src="assets/app.js"></script>
   <script src="assets/site.js"></script>
 </body>

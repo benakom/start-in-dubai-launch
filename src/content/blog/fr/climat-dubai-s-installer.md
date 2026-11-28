@@ -91,7 +91,7 @@ L’humidité varie selon les quartiers. Les zones proches de la mer et de la cr
 
 ## L’été au quotidien
 
-<figure><img src="/assets/photos/climat-dubai-s-installer-2.webp" alt="Un abribus climatisé de la RTA sur la rue Al Rigga, dans le quartier de Deira à Dubaï" width="1200" height="800" loading="lazy" decoding="async" /><figcaption>Un abribus climatisé de la RTA sur la rue Al Rigga, dans le quartier de Deira à Dubaï · Photo : Freepik</figcaption></figure>
+<figure><img src="/assets/photos/climat-dubai-s-installer-2.webp" srcset="/assets/photos/climat-dubai-s-installer-2-800.webp 800w, /assets/photos/climat-dubai-s-installer-2.webp 1200w" sizes="(max-width: 900px) 100vw, 760px" alt="Un abribus climatisé de la RTA sur la rue Al Rigga, dans le quartier de Deira à Dubaï" width="1200" height="800" loading="lazy" decoding="async" /><figcaption>Un abribus climatisé de la RTA sur la rue Al Rigga, dans le quartier de Deira à Dubaï · Photo : Freepik</figcaption></figure>
 
 ### Une vie organisée autour de la climatisation
 

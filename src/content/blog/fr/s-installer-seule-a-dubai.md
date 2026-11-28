@@ -125,7 +125,7 @@ En cas de problème avec une banque, la Banque centrale propose une plateforme d
 
 Dubaï a une réputation de ville sûre. Une réputation n’est pas une garantie : voici ce qui existe, et ce que rappellent les autorités consulaires.
 
-<figure><img src="/assets/photos/s-installer-seule-a-dubai-2.webp" alt="Une voyageuse passe les portiques d’une station du métro de Dubaï avec sa carte de transport Nol" width="1200" height="800" loading="lazy" decoding="async" /><figcaption>Une voyageuse passe les portiques d’une station du métro de Dubaï avec sa carte de transport Nol · Photo : Freepik</figcaption></figure>
+<figure><img src="/assets/photos/s-installer-seule-a-dubai-2.webp" srcset="/assets/photos/s-installer-seule-a-dubai-2-800.webp 800w, /assets/photos/s-installer-seule-a-dubai-2.webp 1200w" sizes="(max-width: 900px) 100vw, 760px" alt="Une voyageuse passe les portiques d’une station du métro de Dubaï avec sa carte de transport Nol" width="1200" height="800" loading="lazy" decoding="async" /><figcaption>Une voyageuse passe les portiques d’une station du métro de Dubaï avec sa carte de transport Nol · Photo : Freepik</figcaption></figure>
 
 **Ce que les autorités mettent à disposition :**
 

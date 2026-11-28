@@ -1,4 +1,5 @@
 ---
+import { srcset } from "../lib/img";
 // Page guide ou article de blog (6 langues), assemblée à partir des blocs de src/components/blocks.
 import { render } from "astro:content";
 import Base from "../layouts/Base.astro";
@@ -78,7 +79,7 @@ const jsonld = [
       <article class="art-main">
         {d.image && d.imageAlt && (
           <figure class="cover">
-            <img src={d.image} alt={d.imageAlt} width="1200" height="800" fetchpriority="high" decoding="async" />
+            <img src={d.image} srcset={srcset(d.image)} sizes="(max-width: 900px) 100vw, 760px" alt={d.imageAlt} width="1200" height="800" decoding="async" />
             {d.imageCredit && <figcaption>{d.imageCredit}</figcaption>}
           </figure>
         )}
@@ -104,7 +105,7 @@ const jsonld = [
         )}
 
         <section class="author" id="auteur" aria-label={u.author}>
-          <img src="/assets/img/logo.webp" alt="START IN DUBAI" width="96" height="62" loading="lazy" />
+          <img src="/assets/img/logo-256.webp" alt="START IN DUBAI" width="96" height="62" loading="lazy" />
           <div>
             <p class="n">{u.author}</p>
             <p>{u.teamBio}</p>

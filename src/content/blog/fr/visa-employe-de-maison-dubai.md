@@ -97,7 +97,7 @@ Ce que la loi leur interdit :
 - dépasser les **plafonds de prix** fixés par le MOHRE pour le forfait classique, ou facturer des frais supplémentaires ;
 - recruter une personne sans l’avoir informée, **avant son départ**, du type de travail, du lieu et du salaire.
 
-<figure><img src="/assets/photos/visa-employe-de-maison-dubai-2.webp" alt="Une conseillère présente un dossier sur tablette à une femme et un homme assis à sa table" width="1200" height="800" loading="lazy" decoding="async" /><figcaption>Une conseillère présente un dossier sur tablette à une femme et un homme assis à sa table · Photo : Freepik</figcaption></figure>
+<figure><img src="/assets/photos/visa-employe-de-maison-dubai-2.webp" srcset="/assets/photos/visa-employe-de-maison-dubai-2-800.webp 800w, /assets/photos/visa-employe-de-maison-dubai-2.webp 1200w" sizes="(max-width: 900px) 100vw, 760px" alt="Une conseillère présente un dossier sur tablette à une femme et un homme assis à sa table" width="1200" height="800" loading="lazy" decoding="async" /><figcaption>Une conseillère présente un dossier sur tablette à une femme et un homme assis à sa table · Photo : Freepik</figcaption></figure>
 
 Le MOHRE met en garde contre les **agences non agréées** et les annonces sur les réseaux sociaux : en cas de problème, vous n’avez alors ni garantie de remplacement ni droit au remboursement. Vérifiez que le centre figure sur la liste des centres agréés publiée par le MOHRE et que son code-barres d’agrément est affiché à l’entrée, comme l’exige le ministère.
 

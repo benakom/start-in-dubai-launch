@@ -95,7 +95,7 @@ Chaque rame comporte une **classe Gold** (plus calme, tarif double, carte Gold o
 
 ## La carte Nol : quel type choisir ?
 
-<figure><img src="/assets/photos/metro-et-transports-dubai-2.webp" alt="Le quai d'une station du métro de Dubaï, avec ses portes palières et le marquage au sol" width="1200" height="800" loading="lazy" decoding="async" /><figcaption>Le quai d'une station du métro de Dubaï, avec ses portes palières et le marquage au sol · Photo : Freepik</figcaption></figure>
+<figure><img src="/assets/photos/metro-et-transports-dubai-2.webp" srcset="/assets/photos/metro-et-transports-dubai-2-800.webp 800w, /assets/photos/metro-et-transports-dubai-2.webp 1200w" sizes="(max-width: 900px) 100vw, 760px" alt="Le quai d'une station du métro de Dubaï, avec ses portes palières et le marquage au sol" width="1200" height="800" loading="lazy" decoding="async" /><figcaption>Le quai d'une station du métro de Dubaï, avec ses portes palières et le marquage au sol · Photo : Freepik</figcaption></figure>
 
 La carte Nol est une carte sans contact qu’on **valide à l’entrée et à la sortie** des stations de métro et de tram (et à la montée et la descente dans les bus). Voici les options publiées par la RTA :
 
