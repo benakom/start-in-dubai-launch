@@ -141,7 +141,14 @@ export const UI: Record<Lang, UI> = {
 
 // Illustration par thème (remplaçables par des photos sous licence dans public/assets/img/themes/).
 export const CLUSTER_IMG: Record<string, string> = {
-  installer: "/assets/img/og.jpg", societe: "/assets/img/entrepreneur.webp", visas: "/assets/img/og.jpg", famille: "/assets/img/famille.webp",
-  etudes: "/assets/img/etudiant.webp", travail: "/assets/img/entrepreneur.webp", vie: "/assets/img/og.jpg", argent: "/assets/img/investisseur.webp",
-  investir: "/assets/img/investisseur.webp", pays: "/assets/img/og.jpg",
+  installer: "/assets/photos/s-installer-a-dubai.webp",
+  societe: "/assets/photos/creer-sa-societe-a-dubai.webp",
+  visas: "/assets/photos/visa-dubai.webp",
+  famille: "/assets/photos/s-installer-a-dubai-en-famille.webp",
+  etudes: "/assets/photos/etudier-a-dubai.webp",
+  travail: "/assets/photos/travailler-a-dubai.webp",
+  vie: "/assets/photos/vivre-a-dubai.webp",
+  argent: "/assets/photos/transferer-de-l-argent-a-dubai.webp",
+  investir: "/assets/photos/investir-a-dubai.webp",
+  pays: "/assets/photos/s-installer-a-dubai-depuis-l-algerie.webp",
 };

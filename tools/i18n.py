@@ -112,8 +112,7 @@ def switcher(lang):
 # ------------------------------------------------------------------ guides mis en avant sur la page de lancement
 GUIDE_DIR = os.path.join(ROOT, "src", "content", "guides")
 FEATURED = ["creer-sa-societe-a-dubai", "golden-visa-dubai", "s-installer-a-dubai", "etudier-a-dubai", "s-installer-a-dubai-en-famille", "ouvrir-un-compte-bancaire-a-dubai"]
-CLUSTER_IMG = {"installer": "og.jpg", "societe": "entrepreneur.webp", "visas": "og.jpg", "famille": "famille.webp", "etudes": "etudiant.webp",
-               "travail": "entrepreneur.webp", "vie": "og.jpg", "argent": "investisseur.webp", "investir": "investisseur.webp", "pays": "og.jpg"}
+CLUSTER_IMG = {"installer": "/assets/photos/s-installer-a-dubai.webp", "societe": "/assets/photos/creer-sa-societe-a-dubai.webp", "visas": "/assets/photos/visa-dubai.webp", "famille": "/assets/photos/s-installer-a-dubai-en-famille.webp", "etudes": "/assets/photos/etudier-a-dubai.webp", "travail": "/assets/photos/travailler-a-dubai.webp", "vie": "/assets/photos/vivre-a-dubai.webp", "argent": "/assets/photos/transferer-de-l-argent-a-dubai.webp", "investir": "/assets/photos/investir-a-dubai.webp", "pays": "/assets/photos/s-installer-a-dubai-depuis-l-algerie.webp"}
 GUIDES_TXT = {
     "fr": ("Guides gratuits", "Préparez votre projet avec nos guides", "Vérifiés sur les sources officielles, mis à jour régulièrement.", "Lire le guide", "Tous les guides"),
     "en": ("Free guides", "Plan your move with our guides", "Checked against official sources and kept up to date.", "Read the guide", "All guides"),
@@ -151,7 +150,7 @@ def guides_block(lang):
     eb, title, sub, go, allg = GUIDES_TXT[lang]
     esc = lambda x: x.replace("&", "&amp;").replace("<", "&lt;").replace('"', "&quot;")
     cards = "".join(
-        f'<li><a class="card" href="{href}"><span class="card-img"><img src="{fm.get("image") or "/assets/img/" + CLUSTER_IMG.get(fm.get("cluster"), "og.jpg")}"{srcset_attr(fm.get("image"))} alt="" width="640" height="360" loading="lazy"></span>'
+        f'<li><a class="card" href="{href}"><span class="card-img"><img src="{fm.get("image") or CLUSTER_IMG.get(fm.get("cluster"), "/assets/img/og.jpg")}"{srcset_attr(fm.get("image") or CLUSTER_IMG.get(fm.get("cluster")))} alt="" width="640" height="360" loading="lazy"></span>'
         f'<span class="card-body"><span class="card-t">{esc(fm.get("h1", ""))}</span><span class="card-d">{esc(fm.get("description", ""))}</span><span class="card-go">{go} →</span></span></a></li>'
         for href, fm in items)
     hub = "/guides/" if lang == "fr" else f"/{lang}/guides/"
@@ -206,7 +205,7 @@ def services_block(lang):
     eb, title, go, allg = SERVICES_TXT[lang]
     esc = lambda x: x.replace("&", "&amp;").replace("<", "&lt;").replace('"', "&quot;")
     cards = "".join(
-        f'<li><a class="card" href="{href}"><span class="card-img"><img src="{fm.get("image") or "/assets/img/" + CLUSTER_IMG.get(fm.get("cluster"), "og.jpg")}"{srcset_attr(fm.get("image"))} alt="" width="640" height="360" loading="lazy"></span>'
+        f'<li><a class="card" href="{href}"><span class="card-img"><img src="{fm.get("image") or CLUSTER_IMG.get(fm.get("cluster"), "/assets/img/og.jpg")}"{srcset_attr(fm.get("image") or CLUSTER_IMG.get(fm.get("cluster")))} alt="" width="640" height="360" loading="lazy"></span>'
         f'<span class="card-body"><span class="card-t">{esc(fm.get("h1", ""))}</span><span class="card-d">{esc(fm.get("description", ""))}</span><span class="card-go">{go} →</span></span></a></li>'
         for _, href, fm in items)
     hub = ("/" if lang == "fr" else f"/{lang}/") + "services/"

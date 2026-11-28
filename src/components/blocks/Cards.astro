@@ -13,7 +13,7 @@ const go = coll === "blog" ? u.readArticle : coll === "services" ? u.seeService 
   {items.map((g) => (
     <li class="rv">
       <a class="card" href={entryPath(coll, g)}>
-        <span class="card-img"><img src={g.data.image || CLUSTER_IMG[g.data.cluster]} srcset={srcset(g.data.image)} sizes="(max-width: 700px) 100vw, 380px" alt="" width="640" height="360" loading="lazy" decoding="async" />{tag && <span class="card-tag">{coll === "services" ? u.services : u.clusters[g.data.cluster]}</span>}</span>
+        <span class="card-img"><img src={g.data.image || CLUSTER_IMG[g.data.cluster]} srcset={srcset(g.data.image || CLUSTER_IMG[g.data.cluster])} sizes="(max-width: 700px) 100vw, 380px" alt="" width="640" height="360" loading="lazy" decoding="async" />{tag && <span class="card-tag">{coll === "services" ? u.services : u.clusters[g.data.cluster]}</span>}</span>
         <span class="card-body"><span class="card-t">{g.data.h1}</span><span class="card-d">{g.data.description}</span><span class="card-go">{go} →</span></span>
       </a>
     </li>
