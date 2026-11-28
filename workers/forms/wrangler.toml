@@ -1,0 +1,8 @@
+name = "sid-forms"
+main = "src/index.js"
+compatibility_date = "2025-06-01"
+workers_dev = false
+
+routes = [
+  { pattern = "www.startindubai.com/api/*", zone_name = "startindubai.com" },
+]

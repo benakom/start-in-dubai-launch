@@ -22,7 +22,7 @@
       consent: "En envoyant, vous acceptez d'être recontacté au sujet de votre projet.", privacy: "Confidentialité",
       eName: "Indiquez votre prénom.", ePhone: "Indiquez le numéro avec l'indicatif du pays, par exemple +33 6 12 34 56 78.", eEmail: "Cette adresse e-mail n'est pas valide.", eSend: "L'envoi n'a pas abouti. Réessayez dans un instant.",
       sending: "Envoi…", done: "Merci {n} ! C'est bien reçu. Un membre de l'équipe START IN DUBAI va vous contacter très prochainement, sur WhatsApp ou par téléphone.",
-      again: "Votre demande est bien enregistrée : l'équipe START IN DUBAI va vous contacter.", restart: "Nouvelle demande" },
+      again: "Votre demande est bien enregistrée : l'équipe START IN DUBAI va vous contacter.", restart: "Nouvelle demande", news: "Recevoir aussi nos guides par e-mail (facultatif)" },
     en: { open: "Open the START IN DUBAI assistant", close: "Close", teaser: "A project in Dubai? Let's talk 👋", sub: "Assistant · our team gets back to you",
       hello: "Hello 👋 I'm the START IN DUBAI assistant.", q1: "What is your Dubai project?",
       p: ["Set up my company", "Visa and residency", "Move with my family", "Studies", "Bank account", "Something else"],
@@ -32,7 +32,7 @@
       consent: "By sending, you agree to be contacted about your project.", privacy: "Privacy",
       eName: "Please enter your first name.", ePhone: "Please enter the number with its country code, e.g. +44 7700 900123.", eEmail: "This email address is not valid.", eSend: "Sending failed. Please try again in a moment.",
       sending: "Sending…", done: "Thank you {n}! We've got it. A member of the START IN DUBAI team will contact you very soon, on WhatsApp or by phone.",
-      again: "Your request is registered: the START IN DUBAI team will contact you.", restart: "New request" },
+      again: "Your request is registered: the START IN DUBAI team will contact you.", restart: "New request", news: "Also receive our guides by email (optional)" },
     ar: { open: "فتح مساعد START IN DUBAI", close: "إغلاق", teaser: "لديك مشروع في دبي؟ لنتحدث 👋", sub: "المساعد · فريقنا يتواصل معك",
       hello: "مرحبًا 👋 أنا مساعد START IN DUBAI.", q1: "ما هو مشروعك في دبي؟",
       p: ["تأسيس شركتي", "التأشيرة والإقامة", "الانتقال مع عائلتي", "الدراسة", "حساب بنكي", "مشروع آخر"],
@@ -42,7 +42,7 @@
       consent: "بالإرسال، توافق على أن نتواصل معك بشأن مشروعك.", privacy: "الخصوصية",
       eName: "يرجى كتابة اسمك الأول.", ePhone: "يرجى كتابة الرقم مع رمز الدولة، مثل ‎+971 50 123 4567.", eEmail: "عنوان البريد الإلكتروني غير صالح.", eSend: "تعذّر الإرسال. حاول مرة أخرى بعد قليل.",
       sending: "جارٍ الإرسال…", done: "شكرًا {n}! وصلنا طلبك. سيتواصل معك أحد أعضاء فريق START IN DUBAI قريبًا جدًا عبر واتساب أو الهاتف.",
-      again: "تم تسجيل طلبك: سيتواصل معك فريق START IN DUBAI.", restart: "طلب جديد" },
+      again: "تم تسجيل طلبك: سيتواصل معك فريق START IN DUBAI.", restart: "طلب جديد", news: "أرغب أيضًا في تلقي أدلتكم عبر البريد الإلكتروني (اختياري)" },
     es: { open: "Abrir el asistente de START IN DUBAI", close: "Cerrar", teaser: "¿Un proyecto en Dubái? Hablemos 👋", sub: "Asistente · nuestro equipo le contacta",
       hello: "Hola 👋 Soy el asistente de START IN DUBAI.", q1: "¿Cuál es su proyecto en Dubái?",
       p: ["Crear mi empresa", "Visado y residencia", "Mudarme con mi familia", "Estudios", "Cuenta bancaria", "Otro proyecto"],
@@ -52,7 +52,7 @@
       consent: "Al enviar, acepta que le contactemos sobre su proyecto.", privacy: "Privacidad",
       eName: "Indique su nombre.", ePhone: "Indique el número con el prefijo del país, por ejemplo +34 612 34 56 78.", eEmail: "Este email no es válido.", eSend: "No se pudo enviar. Inténtelo de nuevo en un momento.",
       sending: "Enviando…", done: "¡Gracias, {n}! Lo hemos recibido. Un miembro del equipo START IN DUBAI le contactará muy pronto por WhatsApp o por teléfono.",
-      again: "Su solicitud está registrada: el equipo START IN DUBAI le contactará.", restart: "Nueva solicitud" },
+      again: "Su solicitud está registrada: el equipo START IN DUBAI le contactará.", restart: "Nueva solicitud", news: "Recibir también nuestras guías por email (opcional)" },
     nl: { open: "De assistent van START IN DUBAI openen", close: "Sluiten", teaser: "Een project in Dubai? Laten we praten 👋", sub: "Assistent · ons team neemt contact op",
       hello: "Hallo 👋 Ik ben de assistent van START IN DUBAI.", q1: "Wat is uw project in Dubai?",
       p: ["Mijn bedrijf oprichten", "Visum en verblijf", "Verhuizen met mijn gezin", "Studeren", "Bankrekening", "Iets anders"],
@@ -62,7 +62,7 @@
       consent: "Door te verzenden gaat u ermee akkoord dat wij contact met u opnemen over uw project.", privacy: "Privacy",
       eName: "Vul uw voornaam in.", ePhone: "Vul het nummer in met de landcode, bijvoorbeeld +31 6 12345678.", eEmail: "Dit e-mailadres is ongeldig.", eSend: "Verzenden is mislukt. Probeer het zo opnieuw.",
       sending: "Verzenden…", done: "Bedankt, {n}! We hebben het ontvangen. Iemand van het START IN DUBAI-team neemt heel snel contact met u op via WhatsApp of telefoon.",
-      again: "Uw aanvraag is geregistreerd: het START IN DUBAI-team neemt contact met u op.", restart: "Nieuwe aanvraag" },
+      again: "Uw aanvraag is geregistreerd: het START IN DUBAI-team neemt contact met u op.", restart: "Nieuwe aanvraag", news: "Ook onze gidsen per e-mail ontvangen (optioneel)" },
     it: { open: "Apri l'assistente di START IN DUBAI", close: "Chiudi", teaser: "Un progetto a Dubai? Parliamone 👋", sub: "Assistente · il team La ricontatta",
       hello: "Buongiorno 👋 Sono l'assistente di START IN DUBAI.", q1: "Qual è il Suo progetto a Dubai?",
       p: ["Aprire la mia società", "Visto e residenza", "Trasferirmi con la famiglia", "Studi", "Conto bancario", "Altro progetto"],
@@ -72,7 +72,7 @@
       consent: "Inviando, accetta di essere ricontattato per il Suo progetto.", privacy: "Privacy",
       eName: "Inserisca il Suo nome.", ePhone: "Inserisca il numero con il prefisso internazionale, ad esempio +39 312 345 6789.", eEmail: "Questa email non è valida.", eSend: "Invio non riuscito. Riprovi tra un attimo.",
       sending: "Invio…", done: "Grazie, {n}! Abbiamo ricevuto la Sua richiesta. Un membro del team START IN DUBAI La contatterà molto presto su WhatsApp o per telefono.",
-      again: "La Sua richiesta è registrata: il team START IN DUBAI La contatterà.", restart: "Nuova richiesta" },
+      again: "La Sua richiesta è registrata: il team START IN DUBAI La contatterà.", restart: "Nuova richiesta", news: "Ricevere anche le nostre guide via email (facoltativo)" },
   };
   const t = T[LANG] || T.en, FR = T.fr;
 
@@ -122,6 +122,7 @@ body:has(.sticky.is-on) .sb{bottom:calc(92px + env(safe-area-inset-bottom))}
 .sb-form input{display:block;width:100%;margin-top:5px;padding:11px 12px;border:1.5px solid var(--sb-line);border-radius:10px;font:inherit;font-size:16px;color:var(--sb-ink);background:#fff}
 .sb-form input:focus{border-color:var(--sb-ink);outline:none}
 .sb-form input[type=tel]{direction:ltr;text-align:left}
+.sb-news{display:flex!important;align-items:flex-start;gap:8px;font-weight:600!important;font-size:12.5px!important;color:#444!important;line-height:1.4}.sb-news input{width:auto!important;margin:2px 0 0!important;flex:none}
 .sb-hp{position:absolute;left:-9999px;width:1px;height:1px;overflow:hidden}
 .sb-send{display:block;width:100%;min-height:48px;margin-top:4px;border:0;border-radius:10px;background:var(--sb-red);color:#fff;font:inherit;font-size:15.5px;font-weight:800;cursor:pointer;box-shadow:0 10px 22px -12px rgba(225,6,0,.8)}
 .sb-send:disabled{opacity:.6;cursor:wait}
@@ -232,12 +233,13 @@ body:has(.sticky.is-on) .sb{bottom:calc(92px + env(safe-area-inset-bottom))}
     const [l2, iPhone] = field(t.phone, "tel", "tel", { autocomplete: "tel", inputMode: "tel", placeholder: t.php, maxLength: 24, required: true });
     const [l3, iMail] = field(t.email, "email", "email", { autocomplete: "email", maxLength: 120 });
     const hp = el("input", "sb-hp"); hp.name = "website"; hp.tabIndex = -1; hp.autocomplete = "off"; hp.setAttribute("aria-hidden", "true");
+    const nl = el("label", "sb-news"); const cb = el("input"); cb.type = "checkbox"; cb.name = "news"; nl.append(cb, document.createTextNode(" " + t.news));
     const err = el("p", "sb-err"); err.setAttribute("role", "alert");
     const send = el("button", "sb-send", t.send); send.type = "submit";
     const legal = el("p", "sb-legal", t.consent + " ");
     const pv = document.getElementById("privacy");
     if (pv && pv.showModal) { const pb = el("button", null, t.privacy); pb.type = "button"; pb.addEventListener("click", () => pv.showModal()); legal.append(pb); }
-    f.append(l1, l2, l3, hp, err, send, legal);
+    f.append(l1, l2, l3, nl, hp, err, send, legal);
     body.append(f); down();
     setTimeout(() => iName.focus({ preventScroll: true }), 50);
 
@@ -255,7 +257,7 @@ body:has(.sticky.is-on) .sb{bottom:calc(92px + env(safe-area-inset-bottom))}
       if (hp.value) { done(name, f); return; }
       send.disabled = true; send.textContent = t.sending;
       try {
-        await sendLead({ name, phone: "+" + d, email: mail });
+        await sendLead({ name, phone: "+" + d, email: mail, news: cb.checked });
         window.gtag?.("event", "generate_lead", { lead_source: "bot", project: FR.p[state.project] });
         window.fbq?.("track", "Lead", { content_name: TAG });
         store.set("sid_bot_lead", { name, at: new Date().toISOString() });
@@ -298,6 +300,9 @@ body:has(.sticky.is-on) .sb{bottom:calc(92px + env(safe-area-inset-bottom))}
     const auth = { apikey: crm.publishableKey, Authorization: "Bearer " + crm.publishableKey, "Content-Type": "application/json" };
     const r = await fetch(base + "/rest/v1/leads", { method: "POST", headers: { ...auth, Prefer: "return=minimal" }, body: JSON.stringify(row), keepalive: true });
     if (!r.ok) throw new Error("CRM HTTP " + r.status + " " + (await r.text().catch(() => "")));
+    if (p.email) fetch("/api/lead", { method: "POST", headers: { "content-type": "application/json" }, keepalive: true,
+      body: JSON.stringify({ name: p.name, email: p.email, phone: p.phone, lang: LANG, project: [FR.p[state.project], t.p[state.project]].filter(Boolean)[0] || "",
+        when: FR.w[state.when] || "", source: SOURCE, page: location.pathname, news: !!p.news }) }).catch(() => {});
     if (crm.notifyEmail) fetch(base + "/functions/v1/send-lead-email", { method: "POST", headers: auth, body: JSON.stringify(row), keepalive: true }).catch(() => {});
     const hook = (C.leadWebhookUrl || "").trim();
     if (hook) fetch(hook, { method: "POST", mode: "no-cors", headers: { "Content-Type": "text/plain;charset=UTF-8" }, body: JSON.stringify({ ...row, tag: TAG }), keepalive: true }).catch(() => {});

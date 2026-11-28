@@ -36,8 +36,10 @@
   // Assistant en bas à droite (bot.js) : chargé après la page, pour ne rien retarder à l'affichage
   const loadBot = () => {
     if (document.querySelector("script[data-bot]")) return;
-    const s = document.createElement("script"); s.src = "/assets/bot.js"; s.async = true; s.dataset.bot = "";
-    document.body.append(s);
+    ["/assets/bot.js", "/assets/newsletter.js"].forEach((src) => {
+      const s = document.createElement("script"); s.src = src; s.async = true; s.dataset.bot = "";
+      document.body.append(s);
+    });
   };
   if (document.readyState === "complete") setTimeout(loadBot, 1200);
   else addEventListener("load", () => setTimeout(loadBot, 1200), { once: true });

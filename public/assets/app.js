@@ -342,7 +342,18 @@
     if (!r.ok) throw new Error("HTTP " + r.status);
   }
 
+  // Copie du lead dans Brevo (relais /api/lead, liste Leads de la langue) : séquence d'e-mails de suivi.
+  // Ne bloque jamais l'inscription : Oleadoo reste la destination principale.
+  function sendBrevo(p) {
+    try {
+      fetch("/api/lead", { method: "POST", headers: { "content-type": "application/json" }, keepalive: true,
+        body: JSON.stringify({ name: p.firstName, email: p.email, phone: p.phone, lang: p.siteLang, project: [p.profileLabel, (p.needsLabels || []).join(", ")].filter(Boolean).join(" · "),
+          when: p.horizon || "", source: p.source || "start-in-dubai", page: location.pathname }) }).catch(() => {});
+    } catch { /* jamais bloquant */ }
+  }
+
   async function send(payload) {
+    sendBrevo(payload);
     const [crm, hook] = await Promise.allSettled([sendCrm(payload), sendWebhook(payload)]);
     if (crm.status === "rejected") console.error("[START IN DUBAI] CRM :", crm.reason);
     if (hook.status === "rejected") console.error("[START IN DUBAI] webhook :", hook.reason);
