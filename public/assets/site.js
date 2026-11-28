@@ -32,4 +32,13 @@
     const io = new IntersectionObserver((es) => es.forEach((e) => { if (e.isIntersecting) { e.target.classList.add("in"); io.unobserve(e.target); } }), { rootMargin: "0px 0px -8% 0px" });
     rv.forEach((el) => io.observe(el));
   } else rv.forEach((el) => el.classList.add("in"));
+
+  // Assistant en bas à droite (bot.js) : chargé après la page, pour ne rien retarder à l'affichage
+  const loadBot = () => {
+    if (document.querySelector("script[data-bot]")) return;
+    const s = document.createElement("script"); s.src = "/assets/bot.js"; s.async = true; s.dataset.bot = "";
+    document.body.append(s);
+  };
+  if (document.readyState === "complete") setTimeout(loadBot, 1200);
+  else addEventListener("load", () => setTimeout(loadBot, 1200), { once: true });
 })();
