@@ -21,5 +21,5 @@ window.SID_CONFIG = {
 
   // Suivi facultatif
   ga4Id: "",          // ex. "G-XXXXXXX"
-  metaPixelId: "",    // ex. "123456789012345"
+  metaPixelId: "1622523129009936",    // pixel Start in Dubai (portefeuille Cevitas Real Estate LLC), chargé seulement après accord du visiteur
 };

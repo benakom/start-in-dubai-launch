@@ -481,7 +481,10 @@
   }));
   $$("[data-lang-link]").forEach((a) => a.addEventListener("click", () => remember(a.dataset.langLink)));
 
-  /* ---------------------------------------------------------------- suivi facultatif */
+  /* ---------------------------------------------------------------- suivi facultatif, seulement après accord (consent.js) */
+  function startTracking() {
+  if (window.__sidTracking) return;
+  window.__sidTracking = true;
   if (C.ga4Id) {
     const sc = document.createElement("script"); sc.async = true; sc.src = "https://www.googletagmanager.com/gtag/js?id=" + encodeURIComponent(C.ga4Id); document.head.append(sc);
     window.dataLayer = window.dataLayer || []; window.gtag = function () { dataLayer.push(arguments); };
@@ -493,4 +496,9 @@
       s = b.getElementsByTagName(e)[0]; s.parentNode.insertBefore(t, s); }(window, document, "script", "https://connect.facebook.net/en_US/fbevents.js");
     fbq("init", C.metaPixelId); fbq("track", "PageView");
   }
+  }
+  window.sidStartTracking = startTracking;
+  let consent = null;
+  try { consent = localStorage.getItem("sid_consent"); } catch { /* navigation privée */ }
+  if (consent === "yes") startTracking();
 })();
