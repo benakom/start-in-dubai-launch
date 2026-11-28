@@ -42,6 +42,9 @@ sources:
 related: ["s-installer-a-dubai", "visa-residence-dubai", "travailler-a-dubai", "creer-sa-societe-a-dubai", "impots-dubai"]
 order: 57
 key: "en-moving-to-dubai-from-egypt"
+image: "/assets/photos/en-moving-to-dubai-from-egypt.webp"
+imageAlt: "Ticket office and ticket machines in a Dubai Metro station"
+imageCredit: "Photo : Far Chinberdiev / Unsplash"
 ---
 
 This guide is for Egyptians in Egypt and in the diaspora (the Gulf, Europe, North America) who are thinking about moving to Dubai to work, run a business or study. It covers relocating, not property investment. **Checked on 28 November 2026.** Visa, exchange-control and tax rules change, so we cite an official page for each rule and say plainly where we could not confirm a detail.

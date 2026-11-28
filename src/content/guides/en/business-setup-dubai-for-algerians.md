@@ -46,6 +46,9 @@ sources:
 related: ["s-installer-a-dubai-depuis-l-algerie", "creer-sa-societe-a-dubai", "ouvrir-un-compte-bancaire-a-dubai", "impots-dubai", "visa-residence-dubai"]
 order: 61
 key: "en-business-setup-dubai-for-algerians"
+image: "/assets/photos/en-business-setup-dubai-for-algerians.webp"
+imageAlt: "Two men shake hands across an office desk after a meeting"
+imageCredit: "Photo : Md Ishak Rahman / Unsplash"
 ---
 
 This page is for Algerians who want to **set up a business in Dubai**, whether they live in Algeria or abroad (France, Canada, Belgium and elsewhere). It does not repeat the generic steps of [company formation in Dubai](/en/company-formation-dubai/). It covers the points that are specific to an Algerian: the 2026 context, the visa, the documents, the money and the tax. **Situation as of 27 November 2026, subject to change.** Rules and consular services can move from one week to the next: confirm with the official sources before you spend money or book a ticket.

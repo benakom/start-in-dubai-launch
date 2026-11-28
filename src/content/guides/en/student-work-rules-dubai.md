@@ -39,6 +39,9 @@ sources:
 related: ["visa-etudiant-dubai", "etudier-a-dubai", "travailler-a-dubai", "freelance-dubai", "s-installer-a-dubai"]
 order: 75
 key: "en-student-work-rules-dubai"
+image: "/assets/photos/en-student-work-rules-dubai.webp"
+imageAlt: "A barista pours steamed milk into takeaway coffee cups behind a café counter"
+imageCredit: "Photo : Eilis Garvey / Unsplash"
 ---
 
 ## The short answer

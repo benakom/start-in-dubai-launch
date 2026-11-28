@@ -41,6 +41,9 @@ sources:
 related: ["travailler-a-dubai", "visa-residence-dubai", "freelance-dubai", "cout-de-la-vie-dubai", "s-installer-a-dubai"]
 order: 55
 key: "en-job-seeker-visa-dubai"
+image: "/assets/photos/en-job-seeker-visa-dubai.webp"
+imageAlt: "A recruiter reads a printed CV across a table during an interview"
+imageCredit: "Photo : Resume Genius / Unsplash"
 ---
 
 Are you thinking of flying to Dubai to look for a job in person? Before booking a ticket, you need to know exactly what the so-called **job seeker visa** is, who can get it, and what it does not do. Many pages online mix it up with a work visa or a residence visa. It is neither.

@@ -41,6 +41,9 @@ sources:
 related: ["demenagement-dubai", "s-installer-a-dubai", "cout-de-la-vie-dubai", "s-installer-a-dubai-en-famille", "vivre-a-dubai"]
 order: 56
 key: "en-cost-of-moving-to-dubai"
+image: "/assets/photos/en-cost-of-moving-to-dubai.webp"
+imageAlt: "Stacked orange shipping containers against a deep blue sky"
+imageCredit: "Photo : Aron Yigin / Unsplash"
 ---
 
 ## What "the cost of moving to Dubai" covers on this page

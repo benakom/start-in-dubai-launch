@@ -44,6 +44,9 @@ sources:
 related: ["s-installer-a-dubai", "visa-residence-dubai", "impots-dubai", "residence-fiscale-dubai", "s-installer-a-dubai-depuis-la-france"]
 order: 55
 key: "en-moving-to-dubai-from-uk"
+image: "/assets/photos/en-moving-to-dubai-from-uk.webp"
+imageAlt: "View from a plane window of the wing above the Dubai coastline and skyline"
+imageCredit: "Photo : Abdullah Farouk / Unsplash"
 ---
 
 This guide is for British citizens and UK residents who are weighing up a move to Dubai or the wider UAE. It covers relocating, not buying property. **Checked on 28 November 2026.** Visa and tax rules change, so every rule below points to its official source at the end of the page. Where we could not confirm a detail on an official page, we say so and tell you who to ask.

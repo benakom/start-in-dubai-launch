@@ -39,6 +39,9 @@ sources:
 related: ["impots-dubai", "creer-sa-societe-a-dubai", "ouvrir-un-compte-bancaire-a-dubai", "visa-residence-dubai", "s-installer-a-dubai"]
 order: 62
 key: "en-uae-tax-residency-certificate"
+image: "/assets/photos/en-uae-tax-residency-certificate.webp"
+imageAlt: "Red pins marking days on a calendar page"
+imageCredit: "Photo : Towfiqu barbhuiya / Unsplash"
 ---
 
 ## What the UAE tax residency certificate is

@@ -41,6 +41,9 @@ sources:
 related: ["creer-sa-societe-a-dubai", "licence-commerciale-dubai", "zone-franche-dubai", "societe-mainland-dubai", "meilleures-free-zones-dubai"]
 order: 63
 key: "en-dubai-trade-licence-types"
+image: "/assets/photos/en-dubai-trade-licence-types.webp"
+imageAlt: "A shopfront with a bilingual English and Arabic sign on a street in Dubai"
+imageCredit: "Photo : Far Chinberdiev / Unsplash"
 ---
 
 A trade licence is the document that allows a company to carry out a defined activity in Dubai. It is not the same thing as the company itself: the company is the legal entity, the licence is the permission attached to it, and each activity you add has to be on the licence. This page explains the types you will meet, how they differ between mainland and free zone, and how to pick the right one before you pay for it. It complements our guide to [company formation in Dubai](/en/company-formation-dubai/), which covers the whole process. **Information checked on 28 November 2026**: confirm the activity list and fees with the authority before you apply.

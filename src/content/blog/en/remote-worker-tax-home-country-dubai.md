@@ -43,6 +43,9 @@ sources:
 related: ["impots-dubai", "freelance-dubai", "s-installer-a-dubai", "travailler-a-dubai"]
 order: 72
 key: "en-remote-worker-tax-home-country-dubai"
+image: "/assets/photos/en-remote-worker-tax-home-country-dubai.webp"
+imageAlt: "A desk globe and a cold drink by a sunny window with plants"
+imageCredit: "Photo : Tiange Xiang / Unsplash"
 ---
 
 ## Two questions, not one

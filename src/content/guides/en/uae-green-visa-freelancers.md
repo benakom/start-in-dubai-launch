@@ -37,6 +37,9 @@ sources:
 related: ["freelance-dubai", "visa-residence-dubai", "golden-visa-dubai", "travailler-a-dubai", "s-installer-a-dubai-en-famille"]
 order: 62
 key: "en-uae-green-visa-freelancers"
+image: "/assets/photos/en-uae-green-visa-freelancers.webp"
+imageAlt: "A freelancer sips a coffee while working on her laptop at an outdoor table"
+imageCredit: "Photo : Beatriz Barreto / Unsplash"
 ---
 
 If you work for yourself, the UAE Green Visa is the residence that does not tie you to an employer, a landlord or a sponsor. It is also one of the most misunderstood visas online: many pages confuse it with the freelance visa from a free zone, or with the Golden Visa. This guide sets out what the official pages actually say for **freelancers and self-employed people**, and where you will need to check with the authorities.

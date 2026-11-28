@@ -41,6 +41,9 @@ sources:
 related: ["ouvrir-un-compte-bancaire-a-dubai", "s-installer-a-dubai", "cout-de-la-vie-dubai", "creer-sa-societe-a-dubai", "impots-dubai"]
 order: 70
 key: "en-send-money-to-dubai"
+image: "/assets/photos/en-send-money-to-dubai.webp"
+imageAlt: "A 100 UAE dirham banknote on a white table"
+imageCredit: "Photo : Atikah Akhtar / Unsplash"
 ---
 
 ## What "sending money to Dubai" really involves

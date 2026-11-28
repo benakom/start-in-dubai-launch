@@ -41,6 +41,9 @@ sources:
 related: ["travailler-a-dubai", "visa-residence-dubai", "s-installer-a-dubai", "cout-de-la-vie-dubai"]
 order: 60
 key: "en-dubai-job-scams"
+image: "/assets/photos/en-dubai-job-scams.webp"
+imageAlt: "A hand holding a smartphone showing a text message"
+imageCredit: "Photo : Brett Wharton / Unsplash"
 ---
 
 A message arrives on WhatsApp: a Dubai company wants to hire you, the salary is excellent, you only need to pay a small fee for the visa. Thousands of people receive this kind of message, and some lose their savings or their identity. This article gives you the signs to recognise and the checks to run, using what MOHRE (the UAE Ministry of Human Resources and Emiratisation) and the UAE government portal say. For the legitimate route, see our guide to [working in Dubai](/en/working-in-dubai/).

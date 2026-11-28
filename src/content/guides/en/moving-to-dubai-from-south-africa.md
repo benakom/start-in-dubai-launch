@@ -46,6 +46,9 @@ sources:
 related: ["s-installer-a-dubai", "visa-residence-dubai", "impots-dubai", "residence-fiscale-dubai", "travailler-a-dubai"]
 order: 64
 key: "en-moving-to-dubai-from-south-africa"
+image: "/assets/photos/en-moving-to-dubai-from-south-africa.webp"
+imageAlt: "Tails of Emirates aircraft lined up on the apron at Dubai International Airport"
+imageCredit: "Photo : the blowup / Unsplash"
 ---
 
 ## Moving to Dubai from South Africa: what is specific to South Africans

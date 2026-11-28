@@ -41,6 +41,9 @@ sources:
 related: ["travailler-a-dubai", "ecoles-francaises-dubai", "etudier-a-dubai", "visa-residence-dubai", "s-installer-a-dubai"]
 order: 65
 key: "en-teaching-jobs-dubai"
+image: "/assets/photos/en-teaching-jobs-dubai.webp"
+imageAlt: "A teacher presents at the whiteboard while pupils listen at their desks in a classroom"
+imageCredit: "Photo : Quilia / Unsplash"
 ---
 
 Dubai recruits teachers from all over the world, but the route is regulated, and the rules changed in 2025. If you hope to teach in a Dubai school, you need to understand three layers: the **federal requirements** (degree, licence, clearance), the **KHDA rules** for private schools in Dubai, and the **work permit and residence** that your employer arranges. This guide sets out what the official sources say. It does not give salary figures, because the sources we used do not publish any.

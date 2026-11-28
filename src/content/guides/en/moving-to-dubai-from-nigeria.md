@@ -42,6 +42,9 @@ sources:
 related: ["s-installer-a-dubai", "visa-residence-dubai", "creer-sa-societe-a-dubai", "ouvrir-un-compte-bancaire-a-dubai", "travailler-a-dubai"]
 order: 56
 key: "en-moving-to-dubai-from-nigeria"
+image: "/assets/photos/en-moving-to-dubai-from-nigeria.webp"
+imageAlt: "Suitcases on a conveyor belt in an airport baggage claim hall"
+imageCredit: "Photo : Alexander Schimmeck / Unsplash"
 ---
 
 This guide is for Nigerians living in Nigeria and for the Nigerian diaspora (UK, US, Canada, Europe, the Gulf) who are considering Dubai to work, start a business or study. It covers relocating, not property investment. **Checked on 28 November 2026.** Visa and exchange-control rules change, and several facts below come from secondary reporting where no official page was available: each is marked, with who to ask. Nothing here is legal or tax advice.

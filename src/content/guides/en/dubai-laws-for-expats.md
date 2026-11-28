@@ -45,6 +45,9 @@ sources:
 related: ["lois-et-regles-a-dubai", "vivre-a-dubai", "travailler-a-dubai", "s-installer-a-dubai", "cout-de-la-vie-dubai"]
 order: 70
 key: "en-dubai-laws-for-expats"
+image: "/assets/photos/en-dubai-laws-for-expats.webp"
+imageAlt: "A mosque on Jumeirah Beach Road in Dubai, framed by palm fronds"
+imageCredit: "Photo : Saj Shafique / Unsplash"
 ---
 
 ## The short version

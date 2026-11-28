@@ -44,6 +44,9 @@ sources:
 related: ["s-installer-a-dubai-depuis-la-tunisie", "creer-sa-societe-a-dubai", "ouvrir-un-compte-bancaire-a-dubai", "impots-dubai", "zone-franche-dubai"]
 order: 61
 key: "en-business-setup-dubai-for-tunisians"
+image: "/assets/photos/en-business-setup-dubai-for-tunisians.webp"
+imageAlt: "A small team discusses ideas around a whiteboard in a sunlit office"
+imageCredit: "Photo : Sable Flow / Unsplash"
 ---
 
 This page is for Tunisians who want to **set up a business in Dubai**: residents of Tunisia, Tunisians living abroad (France, Germany, Italy, Canada and elsewhere) and dual nationals. It does not repeat the generic steps, which are in our guide to [company formation in Dubai](/en/company-formation-dubai/). It covers what changes because you are Tunisian, or because you are leaving from Tunisia. **Information checked on 28 November 2026**: rules move, so confirm each point on the official sites listed at the end.

@@ -48,6 +48,9 @@ sources:
 related: ["s-installer-a-dubai", "visa-residence-dubai", "creer-sa-societe-a-dubai", "s-installer-a-dubai-depuis-le-senegal", "s-installer-a-dubai-depuis-la-cote-d-ivoire"]
 order: 59
 key: "en-moving-to-dubai-from-ivory-coast"
+image: "/assets/photos/en-moving-to-dubai-from-ivory-coast.webp"
+imageAlt: "A Dubai Metro train arriving on an elevated track between towers"
+imageCredit: "Photo : Damir Babacic / Unsplash"
 ---
 
 This guide is for Ivorians in Abidjan, Bouake, Yamoussoukro or the diaspora (France, Belgium, Canada, the United States) who want to live, work, set up a business or study in Dubai. It covers entry, papers, money, work and study. **Checked on 28 November 2026.** Visa rules change regularly: confirm them on the official sources listed at the bottom of the page.

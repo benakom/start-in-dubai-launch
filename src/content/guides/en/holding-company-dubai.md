@@ -43,6 +43,9 @@ sources:
 related: ["creer-sa-societe-a-dubai", "impot-sur-les-societes-dubai", "zone-franche-dubai", "societe-offshore-dubai", "impots-dubai"]
 order: 64
 key: "en-holding-company-dubai"
+image: "/assets/photos/en-holding-company-dubai.webp"
+imageAlt: "A glass-walled conference room with a long boardroom table in a Dubai office"
+imageCredit: "Photo : Hammer Group / Unsplash"
 ---
 
 Entrepreneurs ask for a **holding company in Dubai** for three reasons: to keep several businesses under one roof, to receive dividends from foreign companies with little or no UAE tax, and to separate personal wealth from operating risk. The UAE corporate tax introduced in 2023 gives real support for the second reason, but only if a precise set of conditions is met. This page walks through them in the order the law sets them, using the text of Federal Decree-Law No. 47 of 2022 as published by the Ministry of Finance (an unofficial English translation), and flags what you should not assume. **Information checked on 28 November 2026**: tax rules change, so confirm each point with the Federal Tax Authority or a UAE tax adviser.

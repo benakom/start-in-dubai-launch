@@ -45,6 +45,9 @@ sources:
 related: ["travailler-a-dubai", "visa-residence-dubai", "s-installer-a-dubai-en-famille", "freelance-dubai", "golden-visa-dubai"]
 order: 72
 key: "en-lose-job-dubai-visa-grace-period"
+image: "/assets/photos/en-lose-job-dubai-visa-grace-period.webp"
+imageAlt: "A man carries a box of his belongings through an office"
+imageCredit: "Photo : Vitaly Gariev / Unsplash"
 ---
 
 ## The short version

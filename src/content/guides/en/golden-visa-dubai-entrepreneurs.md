@@ -39,6 +39,9 @@ sources:
 related: ["golden-visa-dubai", "creer-sa-societe-a-dubai", "visa-residence-dubai", "zone-franche-dubai", "s-installer-a-dubai-en-famille"]
 order: 60
 key: "en-golden-visa-dubai-entrepreneurs"
+image: "/assets/photos/en-golden-visa-dubai-entrepreneurs.webp"
+imageAlt: "Aerial view of Dubai office districts and construction sites stretching toward the coast"
+imageCredit: "Photo : Nejc Soklič / Unsplash"
 ---
 
 ## Who is the Golden Visa for entrepreneurs meant for?

@@ -43,6 +43,9 @@ sources:
 related: ["etudier-a-dubai", "visa-etudiant-dubai", "s-installer-a-dubai", "golden-visa-dubai", "cout-de-la-vie-dubai"]
 order: 70
 key: "en-scholarships-international-students-uae"
+image: "/assets/photos/en-scholarships-international-students-uae.webp"
+imageAlt: "Two students work on their laptops in a quiet, sunlit study room"
+imageCredit: "Photo : Caroline Andrade Rocha / Unsplash"
 ---
 
 ## The honest answer: scholarships exist, but they are selective

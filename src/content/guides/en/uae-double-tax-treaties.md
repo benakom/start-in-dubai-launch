@@ -41,6 +41,9 @@ sources:
 related: ["impots-dubai", "residence-fiscale-dubai", "s-installer-a-dubai", "creer-sa-societe-a-dubai", "s-installer-a-dubai-depuis-la-france"]
 order: 68
 key: "en-uae-double-tax-treaties"
+image: "/assets/photos/en-uae-double-tax-treaties.webp"
+imageAlt: "A world map with pins marking different countries"
+imageCredit: "Photo : Leandro Barreto / Unsplash"
 ---
 
 ## The short answer: where the official list is

@@ -39,6 +39,9 @@ sources:
 related: ["creer-sa-societe-a-dubai", "societe-mainland-dubai", "zone-franche-dubai", "impot-sur-les-societes-dubai", "tva-dubai"]
 order: 76
 key: "en-close-company-dubai"
+image: "/assets/photos/en-close-company-dubai.webp"
+imageAlt: "An empty open-plan office with unoccupied desks and chairs"
+imageCredit: "Photo : Bernd Dittrich / Unsplash"
 ---
 
 ## The order of operations

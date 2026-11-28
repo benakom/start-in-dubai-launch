@@ -43,6 +43,9 @@ sources:
 related: ["zone-franche-dubai", "impots-dubai", "creer-sa-societe-a-dubai", "societe-offshore-dubai", "ouvrir-un-compte-bancaire-a-dubai"]
 order: 64
 key: "en-free-zone-corporate-tax-qfzp"
+image: "/assets/photos/en-free-zone-corporate-tax-qfzp.webp"
+imageAlt: "Dubai Silicon Oasis free zone headquarters building among palm trees"
+imageCredit: "Photo : Saj Shafique / Unsplash"
 ---
 
 For years, "free zone" meant "no tax" in many conversations, and older pages and articles still say so. Since corporate tax came into force in the UAE, that is no longer accurate. This article explains what a **Qualifying Free Zone Person** (QFZP) is, which income is qualifying income, how the 5% de minimis test works, and when the 0% rate is out of reach. It is based on the official texts cited at the end. **Information checked on 27 November 2026.** It is general information, not tax advice.

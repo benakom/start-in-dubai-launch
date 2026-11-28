@@ -43,6 +43,9 @@ sources:
 related: ["s-installer-a-dubai", "cout-de-la-vie-dubai", "s-installer-a-dubai-en-famille", "travailler-a-dubai", "visa-residence-dubai"]
 order: 55
 key: "en-how-much-money-to-move-to-dubai"
+image: "/assets/photos/en-how-much-money-to-move-to-dubai.webp"
+imageAlt: "Hands opening a leather wallet holding cards and banknotes"
+imageCredit: "Photo : Emil Kalibradov / Unsplash"
 ---
 
 ## The honest answer: there is no official minimum

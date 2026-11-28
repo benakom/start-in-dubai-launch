@@ -41,6 +41,9 @@ sources:
 related: ["ouvrir-un-compte-bancaire-a-dubai", "creer-sa-societe-a-dubai", "zone-franche-dubai", "societe-offshore-dubai", "visa-residence-dubai"]
 order: 63
 key: "en-business-bank-account-dubai-non-resident"
+image: "/assets/photos/en-business-bank-account-dubai-non-resident.webp"
+imageAlt: "A bank card resting on a laptop keyboard, ready for online banking"
+imageCredit: "Photo : CardMapr.nl / Unsplash"
 ---
 
 ## What "non-resident" means for a business account

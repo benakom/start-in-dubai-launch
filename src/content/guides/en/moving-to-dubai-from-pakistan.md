@@ -46,6 +46,9 @@ sources:
 related: ["s-installer-a-dubai", "visa-residence-dubai", "travailler-a-dubai", "impots-dubai", "s-installer-a-dubai-en-famille"]
 order: 62
 key: "en-moving-to-dubai-from-pakistan"
+image: "/assets/photos/en-moving-to-dubai-from-pakistan.webp"
+imageAlt: "Gate B25 sign under the glass roof of a Dubai International Airport concourse"
+imageCredit: "Photo : S saeed / Unsplash"
 ---
 
 ## Moving to Dubai from Pakistan: what is specific to Pakistani citizens

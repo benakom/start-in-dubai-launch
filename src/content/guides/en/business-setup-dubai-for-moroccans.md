@@ -46,6 +46,9 @@ sources:
 related: ["s-installer-a-dubai-depuis-le-maroc", "creer-sa-societe-a-dubai", "ouvrir-un-compte-bancaire-a-dubai", "impots-dubai", "zone-franche-dubai"]
 order: 60
 key: "en-business-setup-dubai-for-moroccans"
+image: "/assets/photos/en-business-setup-dubai-for-moroccans.webp"
+imageAlt: "Wooden dhows moored along Dubai Creek in Deira"
+imageCredit: "Photo : Nick Fewings / Unsplash"
 ---
 
 This page is for Moroccans who want to **set up a business in Dubai**: residents of Morocco, Moroccans living abroad (France, Belgium, Spain, Canada and elsewhere) and dual nationals. It does not repeat the generic steps, which are in our guide to [company formation in Dubai](/en/company-formation-dubai/). It covers what changes because you are Moroccan, or because you are leaving from Morocco. **Information checked on 27 November 2026**: rules move, so confirm each point on the official sites listed at the end.

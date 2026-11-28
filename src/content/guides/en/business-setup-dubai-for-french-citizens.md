@@ -46,6 +46,9 @@ sources:
 related: ["s-installer-a-dubai-depuis-la-france", "creer-sa-societe-a-dubai", "impots-dubai", "ouvrir-un-compte-bancaire-a-dubai", "zone-franche-dubai"]
 order: 62
 key: "en-business-setup-dubai-for-french-citizens"
+image: "/assets/photos/en-business-setup-dubai-for-french-citizens.webp"
+imageAlt: "Café terraces with orange parasols at the foot of modern towers in Dubai"
+imageCredit: "Photo : Damian Kamp / Unsplash"
 ---
 
 This page is for French citizens who want to **set up a company in Dubai**, whether they plan to move there or to keep a base in France. It does not repeat the generic steps in our guide to [company formation in Dubai](/en/company-formation-dubai/). It covers what is specific to a French entrepreneur: the tax domicile question, the treaty, the exit tax, foreign account filing, social cover and documents. **Information checked on 27 November 2026.** This is general information, not tax advice: a French tax adviser must look at your own facts.

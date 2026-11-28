@@ -41,6 +41,9 @@ sources:
 related: ["etudier-a-dubai", "visa-etudiant-dubai", "cout-de-la-vie-dubai", "golden-visa-dubai", "s-installer-a-dubai-en-famille"]
 order: 62
 key: "en-cheapest-universities-dubai"
+image: "/assets/photos/en-cheapest-universities-dubai.webp"
+imageAlt: "A shared bedroom with several neatly made beds"
+imageCredit: "Photo : Loyd Benedict Benedicto / Unsplash"
 ---
 
 Looking for the cheapest university in Dubai? You will find many "top 10" lists, but they are snapshots: they rarely give a date, mix prices with and without VAT, and often come from agents who are paid by the universities. This guide takes another approach. It shows you how to compare, gives you two official fee grids as worked examples, and lists the costs that surprise families.

@@ -43,6 +43,9 @@ sources:
 related: ["creer-sa-societe-a-dubai", "ouvrir-un-compte-bancaire-a-dubai", "zone-franche-dubai", "impots-dubai", "s-installer-a-dubai-depuis-le-senegal"]
 order: 62
 key: "en-business-setup-dubai-for-african-entrepreneurs"
+image: "/assets/photos/en-business-setup-dubai-for-african-entrepreneurs.webp"
+imageAlt: "A small team on laptops listens to a colleague around a meeting table"
+imageCredit: "Photo : Mapbox / Unsplash"
 ---
 
 Africa has more than fifty countries, with different passports, currencies and exchange rules. A page that pretends they are all the same would mislead you. This one separates what is **identical for everyone**, which the UAE decides, from what is **specific to your country**, which you must check with your own authorities. It is written for entrepreneurs living in Africa and for Africans living in Europe, North America or the Gulf. **Information checked on 28 November 2026**: rules move, so confirm each point on the official sites listed at the end.

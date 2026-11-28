@@ -39,6 +39,9 @@ sources:
 related: ["golden-visa-dubai", "visa-residence-dubai", "travailler-a-dubai", "s-installer-a-dubai-en-famille", "impots-dubai"]
 order: 61
 key: "en-golden-visa-dubai-employees"
+image: "/assets/photos/en-golden-visa-dubai-employees.webp"
+imageAlt: "Office towers at Bay Square in Business Bay, Dubai, with a bus on the street below"
+imageCredit: "Photo : Cpt Burah / Unsplash"
 ---
 
 ## Can an employee get the Golden Visa without investing?

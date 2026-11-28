@@ -41,6 +41,9 @@ sources:
 related: ["ecoles-francaises-dubai", "s-installer-a-dubai-en-famille", "cout-de-la-vie-dubai", "visa-famille-dubai", "vivre-a-dubai"]
 order: 70
 key: "en-international-schools-dubai-fees"
+image: "/assets/photos/en-international-schools-dubai-fees.webp"
+imageAlt: "Two pupils in school uniforms with backpacks walk past a school building"
+imageCredit: "Photo : Arthur Tseng / Unsplash"
 ---
 
 ## The short answer

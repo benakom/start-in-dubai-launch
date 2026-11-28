@@ -41,6 +41,9 @@ sources:
 related: ["creer-sa-societe-a-dubai", "zone-franche-dubai", "impots-dubai", "ouvrir-un-compte-bancaire-a-dubai"]
 order: 74
 key: "en-llc-vs-sole-establishment-dubai"
+image: "/assets/photos/en-llc-vs-sole-establishment-dubai.webp"
+imageAlt: "Small shops along a narrow covered souk street in Deira, Dubai"
+imageCredit: "Photo : Damian Kamp / Unsplash"
 ---
 
 ## The two structures in one paragraph

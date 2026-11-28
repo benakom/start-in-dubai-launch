@@ -37,6 +37,9 @@ sources:
 related: ["golden-visa-dubai", "visa-etudiant-dubai", "etudier-a-dubai", "visa-residence-dubai", "s-installer-a-dubai-en-famille"]
 order: 63
 key: "en-golden-visa-dubai-students"
+image: "/assets/photos/en-golden-visa-dubai-students.webp"
+imageAlt: "Graduates in blue caps and gowns at a graduation ceremony"
+imageCredit: "Photo : Ethan Gowans / Unsplash"
 ---
 
 A long-term residence with no sponsor is a strong prize for a young graduate, and the UAE does offer one to its best students. But the criteria are narrow, they come with a **two-year window after graduation**, and the official pages disagree on small points such as the duration. This guide sets out what the ICP, the GDRFA and u.ae say, so you can tell quickly whether you qualify.

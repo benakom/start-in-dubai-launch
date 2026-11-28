@@ -41,6 +41,9 @@ sources:
 related: ["s-installer-a-dubai-en-famille", "visa-residence-dubai", "golden-visa-dubai", "vivre-a-dubai", "cout-de-la-vie-dubai"]
 order: 63
 key: "en-sponsor-parents-dubai-visa"
+image: "/assets/photos/en-sponsor-parents-dubai-visa.webp"
+imageAlt: "A grandfather smiles as he holds his young grandchild in his arms"
+imageCredit: "Photo : Jeferson Santu / Unsplash"
 ---
 
 ## Can you sponsor your parents in Dubai?

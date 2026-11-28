@@ -39,6 +39,9 @@ sources:
 related: ["ouvrir-un-compte-bancaire-a-dubai", "s-installer-a-dubai", "visa-residence-dubai", "creer-sa-societe-a-dubai", "impots-dubai"]
 order: 66
 key: "en-best-banks-dubai-expats"
+image: "/assets/photos/en-best-banks-dubai-expats.webp"
+imageAlt: "A hand typing a PIN on a cash machine keypad"
+imageCredit: "Photo : Gizem Nikomedi / Unsplash"
 ---
 
 ## Why there is no single best bank

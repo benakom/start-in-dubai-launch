@@ -43,6 +43,9 @@ sources:
 related: ["travailler-a-dubai", "lois-et-regles-a-dubai", "visa-residence-dubai", "cout-de-la-vie-dubai", "s-installer-a-dubai"]
 order: 64
 key: "en-dubai-labour-contract-rights"
+image: "/assets/photos/en-dubai-labour-contract-rights.webp"
+imageAlt: "Two people go through a printed contract together at a table"
+imageCredit: "Photo : Olena Kholina / Unsplash"
 ---
 
 You have an offer, a start date and a contract to sign. Before you do, you need to know what the law already guarantees, so that you can tell a normal clause from a bad one. This guide covers the **private sector** in the UAE, which is where most expatriates work. It follows the official u.ae pages, which summarise the Labour Law (Federal Decree-Law No. 33 of 2021, in force since 2 February 2022).

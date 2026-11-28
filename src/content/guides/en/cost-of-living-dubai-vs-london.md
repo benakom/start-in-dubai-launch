@@ -47,6 +47,9 @@ sources:
 related: ["cout-de-la-vie-dubai", "impots-dubai", "residence-fiscale-dubai", "vivre-a-dubai", "s-installer-a-dubai"]
 order: 80
 key: "en-cost-of-living-dubai-vs-london"
+image: "/assets/photos/en-cost-of-living-dubai-vs-london.webp"
+imageAlt: "Supermarket shelves stocked with groceries"
+imageCredit: "Photo : Fahmi Huwaidy / Unsplash"
 ---
 
 ## The honest answer first

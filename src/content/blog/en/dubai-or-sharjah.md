@@ -41,6 +41,9 @@ sources:
 related: ["vivre-a-dubai", "s-installer-a-dubai", "cout-de-la-vie-dubai", "ecoles-francaises-dubai", "travailler-a-dubai"]
 order: 30
 key: "en-dubai-or-sharjah"
+image: "/assets/photos/en-dubai-or-sharjah.webp"
+imageAlt: "Sharjah's waterfront towers reflected in still water at dusk"
+imageCredit: "Photo : Anjana Nair / Unsplash"
 ---
 
 ## Dubai or Sharjah: the short answer

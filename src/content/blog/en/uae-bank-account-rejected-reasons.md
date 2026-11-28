@@ -41,6 +41,9 @@ sources:
 related: ["ouvrir-un-compte-bancaire-a-dubai", "creer-sa-societe-a-dubai", "zone-franche-dubai", "societe-offshore-dubai", "impots-dubai"]
 order: 64
 key: "en-uae-bank-account-rejected-reasons"
+image: "/assets/photos/en-uae-bank-account-rejected-reasons.webp"
+imageAlt: "A man rubs his face in frustration in front of his laptop"
+imageCredit: "Photo : Vitaly Gariev / Unsplash"
 ---
 
 ## A rejection is a decision about risk, not about you

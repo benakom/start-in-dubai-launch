@@ -44,6 +44,9 @@ sources:
 related: ["s-installer-a-dubai", "visa-residence-dubai", "travailler-a-dubai", "cout-de-la-vie-dubai", "s-installer-a-dubai-en-famille"]
 order: 65
 key: "en-moving-to-dubai-from-philippines"
+image: "/assets/photos/en-moving-to-dubai-from-philippines.webp"
+imageAlt: "Dubai rooftops seen through an aircraft window during the approach"
+imageCredit: "Photo : Hazel Arenas / Unsplash"
 ---
 
 ## Moving to Dubai from the Philippines: what is specific to Filipinos

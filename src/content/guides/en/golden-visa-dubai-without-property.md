@@ -41,6 +41,9 @@ sources:
 related: ["golden-visa-dubai", "visa-residence-dubai", "investir-a-dubai", "creer-sa-societe-a-dubai", "travailler-a-dubai"]
 order: 62
 key: "en-golden-visa-dubai-without-property"
+image: "/assets/photos/en-golden-visa-dubai-without-property.webp"
+imageAlt: "The Museum of the Future in Dubai, with its Arabic calligraphy facade, at golden hour"
+imageCredit: "Photo : Haris khan / Unsplash"
 ---
 
 ## Do you need to buy property to get the Golden Visa?

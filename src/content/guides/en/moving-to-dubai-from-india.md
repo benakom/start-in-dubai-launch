@@ -50,6 +50,9 @@ sources:
 related: ["s-installer-a-dubai", "visa-residence-dubai", "travailler-a-dubai", "impots-dubai", "ouvrir-un-compte-bancaire-a-dubai"]
 order: 61
 key: "en-moving-to-dubai-from-india"
+image: "/assets/photos/en-moving-to-dubai-from-india.webp"
+imageAlt: "An Emirates airliner parked at Dubai International Airport with ground service vehicles"
+imageCredit: "Photo : Alireza Akhlaghi / Unsplash"
 ---
 
 ## Moving to Dubai from India: what is specific to Indian citizens

@@ -39,6 +39,9 @@ sources:
 related: ["visa-residence-dubai", "travailler-a-dubai", "s-installer-a-dubai", "freelance-dubai", "golden-visa-dubai"]
 order: 70
 key: "en-dubai-tourist-visa-extension"
+image: "/assets/photos/en-dubai-tourist-visa-extension.webp"
+imageAlt: "An open passport with entry and exit stamps on a table"
+imageCredit: "Photo : Global Residence Index / Unsplash"
 ---
 
 Your tourist visa is about to end and you are not ready to leave. You want to know whether you can extend, how much it costs, and what happens if you stay a few days too long. The answers are on the official pages, but they are spread over three websites that do not always agree. This article puts them side by side and says where you must check before paying.

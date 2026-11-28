@@ -46,6 +46,9 @@ sources:
 related: ["s-installer-a-dubai", "visa-residence-dubai", "impots-dubai", "ouvrir-un-compte-bancaire-a-dubai", "cout-de-la-vie-dubai"]
 order: 60
 key: "en-moving-to-dubai-from-usa"
+image: "/assets/photos/en-moving-to-dubai-from-usa.webp"
+imageAlt: "A person reviews tax forms with a calculator and a laptop"
+imageCredit: "Photo : Kelly Sikkema / Unsplash"
 ---
 
 ## Moving to Dubai from the USA: what is specific to Americans

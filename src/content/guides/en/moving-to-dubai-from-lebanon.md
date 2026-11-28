@@ -44,6 +44,9 @@ sources:
 related: ["s-installer-a-dubai", "visa-residence-dubai", "travailler-a-dubai", "ouvrir-un-compte-bancaire-a-dubai", "s-installer-a-dubai-depuis-le-liban"]
 order: 58
 key: "en-moving-to-dubai-from-lebanon"
+image: "/assets/photos/en-moving-to-dubai-from-lebanon.webp"
+imageAlt: "Emirates aircraft on the taxiway at Dubai airport, seen through a plane window"
+imageCredit: "Photo : Milind Shah / Unsplash"
 ---
 
 This guide is for Lebanese citizens in Lebanon and in the diaspora (France, Canada, the United States, the Gulf, Africa) who are preparing a move to Dubai. It covers visa, papers, money, work and study, in the order the questions come up. **Checked on 28 November 2026.** Visa rules and Lebanon's banking situation change: always confirm on the official sources listed at the bottom, and be wary of any figure that is not there.

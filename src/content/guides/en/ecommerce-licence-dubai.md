@@ -43,6 +43,9 @@ sources:
 related: ["creer-sa-societe-a-dubai", "licence-commerciale-dubai", "zone-franche-dubai", "tva-dubai", "societe-mainland-dubai"]
 order: 65
 key: "en-ecommerce-licence-dubai"
+image: "/assets/photos/en-ecommerce-licence-dubai.webp"
+imageAlt: "A woman seals and labels a cardboard parcel ready for shipping"
+imageCredit: "Photo : GB The Green Brand / Unsplash"
 ---
 
 Selling online from Dubai looks simple: a website, a payment gateway, a courier. The licence is where it gets decided, because it controls who you may sell to, how you ship and how you are taxed. This page explains the routes the official u.ae portal describes, what the law expects from an online seller, and where tax changes the choice. It sits beside our guides to [company formation in Dubai](/en/company-formation-dubai/) and to [trade licence types in Dubai](/en/dubai-trade-licence-types/), and does not repeat them. **Information checked on 28 November 2026**: fees, delays and approvals change, so confirm each point with the authority.

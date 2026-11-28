@@ -43,6 +43,9 @@ sources:
 related: ["etudier-a-dubai", "visa-etudiant-dubai", "cout-de-la-vie-dubai", "visa-residence-dubai", "s-installer-a-dubai-depuis-le-senegal"]
 order: 63
 key: "en-study-in-dubai-from-africa"
+image: "/assets/photos/en-study-in-dubai-from-africa.webp"
+imageAlt: "Students raise their hands to answer a question in a university lecture hall"
+imageCredit: "Photo : Vitaly Gariev / Unsplash"
 ---
 
 Every year, students from North Africa, West Africa, Central Africa and the rest of the continent ask the same questions: can I study in Dubai, how do I get the visa, what does it really cost, and will my diploma be recognised back home? Africa is 54 countries with very different school systems, so this guide does not give one-size-fits-all answers. It gives you the official steps that apply to everyone, and tells you precisely what depends on **your** country and **your** university.

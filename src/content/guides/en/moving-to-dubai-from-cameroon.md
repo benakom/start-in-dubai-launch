@@ -42,6 +42,9 @@ sources:
 related: ["s-installer-a-dubai", "visa-residence-dubai", "travailler-a-dubai", "etudier-a-dubai", "ouvrir-un-compte-bancaire-a-dubai"]
 order: 63
 key: "en-moving-to-dubai-from-cameroon"
+image: "/assets/photos/en-moving-to-dubai-from-cameroon.webp"
+imageAlt: "Overhead view of a person packing clothes and a laptop into a suitcase"
+imageCredit: "Photo : Surface / Unsplash"
 ---
 
 ## Moving to Dubai from Cameroon: what is specific to Cameroonians
