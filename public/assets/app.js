@@ -288,7 +288,7 @@
 
   /* ---------------------------------------------------------------- vérification de l'e-mail (code à 6 chiffres) */
   const getVerify = () => window.sidVerify ? Promise.resolve(window.sidVerify) : (window.__sidVerifyP ||= new Promise((res, rej) => {
-    const sc = document.createElement("script"); sc.src = "/assets/verify.js?v=2"; sc.onload = () => res(window.sidVerify); sc.onerror = rej; document.head.append(sc);
+    const sc = document.createElement("script"); sc.src = "/assets/verify.js?v=3"; sc.onload = () => res(window.sidVerify); sc.onerror = rej; document.head.append(sc);
   }));
   function clearVerify(step) { if (!step) return; step.classList.remove("verifying"); $(".sv-host", step)?.remove(); }
   async function startVerify(email) {
@@ -299,7 +299,8 @@
     try {
       const v = await getVerify();
       v.mount(host, { email, lang: LANG, theme: "light",
-        onVerified: (proof) => { data.emailProof = proof; data.emailProofFor = email; clearVerify(step); submit(); },
+        onVerified: (proof) => { clearVerify(step); if (data.payload) sendBrevo({ ...data.payload, email, emailProof: proof }); finish(); },
+        onSkip: () => { clearVerify(step); finish(); },
         onBack: () => { clearVerify(step); $("input[name=email]", step)?.focus(); } });
     } catch { clearVerify(step); err(tr("err_send")); }
   }
@@ -312,7 +313,7 @@
     const notes = [
       `Tag : ${tag}`,
       "Demande d'accompagnement (site startindubai.com)",
-      p.emailVerified ? "E-mail vérifié par code" : null,
+      p.emailVerified ? "E-mail vérifié par code" : "E-mail non vérifié au moment de la demande (code envoyé ensuite)",
       p.country ? `Pays : ${p.country}` : null,
       p.siteLang && p.siteLang !== "fr" ? `Langue du site : ${p.siteLang}` : null,
       p.horizon ? `Horizon : ${p.horizon}` : null,
@@ -372,7 +373,7 @@
   }
 
   async function send(payload) {
-    sendBrevo(payload);
+    if (payload.emailProof) sendBrevo(payload);
     const [crm, hook] = await Promise.allSettled([sendCrm(payload), sendWebhook(payload)]);
     if (crm.status === "rejected") console.error("[Start in Dubai] CRM :", crm.reason);
     if (hook.status === "rejected") console.error("[Start in Dubai] webhook :", hook.reason);
@@ -387,7 +388,8 @@
     const ok = $(".ok", els[idx]);
     if (honeypot && honeypot.value) { finish(); return; }
     const mail = data.email.trim().toLowerCase();
-    if (!data.emailProof || data.emailProofFor !== mail) { startVerify(mail); return; }
+    // lead déjà envoyé pour cette adresse : on repasse seulement par le code
+    if (data.leadSentFor === mail) { startVerify(mail); return; }
     const q = new URLSearchParams(location.search);
     const { profile, profileLabel } = profileOf();
     const payload = {
@@ -395,7 +397,7 @@
       profile, profileLabel, profileFromPage: !!preset,
       needs: data.needs, needsLabels: data.needs.map((n) => FR[n]), siteLang: LANG,
       country: data.iso === "OTHER" ? "Autre pays (" + (data.phoneIntl || "").slice(0, 4) + ")" : regionName(data.iso, "fr"),
-      horizon: FR[data.horizon] || data.horizon, message: data.message.trim(), consent: true, emailVerified: true, emailProof: data.emailProof,
+      horizon: FR[data.horizon] || data.horizon, message: data.message.trim(), consent: true, emailVerified: false,
       source: (C.crm && C.crm.source) || "start-in-dubai", tag: (C.crm && C.crm.tag) || "Start in Dubai", page: location.href.split("#")[0], referrer: document.referrer || "",
       utm: Object.fromEntries([...q.entries()].filter(([k]) => k.startsWith("utm_"))),
       language: navigator.language || "", launchDate: LAUNCH_ISO, submittedAt: new Date().toISOString(),
@@ -406,7 +408,9 @@
       window.gtag?.("event", "generate_lead", { lead_source: "countdown", profile });
       window.fbq?.("track", "Lead");
       store.set("sid_lead_v1", { firstName: payload.firstName, at: payload.submittedAt });
-      finish();
+      data.leadSentFor = mail; data.payload = payload;
+      // numéro d'abord : la demande est enregistrée ; le code confirme ensuite l'e-mail (séquences Brevo)
+      startVerify(mail);
     } catch (e) {
       err(tr("err_send"));
     } finally { ok.disabled = false; ok.textContent = tr("send"); }

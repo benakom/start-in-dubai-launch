@@ -256,41 +256,51 @@ body:has(.sticky.is-on) .sb{bottom:calc(92px + env(safe-area-inset-bottom))}
       if (!intl || d.length < 8 || d.length > 15) { err.textContent = t.ePhone; iPhone.focus(); return; }
       if (mail && !/^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/.test(mail)) { err.textContent = t.eEmail; iMail.focus(); return; }
       if (hp.value) { done(name, f); return; }
-      const go = async (proof) => {
-      send.disabled = true; send.textContent = t.sending;
-      try {
-        await sendLead({ name, phone: "+" + d, email: mail, news: cb.checked, proof });
-        window.gtag?.("event", "generate_lead", { lead_source: "bot", project: FR.p[state.project] });
-        window.fbq?.("track", "Lead", { content_name: TAG });
-        store.set("sid_bot_lead", { name, at: new Date().toISOString() });
-        done(name, f);
-      } catch (ex) {
-        console.error("[Start in Dubai] bot :", ex);
-        err.textContent = t.eSend;
-        send.disabled = false; send.textContent = t.send;
+      const lead = { name, phone: "+" + d, email: mail, news: cb.checked };
+      // numéro d'abord : la demande part tout de suite dans Oleadoo ; le code confirme ensuite l'e-mail
+      if (f.dataset.sentFor !== mail) {
+        send.disabled = true; send.textContent = t.sending;
+        try {
+          await sendLead({ ...lead, proof: null });
+          window.gtag?.("event", "generate_lead", { lead_source: "bot", project: FR.p[state.project] });
+          window.fbq?.("track", "Lead", { content_name: TAG });
+          store.set("sid_bot_lead", { name, at: new Date().toISOString() });
+          f.dataset.sentFor = mail;
+        } catch (ex) {
+          console.error("[Start in Dubai] bot :", ex);
+          err.textContent = t.eSend;
+          send.disabled = false; send.textContent = t.send;
+          return;
+        }
       }
-      };
-      if (!mail) { go(null); return; }
-      // e-mail renseigné : il est vérifié par un code avant l'envoi
+      if (!mail) { done(name, f); return; }
       f.hidden = true;
       const host = el("div", "sv-host"); body.append(host); down();
       try {
         const v = await getVerify();
         v.mount(host, { email: mail, lang: LANG, theme: "compact",
-          onVerified: (proof) => { host.remove(); f.hidden = false; go(proof); },
-          onBack: () => { host.remove(); f.hidden = false; iMail.focus(); down(); } });
+          onVerified: (proof) => { host.remove(); toBrevo({ ...lead, proof }); done(name, f); },
+          onSkip: () => { host.remove(); done(name, f); },
+          onBack: () => { host.remove(); f.hidden = false; send.disabled = false; send.textContent = t.send; iMail.focus(); down(); } });
         setTimeout(down, 80);
-      } catch (ex) { host.remove(); f.hidden = false; err.textContent = t.eSend; }
+      } catch (ex) { host.remove(); done(name, f); }
     });
   }
 
   const getVerify = () => window.sidVerify ? Promise.resolve(window.sidVerify) : (window.__sidVerifyP ||= new Promise((res, rej) => {
-    const sc = document.createElement("script"); sc.src = "/assets/verify.js?v=2"; sc.onload = () => res(window.sidVerify); sc.onerror = rej; document.head.append(sc);
+    const sc = document.createElement("script"); sc.src = "/assets/verify.js?v=3"; sc.onload = () => res(window.sidVerify); sc.onerror = rej; document.head.append(sc);
   }));
 
   async function done(name, f) {
     f.remove();
     await say(t.done.replace("{n}", name), "sb-done");
+  }
+
+  // e-mail vérifié par code : contact dans la liste Leads de la langue (+ newsletter si coché), via le relais /api/lead
+  function toBrevo(p) {
+    fetch("/api/lead", { method: "POST", headers: { "content-type": "application/json" }, keepalive: true,
+      body: JSON.stringify({ name: p.name, email: p.email, phone: p.phone, lang: LANG, project: [FR.p[state.project], t.p[state.project]].filter(Boolean)[0] || "",
+        when: FR.w[state.when] || "", source: SOURCE, page: location.pathname, news: !!p.news, proof: p.proof || "" }) }).catch(() => {});
   }
 
   /* ---------------------------------------------------------------- envoi vers Oleadoo (via la table leads de Cevitas) */
@@ -306,7 +316,7 @@ body:has(.sticky.is-on) .sb{bottom:calc(92px + env(safe-area-inset-bottom))}
       phone: p.phone,
       interest: [TAG, project, when].filter(Boolean).join(" · ").slice(0, 500),
       notes: [`Tag : ${TAG}`, "Assistant du site startindubai.com", project && `Projet : ${project}`, when && `Échéance : ${when}`,
-        `Langue du site : ${LANG}`, `Page : ${location.pathname}`, p.proof ? "E-mail vérifié par code" : null].filter(Boolean).join(" · ").slice(0, 2000),
+        `Langue du site : ${LANG}`, `Page : ${location.pathname}`, p.email ? "E-mail non vérifié au moment de la demande (code envoyé ensuite)" : null].filter(Boolean).join(" · ").slice(0, 2000),
       source: SOURCE,
       language: LANG,
       utm_source: q.get("utm_source"), utm_medium: q.get("utm_medium"), utm_campaign: q.get("utm_campaign"),
@@ -318,9 +328,7 @@ body:has(.sticky.is-on) .sb{bottom:calc(92px + env(safe-area-inset-bottom))}
     const auth = { apikey: crm.publishableKey, Authorization: "Bearer " + crm.publishableKey, "Content-Type": "application/json" };
     const r = await fetch(base + "/rest/v1/leads", { method: "POST", headers: { ...auth, Prefer: "return=minimal" }, body: JSON.stringify(row), keepalive: true });
     if (!r.ok) throw new Error("CRM HTTP " + r.status + " " + (await r.text().catch(() => "")));
-    if (p.email && p.proof) fetch("/api/lead", { method: "POST", headers: { "content-type": "application/json" }, keepalive: true,
-      body: JSON.stringify({ name: p.name, email: p.email, phone: p.phone, lang: LANG, project: [FR.p[state.project], t.p[state.project]].filter(Boolean)[0] || "",
-        when: FR.w[state.when] || "", source: SOURCE, page: location.pathname, news: !!p.news, proof: p.proof || "" }) }).catch(() => {});
+    if (p.email && p.proof) toBrevo(p);
     if (crm.notifyEmail) fetch(base + "/functions/v1/send-lead-email", { method: "POST", headers: auth, body: JSON.stringify(row), keepalive: true }).catch(() => {});
     const hook = (C.leadWebhookUrl || "").trim();
     if (hook) fetch(hook, { method: "POST", mode: "no-cors", headers: { "Content-Type": "text/plain;charset=UTF-8" }, body: JSON.stringify({ ...row, tag: TAG }), keepalive: true }).catch(() => {});

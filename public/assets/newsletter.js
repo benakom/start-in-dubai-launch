@@ -34,7 +34,7 @@
   };
   const t = T[LANG] || T.en;
   const getVerify = () => window.sidVerify ? Promise.resolve(window.sidVerify) : (window.__sidVerifyP ||= new Promise((res, rej) => {
-    const sc = document.createElement("script"); sc.src = "/assets/verify.js?v=2"; sc.onload = () => res(window.sidVerify); sc.onerror = rej; document.head.append(sc);
+    const sc = document.createElement("script"); sc.src = "/assets/verify.js?v=3"; sc.onload = () => res(window.sidVerify); sc.onerror = rej; document.head.append(sc);
   }));
 
   const css = `

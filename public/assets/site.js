@@ -36,7 +36,7 @@
   // Assistant en bas à droite (bot.js) : chargé après la page, pour ne rien retarder à l'affichage
   const loadBot = () => {
     if (document.querySelector("script[data-bot]")) return;
-    ["/assets/consent.js?v=2", "/assets/bot.js?v=3", "/assets/newsletter.js?v=3"].forEach((src) => {
+    ["/assets/consent.js?v=2", "/assets/bot.js?v=4", "/assets/newsletter.js?v=4"].forEach((src) => {
       const s = document.createElement("script"); s.src = src; s.async = true; s.dataset.bot = "";
       document.body.append(s);
     });
